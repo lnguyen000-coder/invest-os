@@ -1,8 +1,6 @@
 # Microsoft Corporation (MSFT) — Investment Thesis
 
-> STATUS: TEMPLATE — replace every section below with your own view.
-> The system will not run deep analysis until this file is edited
-> (it checks for this banner).
+
 
 ## Thesis in one paragraph
 Microsoft is one of the highest-quality businesses in the world with multiple durable competitive advantages across enterprise software, cloud infrastructure, AI, cybersecurity, and developer tools. I believe the market still underestimates Microsoft's ability to monetize AI because it already owns the distribution channels—Microsoft 365, Windows, GitHub, Azure, Dynamics, and LinkedIn—rather than needing to build new ones. Even if AI adoption takes longer than expected, the core business generates enormous recurring cash flow, allowing Microsoft to continue investing while returning capital to shareholders. This is a business I would be comfortable owning for the next decade.
