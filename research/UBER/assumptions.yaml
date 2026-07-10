@@ -1,0 +1,13 @@
+fcf_base: 6536625152.0
+growth_stage1: 0.2
+growth_stage2: 0.12
+terminal_growth: 0.025
+discount_rate: 0.0977
+projection_years: 10
+shares_out: 2035599013.0
+net_debt: 6328000512.0
+ebit: 6240000000.0
+normalized_ev_ebit: 16.0
+tax_rate: 0.21
+_note: Auto-derived from fundamentals on first run. Tune these by hand; the system
+  proposes changes in research.md but never edits this file.
