@@ -15,12 +15,180 @@ tickers:
 
   - symbol: MSFT
     name: Microsoft Corporation
-    position: owned
-    shares: 10
-    cost_basis: 310.00
+    position: watch
+    shares: 0
+    cost_basis: 0.0
 
   - symbol: COST
     name: Costco Wholesale
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+    - symbol: GOOGL
+    name: Alphabet Inc.
+    position: owned
+    shares: 11
+    cost_basis: 288.38
+
+    - symbol: PLTR
+    name: Palantir Tech Inc.
+    position: owned
+    shares: 150
+    cost_basis: 21.43
+
+    - symbol: UNH
+    name: Unitedhealth Group Inc.
+    position: owned
+    shares: 17.1
+    cost_basis: 285.17
+
+    - symbol: META
+    name: Meta Platforms Inc.
+    position: owned
+    shares: 16
+    cost_basis: 200.66
+
+    - symbol: DECK
+    name: Deckers Outdoor Corp.
+    position: owned
+    shares: 36
+    cost_basis: 97.37
+
+    - symbol: AMZN
+    name: Amazon Com Inc.
+    position: owned
+    shares: 15
+    cost_basis: 166.44
+
+    - symbol: LOPE
+    name: Grand Canyon Education
+    position: owned
+    shares: 15
+    cost_basis: 151.00
+
+    - symbol: AFK
+    name: Vaneck ETF TR Vaneck Africa Index ETF
+    position: owned
+    shares: 39
+    cost_basis: 25.90
+
+    - symbol: IMSR
+    name: Terrestrial Energy Inc.
+    position: owned
+    shares: 100
+    cost_basis: 15.77
+
+    - symbol: ATD.TO
+    name: Alimentation Couche-tard
+    position: owned
+    shares: 100
+    cost_basis: 33.50
+
+    - symbol: AEM.TO
+    name: Agnico Eagle Mines Ltd.
+    position: owned
+    shares: 35
+    cost_basis: 73.07
+
+    - symbol: SHOP.TO
+    name: Shopify Inc.
+    position: owned
+    shares: 40
+    cost_basis: 68.55
+
+    - symbol: OUST
+    name: Ouster Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+    - symbol: QBTS
+    name: D-Wave Quantum Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: SPCX
+    name: Space Exploration Technologies Corp.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: IONQ
+    name: IonQ Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: NFLX
+    name: Netflix Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: RGTI
+    name: Rigetti Computing Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: IBM
+    name: International Business Machines Corporation
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: IREN
+    name: IREN Limited
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: ASTS
+    name: AST SpaceMobile Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: CCO.TO
+    name: Cameco Corporation
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: UBER
+    name: Uber Technologies Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: TSLA
+    name: Tesla Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: LULU
+    name: lululemon athletica Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: CSU.TO
+    name: Constellation Software Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: NKE
+    name: NIKE Inc.
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+     - symbol: NVDA
+    name: NVDIA Corporation
     position: watch
     shares: 0
     cost_basis: 0.0
