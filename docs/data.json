@@ -1,0 +1,89 @@
+{
+ "generated": "2026-07-10 02:29 UTC",
+ "rows": [
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft",
+   "conviction": 81.5,
+   "thesis_strength": 78,
+   "conviction_history": [
+    70,
+    72,
+    75,
+    74,
+    78,
+    81.5
+   ],
+   "price": 452.1,
+   "fair_low": 390.0,
+   "fair_base": 505.0,
+   "fair_high": 580.0,
+   "upside_pct": 11.7,
+   "last_impact": "strengthens",
+   "last_memo": "Azure growth reaccelerated with margins holding; the cloud thesis is intact and slightly stronger.",
+   "risks": [
+    "Capex intensity for AI infrastructure may pressure FCF conversion"
+   ],
+   "catalysts": [
+    {
+     "date": "2026-07-29",
+     "label": "Earnings report"
+    }
+   ],
+   "position_value": 4521.0,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple",
+   "conviction": 64.0,
+   "thesis_strength": 65,
+   "conviction_history": [
+    68,
+    67,
+    66,
+    65,
+    64
+   ],
+   "price": 231.4,
+   "fair_low": 180.0,
+   "fair_base": 225.0,
+   "fair_high": 260.0,
+   "upside_pct": -2.8,
+   "last_impact": "neutral",
+   "last_memo": "Quarter in line; services mix continues to improve but hardware cycle is mature.",
+   "risks": [],
+   "catalysts": [
+    {
+     "date": "2026-07-31",
+     "label": "Earnings report"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "COST",
+   "name": "Costco",
+   "conviction": null,
+   "thesis_needed": true,
+   "conviction_history": []
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-07-08",
+   "symbol": "MSFT",
+   "impact": "strengthens",
+   "headline": "Azure reacceleration confirmed in 10-Q",
+   "strength": 78
+  },
+  {
+   "date": "2026-06-19",
+   "symbol": "AAPL",
+   "impact": "neutral",
+   "headline": "WWDC announcements within expectations",
+   "strength": 65
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Investment Research OS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@500;600&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#F2F4F1; --card:#FBFCFA; --ink:#1A2622; --dim:#5C6B64;
+  --ledger:#2E6E4E; --ledger-soft:#DDEAE2; --oxblood:#8C3B2E;
+  --rule:#C9D4CC; --gold:#8A6D2F;
+}
+*{box-sizing:border-box;margin:0}
+body{background:var(--paper);color:var(--ink);
+  font:15px/1.55 "IBM Plex Sans",system-ui,sans-serif;padding:0 0 4rem}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace}
+.dim{color:var(--dim)}
+header{border-bottom:2px solid var(--ink);padding:2.2rem 5vw 1.2rem;
+  display:flex;flex-wrap:wrap;align-items:baseline;gap:1rem}
+header h1{font-family:Spectral,Georgia,serif;font-weight:600;
+  font-size:clamp(1.6rem,3.5vw,2.4rem);letter-spacing:-.01em}
+.stamp{margin-left:auto;font-family:"IBM Plex Mono",monospace;
+  font-size:.78rem;border:1.5px solid var(--ink);padding:.35rem .7rem;
+  transform:rotate(-1.2deg);background:var(--card)}
+main{padding:0 5vw;max-width:1180px;margin:0 auto}
+h2{font-family:Spectral,Georgia,serif;font-weight:600;font-size:1.25rem;
+  margin:2.4rem 0 .9rem;display:flex;align-items:center;gap:.6rem}
+h2::after{content:"";flex:1;border-top:1px solid var(--rule)}
+table{width:100%;border-collapse:collapse;background:var(--card);
+  border:1px solid var(--rule)}
+th{font-family:"IBM Plex Mono",monospace;font-size:.68rem;
+  text-transform:uppercase;letter-spacing:.08em;color:var(--dim);
+  text-align:left;padding:.55rem .7rem;border-bottom:2px solid var(--ink)}
+td{padding:.6rem .7rem;border-bottom:1px solid var(--rule);
+  vertical-align:middle;font-size:.9rem}
+td.num,th.num{text-align:right;font-family:"IBM Plex Mono",monospace}
+tr:last-child td{border-bottom:none}
+.bar{height:7px;background:var(--ledger-soft);min-width:80px;position:relative}
+.bar i{position:absolute;inset:0 auto 0 0;background:var(--ledger)}
+.chip{font-family:"IBM Plex Mono",monospace;font-size:.7rem;
+  padding:.1rem .45rem;border:1px solid currentColor}
+.chip.up{color:var(--ledger)} .chip.down{color:var(--oxblood)}
+.chip.flat{color:var(--dim)}
+.grid{display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(330px,1fr))}
+.card{background:var(--card);border:1px solid var(--rule);padding:1.1rem 1.2rem}
+.card h3{font-family:Spectral,Georgia,serif;font-size:1.05rem;
+  display:flex;justify-content:space-between;align-items:baseline;gap:.5rem}
+.card ul{margin:.5rem 0 0 1.05rem;font-size:.86rem}
+.card li{margin:.25rem 0}
+.risk{color:var(--oxblood)}
+.needs{border-left:4px solid var(--gold);padding-left:1rem}
+.memo{font-size:.86rem;border-left:3px solid var(--ledger);
+  padding:.4rem 0 .4rem .8rem;margin:.6rem 0;background:var(--ledger-soft)}
+footer{margin:3rem 5vw 0;font-size:.75rem;color:var(--dim);
+  border-top:1px solid var(--rule);padding-top:.8rem;max-width:1180px}
+@media (prefers-reduced-motion:no-preference){
+  .spark polyline{stroke-dasharray:400;stroke-dashoffset:400;
+    animation:draw 1.1s ease forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}}
+</style></head><body>
+<header>
+ <h1>Investment Research OS</h1>
+ <div class="stamp">RUN · 2026-07-10 02:29 UTC</div>
+</header>
+<main>
+ <h2>Watchlist ranking</h2>
+ <div style="overflow-x:auto">
+ <table>
+  <thead><tr><th>#</th><th>Company</th><th class="num">Conviction</th>
+  <th class="num">Thesis</th><th>90-day trend</th><th class="num">Price</th>
+  <th class="num">Fair value</th><th class="num">Upside</th>
+  <th>Last verdict</th><th class="num">Allocation</th></tr></thead>
+  <tbody>
+<tr>
+ <td class="mono dim">01</td>
+ <td><strong>MSFT</strong><br>
+     <span class="dim" style="font-size:.78rem">Microsoft</span></td>
+ <td class="num">82
+   <div class="bar"><i style="width:82%"></i></div></td>
+ <td class="num">78</td>
+ <td><svg class='spark' width='120' height='28' viewBox='0 0 120 28' aria-hidden='true'><polyline points='2.0,25.0 25.2,21.2 48.4,15.4 71.6,17.3 94.8,9.7 118.0,3.0' fill='none' stroke='#2E6E4E' stroke-width='1.5'/></svg></td>
+ <td class="num">$452.10</td>
+ <td class="num">$505.00<br>
+   <span class="dim" style="font-size:.75rem">$390.00–$580.00</span></td>
+ <td class="num">+12%</td>
+ <td><span class='chip up'>strengthens</span></td>
+ <td class="num">100%</td>
+</tr>
+<tr>
+ <td class="mono dim">02</td>
+ <td><strong>AAPL</strong><br>
+     <span class="dim" style="font-size:.78rem">Apple</span></td>
+ <td class="num">64
+   <div class="bar"><i style="width:64%"></i></div></td>
+ <td class="num">65</td>
+ <td><svg class='spark' width='120' height='28' viewBox='0 0 120 28' aria-hidden='true'><polyline points='2.0,3.0 31.0,8.5 60.0,14.0 89.0,19.5 118.0,25.0' fill='none' stroke='#2E6E4E' stroke-width='1.5'/></svg></td>
+ <td class="num">$231.40</td>
+ <td class="num">$225.00<br>
+   <span class="dim" style="font-size:.75rem">$180.00–$260.00</span></td>
+ <td class="num">-3%</td>
+ <td><span class='chip flat'>neutral</span></td>
+ <td class="num">—</td>
+</tr>
+<tr>
+ <td class="mono dim">03</td>
+ <td><strong>COST</strong><br>
+     <span class="dim" style="font-size:.78rem">Costco</span></td>
+ <td class="num">—
+   <div class="bar"><i style="width:0%"></i></div></td>
+ <td class="num">—</td>
+ <td><span class='mono dim'>—</span></td>
+ <td class="num">—</td>
+ <td class="num">—<br>
+   <span class="dim" style="font-size:.75rem">—–—</span></td>
+ <td class="num">—</td>
+ <td><span class='chip flat'>neutral</span></td>
+ <td class="num">—</td>
+</tr></tbody>
+ </table></div>
+
+ <h2>Positions &amp; watch cards</h2>
+ <div class="grid">
+<div class="card">
+ <h3>MSFT
+   <span class="mono" style="font-size:.85rem">82/100</span></h3>
+ <div class='memo'>Azure growth reaccelerated with margins holding; the cloud thesis is intact and slightly stronger.</div>
+ <p class='mono dim' style='font-size:.72rem;margin-top:.4rem'>CATALYSTS</p><ul><li><span class='mono'>2026-07-29</span> Earnings report</li></ul>
+ <p class='mono dim' style='font-size:.72rem;margin-top:.6rem'>ACTIVE RISKS</p><ul><li class='risk'>Capex intensity for AI infrastructure may pressure FCF conversion</li></ul>
+</div>
+<div class="card">
+ <h3>AAPL
+   <span class="mono" style="font-size:.85rem">64/100</span></h3>
+ <div class='memo'>Quarter in line; services mix continues to improve but hardware cycle is mature.</div>
+ <p class='mono dim' style='font-size:.72rem;margin-top:.4rem'>CATALYSTS</p><ul><li><span class='mono'>2026-07-31</span> Earnings report</li></ul>
+ 
+</div>
+<div class="card needs">
+ <h3>COST <span class="mono dim">thesis needed</span></h3>
+ <p style="font-size:.86rem;margin-top:.5rem">Edit
+ <code>research/COST/thesis.md</code> — deep analysis is paused
+ until the template banner is removed.</p>
+</div></div>
+
+ <h2>Thesis change history</h2>
+ <div style="overflow-x:auto">
+ <table>
+  <thead><tr><th>Date</th><th>Ticker</th><th>Impact</th>
+  <th>Headline</th><th class="num">Strength</th></tr></thead>
+  <tbody>
+<tr><td class="mono">2026-07-08</td><td><strong>MSFT</strong></td>
+<td><span class='chip up'>strengthens</span></td>
+<td>Azure reacceleration confirmed in 10-Q</td>
+<td class="num">78</td></tr>
+<tr><td class="mono">2026-06-19</td><td><strong>AAPL</strong></td>
+<td><span class='chip flat'>neutral</span></td>
+<td>WWDC announcements within expectations</td>
+<td class="num">65</td></tr></tbody>
+ </table></div>
+</main>
+<footer>Personal research tool. Valuations are model outputs under stated
+assumptions, not advice or price targets. Full reasoning lives in
+research/&lt;TICKER&gt;/research.md and journal/.</footer>
+</body></html>

@@ -1,0 +1,31 @@
+# ============================================================
+# WATCHLIST
+# Each ticker gets a living research folder under research/<TICKER>/
+# created automatically on first run (thesis.md, assumptions.yaml).
+# Edit thesis.md by hand — it is YOUR thesis. The system argues
+# against it; it never rewrites it silently.
+# ============================================================
+
+tickers:
+  - symbol: AAPL
+    name: Apple Inc.
+    position: watch          # watch | owned
+    shares: 0                # only used for portfolio allocation math
+    cost_basis: 0.0
+
+  - symbol: MSFT
+    name: Microsoft Corporation
+    position: owned
+    shares: 10
+    cost_basis: 310.00
+
+  - symbol: COST
+    name: Costco Wholesale
+    position: watch
+    shares: 0
+    cost_basis: 0.0
+
+# Add tickers by appending entries here. On the next run the system
+# bootstraps research/<SYMBOL>/ with a thesis template and default
+# valuation assumptions, then flags it in the dashboard as
+# "thesis needed" until you fill the template in.

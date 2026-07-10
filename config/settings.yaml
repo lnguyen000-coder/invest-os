@@ -1,0 +1,56 @@
+# ============================================================
+# SYSTEM SETTINGS
+# ============================================================
+
+identity:
+  # SEC requires a descriptive User-Agent with contact info for EDGAR.
+  # Use your real name/email — it is polite and keeps you unblocked.
+  edgar_user_agent: "Personal Research System yourname@example.com"
+
+models:
+  # Cheap model screens everything; expensive model only runs on
+  # material events. This is the primary cost control.
+  triage: "claude-haiku-4-5-20251001"
+  analyst: "claude-sonnet-4-6"
+  max_deep_analyses_per_run: 6      # hard cap on Sonnet calls per morning
+  max_triage_tokens: 1200
+  max_analysis_tokens: 3500
+
+alerts:
+  channel: telegram                  # telegram | email | none
+  price_move_threshold_pct: 5.0      # unexplained move alert
+  valuation_change_threshold_pct: 10.0
+  insider_cluster_min_buys: 2        # >= N distinct insider open-market buys in window
+  insider_min_value_usd: 100000
+  quiet_if_nothing_material: true    # NO daily "all quiet" spam
+
+email:
+  smtp_host: smtp.gmail.com
+  smtp_port: 587
+  from_addr: ""
+  to_addr: ""
+
+lookback:
+  filings_days: 4          # catch weekend filings on Monday runs
+  news_days: 2
+  insider_days: 14         # cluster detection window
+
+valuation:
+  risk_free_rate: 0.042
+  equity_risk_premium: 0.05
+  terminal_growth: 0.025
+  projection_years: 10
+  # Philosophy penalties (applied to conviction score)
+  max_healthy_net_debt_to_ebitda: 2.5
+  min_healthy_roic: 0.12
+
+macro:
+  enabled: true
+  fred_series:              # optional; needs FRED_API_KEY secret
+    - DGS10                 # 10Y treasury
+    - CPIAUCSL              # CPI
+    - UNRATE                # unemployment
+
+dashboard:
+  output_dir: docs          # GitHub Pages serves /docs on main branch
+  title: "Investment Research OS"
