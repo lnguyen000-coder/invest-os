@@ -1,89 +1,90 @@
 {
- "generated": "2026-07-10 02:29 UTC",
+ "generated": "2026-07-10 03:58 UTC",
  "rows": [
   {
-   "symbol": "MSFT",
-   "name": "Microsoft",
-   "conviction": 81.5,
-   "thesis_strength": 78,
+   "symbol": "COST",
+   "name": "Costco Wholesale",
+   "conviction": 43.0,
+   "thesis_strength": 50,
    "conviction_history": [
-    70,
-    72,
-    75,
-    74,
-    78,
-    81.5
+    43.0
    ],
-   "price": 452.1,
-   "fair_low": 390.0,
-   "fair_base": 505.0,
-   "fair_high": 580.0,
-   "upside_pct": 11.7,
-   "last_impact": "strengthens",
-   "last_memo": "Azure growth reaccelerated with margins holding; the cloud thesis is intact and slightly stronger.",
-   "risks": [
-    "Capex intensity for AI infrastructure may pressure FCF conversion"
-   ],
-   "catalysts": [
-    {
-     "date": "2026-07-29",
-     "label": "Earnings report"
-    }
-   ],
-   "position_value": 4521.0,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "AAPL",
-   "name": "Apple",
-   "conviction": 64.0,
-   "thesis_strength": 65,
-   "conviction_history": [
-    68,
-    67,
-    66,
-    65,
-    64
-   ],
-   "price": 231.4,
-   "fair_low": 180.0,
-   "fair_base": 225.0,
-   "fair_high": 260.0,
-   "upside_pct": -2.8,
+   "price": 912.97,
+   "fair_low": 230.35662431756668,
+   "fair_base": 634.8215571025505,
+   "fair_high": 762.8201296865655,
+   "upside_pct": -30.466328893331596,
    "last_impact": "neutral",
-   "last_memo": "Quarter in line; services mix continues to improve but hardware cycle is mature.",
+   "last_memo": "",
    "risks": [],
    "catalysts": [
     {
-     "date": "2026-07-31",
-     "label": "Earnings report"
+     "id": 3,
+     "symbol": "COST",
+     "date": "2026-09-24",
+     "label": "Earnings report",
+     "source": "yfinance"
     }
    ],
    "position_value": 0,
-   "thesis_needed": false
+   "thesis_needed": true
   },
   {
-   "symbol": "COST",
-   "name": "Costco",
-   "conviction": null,
-   "thesis_needed": true,
-   "conviction_history": []
+   "symbol": "MSFT",
+   "name": "Microsoft Corporation",
+   "conviction": 38.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    38.0
+   ],
+   "price": 384.36,
+   "fair_low": 64.15462217769772,
+   "fair_base": 102.88630008833451,
+   "fair_high": 192.26997108513837,
+   "upside_pct": -73.23178788418814,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 2,
+     "symbol": "MSFT",
+     "date": "2026-07-29",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 3843.6000000000004,
+   "thesis_needed": true
+  },
+  {
+   "symbol": "AAPL",
+   "name": "Apple Inc.",
+   "conviction": 28.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    28.0
+   ],
+   "price": 316.22,
+   "fair_low": 71.85573534462412,
+   "fair_base": 72.36653113089089,
+   "fair_high": 73.51461788169713,
+   "upside_pct": -77.11513151258906,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 1,
+     "symbol": "AAPL",
+     "date": "2026-07-30",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": true
   }
  ],
- "history": [
-  {
-   "date": "2026-07-08",
-   "symbol": "MSFT",
-   "impact": "strengthens",
-   "headline": "Azure reacceleration confirmed in 10-Q",
-   "strength": 78
-  },
-  {
-   "date": "2026-06-19",
-   "symbol": "AAPL",
-   "impact": "neutral",
-   "headline": "WWDC announcements within expectations",
-   "strength": 65
-  }
- ]
+ "history": []
 }
