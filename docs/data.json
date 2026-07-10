@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-10 03:58 UTC",
+ "generated": "2026-07-10 18:06 UTC",
  "rows": [
   {
    "symbol": "COST",
@@ -7,13 +7,14 @@
    "conviction": 43.0,
    "thesis_strength": 50,
    "conviction_history": [
+    43.0,
     43.0
    ],
-   "price": 912.97,
+   "price": 914.19,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -30.466328893331596,
+   "upside_pct": -30.559122600055733,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -35,13 +36,14 @@
    "conviction": 38.0,
    "thesis_strength": 50,
    "conviction_history": [
+    38.0,
     38.0
    ],
-   "price": 384.36,
+   "price": 383.9146,
    "fair_low": 64.15462217769772,
    "fair_base": 102.88630008833451,
    "fair_high": 192.26997108513837,
-   "upside_pct": -73.23178788418814,
+   "upside_pct": -73.2007326399323,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -54,7 +56,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3843.6000000000004,
+   "position_value": 3839.146,
    "thesis_needed": true
   },
   {
@@ -63,13 +65,14 @@
    "conviction": 28.0,
    "thesis_strength": 50,
    "conviction_history": [
+    28.0,
     28.0
    ],
-   "price": 316.22,
+   "price": 314.19,
    "fair_low": 71.85573534462412,
    "fair_base": 72.36653113089089,
    "fair_high": 73.51461788169713,
-   "upside_pct": -77.11513151258906,
+   "upside_pct": -76.96727103635033,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
