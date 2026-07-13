@@ -1,6 +1,20 @@
 # AST SpaceMobile Inc. (ASTS) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-13 — ASTS down 7.8% — pure price noise; no thesis-relevant information in this event
+**Thesis impact: NEUTRAL** · Thesis strength: 45/100 · Conviction: 20.0/100 · **ALERTED**
+
+**What changed:** ASTS shares fell 7.8% from $73.32 to $67.58 in a single session. No new operational, financial, or strategic information accompanied this move. The only event provided is the price change itself, triggered by a rule-based screener alert.
+
+**Why it matters:** For a pre-revenue, execution-stage company trading at 309x trailing sales with negative FCF accelerating to -$1.4B TTM, daily price volatility is entirely expected and carries no informational content on its own. The thesis drivers — satellite deployment progress, operator partnerships, technology milestones, and capital availability — are unchanged by a price move without a catalyst.
+
+**Intrinsic value:** none / none via none — Intrinsic value is a function of future cash flows discounted to present, not of yesterday's closing price. No information in this event touches any of the key drivers: satellite manufacturing, launch schedule, commercial activation, partner revenue, or capital structure.
+
+**Committee memo:** The sole event presented is a rules-based price alert: ASTS fell 7.8% with no accompanying catalyst. The committee should take no action and draw no inference. The standing thesis for ASTS is provisional by design — conviction is explicitly conditioned on continued technology milestones, commercial deployment progress, and non-dilutive financing. None of those variables have been updated by today's price move. The fundamental picture remains as challenging as it has been: TTM FCF of -$1.4B against $85M in revenue, a market cap of $26B, and a business model that requires sustained execution across satellite manufacturing, launch, and operator monetization before intrinsic value can be estimated with any rigor. Thesis strength is scored at 45 not because of today's move, but because ASTS remains deeply pre-commercial and any honest assessment must carry significant probability-weighted scenarios of failure. The correct posture is hold current position without change, continue monitoring the actual thesis drivers (next launch cadence, AT&T/Verizon commercial activation milestones, next financing terms), and revisit if any of those provide substantive new information. This judgment would be wrong if the price decline was in fact driven by information not yet publicly filed — for example, a partner quietly reducing commitment, a regulatory denial, or an undisclosed financing event — none of which is evident from the materials provided.
+
+**Plain English:** ASTS stock dropped about 8% today, but there was no news attached to the move — no earnings, no partnership update, no satellite launch news, nothing. For a company this early-stage and speculative, stocks can swing 5-10% on a given day purely based on investor sentiment shifts. The actual business — building satellites that connect directly to your existing phone — has not changed. The company is still burning through roughly $1.4 billion a year in cash and has almost no revenue yet, so the honest position is that this is a high-risk bet on future technology success, and a one-day price drop tells us nothing new about whether that bet is working.
+
+---
 ## 2026-07-13 — NZ regulatory win is real but immaterial; -8% move is noise on a pre-revenue story
 **Thesis impact: NEUTRAL** · Thesis strength: 38/100 · Conviction: 13.0/100 · **ALERTED**
 
