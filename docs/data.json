@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-10 23:54 UTC",
+ "generated": "2026-07-13 18:21 UTC",
  "rows": [
   {
    "symbol": "DECK",
@@ -7,13 +7,14 @@
    "conviction": 63.0,
    "thesis_strength": 50,
    "conviction_history": [
+    63.0,
     63.0
    ],
-   "price": 105.99,
+   "price": 107.59,
    "fair_low": 86.32161819264012,
    "fair_base": 212.68061342022372,
    "fair_high": 247.14357307230847,
-   "upside_pct": 100.66101841704284,
+   "upside_pct": 97.67693412047933,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -26,7 +27,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3815.64,
+   "position_value": 3873.2400000000002,
    "thesis_needed": true
   },
   {
@@ -35,13 +36,14 @@
    "conviction": 63.0,
    "thesis_strength": 50,
    "conviction_history": [
+    63.0,
     63.0
    ],
-   "price": 151.0,
+   "price": 152.62,
    "fair_low": 133.57404780273154,
    "fair_base": 239.0670398931219,
    "fair_high": 285.9006884667065,
-   "upside_pct": 58.32254297557742,
+   "upside_pct": 56.642012772324655,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -54,7 +56,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 2265.0,
+   "position_value": 2289.3,
    "thesis_needed": true
   },
   {
@@ -63,13 +65,14 @@
    "conviction": 63.0,
    "thesis_strength": 50,
    "conviction_history": [
+    63.0,
     63.0
    ],
-   "price": 207.94,
+   "price": 201.48,
    "fair_low": 153.8550255428788,
    "fair_base": 446.05034777459474,
    "fair_high": 563.8410179604589,
-   "upside_pct": 114.50916022631277,
+   "upside_pct": 121.3869107477639,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -82,7 +85,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7277.9,
+   "position_value": 7051.799999999999,
    "thesis_needed": true
   },
   {
@@ -91,13 +94,14 @@
    "conviction": 63.0,
    "thesis_strength": 50,
    "conviction_history": [
+    63.0,
     63.0
    ],
-   "price": 73.37,
+   "price": 74.49,
    "fair_low": 20.42319972195614,
    "fair_base": 126.218636280059,
    "fair_high": 179.54069775745023,
-   "upside_pct": 72.03030704655717,
+   "upside_pct": 69.44373242053834,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -119,13 +123,14 @@
    "conviction": 63.0,
    "thesis_strength": 50,
    "conviction_history": [
+    63.0,
     63.0
    ],
-   "price": 74.54,
+   "price": 74.52,
    "fair_low": 21.678384934562395,
    "fair_base": 92.73147049799306,
    "fair_high": 122.83676658745333,
-   "upside_pct": 24.40497786154152,
+   "upside_pct": 24.43836620772015,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -147,13 +152,14 @@
    "conviction": 63.0,
    "thesis_strength": 50,
    "conviction_history": [
+    63.0,
     63.0
    ],
-   "price": 119.26,
+   "price": 120.41,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 270.572187564899,
+   "upside_pct": 267.0329631175971,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -175,13 +181,14 @@
    "conviction": 63.0,
    "thesis_strength": 50,
    "conviction_history": [
+    63.0,
     63.0
    ],
-   "price": 2802.14,
+   "price": 2842.41,
    "fair_low": 460.5776080431524,
    "fair_base": 4841.692830021196,
    "fair_high": 7438.866727393741,
-   "upside_pct": 72.78554354961551,
+   "upside_pct": 70.33759485863038,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -198,69 +205,25 @@
    "thesis_needed": true
   },
   {
-   "symbol": "ATD.TO",
-   "name": "Alimentation Couche-Tard",
-   "conviction": 55.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    55.0
-   ],
-   "price": 91.19,
-   "fair_low": 46.437323969576305,
-   "fair_base": 68.51531296271332,
-   "fair_high": 85.70612516471454,
-   "upside_pct": -24.865321896355606,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 12,
-     "symbol": "ATD.TO",
-     "date": "2026-09-02",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 9119.0,
-   "thesis_needed": true
-  },
-  {
-   "symbol": "AFK",
-   "name": "Vaneck Africa Index ETF",
-   "conviction": 50.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    50.0
-   ],
-   "price": 26.11,
-   "fair_low": null,
-   "fair_base": null,
-   "fair_high": null,
-   "upside_pct": null,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [],
-   "position_value": 1018.29,
-   "thesis_needed": true
-  },
-  {
    "symbol": "IBM",
    "name": "International Business Machines Corporation",
-   "conviction": 45.7,
-   "thesis_strength": 50,
+   "conviction": 57.7,
+   "thesis_strength": 62,
    "conviction_history": [
-    45.7
+    45.7,
+    57.7
    ],
-   "price": 287.56,
+   "price": 289.53,
    "fair_low": 74.25160628585726,
    "fair_base": 288.3148947250838,
    "fair_high": 396.36174599195164,
-   "upside_pct": 0.2625172920725394,
+   "upside_pct": -0.4196819932014595,
    "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
+   "last_memo": "IBM announced a significant update to its enterprise AI platform called Bob. This is a sign that IBM is actively developing its AI products and competing for enterprise AI budgets, which fits the long-term story of IBM becoming a serious AI software company. However, a product an",
+   "risks": [
+    "If Bob requires significant ongoing R&D or compute infrastructure investment to remain competitive with hyperscaler AI offerings, it could pressure software segment margins without a commensurate revenue payoff.",
+    "Enterprise AI platform consolidation risk: large customers may prefer a single hyperscaler AI stack over IBM's hybrid approach, potentially limiting Bob's addressable market despite strong product updates."
+   ],
    "catalysts": [
     {
      "id": 20,
@@ -271,6 +234,56 @@
     }
    ],
    "position_value": 0,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms Inc.",
+   "conviction": 55.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    43.0,
+    55.0
+   ],
+   "price": 660.635,
+   "fair_low": 297.85822132476756,
+   "fair_base": 496.9148589044447,
+   "fair_high": 958.9625165912731,
+   "upside_pct": -24.78223846686223,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 7,
+     "symbol": "META",
+     "date": "2026-07-29",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 10570.16,
+   "thesis_needed": true
+  },
+  {
+   "symbol": "AFK",
+   "name": "Vaneck Africa Index ETF",
+   "conviction": 50.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    50.0,
+    50.0
+   ],
+   "price": 25.6384,
+   "fair_low": null,
+   "fair_base": null,
+   "fair_high": null,
+   "upside_pct": null,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [],
+   "position_value": 999.8976,
    "thesis_needed": true
   },
   {
@@ -281,13 +294,14 @@
    "conviction_history": [
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 916.25,
+   "price": 926.94,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -30.715246155246877,
+   "upside_pct": -31.5142773963201,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -309,13 +323,14 @@
    "conviction": 43.0,
    "thesis_strength": 50,
    "conviction_history": [
+    43.0,
     43.0
    ],
-   "price": 357.18,
+   "price": 355.67,
    "fair_low": 82.71882437047383,
    "fair_base": 166.77647377375004,
    "fair_high": 374.6564023644208,
-   "upside_pct": -53.30744336923958,
+   "upside_pct": -53.109209724252814,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -328,7 +343,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3928.98,
+   "position_value": 3912.3700000000003,
    "thesis_needed": true
   },
   {
@@ -337,13 +352,14 @@
    "conviction": 43.0,
    "thesis_strength": 50,
    "conviction_history": [
+    43.0,
     43.0
    ],
-   "price": 126.79,
+   "price": 129.205,
    "fair_low": 7.454305495494721,
    "fair_base": 20.021198777861585,
    "fair_high": 25.114005799476644,
-   "upside_pct": -84.20916572453538,
+   "upside_pct": -84.50431579438754,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -356,36 +372,8 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 19018.5,
-   "thesis_needed": true
-  },
-  {
-   "symbol": "META",
-   "name": "Meta Platforms Inc.",
-   "conviction": 43.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    43.0
-   ],
-   "price": 669.21,
-   "fair_low": 297.85822132476756,
-   "fair_base": 496.9148589044447,
-   "fair_high": 958.9625165912731,
-   "upside_pct": -25.74604998364569,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 7,
-     "symbol": "META",
-     "date": "2026-07-29",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 10707.36,
-   "thesis_needed": true
+   "position_value": 19380.750000000004,
+   "thesis_needed": false
   },
   {
    "symbol": "AMZN",
@@ -393,13 +381,14 @@
    "conviction": 43.0,
    "thesis_strength": 50,
    "conviction_history": [
+    43.0,
     43.0
    ],
-   "price": 245.34,
+   "price": 248.07,
    "fair_low": 3.755618111346491,
    "fair_base": 34.51737594055758,
    "fair_high": 106.37401171749354,
-   "upside_pct": -85.9307997307583,
+   "upside_pct": -86.0856306927248,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -412,7 +401,36 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3680.1,
+   "position_value": 3721.0499999999997,
+   "thesis_needed": true
+  },
+  {
+   "symbol": "ATD.TO",
+   "name": "Alimentation Couche-Tard",
+   "conviction": 43.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    55.0,
+    43.0
+   ],
+   "price": 91.72,
+   "fair_low": 46.437323969576305,
+   "fair_base": 68.51531296271332,
+   "fair_high": 85.70612516471454,
+   "upside_pct": -25.29948434069633,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 12,
+     "symbol": "ATD.TO",
+     "date": "2026-09-02",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 9172.0,
    "thesis_needed": true
   },
   {
@@ -421,13 +439,14 @@
    "conviction": 43.0,
    "thesis_strength": 50,
    "conviction_history": [
+    43.0,
     43.0
    ],
-   "price": 173.51,
+   "price": 177.28,
    "fair_low": 11.690267416651736,
    "fair_base": 14.045639577281454,
    "fair_high": 19.573210924567046,
-   "upside_pct": -91.90499707378166,
+   "upside_pct": -92.07714374025188,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -440,7 +459,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6940.4,
+   "position_value": 7091.2,
    "thesis_needed": true
   },
   {
@@ -449,13 +468,14 @@
    "conviction": 43.0,
    "thesis_strength": 50,
    "conviction_history": [
+    43.0,
     43.0
    ],
-   "price": 210.96,
+   "price": 203.91,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -74.7026467484709,
+   "upside_pct": -73.82801411435152,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -477,13 +497,14 @@
    "conviction": 41.1,
    "thesis_strength": 50,
    "conviction_history": [
+    41.1,
     41.1
    ],
-   "price": 135.97,
+   "price": 127.13,
    "fair_low": 17.438329054264695,
    "fair_base": 51.10289449023222,
    "fair_high": 62.15245858192385,
-   "upside_pct": -62.41605170976523,
+   "upside_pct": -59.80264729785871,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -507,13 +528,14 @@
    "conviction_history": [
     38.0,
     38.0,
+    38.0,
     38.0
    ],
-   "price": 385.1,
+   "price": 392.16,
    "fair_low": 64.15462217769772,
    "fair_base": 102.88630008833451,
    "fair_high": 192.26997108513837,
-   "upside_pct": -73.28322511339016,
+   "upside_pct": -73.7642033638478,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -527,7 +549,7 @@
     }
    ],
    "position_value": 0,
-   "thesis_needed": true
+   "thesis_needed": false
   },
   {
    "symbol": "AAPL",
@@ -537,13 +559,14 @@
    "conviction_history": [
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 315.32,
+   "price": 316.37,
    "fair_low": 71.85573534462412,
    "fair_base": 72.36653113089089,
    "fair_high": 73.51461788169713,
-   "upside_pct": -77.04981252984558,
+   "upside_pct": -77.12598187853119,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -565,13 +588,14 @@
    "conviction": 28.0,
    "thesis_strength": 50,
    "conviction_history": [
+    28.0,
     28.0
    ],
-   "price": 44.37,
+   "price": 44.24,
    "fair_low": 22.226200066247355,
    "fair_base": 24.277237335139034,
    "fair_high": 25.35140905309906,
-   "upside_pct": -45.284567646745465,
+   "upside_pct": -45.12378540881774,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -593,13 +617,14 @@
    "conviction": 26.5,
    "thesis_strength": 50,
    "conviction_history": [
+    26.5,
     26.5
    ],
-   "price": 424.62,
+   "price": 429.01,
    "fair_low": 127.2329616631332,
    "fair_base": 199.96884012381818,
    "fair_high": 234.43700977718981,
-   "upside_pct": -52.90640098822048,
+   "upside_pct": -53.38830327409194,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -612,7 +637,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7261.002,
+   "position_value": 7336.071000000001,
    "thesis_needed": true
   },
   {
@@ -621,9 +646,10 @@
    "conviction": 25.0,
    "thesis_strength": 50,
    "conviction_history": [
+    25.0,
     25.0
    ],
-   "price": 43.28,
+   "price": 40.1,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -641,9 +667,10 @@
    "conviction": 25.0,
    "thesis_strength": 50,
    "conviction_history": [
+    25.0,
     25.0
    ],
-   "price": 145.3,
+   "price": 136.94,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -656,46 +683,19 @@
    "thesis_needed": true
   },
   {
-   "symbol": "ASTS",
-   "name": "AST SpaceMobile Inc.",
-   "conviction": 25.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    25.0
-   ],
-   "price": 73.32,
-   "fair_low": null,
-   "fair_base": null,
-   "fair_high": null,
-   "upside_pct": null,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 22,
-     "symbol": "ASTS",
-     "date": "2026-08-10",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": true
-  },
-  {
    "symbol": "TSLA",
    "name": "Tesla Inc.",
    "conviction": 24.3,
    "thesis_strength": 50,
    "conviction_history": [
+    24.3,
     24.3
    ],
-   "price": 407.76,
+   "price": 393.17,
    "fair_low": 16.62488188509231,
    "fair_base": 17.29217856119603,
    "fair_high": 17.637550198448555,
-   "upside_pct": -95.7592263681587,
+   "upside_pct": -95.60185706915685,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -717,9 +717,10 @@
    "conviction": 20.8,
    "thesis_strength": 50,
    "conviction_history": [
+    20.8,
     20.8
    ],
-   "price": 42.86,
+   "price": 38.83,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -745,9 +746,10 @@
    "conviction": 13.8,
    "thesis_strength": 50,
    "conviction_history": [
+    13.8,
     13.8
    ],
-   "price": 20.09,
+   "price": 18.7,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -768,14 +770,44 @@
    "thesis_needed": true
   },
   {
+   "symbol": "ASTS",
+   "name": "AST SpaceMobile Inc.",
+   "conviction": 13.0,
+   "thesis_strength": 38,
+   "conviction_history": [
+    25.0,
+    13.0
+   ],
+   "price": 67.485,
+   "fair_low": null,
+   "fair_base": null,
+   "fair_high": null,
+   "upside_pct": null,
+   "last_impact": "neutral",
+   "last_memo": "AST SpaceMobile got approval to operate a ground station in New Zealand, which is a routine but necessary regulatory step as the company tries to build its global satellite network. The stock fell 8% on the same day, but there was no bad news to explain it \u2014 this kind of volatili",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 22,
+     "symbol": "ASTS",
+     "date": "2026-08-10",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
+  },
+  {
    "symbol": "IREN",
    "name": "IREN Limited",
    "conviction": 10.3,
    "thesis_strength": 50,
    "conviction_history": [
+    10.3,
     10.3
    ],
-   "price": 41.14,
+   "price": 38.36,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -801,9 +833,10 @@
    "conviction": 5.0,
    "thesis_strength": 50,
    "conviction_history": [
+    5.0,
     5.0
    ],
-   "price": 5.89,
+   "price": 5.35,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -820,7 +853,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 589.0,
+   "position_value": 535.0,
    "thesis_needed": true
   },
   {
@@ -829,9 +862,10 @@
    "conviction": 5.0,
    "thesis_strength": 50,
    "conviction_history": [
+    5.0,
     5.0
    ],
-   "price": 16.54,
+   "price": 15.425,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -844,5 +878,20 @@
    "thesis_needed": true
   }
  ],
- "history": []
+ "history": [
+  {
+   "date": "2026-07-13",
+   "symbol": "IBM",
+   "impact": "neutral",
+   "headline": "IBM's 'Bob' AI platform updates are thesis-directional but lack monetization data to move the needle",
+   "strength": 62
+  },
+  {
+   "date": "2026-07-13",
+   "symbol": "ASTS",
+   "impact": "neutral",
+   "headline": "NZ regulatory win is real but immaterial; -8% move is noise on a pre-revenue story",
+   "strength": 38
+  }
+ ]
 }
