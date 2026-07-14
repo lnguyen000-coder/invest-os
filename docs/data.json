@@ -1,23 +1,24 @@
 {
- "generated": "2026-07-13 21:52 UTC",
+ "generated": "2026-07-14 16:10 UTC",
  "rows": [
   {
    "symbol": "DECK",
    "name": "Deckers Outdoor Corp.",
-   "conviction": 63.0,
-   "thesis_strength": 50,
+   "conviction": 91.0,
+   "thesis_strength": 78,
    "conviction_history": [
     63.0,
     63.0,
-    63.0
+    63.0,
+    91.0
    ],
-   "price": 107.8,
+   "price": 107.32,
    "fair_low": 86.32161819264012,
    "fair_base": 212.68061342022372,
    "fair_high": 247.14357307230847,
-   "upside_pct": 97.29184918388101,
+   "upside_pct": 98.17425775272433,
    "last_impact": "neutral",
-   "last_memo": "",
+   "last_memo": "Jefferies, a major investment bank, upgraded its rating on Deckers and pointed to HOKA's growth as the main reason. This is good news in the sense that smart external analysts agree with our thinking, but it doesn't actually tell us anything new about the business. The stock is a",
    "risks": [],
    "catalysts": [
     {
@@ -28,8 +29,42 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3880.7999999999997,
-   "thesis_needed": true
+   "position_value": 3863.5199999999995,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "AMZN",
+   "name": "Amazon Com Inc.",
+   "conviction": 77.0,
+   "thesis_strength": 84,
+   "conviction_history": [
+    43.0,
+    43.0,
+    43.0,
+    77.0
+   ],
+   "price": 244.85,
+   "fair_low": 3.755618111346491,
+   "fair_base": 34.51737594055758,
+   "fair_high": 106.37401171749354,
+   "upside_pct": -85.90264409207369,
+   "last_impact": "strengthens",
+   "last_memo": "Amazon is building a new highly automated warehouse in Texas and opening up its homemade AI chip \u2014 Trainium \u2014 to more cloud customers. Neither of these is a surprise; both are pieces of a strategy Amazon has been executing for years. The robotic warehouse means fewer people doing",
+   "risks": [
+    "Trainium adoption requires customers to retool AI workflows for non-Nvidia hardware; slower-than-expected developer uptake could limit the competitive moat benefit.",
+    "Heavy capex for robotic warehouses and AI chip infrastructure keeps capital intensity elevated; if utilization ramps slowly, ROIC temporarily compresses before the efficiency gains materialize."
+   ],
+   "catalysts": [
+    {
+     "id": 9,
+     "symbol": "AMZN",
+     "date": "2026-07-30",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 3672.75,
+   "thesis_needed": false
   },
   {
    "symbol": "LOPE",
@@ -39,13 +74,14 @@
    "conviction_history": [
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 153.37,
+   "price": 152.03,
    "fair_low": 133.57404780273154,
    "fair_base": 239.0670398931219,
    "fair_high": 285.9006884667065,
-   "upside_pct": 55.87601218825186,
+   "upside_pct": 57.24991113143582,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -58,7 +94,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 2300.55,
+   "position_value": 2280.45,
    "thesis_needed": true
   },
   {
@@ -69,13 +105,14 @@
    "conviction_history": [
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 203.28,
+   "price": 203.95,
    "fair_low": 153.8550255428788,
    "fair_base": 446.05034777459474,
    "fair_high": 563.8410179604589,
-   "upside_pct": 119.42657800796673,
+   "upside_pct": 118.70573560901927,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -88,7 +125,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7114.8,
+   "position_value": 7138.25,
    "thesis_needed": true
   },
   {
@@ -99,13 +136,14 @@
    "conviction_history": [
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 73.83,
+   "price": 73.515,
    "fair_low": 20.42319972195614,
    "fair_base": 126.218636280059,
    "fair_high": 179.54069775745023,
-   "upside_pct": 70.95846712726399,
+   "upside_pct": 71.6909967762484,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -129,13 +167,14 @@
    "conviction_history": [
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 74.26,
+   "price": 72.58,
    "fair_low": 21.678384934562395,
    "fair_base": 92.73147049799306,
    "fair_high": 122.83676658745333,
-   "upside_pct": 24.874051303518783,
+   "upside_pct": 27.764495037190763,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -159,13 +198,14 @@
    "conviction_history": [
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 120.3,
+   "price": 117.28,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 267.36857098079685,
+   "upside_pct": 276.8284369797908,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -179,7 +219,7 @@
     }
    ],
    "position_value": 0,
-   "thesis_needed": true
+   "thesis_needed": false
   },
   {
    "symbol": "CSU.TO",
@@ -189,13 +229,14 @@
    "conviction_history": [
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 2855.53,
+   "price": 2752.96,
    "fair_low": 460.5776080431524,
    "fair_base": 4841.692830021196,
    "fair_high": 7438.866727393741,
-   "upside_pct": 69.55496282725781,
+   "upside_pct": 75.8722549554369,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -209,28 +250,31 @@
     }
    ],
    "position_value": 0,
-   "thesis_needed": true
+   "thesis_needed": false
   },
   {
    "symbol": "IBM",
    "name": "International Business Machines Corporation",
-   "conviction": 57.7,
-   "thesis_strength": 62,
+   "conviction": 55.7,
+   "thesis_strength": 52,
    "conviction_history": [
     45.7,
     57.7,
-    57.7
+    57.7,
+    55.7
    ],
-   "price": 290.23,
+   "price": 218.135,
    "fair_low": 74.25160628585726,
    "fair_base": 288.3148947250838,
    "fair_high": 396.36174599195164,
-   "upside_pct": -0.659857793789842,
-   "last_impact": "neutral",
-   "last_memo": "IBM announced a significant update to its enterprise AI platform called Bob. This is a sign that IBM is actively developing its AI products and competing for enterprise AI budgets, which fits the long-term story of IBM becoming a serious AI software company. However, a product an",
+   "upside_pct": 32.172688805136175,
+   "last_impact": "weakens",
+   "last_memo": "IBM told investors on July 14, 2026 that its second quarter results came in well below expectations \u2014 they used the word 'shortfall' \u2014 and the stock fell about 25% in a single day. This is a serious event because IBM chose to warn investors before its scheduled earnings release, ",
    "risks": [
-    "If Bob requires significant ongoing R&D or compute infrastructure investment to remain competitive with hyperscaler AI offerings, it could pressure software segment margins without a commensurate revenue payoff.",
-    "Enterprise AI platform consolidation risk: large customers may prefer a single hyperscaler AI stack over IBM's hybrid approach, potentially limiting Bob's addressable market despite strong product updates."
+    "Pre-announced earnings shortfall large enough to require an 8-K filing suggests either a consulting project failure, software renewal slowdown, or guidance-calibration breakdown \u2014 each carrying different implications for long-term earnings power.",
+    "Net debt/EBITDA at 3.49x \u2014 already above the 2.5x threshold in this investment philosophy \u2014 becomes more concerning if EBITDA is now tracking below prior forecasts, as leverage ratios will worsen.",
+    "Management's inability to foresee and communicate a shortfall of this magnitude introduces uncertainty about the reliability of future guidance, which is a key input to any DCF-based valuation.",
+    "A 25% stock decline may force index-tracking sellers and momentum-based funds to reduce positions, creating short-term technical pressure unrelated to fundamentals but worth monitoring for accumulation opportunities."
    ],
    "catalysts": [
     {
@@ -252,13 +296,14 @@
    "conviction_history": [
     43.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 656.73,
+   "price": 655.68,
    "fair_low": 297.85822132476756,
    "fair_base": 496.9148589044447,
    "fair_high": 958.9625165912731,
-   "upside_pct": -24.334984102379252,
+   "upside_pct": -24.21381483277746,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -271,7 +316,38 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 10507.68,
+   "position_value": 10490.88,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "ATD.TO",
+   "name": "Alimentation Couche-Tard",
+   "conviction": 55.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    55.0,
+    43.0,
+    43.0,
+    55.0
+   ],
+   "price": 91.18,
+   "fair_low": 46.437323969576305,
+   "fair_base": 68.51531296271332,
+   "fair_high": 85.70612516471454,
+   "upside_pct": -24.8570816377349,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 12,
+     "symbol": "ATD.TO",
+     "date": "2026-09-02",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 9118.0,
    "thesis_needed": true
   },
   {
@@ -282,9 +358,10 @@
    "conviction_history": [
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 25.56,
+   "price": 26.01,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -293,7 +370,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 996.8399999999999,
+   "position_value": 1014.3900000000001,
    "thesis_needed": true
   },
   {
@@ -306,13 +383,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 926.43,
+   "price": 925.09,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -31.476575984958334,
+   "upside_pct": -31.37731927676761,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -336,13 +414,14 @@
    "conviction_history": [
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 352.51,
+   "price": 355.64,
    "fair_low": 82.71882437047383,
    "fair_base": 166.77647377375004,
    "fair_high": 374.6564023644208,
-   "upside_pct": -52.6888673303594,
+   "upside_pct": -53.10525425324766,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -355,8 +434,8 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3877.6099999999997,
-   "thesis_needed": true
+   "position_value": 3912.04,
+   "thesis_needed": false
   },
   {
    "symbol": "PLTR",
@@ -366,13 +445,14 @@
    "conviction_history": [
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 130.04,
+   "price": 131.84,
    "fair_low": 7.454305495494721,
    "fair_base": 20.021198777861585,
    "fair_high": 25.114005799476644,
-   "upside_pct": -84.60381515082929,
+   "upside_pct": -84.81401791727731,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -385,68 +465,8 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 19506.0,
+   "position_value": 19776.0,
    "thesis_needed": false
-  },
-  {
-   "symbol": "AMZN",
-   "name": "Amazon Com Inc.",
-   "conviction": 43.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    43.0,
-    43.0,
-    43.0
-   ],
-   "price": 247.31,
-   "fair_low": 3.755618111346491,
-   "fair_base": 34.51737594055758,
-   "fair_high": 106.37401171749354,
-   "upside_pct": -86.04287091482044,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 9,
-     "symbol": "AMZN",
-     "date": "2026-07-30",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 3709.65,
-   "thesis_needed": true
-  },
-  {
-   "symbol": "ATD.TO",
-   "name": "Alimentation Couche-Tard",
-   "conviction": 43.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    55.0,
-    43.0,
-    43.0
-   ],
-   "price": 91.77,
-   "fair_low": 46.437323969576305,
-   "fair_base": 68.51531296271332,
-   "fair_high": 85.70612516471454,
-   "upside_pct": -25.340184196672844,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 12,
-     "symbol": "ATD.TO",
-     "date": "2026-09-02",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 9177.0,
-   "thesis_needed": true
   },
   {
    "symbol": "SHOP.TO",
@@ -456,13 +476,14 @@
    "conviction_history": [
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 176.57,
+   "price": 174.95,
    "fair_low": 11.690267416651736,
    "fair_base": 14.045639577281454,
    "fair_high": 19.573210924567046,
-   "upside_pct": -92.04528539543442,
+   "upside_pct": -91.97162642053075,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -475,8 +496,8 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7062.799999999999,
-   "thesis_needed": true
+   "position_value": 6998.0,
+   "thesis_needed": false
   },
   {
    "symbol": "NVDA",
@@ -486,13 +507,14 @@
    "conviction_history": [
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 203.53,
+   "price": 208.5999,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -73.77914979638096,
+   "upside_pct": -74.41643240508465,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -506,7 +528,7 @@
     }
    ],
    "position_value": 0,
-   "thesis_needed": true
+   "thesis_needed": false
   },
   {
    "symbol": "CCO.TO",
@@ -516,13 +538,14 @@
    "conviction_history": [
     41.1,
     41.1,
+    41.1,
     41.1
    ],
-   "price": 127.67,
+   "price": 129.34,
    "fair_low": 17.438329054264695,
    "fair_base": 51.10289449023222,
    "fair_high": 62.15245858192385,
-   "upside_pct": -59.97266821474723,
+   "upside_pct": -60.48948933799891,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -548,13 +571,14 @@
     38.0,
     38.0,
     38.0,
+    38.0,
     38.0
    ],
-   "price": 390.99,
+   "price": 384.42,
    "fair_low": 64.15462217769772,
    "fair_base": 102.88630008833451,
    "fair_high": 192.26997108513837,
-   "upside_pct": -73.68569526373194,
+   "upside_pct": -73.23596584768366,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -580,13 +604,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 317.31,
+   "price": 313.42,
    "fair_low": 71.85573534462412,
    "fair_base": 72.36653113089089,
    "fair_high": 73.51461788169713,
-   "upside_pct": -77.19374393152094,
+   "upside_pct": -76.91068498152929,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -610,13 +635,14 @@
    "conviction_history": [
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 43.76,
+   "price": 43.03,
    "fair_low": 22.226200066247355,
    "fair_base": 24.277237335139034,
    "fair_high": 25.35140905309906,
-   "upside_pct": -44.521852524819394,
+   "upside_pct": -43.58067084559835,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -640,13 +666,14 @@
    "conviction_history": [
     26.5,
     26.5,
+    26.5,
     26.5
    ],
-   "price": 429.09,
+   "price": 426.4275,
    "fair_low": 127.2329616631332,
    "fair_base": 199.96884012381818,
    "fair_high": 234.43700977718981,
-   "upside_pct": -53.39699360884239,
+   "upside_pct": -53.1060168202524,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -659,8 +686,8 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7337.439,
-   "thesis_needed": true
+   "position_value": 7291.910250000001,
+   "thesis_needed": false
   },
   {
    "symbol": "OUST",
@@ -670,9 +697,10 @@
    "conviction_history": [
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 40.03,
+   "price": 42.395,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -680,7 +708,15 @@
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
-   "catalysts": [],
+   "catalysts": [
+    {
+     "id": 30,
+     "symbol": "OUST",
+     "date": "2026-08-06",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
    "position_value": 0,
    "thesis_needed": true
   },
@@ -692,9 +728,10 @@
    "conviction_history": [
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 139.14,
+   "price": 141.78,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -714,13 +751,14 @@
    "conviction_history": [
     24.3,
     24.3,
+    24.3,
     24.3
    ],
-   "price": 394.76,
+   "price": 396.6,
    "fair_low": 16.62488188509231,
    "fair_base": 17.29217856119603,
    "fair_high": 17.637550198448555,
-   "upside_pct": -95.61957174962103,
+   "upside_pct": -95.63989446263338,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -734,7 +772,7 @@
     }
    ],
    "position_value": 0,
-   "thesis_needed": true
+   "thesis_needed": false
   },
   {
    "symbol": "IONQ",
@@ -744,9 +782,10 @@
    "conviction_history": [
     20.8,
     20.8,
+    20.8,
     20.8
    ],
-   "price": 38.88,
+   "price": 39.25,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -774,9 +813,10 @@
    "conviction_history": [
     25.0,
     13.0,
+    20.0,
     20.0
    ],
-   "price": 67.58,
+   "price": 69.8,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -804,9 +844,10 @@
    "conviction_history": [
     13.8,
     13.8,
+    13.8,
     13.8
    ],
-   "price": 18.66,
+   "price": 18.92,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -834,9 +875,10 @@
    "conviction_history": [
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 38.98,
+   "price": 38.44,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -864,9 +906,10 @@
    "conviction_history": [
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.395,
+   "price": 5.41,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -883,7 +926,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 539.5,
+   "position_value": 541.0,
    "thesis_needed": true
   },
   {
@@ -894,9 +937,10 @@
    "conviction_history": [
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 15.36,
+   "price": 15.94,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -910,6 +954,27 @@
   }
  ],
  "history": [
+  {
+   "date": "2026-07-14",
+   "symbol": "DECK",
+   "impact": "neutral",
+   "headline": "Jefferies upgrades DECK citing HOKA momentum; supports thesis but adds no new fundamental data",
+   "strength": 78
+  },
+  {
+   "date": "2026-07-14",
+   "symbol": "AMZN",
+   "impact": "strengthens",
+   "headline": "Robotics + Trainium expansion reinforces thesis but is incremental, not transformational",
+   "strength": 84
+  },
+  {
+   "date": "2026-07-14",
+   "symbol": "IBM",
+   "impact": "weakens",
+   "headline": "IBM pre-announces Q2 'shortfall' \u2014 stock -25%; thesis under acute pressure pending detail",
+   "strength": 52
+  },
   {
    "date": "2026-07-13",
    "symbol": "IBM",
