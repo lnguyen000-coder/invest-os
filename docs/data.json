@@ -1,6 +1,39 @@
 {
- "generated": "2026-07-15 16:57 UTC",
+ "generated": "2026-07-16 16:53 UTC",
  "rows": [
+  {
+   "symbol": "CSU.TO",
+   "name": "Constellation Software Inc.",
+   "conviction": 95.0,
+   "thesis_strength": 82,
+   "conviction_history": [
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    95.0
+   ],
+   "price": 2845.78,
+   "fair_low": 460.5776080431524,
+   "fair_base": 4841.692830021196,
+   "fair_high": 7438.866727393741,
+   "upside_pct": 70.13587944328779,
+   "last_impact": "neutral",
+   "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 27,
+     "symbol": "CSU.TO",
+     "date": "2026-08-11",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
+  },
   {
    "symbol": "DECK",
    "name": "Deckers Outdoor Corp.",
@@ -11,13 +44,14 @@
     63.0,
     63.0,
     91.0,
+    91.0,
     91.0
    ],
-   "price": 107.44,
+   "price": 108.715,
    "fair_low": 86.32161819264012,
    "fair_base": 212.68061342022372,
    "fair_high": 247.14357307230847,
-   "upside_pct": 97.9529164372894,
+   "upside_pct": 95.63134196773555,
    "last_impact": "neutral",
    "last_memo": "Jefferies, a major investment bank, upgraded its rating on Deckers and pointed to HOKA's growth as the main reason. This is good news in the sense that smart external analysts agree with our thinking, but it doesn't actually tell us anything new about the business. The stock is a",
    "risks": [],
@@ -30,7 +64,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3867.84,
+   "position_value": 3913.7400000000002,
    "thesis_needed": false
   },
   {
@@ -43,13 +77,14 @@
     43.0,
     43.0,
     77.0,
+    77.0,
     77.0
    ],
-   "price": 255.6199,
+   "price": 256.12,
    "fair_low": 3.755618111346491,
    "fair_base": 34.51737594055758,
    "fair_high": 106.37401171749354,
-   "upside_pct": -86.49660064002937,
+   "upside_pct": -86.52296738225927,
    "last_impact": "strengthens",
    "last_memo": "Amazon is building a new highly automated warehouse in Texas and opening up its homemade AI chip \u2014 Trainium \u2014 to more cloud customers. Neither of these is a surprise; both are pieces of a strategy Amazon has been executing for years. The robotic warehouse means fewer people doing",
    "risks": [
@@ -65,7 +100,47 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3834.2985,
+   "position_value": 3841.8,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corporation",
+   "conviction": 76.0,
+   "thesis_strength": 88,
+   "conviction_history": [
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    62.0,
+    76.0
+   ],
+   "price": 402.775,
+   "fair_low": 64.15462217769772,
+   "fair_base": 102.88630008833451,
+   "fair_high": 192.26997108513837,
+   "upside_pct": -74.45563898247545,
+   "last_impact": "neutral",
+   "last_memo": "A news article noted that Starbucks spends $400M a year on software and is experimenting with AI to build some tools in-house. The concern is that if big companies can use AI to write their own software, they might need Microsoft less. This is a real long-term question worth trac",
+   "risks": [
+    "If AI dramatically lowers the cost of custom software development, some enterprises may reduce spend on standardized SaaS applications at the margin \u2014 worth monitoring in renewal rate and net revenue retention disclosures over the next 2-3 years.",
+    "The 'build vs. buy' calculus could shift structurally for non-core enterprise applications if AI coding productivity gains prove durable and widespread, creating a slow-moving headwind to seat expansion in products like Dynamics or lower-complexity M365 workloads.",
+    "If the weak performance reflects Azure growth deceleration below consensus, that would directly touch the primary thesis driver and warrant immediate re-examination.",
+    "If capex is running ahead of schedule without corresponding revenue acceleration, the FCF profile could compress more than modeled in the near term."
+   ],
+   "catalysts": [
+    {
+     "id": 2,
+     "symbol": "MSFT",
+     "date": "2026-07-29",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
    "thesis_needed": false
   },
   {
@@ -78,13 +153,14 @@
     55.0,
     55.0,
     55.0,
+    75.0,
     75.0
    ],
-   "price": 677.46,
+   "price": 670.2342,
    "fair_low": 297.85822132476756,
    "fair_base": 496.9148589044447,
    "fair_high": 958.9625165912731,
-   "upside_pct": -26.650302762606692,
+   "upside_pct": -25.859519119668207,
    "last_impact": "neutral",
    "last_memo": "Two minor headlines crossed the tape about Meta's infrastructure plans. First, Meta appears to be building more of its own cloud computing capacity rather than buying it from outside vendors \u2014 which makes sense for a company at Meta's scale and is consistent with how they've mana",
    "risks": [
@@ -100,7 +176,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 10839.36,
+   "position_value": 10723.7472,
    "thesis_needed": false
   },
   {
@@ -113,13 +189,14 @@
     43.0,
     43.0,
     43.0,
+    65.0,
     65.0
    ],
-   "price": 175.5,
+   "price": 177.99,
    "fair_low": 11.690267416651736,
    "fair_base": 14.045639577281454,
    "fair_high": 19.573210924567046,
-   "upside_pct": -91.99678656565159,
+   "upside_pct": -92.10874791994974,
    "last_impact": "strengthens",
    "last_memo": "DoorDash has plugged into Shopify's App Store so that independent retailers can offer same-day local delivery without switching tools. This is good news for Shopify because it means another large, well-known platform is choosing to work with Shopify's merchants rather than buildi",
    "risks": [
@@ -134,7 +211,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7020.0,
+   "position_value": 7119.6,
    "thesis_needed": false
   },
   {
@@ -147,13 +224,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 142.72,
+   "price": 145.34,
    "fair_low": 133.57404780273154,
    "fair_base": 239.0670398931219,
    "fair_high": 285.9006884667065,
-   "upside_pct": 67.5077353511224,
+   "upside_pct": 64.48812432442679,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -166,7 +244,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 2140.8,
+   "position_value": 2180.1,
    "thesis_needed": true
   },
   {
@@ -179,13 +257,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 198.01,
+   "price": 193.18,
    "fair_low": 153.8550255428788,
    "fair_base": 446.05034777459474,
    "fair_high": 563.8410179604589,
-   "upside_pct": 125.26657632169828,
+   "upside_pct": 130.89882377813166,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -198,7 +277,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6930.349999999999,
+   "position_value": 6761.3,
    "thesis_needed": true
   },
   {
@@ -211,13 +290,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 74.125,
+   "price": 73.94,
    "fair_low": 20.42319972195614,
    "fair_base": 126.218636280059,
    "fair_high": 179.54069775745023,
-   "upside_pct": 70.27809278928703,
+   "upside_pct": 70.70413345964161,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -243,13 +323,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 73.33,
+   "price": 73.545,
    "fair_low": 21.678384934562395,
    "fair_base": 92.73147049799306,
    "fair_high": 122.83676658745333,
-   "upside_pct": 26.457753304231634,
+   "upside_pct": 26.088069206598764,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -275,13 +356,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 117.95,
+   "price": 119.05,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 274.6879108858827,
+   "upside_pct": 271.2258638302382,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -298,72 +380,39 @@
    "thesis_needed": false
   },
   {
-   "symbol": "CSU.TO",
-   "name": "Constellation Software Inc.",
-   "conviction": 63.0,
-   "thesis_strength": 50,
+   "symbol": "PLTR",
+   "name": "Palantir Tech Inc.",
+   "conviction": 55.0,
+   "thesis_strength": 62,
    "conviction_history": [
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    55.0
    ],
-   "price": 2750.0,
-   "fair_low": 460.5776080431524,
-   "fair_base": 4841.692830021196,
-   "fair_high": 7438.866727393741,
-   "upside_pct": 76.0615574553162,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 27,
-     "symbol": "CSU.TO",
-     "date": "2026-08-11",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "MSFT",
-   "name": "Microsoft Corporation",
-   "conviction": 62.0,
-   "thesis_strength": 74,
-   "conviction_history": [
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    62.0
-   ],
-   "price": 395.39,
-   "fair_low": 64.15462217769772,
-   "fair_base": 102.88630008833451,
-   "fair_high": 192.26997108513837,
-   "upside_pct": -73.97852750743961,
-   "last_impact": "neutral",
-   "last_memo": "A handful of Wall Street analysts cut their price targets on Microsoft after some kind of weak performance, but the news article doesn't tell us what actually happened in the business. Microsoft's stock actually went up 2.7% on the day. Without seeing the real earnings numbers \u2014 ",
+   "price": 133.6687,
+   "fair_low": 7.454305495494721,
+   "fair_base": 20.021198777861585,
+   "fair_high": 25.114005799476644,
+   "upside_pct": -85.02177489729338,
+   "last_impact": "strengthens",
+   "last_memo": "Palantir announced a partnership with Nvidia and expanded its fraud-detection work with a U.S. government agency. Both are genuinely good news \u2014 they show Palantir is becoming more deeply embedded in AI infrastructure and government operations, which is exactly what the investmen",
    "risks": [
-    "If the weak performance reflects Azure growth deceleration below consensus, that would directly touch the primary thesis driver and warrant immediate re-examination.",
-    "If capex is running ahead of schedule without corresponding revenue acceleration, the FCF profile could compress more than modeled in the near term."
+    "Nvidia partnership could create indirect dependency: if Nvidia's AI hardware market share erodes or enterprise AI spending decelerates, Palantir's growth narrative tied to Nvidia co-selling could be impaired.",
+    "SBA fraud initiatives tied to specific political priorities may be de-funded or redirected with administration changes, adding concentration risk within the government segment if this becomes a material revenue line."
    ],
    "catalysts": [
     {
-     "id": 2,
-     "symbol": "MSFT",
-     "date": "2026-07-29",
+     "id": 5,
+     "symbol": "PLTR",
+     "date": "2026-08-03",
      "label": "Earnings report",
      "source": "yfinance"
     }
    ],
-   "position_value": 0,
+   "position_value": 20050.305,
    "thesis_needed": false
   },
   {
@@ -376,13 +425,14 @@
     43.0,
     43.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 90.17,
+   "price": 89.96,
    "fair_low": 46.437323969576305,
    "fair_base": 68.51531296271332,
    "fair_high": 85.70612516471454,
-   "upside_pct": -24.015400950744905,
+   "upside_pct": -23.83802471908256,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -395,7 +445,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9017.0,
+   "position_value": 8996.0,
    "thesis_needed": true
   },
   {
@@ -408,9 +458,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 25.7004,
+   "price": 25.55,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -419,26 +470,27 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 1002.3155999999999,
+   "position_value": 996.45,
    "thesis_needed": true
   },
   {
    "symbol": "IBM",
    "name": "International Business Machines Corporation",
-   "conviction": 45.7,
+   "conviction": 45.8,
    "thesis_strength": 42,
    "conviction_history": [
     45.7,
     57.7,
     57.7,
     55.7,
-    45.7
+    45.7,
+    45.8
    ],
-   "price": 212.625,
+   "price": 217.05,
    "fair_low": 74.25160628585726,
    "fair_base": 288.3148947250838,
    "fair_high": 396.36174599195164,
-   "upside_pct": 35.59783408587127,
+   "upside_pct": 32.83340001155668,
    "last_impact": "weakens",
    "last_memo": "IBM itself warned that its customers are spending less on IBM products and shifting that money toward other technology companies, including cybersecurity firms. An independent survey confirmed customers plan to keep cutting back on IBM spending. This is a serious concern because ",
    "risks": [
@@ -471,13 +523,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 925.395,
+   "price": 939.19,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -31.39993655654607,
+   "upside_pct": -32.407547237241616,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -503,13 +556,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 372.1,
+   "price": 371.66,
    "fair_low": 82.71882437047383,
    "fair_base": 166.77647377375004,
    "fair_high": 374.6564023644208,
-   "upside_pct": -55.17966305462241,
+   "upside_pct": -55.12660125551578,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -522,39 +576,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 4093.1000000000004,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "PLTR",
-   "name": "Palantir Tech Inc.",
-   "conviction": 43.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0
-   ],
-   "price": 133.7104,
-   "fair_low": 7.454305495494721,
-   "fair_base": 20.021198777861585,
-   "fair_high": 25.114005799476644,
-   "upside_pct": -85.02644612695678,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 5,
-     "symbol": "PLTR",
-     "date": "2026-08-03",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 20056.559999999998,
+   "position_value": 4088.26,
    "thesis_needed": false
   },
   {
@@ -567,13 +589,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 207.11,
+   "price": 207.1375,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -74.23239031460295,
+   "upside_pct": -74.23581127539637,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -599,13 +622,14 @@
     41.1,
     41.1,
     41.1,
+    41.1,
     41.1
    ],
-   "price": 126.77,
+   "price": 122.695,
    "fair_low": 17.438329054264695,
    "fair_base": 51.10289449023222,
    "fair_high": 62.15245858192385,
-   "upside_pct": -59.68849531416565,
+   "upside_pct": -58.349651990519405,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -624,27 +648,28 @@
   {
    "symbol": "UNH",
    "name": "Unitedhealth Group Inc.",
-   "conviction": 28.5,
-   "thesis_strength": 52,
+   "conviction": 34.5,
+   "thesis_strength": 58,
    "conviction_history": [
     26.5,
     26.5,
     26.5,
     26.5,
-    28.5
+    28.5,
+    34.5
    ],
-   "price": 420.74,
+   "price": 432.785,
    "fair_low": 127.2329616631332,
    "fair_base": 199.96884012381818,
    "fair_high": 234.43700977718981,
-   "upside_pct": -52.47211101302035,
-   "last_impact": "weakens",
-   "last_memo": "The U.S. government's antitrust team has expanded an investigation into UnitedHealth's purchase of a company called Claritev, which helps process and edit healthcare claims. This matters because UnitedHealth's long-term edge depends heavily on its ability to keep buying and conne",
+   "upside_pct": -53.794877335439494,
+   "last_impact": "strengthens",
+   "last_memo": "UnitedHealth just reported a better-than-expected quarter and raised its full-year profit forecast, which is exactly what a well-run company should do. The healthcare business is holding up \u2014 costs are not exploding, and the Optum services arm appears to be contributing. This is ",
    "risks": [
+    "Stock price at $432 is approximately 2x base-case intrinsic value; a positive operational quarter does not reduce valuation risk, and any future miss will be punished severely given current expectations embedded in the price.",
+    "FCF has declined from $25.7B to $16.1B while revenue grew 38% \u2014 without understanding the cause (working capital, capex, change healthcare incident costs, etc.), the gap between reported earnings beats and cash generation is an unresolved yellow flag.",
     "DOJ could block the Claritev acquisition outright, forcing UNH to unwind a strategically significant data-and-analytics asset.",
-    "A successful antitrust case could establish precedent limiting UNH's ability to acquire healthcare services or data businesses in the future, capping the organic-plus-M&A Optum growth model.",
-    "Expanded DOJ scrutiny may deter sellers from transacting with UNH or raise deal risk premiums, increasing the cost of future M&A.",
-    "Prolonged regulatory overhang compounds existing headline risk (CEO death, prior DOJ inquiries, Medicare Advantage headwinds), potentially sustaining a depressed multiple even if fundamentals recover."
+    "A successful antitrust case could establish precedent limiting UNH's ability to acquire healthcare services or data businesses in the future, capping the organic-plus-M&A Optum growth model."
    ],
    "catalysts": [
     {
@@ -655,7 +680,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7194.654,
+   "position_value": 7400.623500000001,
    "thesis_needed": false
   },
   {
@@ -670,13 +695,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 327.91,
+   "price": 330.6299,
    "fair_low": 71.85573534462412,
    "fair_base": 72.36653113089089,
    "fair_high": 73.51461788169713,
-   "upside_pct": -77.93097766738101,
+   "upside_pct": -78.1125266859135,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -702,13 +728,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 43.0598,
+   "price": 44.18,
    "fair_low": 22.226200066247355,
    "fair_base": 24.277237335139034,
    "fair_high": 25.35140905309906,
-   "upside_pct": -43.61971645214554,
+   "upside_pct": -45.04925908750784,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -725,43 +752,6 @@
    "thesis_needed": true
   },
   {
-   "symbol": "ASTS",
-   "name": "AST SpaceMobile Inc.",
-   "conviction": 27.0,
-   "thesis_strength": 52,
-   "conviction_history": [
-    25.0,
-    13.0,
-    20.0,
-    20.0,
-    27.0
-   ],
-   "price": 65.82,
-   "fair_low": null,
-   "fair_base": null,
-   "fair_high": null,
-   "upside_pct": null,
-   "last_impact": "strengthens",
-   "last_memo": "AST SpaceMobile is about to launch its first real commercial satellites (called BlueBird), has gotten permission from regulators around the world to operate its network, and is reportedly close to a $150 million deal with a company called Midland. Think of this as the company mov",
-   "risks": [
-    "BlueBird launch failure or underperformance relative to Block 1 test results would be a significant setback and could trigger kill criteria around repeated execution delays.",
-    "The Midland $150M deal is unconfirmed; if terms are less favorable than reported (e.g., equity-heavy, contingent, or structured as debt), it could be dilutive or fail to extend runway as assumed.",
-    "Accelerating launch cadence increases insurance, operational, and quality-control risks that have not yet been stress-tested at commercial scale.",
-    "Global regulatory approvals may still carry conditions, geographic exclusions, or operational constraints not yet disclosed that limit commercial addressable market."
-   ],
-   "catalysts": [
-    {
-     "id": 22,
-     "symbol": "ASTS",
-     "date": "2026-08-10",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
-  },
-  {
    "symbol": "OUST",
    "name": "Ouster Inc.",
    "conviction": 25.0,
@@ -771,9 +761,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 37.99,
+   "price": 35.555,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -803,9 +794,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 133.86,
+   "price": 132.69,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -827,13 +819,14 @@
     24.3,
     24.3,
     24.3,
+    24.3,
     24.3
    ],
-   "price": 393.0639,
+   "price": 388.47,
    "fair_low": 16.62488188509231,
    "fair_base": 17.29217856119603,
    "fair_high": 17.637550198448555,
-   "upside_pct": -95.60066987550981,
+   "upside_pct": -95.54864505336421,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -859,9 +852,10 @@
     20.8,
     20.8,
     20.8,
+    20.8,
     20.8
    ],
-   "price": 37.37,
+   "price": 35.37,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -882,6 +876,44 @@
    "thesis_needed": true
   },
   {
+   "symbol": "ASTS",
+   "name": "AST SpaceMobile Inc.",
+   "conviction": 17.0,
+   "thesis_strength": 42,
+   "conviction_history": [
+    25.0,
+    13.0,
+    20.0,
+    20.0,
+    27.0,
+    17.0
+   ],
+   "price": 54.42,
+   "fair_low": null,
+   "fair_base": null,
+   "fair_high": null,
+   "upside_pct": null,
+   "last_impact": "neutral",
+   "last_memo": "AST SpaceMobile borrowed $1 billion through a special type of bond that can convert into stock later, which caused the stock to drop about 18% because investors worry about owning a smaller slice of the company. The company now has about $2.7 billion in cash, which should fund it",
+   "risks": [
+    "Convertible note dilution risk: if ASTS stock trades below the conversion price at or near maturity, holders convert to equity, diluting existing shareholders at a potentially inopportune moment.",
+    "Japan J-LEO subsidy is explicitly contingent \u2014 'no assurance that the joint venture will be finalized or that government financing will be secured' \u2014 creating a binary outcome risk on a potentially significant capital source.",
+    "Launch-provider acquisition discussions (mentioned in Event 4 headline) introduce integration risk and potential capital allocation distraction if management pursues vertical integration while still executing the core constellation build.",
+    "BlueBird 45-satellite early-2027 launch target remains contingent on factors 'beyond its control,' meaning a single launch vehicle delay could set back the commercial service timeline by quarters."
+   ],
+   "catalysts": [
+    {
+     "id": 22,
+     "symbol": "ASTS",
+     "date": "2026-08-10",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
+  },
+  {
    "symbol": "QBTS",
    "name": "D-Wave Quantum Inc.",
    "conviction": 13.8,
@@ -891,9 +923,10 @@
     13.8,
     13.8,
     13.8,
+    13.8,
     13.8
    ],
-   "price": 18.1573,
+   "price": 17.1577,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -923,9 +956,10 @@
     10.3,
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 39.1,
+   "price": 34.86,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -955,9 +989,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.05,
+   "price": 4.735,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -974,7 +1009,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 505.0,
+   "position_value": 473.50000000000006,
    "thesis_needed": true
   },
   {
@@ -987,9 +1022,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 15.13,
+   "price": 14.25,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1003,6 +1039,41 @@
   }
  ],
  "history": [
+  {
+   "date": "2026-07-16",
+   "symbol": "MSFT",
+   "impact": "neutral",
+   "headline": "Starbucks DIY AI story is anecdote, not thesis-level evidence of enterprise switching-cost erosion",
+   "strength": 88
+  },
+  {
+   "date": "2026-07-16",
+   "symbol": "PLTR",
+   "impact": "strengthens",
+   "headline": "PLTR: Nvidia partnership + SBA expansion reinforce thesis but don't move intrinsic value at current multiples",
+   "strength": 62
+  },
+  {
+   "date": "2026-07-16",
+   "symbol": "UNH",
+   "impact": "strengthens",
+   "headline": "UNH beats Q2 2026, raises full-year guidance \u2014 execution validates thesis but stock still trades well above fair value",
+   "strength": 58
+  },
+  {
+   "date": "2026-07-16",
+   "symbol": "ASTS",
+   "impact": "neutral",
+   "headline": "ASTS raises $1B convertible notes (2034) + hints at ~$1B Japan subsidy; dilution concern drives -18% drop",
+   "strength": 42
+  },
+  {
+   "date": "2026-07-16",
+   "symbol": "CSU.TO",
+   "impact": "neutral",
+   "headline": "CSU up 6.5% in a day; no fundamental event \u2014 noise, not signal",
+   "strength": 82
+  },
   {
    "date": "2026-07-15",
    "symbol": "MSFT",
