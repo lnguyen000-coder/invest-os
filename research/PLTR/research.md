@@ -1,6 +1,25 @@
 # Palantir Tech Inc. (PLTR) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-17 — PLTR-SNP partnership targets SAP migrations; minor thesis support, no valuation impact
+**Thesis impact: STRENGTHENS** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
+
+**What changed:** Palantir announced a partnership with SNP, a firm specializing in SAP data transformation and migration services. The collaboration positions Palantir's platform to capture workflow and data management opportunities when enterprises modernize or migrate away from legacy SAP systems. No financial terms, contract values, or timeline commitments were disclosed.
+
+**Why it matters:** SAP is one of the most deeply embedded enterprise software stacks in the world, and migrations are notoriously complex, data-heavy, and high-stakes — exactly the environment where Palantir's data integration and AI orchestration capabilities are differentiated. If Palantir can insert itself as the intelligence layer during SAP transformation projects, it creates a natural entry point into large enterprise accounts that might otherwise be difficult to penetrate through a standard sales motion. This is directionally consistent with the thesis that Palantir becomes infrastructure rather than a point solution. However, without disclosed contract values or a pipeline figure, this is a lead-generation and positioning story, not a revenue event.
+
+**Intrinsic value:** none / none via none — No financial terms disclosed. The partnership is too early-stage and too small relative to Palantir's current revenue base (~$5.2B TTM) to justify changing any DCF assumption. If the channel produces meaningful customer additions over 12-24 months, it would be captured in the commercial customer growth metric at that time.
+**New risks:**
+- Channel partnerships with integrators like SNP can create margin dilution on co-sold deals if revenue-sharing terms are unfavorable; terms were not disclosed.
+- Reliance on a partner to drive SAP-adjacent pipeline introduces execution dependency on a third party outside Palantir's direct control.
+
+**Valuation:** fair value $7 / **$20** / $25
+
+**Committee memo:** The SNP partnership is a directionally positive but financially immaterial event. Palantir is doing what a quality software business should do — building distribution channels into large, complex enterprise workflows where its data integration and AI orchestration capabilities are genuinely differentiated. SAP transformation projects are high-stakes, multi-year engagements that create exactly the kind of deep customer entanglement the thesis depends on, so inserting Palantir at that moment is strategically sound. However, the committee should resist over-weighting a partnership announcement that carries no disclosed financial terms, no named customers, and no timeline. At a $315B market cap on $5.2B of TTM revenue (60x sales), Palantir has no margin for narrative — it needs execution. The stock is trading at a substantial premium to any reasonable DCF fair value (base case ~$20, current price ~$132), which means the market is pricing in exceptional growth for many years. This partnership is consistent with the path to delivering that growth but does not move the needle on near-term revenue. I would hold existing conviction, not add on this news alone. What would prove this judgment wrong: if SNP-sourced deals begin appearing in quarterly commercial customer additions at meaningful scale within two to three quarters, it would validate the channel strategy and warrant reassessing the commercial growth assumption upward.
+
+**Plain English:** Palantir announced a partnership with a company called SNP that helps large businesses upgrade or replace their SAP software — the kind of back-office system that runs payroll, supply chains, and finance for many Fortune 500 companies. The idea is that when companies go through these complex, expensive migrations, Palantir can step in as the AI and data layer that makes sense of everything. This is a smart strategic move because getting embedded during a migration is one of the best ways to become deeply entrenched in a customer's operations. The problem is there's nothing concrete here yet — no signed customers, no revenue, no financial details. It's a promising direction, but it's a press release, not a business result. The stock's valuation remains extremely stretched at roughly 60x forward earnings, so execution on opportunities like this one needs to translate into actual revenue growth to justify the price.
+
+---
 ## 2026-07-16 — PLTR: Nvidia partnership + SBA expansion reinforce thesis but don't move intrinsic value at current multiples
 **Thesis impact: STRENGTHENS** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
 

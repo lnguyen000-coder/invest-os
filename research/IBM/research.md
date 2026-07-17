@@ -1,6 +1,28 @@
 # International Business Machines Corporation (IBM) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-17 — IBM shares -3.6% on analyst warnings; thin content warrants investigation, not panic
+**Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 65.8/100 · **ALERTED**
+
+**What changed:** IBM shares fell 3.6% to $211.19, triggering cautionary notes from Oppenheimer and a bearish Barron's piece framing the stock as facing 'a long road back to relevance.' The specific catalysts behind these warnings — whether a guidance cut, earnings miss, or competitive development — are not provided in the source material. The stock is now trading at the lower end of the base-case fair value range ($288 base, $178 exit-multiple) and well below the DCF estimate.
+
+**Why it matters:** For this thesis, what matters is not the price decline itself but what caused it. If the catalyst is decelerating Red Hat growth, deteriorating software margins, or enterprise customers defecting to hyperscalers, those are direct hits to the core thesis drivers. If it is a macro-driven IT spending slowdown, consulting margin pressure, or simply multiple compression in a risk-off tape, the long-term intrinsic value case is far less affected. Without the underlying earnings or guidance data, we cannot yet determine which it is — and that ambiguity is the most important thing to resolve before any portfolio action.
+
+**Intrinsic value:** none / none via none — No underlying financial data has been provided — no earnings release, no guidance revision, no contract loss announcement. The stock price fell and analysts issued warnings, but the actual driver of intrinsic value change (if any) cannot be determined from headlines alone. Marking this as no confirmed intrinsic value change until source material is reviewed.
+**New risks:**
+- Oppenheimer's warning may reflect a specific guidance cut or forward estimate reduction that, if confirmed, would indicate management visibility is lower than previously assumed.
+- Barron's 'relevance' narrative, if it gains traction in enterprise buyer conversations, could create a self-fulfilling credibility risk in competitive sales situations — though this risk is speculative at this stage.
+- Net debt/EBITDA at 3.48x already exceeds the 2.5x threshold in our investment philosophy; any FCF guidance cut would worsen this ratio and increase financial risk.
+**⚠ Kill criteria at risk:**
+- If the analyst warnings are based on confirmed deceleration in Red Hat or software growth, the first kill criterion ('Red Hat stops driving software growth') would be at risk — but this requires confirmation from the underlying data.
+
+**Valuation:** fair value $74 / **$288** / $396 · implied growth at price: 2.1%
+
+**Committee memo:** The committee should treat this as an urgent information gap, not a confirmed thesis break. IBM shares are down 3.6% and two credible voices — Oppenheimer and Barron's — are raising concerns, but neither the specific catalyst nor the underlying financial data has been provided. Before any portfolio action, we need to see: (1) the actual Q earnings release or management commentary that drove these warnings, (2) Red Hat and software segment revenue trends, (3) FCF guidance for the full year, and (4) consulting backlog and margin data. What we do know independently is that net debt/EBITDA at 3.48x is already above our 2.5x comfort threshold, which leaves IBM with limited financial flexibility if revenue disappoints. The gross margin expansion trend (54% to 58.2%) and FCF growth remain intact as of last reported data, suggesting the transformation thesis has not yet been structurally disproven. Hold current position with conviction unchanged, but treat this as a mandatory 48-hour due diligence window to obtain the source report. If that review reveals Red Hat deceleration, software mix contraction, or a meaningful FCF guidance cut, the thesis impact would shift to 'weakens' and we would reassess position sizing. What would prove this judgment wrong: confirmed evidence that software revenue growth has stalled below 5%, or that IBM management has guided FCF materially lower for 2025.
+
+**Plain English:** IBM's stock dropped about 3.6% and a couple of prominent analysts issued warnings, with Barron's writing a fairly negative piece about the company's future. The problem is we don't actually know yet what triggered the warnings — whether IBM missed earnings, cut its guidance, or lost a big customer. IBM's underlying business has been gradually improving, with rising profit margins and growing free cash flow over several years, which is what the investment case is built on. The real question — did something break in the actual business, or is this a bad quarter or a narrative shift — can't be answered from these headlines alone. The right move is to get the actual earnings or analyst report before drawing any conclusions.
+
+---
 ## 2026-07-15 — IBM signals customer spending shift; survey confirms weakening demand — thesis under active stress
 **Thesis impact: WEAKENS** · Thesis strength: 42/100 · Conviction: 45.7/100 · **ALERTED**
 
