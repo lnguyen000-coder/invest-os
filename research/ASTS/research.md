@@ -1,6 +1,24 @@
 # AST SpaceMobile Inc. (ASTS) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-20 — ASTS raised $1B in new capital; dilution is real but runway extension matters more at this stage
+**Thesis impact: NEUTRAL** · Thesis strength: 38/100 · Conviction: 13.0/100 · **ALERTED**
+
+**What changed:** AST SpaceMobile completed a $1 billion capital raise. The stock is approximately 50% below its recent highs. A Motley Fool analyst published a bearish piece citing the raise as a reason to avoid the shares, though the financing event itself is the substantive development.
+
+**Why it matters:** For a pre-revenue infrastructure company burning ~$1.2B in FCF annually, access to capital is an existential thesis driver. The raise extends runway and reduces near-term dilution risk from distressed financing, which is directly relevant to the kill criterion around 'excessive shareholder dilution to survive.' However, equity raises at any price are dilutive, and the market is pricing this company at 266x trailing sales with no clear path to near-term FCF positivity — so the cost of capital matters enormously.
+
+**Intrinsic value:** down / small (<5%) via risk — Equity dilution from the raise modestly reduces per-share intrinsic value. However, it also reduces insolvency/distressed-financing risk, which partially offsets. The net effect on intrinsic value per share is negative but small, assuming the raise was executed at or near market prices rather than deeply discounted.
+**New risks:**
+- Dilution from the $1B raise reduces per-share value; if the company requires additional raises at lower prices, the dilution cadence becomes a structural headwind.
+- The 50% drawdown from highs may signal deteriorating institutional conviction, which could impair future capital raises at acceptable terms.
+- Without full disclosure of raise structure (equity vs. debt, pricing, covenants), there is uncertainty about whether this financing imposes new constraints on operating flexibility.
+
+**Committee memo:** AST SpaceMobile executed a $1 billion capital raise, which is the dominant fact in this event. For context: the company burned approximately $1.2 billion in FCF over the trailing twelve months, so this raise buys roughly one year of additional runway, assuming burn rates hold. That is necessary but not comfortable — it means the company will almost certainly need to raise again before it is self-funding. The raise is consistent with the known and acknowledged risk in the thesis; we have always known this company would require multiple capital infusions. The critical unknown is the structure and pricing of this raise: equity at ~$58/share would represent roughly 17 million new shares (~4% dilution on ~400M shares outstanding), which is manageable; deeply discounted equity or punitive convertible debt would be more concerning. I would want to see the 8-K or prospectus supplement to assess terms before concluding. The analyst bearishness is noise — the Motley Fool publishes skeptical pieces on speculative names constantly, and their opinion does not constitute new fundamental information. The 50% drawdown from highs is a valuation reset, not a thesis event; the thesis was never built on a specific stock price. I would hold conviction at current levels but take no new action until the raise terms are disclosed and the next operational milestone (commercial satellite deployment schedule) is confirmed. What would prove this judgment wrong: if the raise was structured with heavy dilution or debt covenants that constrain satellite procurement, or if this raise signals that previously announced commercial launch timelines are slipping materially.
+
+**Plain English:** AST SpaceMobile raised $1 billion in new funding, which is important because this company is spending about $1.2 billion per year building its satellite network and has essentially no revenue yet. The raise keeps the lights on and the satellites launching, which is exactly what needs to happen. The downside is that raising money by selling more shares dilutes existing investors — each share you own represents a slightly smaller piece of the company. A stock market analyst published a bearish article, but that's their opinion, not a new fact. The stock being down 50% from its highs is uncomfortable but doesn't mean the underlying plan changed — it means investors who bought at the peak paid too much, or sentiment has shifted. The investment thesis here has always been a high-risk bet on a technology that hasn't been proven at commercial scale yet, and nothing in this event changes that fundamental reality.
+
+---
 ## 2026-07-17 — $1B convertible offering extends runway; ~1.5% dilution less severe than market's 25% reaction implied
 **Thesis impact: STRENGTHENS** · Thesis strength: 42/100 · Conviction: 17.0/100 · **ALERTED**
 

@@ -1,6 +1,24 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-20 — BofA flags Azure growth and capex as key watch items — no new data, thesis intact
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 60.0/100 · **ALERTED**
+
+**What changed:** Bank of America Securities published an analyst note highlighting that investors are focused on Azure revenue growth and capital expenditure levels ahead of Microsoft's next earnings report. This is a preview/framing note, not a data release. No new financial figures, guidance changes, or operational updates were disclosed.
+
+**Why it matters:** Azure growth rate and capex efficiency are two of the most important drivers in this thesis — #1 and #8 on the key drivers list. The market is essentially asking: is Microsoft getting a return on the $50B+ annual infrastructure spend? If Azure growth decelerates while capex stays elevated, the FCF-to-earnings gap widens, which is a yellow flag under this philosophy. If Azure re-accelerates, it validates the AI monetization story. BofA naming these as the focal points confirms that the investment community is watching the same variables as this thesis — but the note itself adds no incremental information.
+
+**Intrinsic value:** none / none via none — No new financial data was disclosed. A sell-side framing note does not change any cash flow assumption. Intrinsic value is unchanged until Azure growth and capex figures are reported.
+**New risks:**
+- Sell-side and buy-side consensus is converging on Azure growth and capex returns as the single most scrutinized metric — any miss on either will likely produce outsized negative price reaction regardless of thesis validity.
+
+**Valuation:** fair value $64 / **$103** / $192 · implied growth at price: 26.7%
+
+**Committee memo:** The BofA note is a pre-earnings framing exercise, not a data event. It adds no information to our fundamental view of Microsoft. That said, it is worth noting the structural tension it highlights: Microsoft's TTM FCF of approximately $37B appears materially lower than the $59-74B range seen in the prior four years, while capex has surged to fund AI infrastructure. This gap between GAAP earnings and FCF is precisely the yellow flag this philosophy monitors, and it predates this note. The note simply confirms the market is watching the same thing. Our thesis requires Azure growth to re-accelerate as AI workloads monetize — the reverse DCF implies the market is pricing in 26.7% growth, which is demanding. We hold conviction at current levels but would want to see the next earnings print show either (a) Azure growth reaccelerating above 30% or (b) capex peaking with management articulating a credible return timeline. What would prove this judgment wrong: Azure growth decelerates further in the upcoming quarter while management cannot provide a specific timeline for when infrastructure spend converts to margin expansion — that would begin to activate kill criterion #2 (AI monetization failing despite heavy investment) and warrant a formal re-underwriting of growth assumptions.
+
+**Plain English:** A Bank of America analyst published a note saying investors are watching two things closely ahead of Microsoft's earnings: how fast Azure cloud is growing, and whether Microsoft is spending too much building data centers relative to what it earns back. This isn't new information — it's just Wall Street confirming it's focused on the same questions this thesis has always flagged as critical. No numbers changed, no guidance was updated, and nothing about Microsoft's actual business shifted. The stock's fair value is unchanged. The right move is to wait for real earnings data before drawing any conclusions.
+
+---
 ## 2026-07-16 — Starbucks DIY AI story is anecdote, not thesis-level evidence of enterprise switching-cost erosion
 **Thesis impact: NEUTRAL** · Thesis strength: 88/100 · Conviction: 76.0/100 · **ALERTED**
 

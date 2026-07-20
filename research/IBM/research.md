@@ -1,6 +1,26 @@
 # International Business Machines Corporation (IBM) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-20 — Break-up speculation signals market anxiety, but thesis hinges on fundamentals not sentiment
+**Thesis impact: NEUTRAL** · Thesis strength: 58/100 · Conviction: 61.8/100 · **ALERTED**
+
+**What changed:** Following a significant share price decline (described as an 'epic stock crash'), Wall Street analysts have begun publicly discussing whether IBM should break up its business units. This represents a notable shift in market narrative from transformation optimism to structural skepticism. No actual break-up proposal, board action, or management statement supporting a split has been reported in the provided material.
+
+**Why it matters:** Break-up chatter is a sentiment indicator, not a thesis driver — unless it reflects underlying deterioration in the very fundamentals the thesis depends on. The thesis rests on the Consulting + Software combination being synergistic: IBM sells consulting to deploy software, and software stickiness retains consulting relationships. If the market is questioning whether these units are worth more apart, it implies the cross-sell flywheel may not be working as expected. However, without knowing what triggered the 'epic stock crash,' we cannot assess whether this is noise or a signal of structural deterioration in Red Hat growth, software margins, or FCF.
+
+**Intrinsic value:** none / none via none — Analyst break-up chatter does not change IBM's cash flows, moat, or capital structure. Intrinsic value is unchanged by this event alone. The price decline that preceded this discussion may reflect actual fundamental changes, but those are not documented in the provided material and cannot be assessed here.
+**New risks:**
+- If management were to pursue a break-up under pressure, it could disrupt the Consulting + Software cross-sell synergy that is central to the thesis — this is a low-probability but worth-monitoring risk.
+- Sustained negative market narrative can impair IBM's ability to recruit engineering talent, a known risk in the thesis, particularly if prospective employees anchor on stock performance as a proxy for company health.
+- The unknown catalyst for the 'epic stock crash' — not yet identified in provided materials — may represent an undisclosed fundamental deterioration that would be a direct thesis risk if confirmed.
+
+**Valuation:** fair value $74 / **$288** / $396 · implied growth at price: 2.3%
+
+**Committee memo:** The committee should treat this headline as an investigation trigger, not a verdict. Break-up chatter from Wall Street is a lagging indicator of frustration, not a leading indicator of fundamental change. IBM's thesis does not require consensus approval — it requires Red Hat growth, expanding software margins, and free cash flow compounding. None of those are addressed by this event. What concerns me more is the gap: the current price of $215 sits well below our base case fair value of $288, and the reverse DCF implies the market is pricing only 2.3% long-term growth — close to the pessimistic scenario. If the recent stock decline was driven by a material earnings miss, particularly in software or Red Hat, that would be directly thesis-relevant and worth re-underwriting. I would want to see the most recent quarterly results, specifically: Red Hat ARR growth rate, software segment organic growth, FCF conversion, and management guidance commentary. I would also note that net debt/EBITDA at 3.48x already exceeds our 2.5x threshold — a pre-existing concern that becomes more acute if EBITDA is deteriorating. My recommended action is: hold current position, do not add until the earnings catalyst behind this price decline is understood, and place the thesis on active monitoring with a specific focus on whether software growth and FCF are intact. This judgment would be proven wrong if the earnings report underlying this crash shows Red Hat decelerating materially, FCF declining year-over-year, or management reducing long-term guidance — any of which would shift the verdict from 'neutral' to 'weakens' and warrant position review.
+
+**Plain English:** Some Wall Street analysts are publicly suggesting IBM should break itself apart after a big stock price drop. This is the kind of talk that tends to happen when a stock has fallen and investors are frustrated — it is more a symptom than a cause. IBM's actual business — its software, Red Hat, and consulting units — has not visibly changed based on this news alone. The real question is: what caused the stock to fall so sharply in the first place? If it was a bad earnings report showing Red Hat slowing down or free cash flow dropping, that would be genuinely worrying for the thesis. If it was just general market selling, it matters much less. Right now, we do not have enough information from this event alone to know which it is, so the right move is to investigate the underlying results before drawing conclusions.
+
+---
 ## 2026-07-17 — IBM shares -3.6% on analyst warnings; thin content warrants investigation, not panic
 **Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 65.8/100 · **ALERTED**
 
