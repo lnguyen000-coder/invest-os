@@ -1,6 +1,27 @@
 # Shopify Inc. (SHOP.TO) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-21 — DoorDash integration expands Shopify's logistics layer; incremental, not transformative
+**Thesis impact: STRENGTHENS** · Thesis strength: 74/100 · Conviction: 67.0/100 · **ALERTED**
+
+**What changed:** Shopify has launched a direct integration with DoorDash, allowing US retailers on the platform to offer same-day or on-demand local delivery through DoorDash without leaving the Shopify ecosystem. This adds a fulfillment/logistics option natively inside the merchant dashboard. It is a partnership integration, not an acquisition or infrastructure build.
+
+**Why it matters:** The thesis explicitly names fulfillment partnerships and revenue per merchant (ARPU) as key intrinsic value drivers. Every logistics option Shopify embeds deepens merchant reliance on the platform — a direct reinforcement of switching costs. More importantly, each Merchant Solutions attachment (payments, shipping, financing, now local delivery) earns Shopify a take-rate on merchant GMV that would otherwise flow to a third party. Local/same-day delivery is a gap that Amazon and brick-and-mortar incumbents have historically owned; closing it for independent brands is strategically meaningful over a 5-year horizon.
+
+**Intrinsic value:** up / none via growth — The integration is US-only, partnership-based, and one of many ecosystem additions Shopify makes routinely. It contributes to the long-run ARPU expansion story but is too small to move a DCF in any quantifiable way. No assumption changes are warranted.
+**Moat:** widened — Marginally. Each incremental logistics integration increases operational entanglement for merchants — specifically those serving local customers — making platform migration more disruptive. The moat source is switching costs, and this adds one more thread to that fabric. The widening is real but small.
+**Revenue quality:** improved — Incremental improvement: Merchant Solutions revenue (the recurring, GMV-attached revenue stream) stands to benefit as merchants adopt the integration and pay a take-rate on deliveries facilitated. This is transaction-based revenue, not pure recurring subscription, but it is GMV-correlated and grows with merchant volume — which the thesis views favorably.
+**New risks:**
+- Dependency on DoorDash's own network reliability and pricing could expose Shopify merchants to service disruptions or cost pass-throughs outside Shopify's control.
+- If DoorDash deteriorates as a business or changes its partner economics, Shopify merchants relying on this integration could be disrupted, potentially creating merchant dissatisfaction attributed to the Shopify platform.
+
+**Valuation:** fair value $12 / **$14** / $20
+
+**Committee memo:** The DoorDash integration is a textbook ecosystem expansion move — low capital cost to Shopify, incremental ARPU opportunity, and a further deepening of merchant switching costs through operational entanglement. It does not change our near-term financial model, and I would caution against reading too much into any single partnership announcement. What matters is the pattern: Shopify continues attracting large, category-leading partners (payments, logistics, financial services) who integrate because Shopify's merchant density makes it worth their while. That is a network effect operating in slow motion, and it compounds. The current valuation — 18x trailing revenue, 103x EV/EBITDA — remains the primary tension in this thesis. The stock is priced for a long runway of execution, and events like this confirm direction but do not accelerate the timeline. I would hold conviction at current levels, not add aggressively. What would prove this judgment wrong: if we start seeing merchants actively avoid adopting Merchant Solutions attachments (declining take-rate on GPV, low DoorDash adoption rates), that would suggest the ecosystem expansion story is hitting friction and the ARPU compounding thesis is weaker than modeled. We do not have that evidence today.
+
+**Plain English:** Shopify has hooked up with DoorDash so that store owners in the US can offer same-day local delivery directly through their Shopify dashboard — no separate account or technical setup needed. This is exactly the kind of incremental feature that makes Shopify stickier: the more a merchant runs through one platform, the harder it becomes to switch. It won't show up in this quarter's earnings in any meaningful way, but it's another brick in the wall of the 'commerce operating system' Shopify is building. The main thing to watch is whether integrations like this actually get adopted by merchants at scale — the value is only real if merchants use it. Overall, this is a minor positive that fits the long-term story without changing the price you should pay today.
+
+---
 ## 2026-07-15 — DoorDash integration extends Shopify's omnichannel reach; thesis-consistent, not valuation-moving
 **Thesis impact: STRENGTHENS** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
 

@@ -1,6 +1,25 @@
 # International Business Machines Corporation (IBM) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-21 — Dividend safety headline flags earnings concern; key facts absent — investigate before acting
+**Thesis impact: NEUTRAL** · Thesis strength: 68/100 · Conviction: 71.8/100 · **ALERTED**
+
+**What changed:** A Motley Fool article questions IBM's dividend safety following what it describes as an 'earnings scare.' The specific nature of the scare — whether a revenue miss, FCF shortfall, guidance cut, or one-off charge — is not provided in the event summary. No actual earnings figures, guidance revision, or management commentary are included in the material supplied.
+
+**Why it matters:** The dividend is downstream of free cash flow, which is the central thesis driver. IBM's FCF has been volatile ($8.5B → $12.1B → $11.8B → $11.5B → $13.1B TTM), and the thesis depends on that number growing, not shrinking. An earnings scare that reflects structural FCF deterioration would be a direct kill-criteria trigger. However, IBM's dividend (~$7/share annually, roughly $6.5B total) is well-covered by $13.1B TTM FCF, so headline coverage is currently adequate — the question is whether the 'scare' signals a trend break.
+
+**Intrinsic value:** none / none via none — No verified change in FCF, segment growth, or capital allocation has been confirmed. Intrinsic value is unchanged until the underlying earnings data is reviewed. A secondary media article without sourced financials is not sufficient to move the model.
+**New risks:**
+- Unconfirmed: a recent earnings result may have missed expectations in a way that signals FCF or software growth deterioration — requires immediate verification from the actual earnings release.
+- Media narrative around dividend safety, if sustained, could pressure the stock independent of fundamentals, though this is a sentiment risk, not a thesis risk.
+
+**Valuation:** fair value $74 / **$288** / $396 · implied growth at price: 2.2%
+
+**Committee memo:** The committee is presented with a secondary media article, not primary financial data. IBM's TTM FCF of $13.1B provides approximately 2x dividend coverage, and the historical gross margin trend (now at 58.2%) supports the software-mix improvement central to the thesis. However, net debt/EBITDA at 3.48x already exceeds our 2.5x comfort threshold, which means any FCF deterioration would tighten that ratio further and increase financial risk. The 'earnings scare' reference demands that we immediately obtain IBM's most recent earnings release and review: (1) software segment organic growth rate, (2) Red Hat ARR or revenue trajectory, (3) consulting revenue and margin, (4) updated full-year FCF guidance, and (5) any commentary on AI bookings conversion. I would not change conviction — up or down — based on a media commentary piece. Hold current position and conviction level pending review of the primary source. This judgment would be wrong if the underlying earnings show software growth decelerating materially, FCF guidance being cut below $11B, or management signaling a pause in the software mix shift — any of those would be thesis-relevant and warrant a reassessment.
+
+**Plain English:** A financial media outlet published an article questioning whether IBM's dividend is safe after what it calls an 'earnings scare.' The problem is we don't have the actual earnings report — just the headline. IBM currently generates about $13 billion in free cash flow per year and pays out roughly $6.5 billion in dividends, so on paper the dividend is covered. Whether there's a real problem depends entirely on what happened inside the earnings report: did software growth slow down, did consulting margins worsen, did free cash flow guidance get cut? Until we see those numbers, this headline tells us very little. The right move is to pull the actual earnings release before forming any view.
+
+---
 ## 2026-07-20 — Break-up speculation signals market anxiety, but thesis hinges on fundamentals not sentiment
 **Thesis impact: NEUTRAL** · Thesis strength: 58/100 · Conviction: 61.8/100 · **ALERTED**
 
