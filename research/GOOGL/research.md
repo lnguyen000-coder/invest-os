@@ -1,6 +1,25 @@
 # Alphabet Inc. (GOOGL) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-22 — Q2 earnings imminent; thesis intact but reverse-DCF implies ~26% growth priced in
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
+
+**What changed:** Alphabet is about to report Q2 earnings, flagged as a potential market pacesetter. No actual results, guidance, or commentary have been released yet — the event is an anticipatory signal, not a data point. The stock is trading at $347, down ~1.4% from the prior close, likely reflecting pre-earnings positioning.
+
+**Why it matters:** Q2 results will be the first meaningful test of whether AI integration in Search is lifting or compressing monetization, whether Cloud is sustaining its growth trajectory, and whether capex is being absorbed into higher-margin infrastructure utilization. These are the three thesis-critical drivers. The reverse-DCF showing ~26% growth priced in raises the stakes: if results disappoint on any of these fronts, the market has little valuation cushion at current prices.
+
+**Intrinsic value:** none / none via none — No new information about business operations has been released. Intrinsic value is unchanged until actual Q2 results provide data on Search monetization, Cloud margins, and capital allocation. The pending earnings release is a catalyst for potential revision, not a revision itself.
+**New risks:**
+- The TTM FCF figure ($27.9B) is dramatically below the most recent annual FCF ($73B), suggesting either a data error or a significant capex surge in recent quarters that may be structurally depressing near-term cash generation — must verify at Q2.
+- At $347/share, the reverse-DCF implies ~26% sustained growth, leaving limited margin of safety if Q2 results disappoint on Search monetization or Cloud growth.
+
+**Valuation:** fair value $83 / **$167** / $375 · implied growth at price: 26.3%
+
+**Committee memo:** The pre-earnings flag is not an actionable event — we hold conviction and wait for Q2 results before making any judgment. The thesis is intact based on everything we know: Alphabet has a 32.8% ROIC, net cash position, structurally improving gross margins, and dominant positions in Search, YouTube, and Cloud. However, the reverse-DCF at $347 implies ~26% sustained growth, which means the market is pricing in significant AI-monetization success, not just continuity of the existing business. The most important anomaly to investigate at Q2 is the apparent collapse in TTM FCF to ~$28B from annual FCF of $73B — if this reflects accelerated AI infrastructure capex, we need to understand whether management views this as front-loaded and temporary (bullish: future utilization will drive margins) or as a new run-rate (bearish: capital intensity has permanently increased without commensurate revenue uplift). On Q2 earnings, the committee should focus on three numbers: Search revenue growth rate and any commentary on AI Overview monetization, Cloud operating margin trajectory, and free cash flow generation net of capex. If Search monetization is holding, Cloud margins are expanding, and management provides credible framing for the capex cycle, the thesis strengthens and the current price is defensible. If any two of those three disappoint, the valuation offers limited cushion and we would want to reassess the growth assumption embedded in the DCF. This judgment would be proven wrong if Q2 shows Search revenue accelerating, Cloud margins expanding ahead of expectations, and management guiding to capex normalization — in that scenario, intrinsic value would move meaningfully higher.
+
+**Plain English:** Alphabet is about to report its second-quarter earnings and analysts are calling it a potential bellwether for the broader market and Big Tech. The news itself doesn't tell us anything new about how the business is actually performing — it's just a flag that results are coming soon. What makes this moment important is that the stock is priced for roughly 26% sustained growth, which is a high bar. When results arrive, the key questions are: Is Google Search still making money effectively even as AI changes how people find information? Is Google Cloud continuing to grow and become more profitable? And is all the money being spent on AI infrastructure starting to generate real returns? There's also an oddity in the data worth noting — the trailing twelve-month free cash flow figure looks much lower than recent annual figures, which may reflect heavy AI infrastructure spending, and that's something to watch carefully.
+
+---
 ## 2026-07-20 — Anthropic investment optionality is real but not yet a thesis driver; no change warranted
 **Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 67.0/100 · **ALERTED**
 

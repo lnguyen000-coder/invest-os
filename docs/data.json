@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-21 13:10 UTC",
+ "generated": "2026-07-22 13:18 UTC",
  "rows": [
   {
    "symbol": "CSU.TO",
@@ -15,13 +15,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 2780.49,
+   "price": 2658.52,
    "fair_low": 460.5776080431524,
    "fair_base": 4841.692830021196,
    "fair_high": 7438.866727393741,
-   "upside_pct": 74.13092045003565,
+   "upside_pct": 82.11985728981523,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -51,13 +52,14 @@
     91.0,
     91.0,
     91.0,
+    91.0,
     91.0
    ],
-   "price": 104.04,
+   "price": 103.31,
    "fair_low": 86.32161819264012,
    "fair_base": 212.68061342022372,
    "fair_high": 247.14357307230847,
-   "upside_pct": 104.42196599406356,
+   "upside_pct": 105.8664344402514,
    "last_impact": "neutral",
    "last_memo": "Jefferies, a major investment bank, upgraded its rating on Deckers and pointed to HOKA's growth as the main reason. This is good news in the sense that smart external analysts agree with our thinking, but it doesn't actually tell us anything new about the business. The stock is a",
    "risks": [],
@@ -70,7 +72,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3745.44,
+   "position_value": 3719.16,
    "thesis_needed": false
   },
   {
@@ -87,13 +89,14 @@
     75.0,
     87.0,
     87.0,
+    81.0,
     81.0
    ],
-   "price": 645.85,
+   "price": 643.81,
    "fair_low": 297.85822132476756,
    "fair_base": 496.9148589044447,
    "fair_high": 958.9625165912731,
-   "upside_pct": -23.06032996757069,
+   "upside_pct": -22.816536104682317,
    "last_impact": "strengthens",
    "last_memo": "Meta is building one of the largest data centers ever constructed in Texas, and a BlackRock-managed fund is raising $12 billion in bonds to pay for it. Think of it like a landlord building a skyscraper specifically for one tenant \u2014 Meta gets the computing power without directly b",
    "risks": [
@@ -111,7 +114,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 10333.6,
+   "position_value": 10300.96,
    "thesis_needed": false
   },
   {
@@ -128,13 +131,14 @@
     77.0,
     77.0,
     77.0,
+    77.0,
     77.0
    ],
-   "price": 249.99,
+   "price": 247.55,
    "fair_low": 3.755618111346491,
    "fair_base": 34.51737594055758,
    "fair_high": 106.37401171749354,
-   "upside_pct": -86.19249732366991,
+   "upside_pct": -86.0564023669733,
    "last_impact": "strengthens",
    "last_memo": "Amazon is building a new highly automated warehouse in Texas and opening up its homemade AI chip \u2014 Trainium \u2014 to more cloud customers. Neither of these is a surprise; both are pieces of a strategy Amazon has been executing for years. The robotic warehouse means fewer people doing",
    "risks": [
@@ -150,14 +154,14 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3749.8500000000004,
+   "position_value": 3713.25,
    "thesis_needed": false
   },
   {
    "symbol": "IBM",
    "name": "International Business Machines Corporation",
-   "conviction": 71.8,
-   "thesis_strength": 68,
+   "conviction": 65.8,
+   "thesis_strength": 62,
    "conviction_history": [
     45.7,
     57.7,
@@ -167,15 +171,16 @@
     45.8,
     65.8,
     61.8,
-    71.8
+    71.8,
+    65.8
    ],
-   "price": 213.0,
+   "price": 210.5,
    "fair_low": 74.25160628585726,
    "fair_base": 288.3148947250838,
    "fair_high": 396.36174599195164,
-   "upside_pct": 35.35910550473416,
+   "upside_pct": 36.966695831393714,
    "last_impact": "neutral",
-   "last_memo": "A financial media outlet published an article questioning whether IBM's dividend is safe after what it calls an 'earnings scare.' The problem is we don't have the actual earnings report \u2014 just the headline. IBM currently generates about $13 billion in free cash flow per year and ",
+   "last_memo": "Two news articles are simply flagging that IBM is about to report its Q2 earnings \u2014 there's no actual information in them about how the business performed. Think of them as a 'mark your calendar' reminder, not news. IBM's investment case rests on whether its software division kee",
    "risks": [
     "Unconfirmed: a recent earnings result may have missed expectations in a way that signals FCF or software growth deterioration \u2014 requires immediate verification from the actual earnings release.",
     "Media narrative around dividend safety, if sustained, could pressure the stock independent of fundamentals, though this is a sentiment risk, not a thesis risk.",
@@ -195,53 +200,10 @@
    "thesis_needed": false
   },
   {
-   "symbol": "MSFT",
-   "name": "Microsoft Corporation",
-   "conviction": 70.0,
-   "thesis_strength": 82,
-   "conviction_history": [
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    62.0,
-    76.0,
-    76.0,
-    60.0,
-    70.0
-   ],
-   "price": 402.29,
-   "fair_low": 64.15462217769772,
-   "fair_base": 102.88630008833451,
-   "fair_high": 192.26997108513837,
-   "upside_pct": -74.42484275315456,
-   "last_impact": "strengthens",
-   "last_memo": "Microsoft is putting billions into Mistral, a French AI startup, to help it expand in Europe and to host its AI models on Azure. The strategic logic is straightforward: European companies are nervous about relying on US AI tools for data and regulatory reasons, and Mistral gives ",
-   "risks": [
-    "If Mistral's models underperform technically relative to OpenAI or Google Gemini, Microsoft's European AI positioning could be weakened despite the investment, having allocated capital to a suboptimal asset.",
-    "EU regulatory bodies may scrutinize the deal as a de facto acquisition of influence over a nominally 'independent' European AI champion, creating regulatory friction in a market where Microsoft already faces elevated antitrust attention.",
-    "Sell-side and buy-side consensus is converging on Azure growth and capex returns as the single most scrutinized metric \u2014 any miss on either will likely produce outsized negative price reaction regardless of thesis validity.",
-    "If AI dramatically lowers the cost of custom software development, some enterprises may reduce spend on standardized SaaS applications at the margin \u2014 worth monitoring in renewal rate and net revenue retention disclosures over the next 2-3 years."
-   ],
-   "catalysts": [
-    {
-     "id": 2,
-     "symbol": "MSFT",
-     "date": "2026-07-29",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
-  },
-  {
    "symbol": "GOOGL",
    "name": "Alphabet Inc.",
-   "conviction": 67.0,
-   "thesis_strength": 74,
+   "conviction": 65.0,
+   "thesis_strength": 72,
    "conviction_history": [
     43.0,
     43.0,
@@ -251,19 +213,21 @@
     43.0,
     67.0,
     67.0,
-    67.0
+    67.0,
+    65.0
    ],
-   "price": 351.99,
+   "price": 347.15,
    "fair_low": 82.71882437047383,
    "fair_base": 166.77647377375004,
    "fair_high": 374.6564023644208,
-   "upside_pct": -52.61897389876131,
+   "upside_pct": -51.958382896802526,
    "last_impact": "neutral",
-   "last_memo": "A financial media outlet published a speculative article asking whether Alphabet's investment in Anthropic \u2014 the AI company behind Claude \u2014 could dramatically boost Alphabet's profits. The honest answer is: maybe someday, but not in any way we can measure today. Anthropic is a pr",
+   "last_memo": "Alphabet is about to report its second-quarter earnings and analysts are calling it a potential bellwether for the broader market and Big Tech. The news itself doesn't tell us anything new about how the business is actually performing \u2014 it's just a flag that results are coming so",
    "risks": [
+    "The TTM FCF figure ($27.9B) is dramatically below the most recent annual FCF ($73B), suggesting either a data error or a significant capex surge in recent quarters that may be structurally depressing near-term cash generation \u2014 must verify at Q2.",
+    "At $347/share, the reverse-DCF implies ~26% sustained growth, leaving limited margin of safety if Q2 results disappoint on Search monetization or Cloud growth.",
     "Capex acceleration beyond current consensus estimates could compress FCF for 2-3 years before revenue from new AI capacity materializes, testing investor patience and the FCF growth requirement of the thesis.",
-    "Capacity-driven spending decisions made under urgency (rather than disciplined return-threshold analysis) risk capital misallocation if AI monetization timelines extend.",
-    "If competitors face the same capacity constraints, the arms-race dynamic could normalize elevated spending industry-wide, structurally raising the capital intensity of the digital advertising and cloud businesses."
+    "Capacity-driven spending decisions made under urgency (rather than disciplined return-threshold analysis) risk capital misallocation if AI monetization timelines extend."
    ],
    "catalysts": [
     {
@@ -274,47 +238,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3871.8900000000003,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "SHOP.TO",
-   "name": "Shopify Inc.",
-   "conviction": 67.0,
-   "thesis_strength": 74,
-   "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    65.0,
-    65.0,
-    65.0,
-    65.0,
-    67.0
-   ],
-   "price": 175.17,
-   "fair_low": 11.690267416651736,
-   "fair_base": 14.045639577281454,
-   "fair_high": 19.573210924567046,
-   "upside_pct": -91.9817094380993,
-   "last_impact": "strengthens",
-   "last_memo": "Shopify has hooked up with DoorDash so that store owners in the US can offer same-day local delivery directly through their Shopify dashboard \u2014 no separate account or technical setup needed. This is exactly the kind of incremental feature that makes Shopify stickier: the more a m",
-   "risks": [
-    "Dependency on DoorDash's own network reliability and pricing could expose Shopify merchants to service disruptions or cost pass-throughs outside Shopify's control.",
-    "If DoorDash deteriorates as a business or changes its partner economics, Shopify merchants relying on this integration could be disrupted, potentially creating merchant dissatisfaction attributed to the Shopify platform.",
-    "DoorDash's own competitive positioning in local delivery could shift, potentially reducing the value of this integration if DoorDash's network shrinks or pivots away from retail merchant support."
-   ],
-   "catalysts": [
-    {
-     "id": 14,
-     "symbol": "SHOP.TO",
-     "date": "2026-08-05",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 7006.799999999999,
+   "position_value": 3818.6499999999996,
    "thesis_needed": false
   },
   {
@@ -331,13 +255,14 @@
     55.0,
     65.0,
     65.0,
+    65.0,
     65.0
    ],
-   "price": 134.85,
+   "price": 132.66,
    "fair_low": 7.454305495494721,
    "fair_base": 20.021198777861585,
    "fair_high": 25.114005799476644,
-   "upside_pct": -85.15298570421832,
+   "upside_pct": -84.90788573958874,
    "last_impact": "strengthens",
    "last_memo": "Palantir announced a partnership with a company called SNP that helps large businesses upgrade or replace their SAP software \u2014 the kind of back-office system that runs payroll, supply chains, and finance for many Fortune 500 companies. The idea is that when companies go through t",
    "risks": [
@@ -355,44 +280,135 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 20227.5,
+   "position_value": 19899.0,
    "thesis_needed": false
   },
   {
-   "symbol": "LOPE",
-   "name": "Grand Canyon Education",
-   "conviction": 63.0,
-   "thesis_strength": 50,
+   "symbol": "SHOP.TO",
+   "name": "Shopify Inc.",
+   "conviction": 65.0,
+   "thesis_strength": 72,
    "conviction_history": [
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    65.0,
+    65.0,
+    65.0,
+    65.0,
+    67.0,
+    65.0
    ],
-   "price": 139.46,
-   "fair_low": 133.57404780273154,
-   "fair_base": 239.0670398931219,
-   "fair_high": 285.9006884667065,
-   "upside_pct": 71.42337580175095,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
+   "price": 173.74,
+   "fair_low": 11.690267416651736,
+   "fair_base": 14.045639577281454,
+   "fair_high": 19.573210924567046,
+   "upside_pct": -91.91571337787416,
+   "last_impact": "strengthens",
+   "last_memo": "Shopify announced it is connecting its merchant platform to DoorDash, meaning store owners can now offer local same-day delivery without Shopify having to build or own any delivery trucks or warehouses \u2014 they just plug into DoorDash's network. This is a good sign: it makes Shopif",
+   "risks": [
+    "DoorDash partnership creates a dependency on a third-party logistics network; if DoorDash changes pricing, availability, or terms, merchants enabled through this channel could face disruption with limited Shopify recourse.",
+    "Analyst downgrade, even if valuation-driven, can accelerate institutional selling and increase short-term price volatility, which matters only if Shopify needs to issue equity or if management credibility becomes tied to share price performance.",
+    "Dependency on DoorDash's own network reliability and pricing could expose Shopify merchants to service disruptions or cost pass-throughs outside Shopify's control.",
+    "If DoorDash deteriorates as a business or changes its partner economics, Shopify merchants relying on this integration could be disrupted, potentially creating merchant dissatisfaction attributed to the Shopify platform."
+   ],
    "catalysts": [
     {
-     "id": 10,
-     "symbol": "LOPE",
-     "date": "2026-07-30",
+     "id": 14,
+     "symbol": "SHOP.TO",
+     "date": "2026-08-05",
      "label": "Earnings report",
      "source": "yfinance"
     }
    ],
-   "position_value": 2091.9,
-   "thesis_needed": true
+   "position_value": 6949.6,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA Corporation",
+   "conviction": 65.0,
+   "thesis_strength": 72,
+   "conviction_history": [
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    65.0
+   ],
+   "price": 207.29,
+   "fair_low": 31.97461213654321,
+   "fair_base": 53.36729641942582,
+   "fair_high": 116.22463125381913,
+   "upside_pct": -74.2547655847239,
+   "last_impact": "weakens",
+   "last_memo": "Two things happened that NVIDIA investors should pay attention to, though neither is a crisis today. First, Anthropic \u2014 one of the most advanced AI companies in the world \u2014 signed a meaningful deal to use AMD chips instead of NVIDIA's. This matters because Anthropic knows exactly",
+   "risks": [
+    "AMD is demonstrating real, named design wins with frontier AI labs, increasing the credibility of a multi-vendor AI hardware market that reduces NVIDIA's pricing power over time.",
+    "TSMC has issued a warning (specifics not fully available) that may signal capacity constraints, price increases, or geopolitical exposure that could limit NVIDIA's production scale or compress gross margins.",
+    "Concurrent competitive and supply-chain headwinds arriving together may amplify customer incentive to accelerate alternative vendor qualification, creating a feedback loop not present when either risk operates alone."
+   ],
+   "catalysts": [
+    {
+     "id": 29,
+     "symbol": "NVDA",
+     "date": "2026-08-26",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corporation",
+   "conviction": 64.0,
+   "thesis_strength": 76,
+   "conviction_history": [
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    62.0,
+    76.0,
+    76.0,
+    60.0,
+    70.0,
+    64.0
+   ],
+   "price": 397.75,
+   "fair_low": 64.15462217769772,
+   "fair_base": 102.88630008833451,
+   "fair_high": 192.26997108513837,
+   "upside_pct": -74.13292266792344,
+   "last_impact": "strengthens",
+   "last_memo": "Microsoft deepened its relationship with Mistral, a European AI company, so enterprise customers can now more easily run Mistral's AI models inside Microsoft's Azure cloud. Think of Azure as a shopping mall: Microsoft is adding another anchor tenant. This reinforces the idea that",
+   "risks": [
+    "Multi-model marketplace strategy could commoditize Azure's AI differentiation if customers treat cloud providers as interchangeable inference pipes \u2014 though Microsoft's enterprise compliance, identity, and security envelope mitigates this significantly.",
+    "No financial terms disclosed means the committee cannot assess whether Microsoft is subsidizing Mistral's Azure compute costs to win the partnership, which would be a margin headwind if material.",
+    "If Mistral's models underperform technically relative to OpenAI or Google Gemini, Microsoft's European AI positioning could be weakened despite the investment, having allocated capital to a suboptimal asset.",
+    "EU regulatory bodies may scrutinize the deal as a de facto acquisition of influence over a nominally 'independent' European AI champion, creating regulatory friction in a market where Microsoft already faces elevated antitrust attention."
+   ],
+   "catalysts": [
+    {
+     "id": 2,
+     "symbol": "MSFT",
+     "date": "2026-07-29",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
   },
   {
    "symbol": "AEM.TO",
@@ -408,13 +424,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 191.66,
+   "price": 199.86,
    "fair_low": 153.8550255428788,
    "fair_base": 446.05034777459474,
    "fair_high": 563.8410179604589,
-   "upside_pct": 132.73001553511153,
+   "upside_pct": 123.1814008679049,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -427,7 +444,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6708.099999999999,
+   "position_value": 6995.1,
    "thesis_needed": true
   },
   {
@@ -444,13 +461,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 67.6,
+   "price": 68.67,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 87.7234223778436,
+   "upside_pct": 84.79835958558652,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -480,13 +498,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 72.17,
+   "price": 71.55,
    "fair_low": 21.678384934562395,
    "fair_base": 92.73147049799306,
    "fair_high": 122.83676658745333,
-   "upside_pct": 28.490329081326117,
+   "upside_pct": 29.603732352191557,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -516,13 +535,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 116.67,
+   "price": 116.63,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 278.79865508691057,
+   "upside_pct": 278.92856974183195,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -539,6 +559,43 @@
    "thesis_needed": false
   },
   {
+   "symbol": "LOPE",
+   "name": "Grand Canyon Education",
+   "conviction": 58.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    58.0
+   ],
+   "price": 138.37,
+   "fair_low": 133.57404780273154,
+   "fair_base": 239.0670398931219,
+   "fair_high": 285.9006884667065,
+   "upside_pct": 72.77375145849669,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 10,
+     "symbol": "LOPE",
+     "date": "2026-07-30",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 2075.55,
+   "thesis_needed": true
+  },
+  {
    "symbol": "ATD.TO",
    "name": "Alimentation Couche-Tard",
    "conviction": 55.0,
@@ -552,13 +609,14 @@
     55.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 90.51,
+   "price": 89.91,
    "fair_low": 46.45671896898705,
    "fair_base": 68.5439290486749,
    "fair_high": 85.74192116037001,
-   "upside_pct": -24.269219921914818,
+   "upside_pct": -23.763842677483147,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -571,7 +629,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9051.0,
+   "position_value": 8991.0,
    "thesis_needed": true
   },
   {
@@ -588,9 +646,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 25.21,
+   "price": 25.5547,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -599,7 +658,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 983.19,
+   "position_value": 996.6333,
    "thesis_needed": true
   },
   {
@@ -618,13 +677,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 935.8,
+   "price": 929.22,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -32.1626889182998,
+   "upside_pct": -31.682318815506505,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -641,42 +701,6 @@
    "thesis_needed": true
   },
   {
-   "symbol": "NVDA",
-   "name": "NVIDIA Corporation",
-   "conviction": 43.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0
-   ],
-   "price": 203.28,
-   "fair_low": 31.97461213654321,
-   "fair_base": 53.36729641942582,
-   "fair_high": 116.22463125381913,
-   "upside_pct": -73.7469025878464,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 29,
-     "symbol": "NVDA",
-     "date": "2026-08-26",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
-  },
-  {
    "symbol": "CCO.TO",
    "name": "Cameco Corporation",
    "conviction": 41.1,
@@ -690,13 +714,14 @@
     41.1,
     41.1,
     41.1,
+    41.1,
     41.1
    ],
-   "price": 119.23,
+   "price": 125.09,
    "fair_low": 17.438329054264695,
    "fair_base": 51.10289449023222,
    "fair_high": 62.15245858192385,
-   "upside_pct": -57.139231325813796,
+   "upside_pct": -59.147098496896454,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -709,6 +734,35 @@
      "source": "yfinance"
     }
    ],
+   "position_value": 0,
+   "thesis_needed": true
+  },
+  {
+   "symbol": "RGTI",
+   "name": "Rigetti Computing Inc.",
+   "conviction": 40.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    5.0,
+    5.0,
+    5.0,
+    5.0,
+    5.0,
+    5.0,
+    5.0,
+    5.0,
+    5.0,
+    40.0
+   ],
+   "price": null,
+   "fair_low": null,
+   "fair_base": null,
+   "fair_high": null,
+   "upside_pct": null,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [],
    "position_value": 0,
    "thesis_needed": true
   },
@@ -728,13 +782,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 326.59,
+   "price": 327.74,
    "fair_low": 71.85573534462412,
    "fair_base": 72.36653113089089,
    "fair_high": 73.51461788169713,
-   "upside_pct": -77.84177986745127,
+   "upside_pct": -77.91953038051783,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -764,13 +819,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 43.47,
+   "price": 42.96,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -44.29221457947284,
+   "upside_pct": -43.63087913802804,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -800,9 +856,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 34.77,
+   "price": 40.68,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -836,9 +893,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 119.85,
+   "price": 123.54,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -859,47 +917,6 @@
    "thesis_needed": true
   },
   {
-   "symbol": "ASTS",
-   "name": "AST SpaceMobile Inc.",
-   "conviction": 23.0,
-   "thesis_strength": 48,
-   "conviction_history": [
-    25.0,
-    13.0,
-    20.0,
-    20.0,
-    27.0,
-    17.0,
-    17.0,
-    13.0,
-    23.0
-   ],
-   "price": 57.42,
-   "fair_low": null,
-   "fair_base": null,
-   "fair_high": null,
-   "upside_pct": null,
-   "last_impact": "strengthens",
-   "last_memo": "AST SpaceMobile just raised $1 billion by selling a special type of debt that converts to stock only at prices well above today's level \u2014 effectively buying itself roughly another year of runway without immediately flooding the market with new shares. At the same time, the city w",
-   "risks": [
-    "$1.0B in unsecured senior debt (plus potential $150M overallotment) matures February 2034, creating a refinancing cliff if commercial revenue has not scaled by then.",
-    "Cross-default provision on $50M+ indebtedness means any future secured facility default could accelerate the notes, adding covenant complexity as the capital structure grows.",
-    "5x factory expansion introduces significant construction, hiring, and supply chain execution risk that could delay satellite production even with capital available.",
-    "Capped call protection tops out at ~$149/share; dilution from conversion is real if the stock trades above the conversion price ($79.57) but below the cap, and the company elects to settle in shares rather than cash."
-   ],
-   "catalysts": [
-    {
-     "id": 22,
-     "symbol": "ASTS",
-     "date": "2026-08-10",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
-  },
-  {
    "symbol": "IONQ",
    "name": "IonQ Inc.",
    "conviction": 20.8,
@@ -913,9 +930,10 @@
     20.8,
     20.8,
     20.8,
+    20.8,
     20.8
    ],
-   "price": 34.24,
+   "price": 35.51,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -949,13 +967,14 @@
     34.5,
     18.5,
     18.9,
+    18.9,
     18.9
    ],
-   "price": 421.55,
+   "price": 436.35,
    "fair_low": 132.5492993322689,
    "fair_base": 205.2851777929539,
    "fair_high": 239.75334744632553,
-   "upside_pct": -51.302294438867534,
+   "upside_pct": -52.954009901924174,
    "last_impact": "weakens",
    "last_memo": "UnitedHealth's finance chief publicly warned investors about rising healthcare costs after the company reported earnings \u2014 and that is a bigger deal than it sounds. The core way UnitedHealth makes money is by collecting insurance premiums and spending less on medical claims than ",
    "risks": [
@@ -965,7 +984,47 @@
     "Reputational and political exposure may limit UNH's ability to raise premiums aggressively to offset cost inflation, particularly in Medicare Advantage and ACA-related products."
    ],
    "catalysts": [],
-   "position_value": 7208.505000000001,
+   "position_value": 7461.585000000001,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "TSLA",
+   "name": "Tesla Inc.",
+   "conviction": 16.3,
+   "thesis_strength": 32,
+   "conviction_history": [
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    16.3,
+    16.3,
+    6.3,
+    16.3
+   ],
+   "price": 378.93,
+   "fair_low": 16.62488188509231,
+   "fair_base": 17.29217856119603,
+   "fair_high": 17.637550198448555,
+   "upside_pct": -95.43657705613279,
+   "last_impact": "weakens",
+   "last_memo": "Tesla is spending heavily on AI, self-driving, and robotics \u2014 bets that could be worth a lot someday, but that cost real money today. The problem is that Tesla's free cash flow (the actual cash left after running the business and investing) has been shrinking even as the company ",
+   "risks": [
+    "AI and autonomy capex may be scaling faster than FCF generation, creating a sustained multi-year period of compressed free cash yield even without balance sheet distress.",
+    "Media and investor focus on cash burn could pressure management to either curtail investment (slowing the thesis) or defend spending with bullish guidance that may prove difficult to achieve (credibility risk)."
+   ],
+   "catalysts": [
+    {
+     "id": 25,
+     "symbol": "TSLA",
+     "date": "2026-07-22",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
    "thesis_needed": false
   },
   {
@@ -982,9 +1041,10 @@
     13.8,
     13.8,
     13.8,
+    13.8,
     13.8
    ],
-   "price": 16.72,
+   "price": 17.8,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1005,6 +1065,48 @@
    "thesis_needed": true
   },
   {
+   "symbol": "ASTS",
+   "name": "AST SpaceMobile Inc.",
+   "conviction": 13.0,
+   "thesis_strength": 38,
+   "conviction_history": [
+    25.0,
+    13.0,
+    20.0,
+    20.0,
+    27.0,
+    17.0,
+    17.0,
+    13.0,
+    23.0,
+    13.0
+   ],
+   "price": 63.34,
+   "fair_low": null,
+   "fair_base": null,
+   "fair_high": null,
+   "upside_pct": null,
+   "last_impact": "strengthens",
+   "last_memo": "AST SpaceMobile confirmed that three more of its large direct-to-smartphone satellites are now fully deployed in orbit, with three additional ones already at the launch pad waiting to go up. This is good news because the entire investment case depends on the company actually bein",
+   "risks": [
+    "Accelerating satellite staging at Cape implies accelerating launch cadence, which increases near-term capital expenditure requirements and could pressure cash runway sooner than modeled.",
+    "CEO social-media-style disclosure (via Stocktwits) rather than formal IR channels is an ongoing transparency concern \u2014 material operational updates should flow through consistent, auditable channels.",
+    "$1.0B in unsecured senior debt (plus potential $150M overallotment) matures February 2034, creating a refinancing cliff if commercial revenue has not scaled by then.",
+    "Cross-default provision on $50M+ indebtedness means any future secured facility default could accelerate the notes, adding covenant complexity as the capital structure grows."
+   ],
+   "catalysts": [
+    {
+     "id": 22,
+     "symbol": "ASTS",
+     "date": "2026-08-10",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
+  },
+  {
    "symbol": "IREN",
    "name": "IREN Limited",
    "conviction": 10.3,
@@ -1018,9 +1120,10 @@
     10.3,
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 40.2,
+   "price": 41.29,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1041,45 +1144,6 @@
    "thesis_needed": true
   },
   {
-   "symbol": "TSLA",
-   "name": "Tesla Inc.",
-   "conviction": 6.3,
-   "thesis_strength": 32,
-   "conviction_history": [
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    16.3,
-    16.3,
-    6.3
-   ],
-   "price": 369.57,
-   "fair_low": 16.62488188509231,
-   "fair_base": 17.29217856119603,
-   "fair_high": 17.637550198448555,
-   "upside_pct": -95.32100047049381,
-   "last_impact": "weakens",
-   "last_memo": "Tesla is spending heavily on AI, self-driving, and robotics \u2014 bets that could be worth a lot someday, but that cost real money today. The problem is that Tesla's free cash flow (the actual cash left after running the business and investing) has been shrinking even as the company ",
-   "risks": [
-    "AI and autonomy capex may be scaling faster than FCF generation, creating a sustained multi-year period of compressed free cash yield even without balance sheet distress.",
-    "Media and investor focus on cash burn could pressure management to either curtail investment (slowing the thesis) or defend spending with bullish guidance that may prove difficult to achieve (credibility risk)."
-   ],
-   "catalysts": [
-    {
-     "id": 25,
-     "symbol": "TSLA",
-     "date": "2026-07-22",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
-  },
-  {
    "symbol": "IMSR",
    "name": "Terrestrial Energy Inc.",
    "conviction": 5.0,
@@ -1093,9 +1157,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 4.86,
+   "price": 5.46,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1112,39 +1177,53 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 486.00000000000006,
-   "thesis_needed": true
-  },
-  {
-   "symbol": "RGTI",
-   "name": "Rigetti Computing Inc.",
-   "conviction": 5.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    5.0,
-    5.0,
-    5.0,
-    5.0,
-    5.0,
-    5.0,
-    5.0,
-    5.0,
-    5.0
-   ],
-   "price": 14.25,
-   "fair_low": null,
-   "fair_base": null,
-   "fair_high": null,
-   "upside_pct": null,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [],
-   "position_value": 0,
+   "position_value": 546.0,
    "thesis_needed": true
   }
  ],
  "history": [
+  {
+   "date": "2026-07-22",
+   "symbol": "MSFT",
+   "impact": "strengthens",
+   "headline": "Microsoft-Mistral partnership incrementally supports AI distribution thesis; no structural change",
+   "strength": 76
+  },
+  {
+   "date": "2026-07-22",
+   "symbol": "GOOGL",
+   "impact": "neutral",
+   "headline": "Q2 earnings imminent; thesis intact but reverse-DCF implies ~26% growth priced in",
+   "strength": 72
+  },
+  {
+   "date": "2026-07-22",
+   "symbol": "SHOP.TO",
+   "impact": "strengthens",
+   "headline": "DoorDash integration adds omnichannel depth; analyst downgrade is valuation-driven, not thesis-driven",
+   "strength": 72
+  },
+  {
+   "date": "2026-07-22",
+   "symbol": "IBM",
+   "impact": "neutral",
+   "headline": "IBM Q2 earnings imminent; no new data yet \u2014 thesis unchanged, monitor for structural signals",
+   "strength": 62
+  },
+  {
+   "date": "2026-07-22",
+   "symbol": "ASTS",
+   "impact": "strengthens",
+   "headline": "BlueBirds 8-10 deployed, 3 more staged: satellite scaling execution progressing as needed",
+   "strength": 38
+  },
+  {
+   "date": "2026-07-22",
+   "symbol": "NVDA",
+   "impact": "weakens",
+   "headline": "AMD/Anthropic deal and TSMC warning are real but manageable signals, not thesis-killers",
+   "strength": 72
+  },
   {
    "date": "2026-07-21",
    "symbol": "MSFT",

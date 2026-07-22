@@ -1,6 +1,22 @@
 # International Business Machines Corporation (IBM) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-22 — IBM Q2 earnings imminent; no new data yet — thesis unchanged, monitor for structural signals
+**Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 65.8/100 · **ALERTED**
+
+**What changed:** Two news articles flag that IBM's Q2 earnings report is imminent. No actual results, guidance, or management commentary have been published. The events are previews and media roundups, not disclosures. No financial data, booking trends, or segment updates are available from these sources.
+
+**Why it matters:** Q2 results will be a genuine thesis checkpoint — specifically software segment growth (Red Hat momentum), consulting margins, AI booking disclosures, and free cash flow conversion. These are the drivers that actually move intrinsic value over a 5-year horizon. Until results are published, these articles carry zero informational content about the business.
+
+**Intrinsic value:** none / none via none — No new financial or strategic information has been disclosed. Intrinsic value is unchanged until actual results are reported and assessed against thesis assumptions.
+
+**Valuation:** fair value $74 / **$288** / $396 · implied growth at price: 2.1%
+
+**Committee memo:** These two items are earnings preview media coverage and contain no proprietary information, revised estimates, or management signals. They do not alter the thesis. That said, the upcoming Q2 report is genuinely thesis-critical and deserves close attention on the following dimensions: first, software segment organic growth — if Red Hat deceleration continues, that is a direct kill-criterion trigger; second, consulting margins, which have been under pressure from wage inflation and demand cyclicality; third, AI monetization language — we need to distinguish bookings with real revenue conversion from pipeline aspirations; fourth, the FCF-to-GAAP earnings relationship, where any widening gap would be a yellow flag given our 'cash is truth' discipline; and fifth, any update to full-year FCF guidance, which management has used as its primary capital allocation anchor. On valuation, the current price implies only 2.1% perpetual growth per the reverse-DCF, which is conservative relative to the software mix shift thesis — but the 3.48x net debt/EBITDA is above our 2.5x threshold and represents a real constraint on flexibility. We hold current conviction (no trim, no add) until results are in hand. This judgment would be wrong if Q2 reveals software growth reaccelerating sharply and AI bookings show concrete revenue pull-through, which would argue for raising conviction; conversely, if Red Hat growth disappoints materially or FCF guidance is cut, we must revisit kill criteria immediately.
+
+**Plain English:** Two news articles are simply flagging that IBM is about to report its Q2 earnings — there's no actual information in them about how the business performed. Think of them as a 'mark your calendar' reminder, not news. IBM's investment case rests on whether its software division keeps growing, whether its AI products are winning real enterprise contracts, and whether free cash flow keeps rising. We won't know any of that until the actual earnings report drops. The one pre-existing concern worth noting is that IBM's debt load (3.48x net debt/EBITDA) remains above our 2.5x comfort threshold, which we already knew. Nothing here changes that picture in either direction. Wait for the real numbers.
+
+---
 ## 2026-07-21 — Dividend safety headline flags earnings concern; key facts absent — investigate before acting
 **Thesis impact: NEUTRAL** · Thesis strength: 68/100 · Conviction: 71.8/100 · **ALERTED**
 
