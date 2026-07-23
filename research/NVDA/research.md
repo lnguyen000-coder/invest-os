@@ -1,6 +1,24 @@
 # NVIDIA Corporation (NVDA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-23 — Google's TPU efficiency claim is a known risk materializing, not a thesis-breaker — yet
+**Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 67.0/100 · **ALERTED**
+
+**What changed:** A report (via 24/7 Wall St.) claims Google is developing a new custom AI chip that may run AI inference workloads up to 10x cheaper than current solutions, implicitly challenging NVIDIA GPU economics. No technical specifications, benchmarks, or deployment timelines were provided in the available content. The report appears to be speculative commentary rather than a Google product announcement or verified technical disclosure.
+
+**Why it matters:** Hyperscaler-designed silicon (Google TPUs, AWS Trainium, Microsoft Maia) is explicitly listed as a known risk in the thesis. The critical question is whether Google's chip reduces their external GPU purchases meaningfully, compresses NVIDIA's average selling prices, or erodes the CUDA moat by routing workloads to proprietary stacks. A genuine 10x cost efficiency gain on inference would be structurally significant — inference is the fastest-growing segment of AI compute demand and a key driver of NVIDIA's long-term revenue thesis.
+
+**Intrinsic value:** none / none via none — No structural change in intrinsic value is warranted from a single unverified media report about a chip under development. If future disclosures confirm material inference workload migration away from NVIDIA at hyperscalers, the relevant driver would be 'growth' (lower data center revenue growth rate) and 'margins' (ASP compression). We are not there.
+**New risks:**
+- If Google's chip achieves commercial-scale deployment with verified 10x inference cost reduction, it could accelerate hyperscaler substitution of NVIDIA GPUs for inference workloads, compressing both volumes and ASPs in the fastest-growing AI compute segment.
+
+**Valuation:** fair value $32 / **$53** / $116
+
+**Committee memo:** The 24/7 Wall St. report on Google's new AI chip warrants monitoring but does not change the investment thesis. The competitive threat from hyperscaler custom silicon — Google TPU, AWS Trainium, Microsoft Maia — has been a known and explicitly acknowledged risk in our thesis document for years, and NVIDIA has continued to compound revenue and free cash flow through it. The critical distinction is between chips that run internal Google workloads more cheaply (which TPUs already do) and chips that actually reduce Google's external NVIDIA GPU procurement or trigger broader developer ecosystem migration away from CUDA. There is no evidence of the latter here. The 10x efficiency claim, even if directionally accurate for a narrow inference workload, does not translate to 10x reduction in NVIDIA's addressable market — training, fine-tuning, and heterogeneous inference remain deeply CUDA-dependent. What I would need to see to revisit this: verified benchmark data from an independent source, any hyperscaler disclosing reduced NVIDIA capex guidance, or evidence of meaningful developer toolchain migration away from CUDA. None of those signals are present. I would hold conviction at current levels and treat this as noise. The thesis is intact; thesis strength remains in the high-70s primarily because valuation remains well above our base-case fair value, which is the standing discipline concern independent of any single competitive news item.
+
+**Plain English:** A financial media outlet is reporting that Google is working on a new AI chip that could run AI tasks up to 10 times more cheaply than current chips — implicitly taking aim at NVIDIA's expensive GPUs. This is real in the sense that Google and other big tech companies have been building their own chips for years, and that competition is a genuine long-term risk for NVIDIA. However, there are no actual specifications, benchmarks, or launch dates in this report — it reads as speculative hype. More importantly, Google has had its own AI chips (TPUs) for nearly a decade, and NVIDIA's business has grown enormously alongside them. The reason NVIDIA keeps winning is that millions of developers and companies have built their AI software around NVIDIA's tools (CUDA), and switching is expensive and painful regardless of chip cost. Until we see hard evidence that big customers are actually cutting NVIDIA orders, this is a headline to watch, not to act on.
+
+---
 ## 2026-07-22 — AMD/Anthropic deal and TSMC warning are real but manageable signals, not thesis-killers
 **Thesis impact: WEAKENS** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
 

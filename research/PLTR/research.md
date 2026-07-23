@@ -1,6 +1,22 @@
 # Palantir Tech Inc. (PLTR) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-23 — PLTR drops 6.1% — price move only, no thesis-relevant information
+**Thesis impact: NEUTRAL** · Thesis strength: 68/100 · Conviction: 61.0/100 · **ALERTED**
+
+**What changed:** Palantir's share price fell 6.1% from $132.66 to $124.57 in a single session. No new earnings, guidance, contract announcements, or operational disclosures accompanied this move. The event is a price signal only, with no identified fundamental catalyst in the provided material.
+
+**Why it matters:** Under this investment philosophy, a price move without a fundamental catalyst is noise by definition. The thesis is built on a 5+ year horizon; a single-day 6% decline changes nothing about AIP adoption curves, government contract depth, or FCF trajectory. The only reason to engage with this at all is to ask whether the drop reveals new information — and here it does not.
+
+**Intrinsic value:** none / none via none — Intrinsic value is a function of future cash flows discounted to today. A price move without a change in business fundamentals, competitive position, or capital structure does not affect intrinsic value. The fair value range of $7.45–$25.11 is unchanged.
+
+**Valuation:** fair value $7 / **$20** / $25
+
+**Committee memo:** The 6.1% decline in PLTR is a price event, not a business event, and should be treated as such. No new information about AIP traction, commercial customer growth, government contract pipeline, FCF generation, or competitive dynamics was disclosed. The investment thesis is intact and unchanged. That said, the committee should hold a clear-eyed view of what we already knew before today: at $124.57, Palantir trades at approximately 57x trailing revenue and 141x trailing earnings, implying a sustained multi-decade compounding scenario that leaves almost no room for execution missteps. Our DCF-derived base case fair value of ~$20/share means the stock is pricing in assumptions far beyond what the model currently justifies — this was true before the drop and remains true after it. The appropriate action is to hold conviction on the thesis while remaining disciplined about sizing, given the valuation gap. We would not add to the position purely because the price declined without a fundamental catalyst. What would prove this judgment wrong: if subsequent investigation reveals the price drop was informed by leaked contract cancellations, a government budget freeze affecting Palantir specifically, or a large insider disposal — none of which are in the provided material. Absent that, this is silence-worthy.
+
+**Plain English:** Palantir's stock dropped about 6% today, but nothing happened at the company — no earnings report, no contract news, no management statement. The stock simply fell, which happens regularly with high-valuation technology names. Think of it like this: if you owned a rental property and its estimated market price dipped for a day with no change in your tenants, rent, or the neighborhood, you wouldn't change anything. That's the situation here. The business is the same company it was yesterday, still deeply embedded in government and commercial operations. The one honest thing to note is that even after this drop, the stock trades at an extremely high valuation relative to current earnings, so there is very little margin for error if growth ever disappoints.
+
+---
 ## 2026-07-17 — PLTR-SNP partnership targets SAP migrations; minor thesis support, no valuation impact
 **Thesis impact: STRENGTHENS** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
 
