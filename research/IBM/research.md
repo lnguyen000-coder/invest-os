@@ -1,6 +1,25 @@
 # International Business Machines Corporation (IBM) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-24 — IBM acquires HRL Laboratories quantum research lab; long-term bet, no near-term thesis shift
+**Thesis impact: NEUTRAL** · Thesis strength: 68/100 · Conviction: 71.4/100 · **ALERTED**
+
+**What changed:** IBM is acquiring HRL Laboratories, a private quantum computing research organization. Multiple outlets confirm the deal. No purchase price has been disclosed in the provided material, and no financial terms are available for analysis. The acquisition adds quantum computing R&D capability to IBM's existing quantum hardware and software program.
+
+**Why it matters:** The acquisition is relevant to the thesis only at the margin: IBM's moat rests on switching costs, trusted enterprise relationships, and Red Hat's hybrid cloud ecosystem — not quantum computing leadership. Quantum computing remains pre-commercial for enterprise workloads; it does not move the near-term drivers of intrinsic value (software revenue growth, Red Hat momentum, FCF, consulting margins). The strategic logic is defensible — IBM has long been a leader in quantum research and acquiring specialized talent and IP could extend that lead — but this is a research bet, not a revenue event.
+
+**Intrinsic value:** none / none via none — Without a disclosed purchase price, we cannot quantify capital deployed or assess whether ROIC is impacted. Quantum computing generates no material revenue for any enterprise technology vendor today, so this does not alter near- or medium-term FCF assumptions. If the price is immaterial, there is no intrinsic value effect worth modeling.
+**New risks:**
+- Undisclosed purchase price prevents assessment of whether IBM deployed capital at a value-destructive valuation — will need disclosure to clear the kill criterion check on value-destructive acquisitions.
+- Quantum computing timelines are highly uncertain; if IBM escalates investment in quantum at the expense of software and hybrid cloud execution, it could distract management attention from the core thesis drivers.
+
+**Valuation:** fair value $75 / **$289** / $396 · implied growth at price: 1.9%
+
+**Committee memo:** IBM is acquiring HRL Laboratories to expand its quantum computing research capabilities. This is not a thesis-moving event in either direction. The core investment case rests on software revenue growth, Red Hat's hybrid cloud ecosystem, expanding FCF, and disciplined capital allocation — none of which are affected by a quantum R&D acquisition. IBM has maintained a credible quantum computing program for years, and consolidating specialized talent and intellectual property is consistent with that strategy. The critical unknown is deal price: IBM's balance sheet already carries net debt/EBITDA of 3.54x, which is above our 2.5x comfort threshold, and any material unannounced capital outflow would warrant scrutiny under the kill criterion around value-destructive acquisitions. Until terms are disclosed, this event should be filed as 'consistent with stated strategy, financially unquantifiable.' We hold conviction on the existing position. The action item is to revisit when IBM discloses transaction terms — if the price is large relative to EBITDA or depletes FCF that would otherwise reduce leverage, that would be a credibility and capital allocation concern worth escalating. What would prove this judgment wrong: a disclosed price that is clearly excessive relative to any realistic quantum revenue timeline, or a pattern of similar R&D-stage acquisitions that cumulatively prevent IBM from deleveraging to below 2.5x net debt/EBITDA.
+
+**Plain English:** IBM is buying a quantum computing research lab called HRL Laboratories. Quantum computing is a very early-stage technology — think of it as computing that could eventually solve problems classical computers cannot, but it is not generating meaningful business revenue for anyone yet. For IBM, this is more of a 'stay at the frontier' move than a business-changing deal. The price IBM is paying hasn't been disclosed, which is the one thing we'd need to know to judge whether this was a smart use of cash. For now, nothing about why we own IBM — steady software growth, Red Hat, free cash flow — has changed. This is a research bet, not a revenue event, and it deserves to be treated as such until we know more.
+
+---
 ## 2026-07-23 — IBM cuts 2026 revenue guidance after Q2 miss; thesis under modest pressure but not broken
 **Thesis impact: WEAKENS** · Thesis strength: 62/100 · Conviction: 66.0/100 · **ALERTED**
 

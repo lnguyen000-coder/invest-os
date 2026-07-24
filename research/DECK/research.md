@@ -1,6 +1,26 @@
 # Deckers Outdoor Corp. (DECK) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-24 — DECK beats Q1 FY2027 but cautious Q2/full-year guidance rattles market; thesis intact at current price
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 85.0/100 · **ALERTED**
+
+**What changed:** Deckers reported Q1 FY2027 (quarter ended June 30, 2026) results that beat earnings expectations and included record revenue. However, management issued a cautious revenue outlook — specifically flagging slowing Q2 sales growth — which sent shares down roughly 6% overnight. The company updated its full fiscal year guidance alongside the quarterly results.
+
+**Why it matters:** The core thesis rests on two pillars: HOKA sustaining above-market growth globally, and UGG generating durable cash flows. A cautious near-term revenue outlook is only thesis-relevant if it signals a structural deceleration in HOKA momentum or brand erosion — not if it reflects deliberate distribution restraint, FX headwinds, or a tough seasonal comparison. The market's reaction conflates a guidance-driven quarterly narrative with a long-term earnings power question. What we need to determine is whether the implied Q2 slowdown is cyclical noise or the first datapoint in a HOKA growth deceleration trend — the most important kill criterion in the thesis.
+
+**Intrinsic value:** none / none via none — A single quarter of cautious guidance following an earnings beat does not change 2031 earnings power with confidence. Intrinsic value is unchanged until we can verify whether HOKA's growth rate is structurally impaired. The stock's move is a valuation multiple event, not a business value event.
+**New risks:**
+- HOKA Q2 sales growth deceleration, if confirmed with actuals, could represent the beginning of a maturation curve that compresses the long-term growth assumption.
+- Market's low implied growth rate (3.1% reverse DCF) suggests sentiment has already shifted bearish; further guidance cuts could trigger multiple compression even if fundamentals are sound.
+- Retail commentary characterizing the stock drop as 'absurd' introduces sentiment-driven volatility that is not directly informative but warrants monitoring for any fundamental signal embedded in it.
+
+**Valuation:** fair value $83 / **$210** / $244 · implied growth at price: 3.1%
+
+**Committee memo:** Deckers reported Q1 FY2027 with record revenue and an above-expectations earnings result — then guided cautiously on Q2 revenue, triggering a 6% share price decline. The available event content does not include the actual numerical results, HOKA growth rates, or specific guidance figures, which limits the precision of this analysis. What we can say with confidence: a single quarter of conservative guidance following a beat is not a thesis event. The thesis is premised on HOKA sustaining global market share gains over a multi-year horizon, UGG maintaining its cash-generative resilience, and management continuing disciplined capital allocation — none of which are contradicted by the evidence presented. The more important observation is valuation: a reverse DCF implies only 3.1% perpetual growth is priced in at $96, against a base case fair value of ~$210. This means the market is already embedding significant skepticism, and any re-acceleration of HOKA growth or margin stability would represent a meaningful upside catalyst. My recommendation is to hold conviction and use any continued weakness as a potential opportunity to add, subject to one critical condition: the committee must obtain and review the actual Q1 earnings release (Exhibit 99.1 of the 8-K) to verify HOKA organic revenue growth rate, DTC mix, and gross margin before acting. If HOKA revenue growth has decelerated below 15% on an organic basis for two consecutive quarters, we would revisit the Stage 1 growth assumption downward. What would prove this judgment wrong: HOKA's growth rate falling into single digits, evidence of discounting-driven gross margin compression, or inventory building meaningfully faster than revenue — none of which are confirmed by the available content.
+
+**Plain English:** Deckers just reported its best-ever quarterly revenue and beat profit expectations, but warned the next quarter's sales growth will be slower than investors hoped — and the stock fell 6% in response. This is a case where the market is punishing a company for being cautious about the near future, even though the underlying business is performing well. The key question we can't yet answer is whether HOKA — the main growth engine — is hitting a temporary speed bump or starting to slow down for structural reasons. At roughly 11.5x forward earnings and a stock price that only makes sense if the business grows at a meager 3% annually forever, the market appears to be pricing in pessimism that isn't supported by recent results. We need to see the actual HOKA revenue growth rate and gross margin figures before drawing any conclusions about whether this changes the long-term story.
+
+---
 ## 2026-07-14 — Jefferies upgrades DECK citing HOKA momentum; supports thesis but adds no new fundamental data
 **Thesis impact: NEUTRAL** · Thesis strength: 78/100 · Conviction: 91.0/100 · **ALERTED**
 

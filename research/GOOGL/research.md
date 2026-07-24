@@ -1,6 +1,26 @@
 # Alphabet Inc. (GOOGL) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-24 — Search growth decelerated 2pp but moat intact; -7.1% drop is price noise, not thesis signal
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
+
+**What changed:** Google Search revenue growth slowed to 17% from 19% in the prior quarter — the first sequential deceleration in four quarters. The price fell 7.1% on the day, apparently driven by investor focus on AI capex levels alongside the growth softening. No new structural disclosure on search monetization, market share loss, or cloud competitiveness was reported in the provided materials.
+
+**Why it matters:** Search is the primary earnings engine and the core moat asset; any deceleration demands scrutiny. However, a 2-percentage-point slowdown from 19% to 17% at this revenue base (~$175B+ annualized Search run-rate) is a data point, not a verdict — it must be weighed against whether this reflects macro ad-spend softness, competitive encroachment, or AI-driven query cannibalization. The capex narrative matters because the thesis explicitly requires AI investments to generate returns; elevated spending without visible revenue payback widens the gap between GAAP earnings and FCF and raises capital discipline questions. The FCF history provided ($60B → $73B in three years) is strong, but the TTM FCF figure of $25.5B looks anomalously low against prior years and warrants investigation before drawing conclusions.
+
+**Intrinsic value:** none / none via none — A single quarter of 2pp deceleration in search growth does not justify revising long-term growth assumptions. Intrinsic value is sensitive to whether search monetization structurally declines — that is not yet in evidence. The TTM FCF anomaly ($25.5B vs. ~$73B prior year) needs explanation before any FCF-based assumption change is warranted; it may reflect capex timing or working capital, not earnings deterioration.
+**New risks:**
+- Capex acceleration may be outpacing near-term AI revenue generation, compressing FCF returns below historical norms for longer than the market or thesis assumes.
+- The TTM FCF figure of $25.5B — roughly one-third of prior-year levels — is unexplained in provided materials and represents a yellow flag on cash earnings quality until clarified.
+- Search growth deceleration, even if currently macro-driven, raises the probability that AI-native competitors (Perplexity, ChatGPT search) are beginning to attract incremental query share at the margin.
+
+**Valuation:** fair value $100 / **$184** / $391 · implied growth at price: 24.2%
+
+**Committee memo:** The two events — a 2pp search growth deceleration and an AI spending narrative — do not individually or collectively trigger a thesis reassessment. At 17% growth, Google Search is still compounding at a rate that few businesses of this scale achieve. The moat thesis does not require 19%; it requires that search remains highly profitable and that monetization per user-interaction is durable. What does require immediate investigation is the TTM FCF figure: $25.5 billion against a three-year history of $60-73 billion per year is a structural discontinuity, not a rounding error. If this reflects a step-change in capex that management has flagged as temporary and tied to identifiable AI infrastructure builds with expected utilization timelines, the thesis is intact and this is exactly the kind of short-term pain long-horizon investors are paid to absorb. If it reflects deteriorating cash conversion from operations, it is a kill-criterion precursor. The -7.1% price decline is irrelevant to this analysis. My recommendation is to hold current conviction, do not add at this moment, and prioritize obtaining the earnings call transcript and capex-to-revenue bridge before the next decision point. This judgment would be proven wrong if: (1) Search query volume (not just revenue) is declining year-over-year, (2) the FCF compression is operational rather than capex-driven, or (3) Cloud growth decelerates materially in the same period, suggesting broad competitive deterioration rather than isolated macro softness.
+
+**Plain English:** Google's search business grew 17% last quarter instead of 19% — a modest slowdown that spooked the market and sent the stock down 7%. That kind of single-quarter move is almost always about investor sentiment, not business value. The business itself still grew meaningfully, the balance sheet is net cash, and the return on capital is exceptional. The real thing worth investigating is that Google's free cash flow over the past year appears dramatically lower than in prior years, which could mean they're spending heavily on AI infrastructure — a deliberate bet — or it could signal something more concerning. Until we understand that number better, and until we see whether the search slowdown is temporary (ad budgets tightening) or structural (people using AI tools instead of Google), the right move is to hold conviction but stay alert. Nothing here triggers a sell.
+
+---
 ## 2026-07-23 — Q2 2026 10-Q filed; earnings triggered stock sell-off; capex surge and equity issuance are the real thesis tests
 **Thesis impact: WEAKENS** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
 

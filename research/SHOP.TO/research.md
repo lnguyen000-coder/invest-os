@@ -1,6 +1,22 @@
 # Shopify Inc. (SHOP.TO) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-24 — SHOP.TO -5.4% price move: noise, not signal — thesis unchanged
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
+
+**What changed:** Shopify's share price declined 5.4% from CAD 166.88 to CAD 157.86 in a single session. No new fundamental information, earnings release, management guidance change, or competitive development was provided as the catalyst. The move appears rule-based/screener-triggered rather than information-driven.
+
+**Why it matters:** A one-day price decline only matters if it reflects new information about the business — a deteriorating merchant base, slowing GMV, margin compression, or a competitive threat. None of those signals are present here. For a 5+ year holder, a 5.4% daily fluctuation in a high-multiple growth stock is well within normal volatility and does not affect what Shopify earns in 2031.
+
+**Intrinsic value:** none / none via none — Intrinsic value is a function of future free cash flow, not today's clearing price. No new information was provided that would change revenue growth, margin, or capital intensity assumptions. The current fair value estimates (base ~CAD 14, exit-multiple ~CAD 19.57 in USD terms — noting the valuation figures appear to be in USD while price is CAD, which warrants clarification) remain unchanged.
+
+**Valuation:** fair value $12 / **$14** / $20
+
+**Committee memo:** Today's 5.4% decline in SHOP.TO is entirely price-driven with no accompanying fundamental catalyst, and the committee should assign it zero weight in thesis assessment. The investment case — Shopify as the durable operating system for independent commerce, with switching costs deepening as merchants integrate Payments, POS, financing, and logistics — is completely unaffected by a session-level price move. Hold conviction is the correct stance. What the committee should instead focus on is the standing valuation tension: the model's base fair value and DCF estimates sit well below the current trading price, implying the thesis requires sustained high GMV growth, continued Merchant Solutions mix expansion, and significant operating leverage to justify the premium. That is not a new concern from today, but it remains the primary ongoing risk. This judgment would be wrong if today's move were later revealed to be informed — e.g., if a large merchant departure, regulatory action on Payments, or a major competitive win by a rival surfaces in coming days. If no such catalyst emerges within a week, this event should be formally closed as noise.
+
+**Plain English:** Shopify's stock dropped about 5% today, but nothing happened to the actual business. No earnings, no news, no competitive threat — just a price move. For someone planning to own this for five or more years, a single day's price swing is essentially irrelevant. The business is still the same: millions of merchants running their stores on Shopify, paying for payments processing and software, with a growing pile of free cash flow. The only honest response here is to note it happened and move on. One flag worth watching separately: the fair value estimates in the model are materially below the current price, which is the more important ongoing tension to monitor.
+
+---
 ## 2026-07-22 — DoorDash integration adds omnichannel depth; analyst downgrade is valuation-driven, not thesis-driven
 **Thesis impact: STRENGTHENS** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
 
