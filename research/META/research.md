@@ -1,6 +1,26 @@
 # Meta Platforms Inc. (META) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-27 — Meta's 5 GW Louisiana data center signals massive AI infrastructure bet, not yet a thesis mover
+**Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 79.0/100 · **ALERTED**
+
+**What changed:** Meta has expanded its planned Hyperion data center campus in Louisiana to 5 gigawatts of capacity, making it one of the largest single data center buildouts ever announced. This represents a significant increase in AI and inference infrastructure. The expansion is consistent with Meta's previously stated 2025 capex guidance of $60-65B but may signal upward pressure on capital intensity beyond that range.
+
+**Why it matters:** AI infrastructure capacity is the physical substrate of Meta's advertising moat — better inference = better ad targeting = higher advertiser ROI = pricing power. More capacity also supports Llama model development and the open-source AI ecosystem that attracts developers and strengthens Meta's AI positioning. However, the key thesis question is whether incremental capex dollars generate returns above cost of capital. A 5 GW buildout is enormous — for context, the entire US data center market is roughly 20-25 GW total — and warrants scrutiny on capital efficiency, not just strategic intent.
+
+**Intrinsic value:** none / none via capital_intensity — Without a confirmed capex revision above current guidance, this is a capacity announcement rather than a financial commitment that changes near-term FCF. If this signals capex materially above $65B in 2026-2027, it would modestly reduce near-term FCF and compress intrinsic value slightly, but would need to be weighed against any acceleration in AI-driven revenue. No assumption changes are warranted on this announcement alone.
+**New risks:**
+- Capex guidance creep: a 5 GW campus suggests capex commitments may extend well beyond 2025, potentially pressuring FCF for 3-5 years before revenue payoff.
+- Concentration risk: a single 5 GW campus in Louisiana creates geographic and regulatory concentration in a state where permitting, power grid reliability, and weather risk are material.
+- Execution risk on scale: infrastructure builds of this magnitude have historically experienced cost overruns, delays, and technical challenges that compress returns.
+
+**Valuation:** fair value $298 / **$497** / $959 · implied growth at price: 21.8%
+
+**Committee memo:** Meta's Hyperion expansion to 5 GW is the largest data center announcement I'm aware of by a single company at a single site, and it warrants attention without overreaction. Strategically, the thesis explicitly calls out AI infrastructure as a moat-building investment, and Meta's balance sheet — essentially no net debt, 30.9% ROIC — gives it the capacity to make bets of this scale. The announcement is directionally consistent with the investment case. However, the investment committee should resist the temptation to frame scale as validation. What matters is return on invested capital, and at 5 GW, the depreciation burden alone will be enormous once online. The key questions I'd want answered before adjusting any assumptions: (1) Does this revision total capex guidance above the $60-65B already disclosed, and if so, by how much and for how long? (2) What workloads is this capacity earmarked for — ad inference, Llama training, or third-party cloud? (3) What is the expected revenue contribution timeline? My recommended posture is hold conviction at current levels. The stock trades at roughly 16x forward earnings with a ROIC of 31%, which already prices in meaningful growth without requiring Hyperion to be transformative. What would prove this judgment wrong: if Q2 earnings disclose a material capex revision above $70B for 2025 or a multi-year commitment above current guidance that is not tied to specific revenue-generating workloads, I would revisit the capital_intensity assumption and likely reduce intrinsic value modestly.
+
+**Plain English:** Meta is building one of the largest data centers in history in Louisiana, capable of handling 5 gigawatts of power — roughly equivalent to the electricity needs of several million homes. The purpose is to run the AI systems that power Meta's ad targeting, content recommendations, and AI model development. This is consistent with what Zuckerberg has been saying about investing heavily in AI infrastructure. The concern isn't the strategy — it's the price tag. We don't yet know if this pushes Meta's spending above its stated plans for this year and beyond, and big construction projects like this carry real financial costs before you see the revenue payoff. For now, this fits the thesis but needs watching.
+
+---
 ## 2026-07-24 — Marketplace Seller app extends monetization optionality; AI debt raise warrants balance sheet watch
 **Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 79.0/100 · **ALERTED**
 

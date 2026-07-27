@@ -1,6 +1,22 @@
 # Shopify Inc. (SHOP.TO) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-27 — SHOP +7.8% in a session; price move alone carries no thesis information
+**Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
+
+**What changed:** Shopify's share price moved +7.8% versus the prior close, from CAD 160.46 to CAD 173.00. No new fundamental disclosures, earnings releases, or strategic announcements accompanied this move based on the provided material. The move is flagged as rule-based by the screener.
+
+**Why it matters:** A single-session price move without an accompanying fundamental catalyst is noise, not signal. What matters for a 5-year thesis is whether GMV, merchant retention, Merchant Solutions penetration, or free cash flow trajectory have changed — none of which are addressed by a price tick. The only relevant observation is that the stock now trades at roughly 18x trailing sales and ~120x trailing earnings, which were already premium valuations; the move makes the stock marginally more expensive but does not alter the underlying business.
+
+**Intrinsic value:** none / none via none — A price move does not change intrinsic value. Intrinsic value is a function of future free cash flows discounted at an appropriate rate; none of those inputs have been revised by this event.
+
+**Valuation:** fair value $12 / **$14** / $20
+
+**Committee memo:** Today's 7.8% price appreciation is a rule-triggered flag with no fundamental content. The committee should not interpret it as confirming or disconfirming the thesis. What it does highlight, however, is the persistent and material valuation disconnect: our base-case DCF implies ~CAD $14/share, and the stock trades at $173 — roughly 12x our modeled intrinsic value. That gap has been a standing feature of this position, not a new development, but it is worth stating plainly: at current prices, the market is pricing in an extraordinarily long runway of high-growth, high-margin compounding that leaves almost no margin of safety. The underlying business quality is not in question — ROIC of 18.8%, net cash position of 2.6x EBITDA, and accelerating FCF history are all genuine positives. But quality and price are two different things. Our current posture should be to hold conviction in the thesis only if we have genuine conviction that our DCF assumptions are deeply conservative; otherwise this is a 'watch and wait for a better entry' situation rather than a 'add on strength' one. We would be proved wrong on the bearish valuation view if Shopify's FCF compounds at 30%+ annually for the next decade with sustained margins — possible but not the base case. No action warranted today.
+
+**Plain English:** Shopify's stock jumped about 8% today, but there was no news behind it — no earnings, no product announcement, no strategic update. The business itself is unchanged. Shopify is a genuinely excellent company with strong competitive advantages, but the stock already trades at a very high price relative to the cash it currently generates. Our estimated fair value is around CAD $14, while the stock is at $173, which means a lot of future growth is already baked into the price. A single good day in the stock market doesn't change any of that math. There is nothing to act on here.
+
+---
 ## 2026-07-24 — SHOP.TO -5.4% price move: noise, not signal — thesis unchanged
 **Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
 

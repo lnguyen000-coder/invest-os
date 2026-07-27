@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-24 13:11 UTC",
+ "generated": "2026-07-27 14:02 UTC",
  "rows": [
   {
    "symbol": "CSU.TO",
@@ -18,13 +18,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 2565.61,
+   "price": 2729.72,
    "fair_low": 460.5776080431524,
    "fair_base": 4841.692830021196,
    "fair_high": 7438.866727393741,
-   "upside_pct": 88.71507477836442,
+   "upside_pct": 77.36957746659716,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -43,8 +44,8 @@
   {
    "symbol": "DECK",
    "name": "Deckers Outdoor Corp.",
-   "conviction": 85.0,
-   "thesis_strength": 72,
+   "conviction": 91.0,
+   "thesis_strength": 78,
    "conviction_history": [
     63.0,
     63.0,
@@ -57,19 +58,21 @@
     91.0,
     91.0,
     91.0,
-    85.0
+    85.0,
+    91.0
    ],
-   "price": 96.23,
+   "price": 98.82,
    "fair_low": 83.42849296741575,
    "fair_base": 209.78748819499936,
    "fair_high": 244.2504478470841,
-   "upside_pct": 118.00632671204339,
-   "last_impact": "neutral",
-   "last_memo": "Deckers just reported its best-ever quarterly revenue and beat profit expectations, but warned the next quarter's sales growth will be slower than investors hoped \u2014 and the stock fell 6% in response. This is a case where the market is punishing a company for being cautious about ",
+   "upside_pct": 112.2925401689935,
+   "last_impact": "strengthens",
+   "last_memo": "Deckers just had its best-ever first quarter, crossing $1 billion in sales for the first time in a period that is normally its slowest due to UGG's winter seasonality. Both its main brands \u2014 HOKA running shoes and UGG boots \u2014 contributed, which is exactly what the investment thes",
    "risks": [
+    "Revenue milestone achieved without margin detail creates a temporary information gap \u2014 if Q1 margins compressed to drive volume, the quality of this milestone would be lower than it appears.",
+    "A $1B Q1 raises the base for year-over-year comparisons in future periods, increasing the risk of optically weak growth rates even if absolute dollar growth continues.",
     "HOKA Q2 sales growth deceleration, if confirmed with actuals, could represent the beginning of a maturation curve that compresses the long-term growth assumption.",
-    "Market's low implied growth rate (3.1% reverse DCF) suggests sentiment has already shifted bearish; further guidance cuts could trigger multiple compression even if fundamentals are sound.",
-    "Retail commentary characterizing the stock drop as 'absurd' introduces sentiment-driven volatility that is not directly informative but warrants monitoring for any fundamental signal embedded in it."
+    "Market's low implied growth rate (3.1% reverse DCF) suggests sentiment has already shifted bearish; further guidance cuts could trigger multiple compression even if fundamentals are sound."
    ],
    "catalysts": [
     {
@@ -80,7 +83,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3464.28,
+   "position_value": 3557.5199999999995,
    "thesis_needed": false
   },
   {
@@ -100,20 +103,21 @@
     81.0,
     81.0,
     81.0,
+    79.0,
     79.0
    ],
-   "price": 606.1,
+   "price": 607.495,
    "fair_low": 297.85822132476756,
    "fair_base": 496.9148589044447,
    "fair_high": 958.9625165912731,
-   "upside_pct": -18.01437734623912,
+   "upside_pct": -18.20264217739328,
    "last_impact": "neutral",
-   "last_memo": "Meta did two things worth noting. First, it launched a proper app for sellers on Facebook Marketplace \u2014 think of it as Meta finally trying to take a cut of the buying and selling that already happens on its platform, the way eBay does. This is a real opportunity but it's early, a",
+   "last_memo": "Meta is building one of the largest data centers in history in Louisiana, capable of handling 5 gigawatts of power \u2014 roughly equivalent to the electricity needs of several million homes. The purpose is to run the AI systems that power Meta's ad targeting, content recommendations,",
    "risks": [
-    "Escalating AI infrastructure debt financing, if it becomes a recurring funding mechanism rather than opportunistic treasury management, could introduce interest expense drag and signal FCF is insufficient to self-fund the capex program.",
-    "Marketplace commerce expansion into payments and take-rate monetization will attract regulatory scrutiny in the EU and potentially the US, layering additional compliance cost onto an already-regulated platform.",
-    "Off-balance-sheet financing structures (BlackRock bond vehicle) may obscure Meta's true economic leverage; operating or financing lease obligations could materially exceed the reported 0.05x net debt/EBITDA if aggregated with other similar arrangements.",
-    "Concentration of AI compute in a single large Texas facility introduces geographic and operational concentration risk (power availability, weather, regulatory)."
+    "Capex guidance creep: a 5 GW campus suggests capex commitments may extend well beyond 2025, potentially pressuring FCF for 3-5 years before revenue payoff.",
+    "Concentration risk: a single 5 GW campus in Louisiana creates geographic and regulatory concentration in a state where permitting, power grid reliability, and weather risk are material.",
+    "Execution risk on scale: infrastructure builds of this magnitude have historically experienced cost overruns, delays, and technical challenges that compress returns.",
+    "Escalating AI infrastructure debt financing, if it becomes a recurring funding mechanism rather than opportunistic treasury management, could introduce interest expense drag and signal FCF is insufficient to self-fund the capex program."
    ],
    "catalysts": [
     {
@@ -124,7 +128,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9697.6,
+   "position_value": 9719.92,
    "thesis_needed": false
   },
   {
@@ -144,13 +148,14 @@
     77.0,
     77.0,
     77.0,
+    77.0,
     77.0
    ],
-   "price": 233.66,
+   "price": 234.24,
    "fair_low": 3.755618111346491,
    "fair_base": 34.51737594055758,
    "fair_high": 106.37401171749354,
-   "upside_pct": -85.2275203541224,
+   "upside_pct": -85.26409838603246,
    "last_impact": "strengthens",
    "last_memo": "Amazon is building a new highly automated warehouse in Texas and opening up its homemade AI chip \u2014 Trainium \u2014 to more cloud customers. Neither of these is a surprise; both are pieces of a strategy Amazon has been executing for years. The robotic warehouse means fewer people doing",
    "risks": [
@@ -166,13 +171,13 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3504.9,
+   "position_value": 3513.6000000000004,
    "thesis_needed": false
   },
   {
    "symbol": "IBM",
    "name": "International Business Machines Corporation",
-   "conviction": 71.4,
+   "conviction": 72.0,
    "thesis_strength": 68,
    "conviction_history": [
     45.7,
@@ -186,13 +191,14 @@
     71.8,
     65.8,
     66.0,
-    71.4
+    71.4,
+    72.0
    ],
-   "price": 206.65,
+   "price": 218.43,
    "fair_low": 75.00733660346769,
    "fair_base": 288.55960253064944,
    "fair_high": 396.3485189888189,
-   "upside_pct": 39.63687516605343,
+   "upside_pct": 32.10621367515883,
    "last_impact": "neutral",
    "last_memo": "IBM is buying a quantum computing research lab called HRL Laboratories. Quantum computing is a very early-stage technology \u2014 think of it as computing that could eventually solve problems classical computers cannot, but it is not generating meaningful business revenue for anyone y",
    "risks": [
@@ -230,20 +236,21 @@
     43.0,
     65.0,
     67.0,
+    67.0,
     67.0
    ],
-   "price": 208.76,
+   "price": 201.7075,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -74.43605268278127,
+   "upside_pct": -73.54223495932189,
    "last_impact": "neutral",
-   "last_memo": "A financial media outlet is reporting that Google is working on a new AI chip that could run AI tasks up to 10 times more cheaply than current chips \u2014 implicitly taking aim at NVIDIA's expensive GPUs. This is real in the sense that Google and other big tech companies have been bu",
+   "last_memo": "Reports say NVIDIA may be helping to finance OpenAI's purchase of NVIDIA hardware \u2014 essentially lending money to a customer to buy your own products. On one hand, this shows just how central NVIDIA is to the AI world: the most important AI company apparently wants NVIDIA's chips ",
    "risks": [
-    "If Google's chip achieves commercial-scale deployment with verified 10x inference cost reduction, it could accelerate hyperscaler substitution of NVIDIA GPUs for inference workloads, compressing both volumes and ASPs in the fastest-growing AI compute segment.",
-    "AMD is demonstrating real, named design wins with frontier AI labs, increasing the credibility of a multi-vendor AI hardware market that reduces NVIDIA's pricing power over time.",
-    "TSMC has issued a warning (specifics not fully available) that may signal capacity constraints, price increases, or geopolitical exposure that could limit NVIDIA's production scale or compress gross margins.",
-    "Concurrent competitive and supply-chain headwinds arriving together may amplify customer incentive to accelerate alternative vendor qualification, creating a feedback loop not present when either risk operates alone."
+    "Vendor financing of GPU purchases, if confirmed and material, introduces credit concentration risk to NVIDIA's balance sheet tied to OpenAI's financial health.",
+    "A pattern of vendor-financed demand would raise questions about whether AI infrastructure capex is as organically robust as current revenue growth implies.",
+    "Reputational and regulatory risk if the financing arrangement is structured in a way that regulators view as anticompetitive or as a mechanism to lock OpenAI into NVIDIA exclusively.",
+    "If Google's chip achieves commercial-scale deployment with verified 10x inference cost reduction, it could accelerate hyperscaler substitution of NVIDIA GPUs for inference workloads, compressing both volumes and ASPs in the fastest-growing AI compute segment."
    ],
    "catalysts": [
     {
@@ -274,13 +281,14 @@
     67.0,
     65.0,
     55.0,
+    65.0,
     65.0
    ],
-   "price": 317.69,
-   "fair_low": 99.5504883464529,
-   "fair_base": 183.6081377497291,
-   "fair_high": 391.4880663403998,
-   "upside_pct": -42.205251109657496,
+   "price": 328.095,
+   "fair_low": 98.1810001979202,
+   "fair_base": 182.2386496011964,
+   "fair_high": 390.11857819186713,
+   "upside_pct": -44.45552367418083,
    "last_impact": "neutral",
    "last_memo": "Google's search business grew 17% last quarter instead of 19% \u2014 a modest slowdown that spooked the market and sent the stock down 7%. That kind of single-quarter move is almost always about investor sentiment, not business value. The business itself still grew meaningfully, the b",
    "risks": [
@@ -290,97 +298,7 @@
     "Alphabet issued mandatory convertible preferred stock at a 6.25% coupon plus common equity dilution to fund Wiz \u2014 the preferred will convert to common shares, creating an ongoing dilution overhang."
    ],
    "catalysts": [],
-   "position_value": 3494.59,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "SHOP.TO",
-   "name": "Shopify Inc.",
-   "conviction": 65.0,
-   "thesis_strength": 72,
-   "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    65.0,
-    65.0,
-    65.0,
-    65.0,
-    67.0,
-    65.0,
-    65.0,
-    65.0
-   ],
-   "price": 157.86,
-   "fair_low": 11.690267416651736,
-   "fair_base": 14.045639577281454,
-   "fair_high": 19.573210924567046,
-   "upside_pct": -91.10247081130024,
-   "last_impact": "neutral",
-   "last_memo": "Shopify's stock dropped about 5% today, but nothing happened to the actual business. No earnings, no news, no competitive threat \u2014 just a price move. For someone planning to own this for five or more years, a single day's price swing is essentially irrelevant. The business is sti",
-   "risks": [
-    "DoorDash partnership creates a dependency on a third-party logistics network; if DoorDash changes pricing, availability, or terms, merchants enabled through this channel could face disruption with limited Shopify recourse.",
-    "Analyst downgrade, even if valuation-driven, can accelerate institutional selling and increase short-term price volatility, which matters only if Shopify needs to issue equity or if management credibility becomes tied to share price performance.",
-    "Dependency on DoorDash's own network reliability and pricing could expose Shopify merchants to service disruptions or cost pass-throughs outside Shopify's control.",
-    "If DoorDash deteriorates as a business or changes its partner economics, Shopify merchants relying on this integration could be disrupted, potentially creating merchant dissatisfaction attributed to the Shopify platform."
-   ],
-   "catalysts": [
-    {
-     "id": 14,
-     "symbol": "SHOP.TO",
-     "date": "2026-08-05",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 6314.400000000001,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "MSFT",
-   "name": "Microsoft Corporation",
-   "conviction": 64.0,
-   "thesis_strength": 76,
-   "conviction_history": [
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    62.0,
-    76.0,
-    76.0,
-    60.0,
-    70.0,
-    64.0,
-    64.0,
-    64.0
-   ],
-   "price": 381.58,
-   "fair_low": 64.15462217769772,
-   "fair_base": 102.88630008833451,
-   "fair_high": 192.26997108513837,
-   "upside_pct": -73.03676815128296,
-   "last_impact": "strengthens",
-   "last_memo": "Microsoft deepened its relationship with Mistral, a European AI company, so enterprise customers can now more easily run Mistral's AI models inside Microsoft's Azure cloud. Think of Azure as a shopping mall: Microsoft is adding another anchor tenant. This reinforces the idea that",
-   "risks": [
-    "Multi-model marketplace strategy could commoditize Azure's AI differentiation if customers treat cloud providers as interchangeable inference pipes \u2014 though Microsoft's enterprise compliance, identity, and security envelope mitigates this significantly.",
-    "No financial terms disclosed means the committee cannot assess whether Microsoft is subsidizing Mistral's Azure compute costs to win the partnership, which would be a margin headwind if material.",
-    "If Mistral's models underperform technically relative to OpenAI or Google Gemini, Microsoft's European AI positioning could be weakened despite the investment, having allocated capital to a suboptimal asset.",
-    "EU regulatory bodies may scrutinize the deal as a de facto acquisition of influence over a nominally 'independent' European AI champion, creating regulatory friction in a market where Microsoft already faces elevated antitrust attention."
-   ],
-   "catalysts": [
-    {
-     "id": 2,
-     "symbol": "MSFT",
-     "date": "2026-07-29",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
+   "position_value": 3609.045,
    "thesis_needed": false
   },
   {
@@ -400,13 +318,14 @@
     63.0,
     58.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 139.21,
+   "price": 141.71,
    "fair_low": 133.57404780273154,
    "fair_base": 239.0670398931219,
    "fair_high": 285.9006884667065,
-   "upside_pct": 71.73122612823926,
+   "upside_pct": 68.70160178753926,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -419,7 +338,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 2088.15,
+   "position_value": 2125.65,
    "thesis_needed": true
   },
   {
@@ -439,13 +358,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 203.45,
+   "price": 206.8,
    "fair_low": 153.8550255428788,
    "fair_base": 446.05034777459474,
    "fair_high": 563.8410179604589,
-   "upside_pct": 119.24322820083302,
+   "upside_pct": 115.69165753123536,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -458,7 +378,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7120.75,
+   "position_value": 7238.0,
    "thesis_needed": true
   },
   {
@@ -478,13 +398,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 68.89,
+   "price": 69.95,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 84.20820660099038,
+   "upside_pct": 81.41677416357722,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -517,13 +438,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 68.91,
+   "price": 66.49,
    "fair_low": 21.678384934562395,
    "fair_base": 92.73147049799306,
    "fair_high": 122.83676658745333,
-   "upside_pct": 34.56896023507918,
+   "upside_pct": 39.46679274777119,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -556,13 +478,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 110.63,
+   "price": 115.99,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 299.47969889713335,
+   "upside_pct": 281.01939036977205,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -595,13 +518,14 @@
     65.0,
     65.0,
     61.0,
+    61.0,
     61.0
    ],
-   "price": 123.37,
+   "price": 128.05,
    "fair_low": 7.454305495494721,
    "fair_base": 20.021198777861585,
    "fair_high": 25.114005799476644,
-   "upside_pct": -83.77142029840189,
+   "upside_pct": -84.3645460539933,
    "last_impact": "neutral",
    "last_memo": "Palantir's stock dropped about 6% today, but nothing happened at the company \u2014 no earnings report, no contract news, no management statement. The stock simply fell, which happens regularly with high-valuation technology names. Think of it like this: if you owned a rental property",
    "risks": [
@@ -619,7 +543,54 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 18505.5,
+   "position_value": 19207.5,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "MSFT",
+   "name": "Microsoft Corporation",
+   "conviction": 60.0,
+   "thesis_strength": 72,
+   "conviction_history": [
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    62.0,
+    76.0,
+    76.0,
+    60.0,
+    70.0,
+    64.0,
+    64.0,
+    64.0,
+    60.0
+   ],
+   "price": 391.605,
+   "fair_low": 64.15462217769772,
+   "fair_base": 102.88630008833451,
+   "fair_high": 192.26997108513837,
+   "upside_pct": -73.72702082753425,
+   "last_impact": "neutral",
+   "last_memo": "This event is just a preview article speculating about what Microsoft might report \u2014 there are no actual numbers yet. Nothing about Microsoft's business has changed based on this. The real test will come when the Q4 results are published: we will want to see how fast Azure is gro",
+   "risks": [
+    "Multi-model marketplace strategy could commoditize Azure's AI differentiation if customers treat cloud providers as interchangeable inference pipes \u2014 though Microsoft's enterprise compliance, identity, and security envelope mitigates this significantly.",
+    "No financial terms disclosed means the committee cannot assess whether Microsoft is subsidizing Mistral's Azure compute costs to win the partnership, which would be a margin headwind if material.",
+    "If Mistral's models underperform technically relative to OpenAI or Google Gemini, Microsoft's European AI positioning could be weakened despite the investment, having allocated capital to a suboptimal asset.",
+    "EU regulatory bodies may scrutinize the deal as a de facto acquisition of influence over a nominally 'independent' European AI champion, creating regulatory friction in a market where Microsoft already faces elevated antitrust attention."
+   ],
+   "catalysts": [
+    {
+     "id": 2,
+     "symbol": "MSFT",
+     "date": "2026-07-29",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
    "thesis_needed": false
   },
   {
@@ -639,13 +610,14 @@
     55.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 88.66,
+   "price": 88.985,
    "fair_low": 46.45671896898705,
    "fair_base": 68.5439290486749,
    "fair_high": 85.74192116037001,
-   "upside_pct": -22.68900400555505,
+   "upside_pct": -22.971367029639943,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -658,8 +630,53 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8866.0,
+   "position_value": 8898.5,
    "thesis_needed": true
+  },
+  {
+   "symbol": "SHOP.TO",
+   "name": "Shopify Inc.",
+   "conviction": 55.0,
+   "thesis_strength": 62,
+   "conviction_history": [
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    65.0,
+    65.0,
+    65.0,
+    65.0,
+    67.0,
+    65.0,
+    65.0,
+    65.0,
+    55.0
+   ],
+   "price": 173.0,
+   "fair_low": 11.690267416651736,
+   "fair_base": 14.045639577281454,
+   "fair_high": 19.573210924567046,
+   "upside_pct": -91.88113319232286,
+   "last_impact": "neutral",
+   "last_memo": "Shopify's stock jumped about 8% today, but there was no news behind it \u2014 no earnings, no product announcement, no strategic update. The business itself is unchanged. Shopify is a genuinely excellent company with strong competitive advantages, but the stock already trades at a ver",
+   "risks": [
+    "DoorDash partnership creates a dependency on a third-party logistics network; if DoorDash changes pricing, availability, or terms, merchants enabled through this channel could face disruption with limited Shopify recourse.",
+    "Analyst downgrade, even if valuation-driven, can accelerate institutional selling and increase short-term price volatility, which matters only if Shopify needs to issue equity or if management credibility becomes tied to share price performance.",
+    "Dependency on DoorDash's own network reliability and pricing could expose Shopify merchants to service disruptions or cost pass-throughs outside Shopify's control.",
+    "If DoorDash deteriorates as a business or changes its partner economics, Shopify merchants relying on this integration could be disrupted, potentially creating merchant dissatisfaction attributed to the Shopify platform."
+   ],
+   "catalysts": [
+    {
+     "id": 14,
+     "symbol": "SHOP.TO",
+     "date": "2026-08-05",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 6920.0,
+   "thesis_needed": false
   },
   {
    "symbol": "AFK",
@@ -678,9 +695,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 25.49,
+   "price": 25.87,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -689,7 +707,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 994.1099999999999,
+   "position_value": 1008.9300000000001,
    "thesis_needed": true
   },
   {
@@ -711,13 +729,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 926.06,
+   "price": 944.165,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -31.449197989055723,
+   "upside_pct": -32.76370580327056,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -750,13 +769,14 @@
     41.1,
     41.1,
     41.1,
+    41.1,
     41.1
    ],
-   "price": 125.87,
+   "price": 128.47,
    "fair_low": 17.438329054264695,
    "fair_base": 51.10289449023222,
    "fair_high": 62.15245858192385,
-   "upside_pct": -59.400258607903226,
+   "upside_pct": -60.22192380304179,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -791,13 +811,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 321.66,
+   "price": 334.89,
    "fair_low": 71.85573534462412,
    "fair_base": 72.36653113089089,
    "fair_high": 73.51461788169713,
-   "upside_pct": -77.50216653270817,
+   "upside_pct": -78.39095490134346,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -830,13 +851,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 40.99,
+   "price": 41.665,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -40.92175086044608,
+   "upside_pct": -41.878856780743654,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -869,9 +891,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 37.69,
+   "price": 34.785,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -908,9 +931,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 118.24,
+   "price": 110.63,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -947,9 +971,10 @@
     20.8,
     20.8,
     20.8,
+    20.8,
     20.8
    ],
-   "price": 34.07,
+   "price": 36.7,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -986,13 +1011,14 @@
     18.9,
     18.9,
     18.9,
+    18.9,
     18.9
    ],
-   "price": 423.56,
+   "price": 413.51,
    "fair_low": 132.5492993322689,
    "fair_base": 205.2851777929539,
    "fair_high": 239.75334744632553,
-   "upside_pct": -51.533388943017776,
+   "upside_pct": -50.35545022056205,
    "last_impact": "neutral",
    "last_memo": "A financial news article warned of a risk in UnitedHealth's earnings story that it says the market hasn't priced in, but we don't have the actual content of that article \u2014 just the headline. A headline by itself tells us nothing we can act on. What we can observe from UnitedHealt",
    "risks": [
@@ -1001,8 +1027,16 @@
     "CFO-level public warning may precede formal guidance cuts, creating additional downside to consensus earnings estimates that the forward PE of 19x relies on.",
     "If cost trends reflect broader industry-wide utilization normalization post-COVID, UNH's pricing power advantage is temporarily neutralized, reducing the moat's near-term earnings benefit."
    ],
-   "catalysts": [],
-   "position_value": 7242.876,
+   "catalysts": [
+    {
+     "id": 37,
+     "symbol": "UNH",
+     "date": "2026-10-27",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 7071.021000000001,
    "thesis_needed": false
   },
   {
@@ -1022,20 +1056,21 @@
     23.0,
     13.0,
     17.0,
+    17.0,
     17.0
    ],
-   "price": 59.18,
+   "price": 58.06,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
    "upside_pct": null,
-   "last_impact": "strengthens",
-   "last_memo": "Two things happened: AT&T said it plans to offer ASTS's satellite service to its customers starting next year, and ASTS borrowed $1 billion to fund operations. The AT&T statement is the most concrete signal yet that a major U.S. phone carrier actually intends to sell this service",
+   "last_impact": "weakens",
+   "last_memo": "An analyst came out and said that SpaceX's Starlink is pulling ahead in the race to connect regular smartphones directly to satellites, and that AST SpaceMobile might be too far behind to win. This matters because AST's entire investment case rests on being the first to build thi",
    "risks": [
+    "Starlink may be accelerating commercial D2D deployment through MNO channels, potentially pre-empting ASTS's distribution advantage before ASTS achieves meaningful commercial scale.",
+    "Analyst skepticism about timing could impair ASTS's ability to raise capital on favorable terms, as equity financing remains critical to survival and is sentiment-dependent.",
     "The $1B debt adds a fixed-obligation creditor claim senior to equity; if commercial revenue is delayed past 2026, covenant or refinancing pressure could force dilutive equity raises at the worst possible time.",
-    "AT&T's 'next year' statement creates a public expectation anchor \u2014 if service does not launch in 2026, the credibility hit to both ASTS and the AT&T partnership will be significant and measurable.",
-    "Debt financing terms (interest rate, covenants, maturity) are not detailed in available material; unknown covenant structure is a risk factor that warrants due diligence before sizing.",
-    "Accelerating satellite staging at Cape implies accelerating launch cadence, which increases near-term capital expenditure requirements and could pressure cash runway sooner than modeled."
+    "AT&T's 'next year' statement creates a public expectation anchor \u2014 if service does not launch in 2026, the credibility hit to both ASTS and the AT&T partnership will be significant and measurable."
    ],
    "catalysts": [
     {
@@ -1066,9 +1101,10 @@
     13.8,
     13.8,
     13.8,
+    13.8,
     13.8
    ],
-   "price": 17.1,
+   "price": 19.09,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1091,7 +1127,7 @@
   {
    "symbol": "TSLA",
    "name": "Tesla Inc.",
-   "conviction": 13.3,
+   "conviction": 12.1,
    "thesis_strength": 38,
    "conviction_history": [
     24.3,
@@ -1105,13 +1141,14 @@
     6.3,
     16.3,
     13.3,
-    13.3
+    13.3,
+    12.1
    ],
-   "price": 319.69,
-   "fair_low": 17.15828687695871,
-   "fair_base": 17.7928360557555,
-   "fair_high": 18.121258624976008,
-   "upside_pct": -94.4343470062387,
+   "price": 308.86,
+   "fair_low": 15.452268642505791,
+   "fair_base": 16.08681782130258,
+   "fair_high": 16.415240390523092,
+   "upside_pct": -94.79155027478386,
    "last_impact": "weakens",
    "last_memo": "Tesla's sales grew 26% compared to a year ago, which sounds great \u2014 but the company actually earned far less from operations, and cash flow turned negative for the quarter. The reason is that Tesla is spending massively more on research and paying its employees (especially Elon M",
    "risks": [
@@ -1149,9 +1186,10 @@
     10.3,
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 40.58,
+   "price": 36.8151,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1188,9 +1226,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.31,
+   "price": 5.065,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1207,7 +1246,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 531.0,
+   "position_value": 506.50000000000006,
    "thesis_needed": true
   },
   {
@@ -1227,9 +1266,10 @@
     5.0,
     40.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 14.85,
+   "price": 15.89,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1251,6 +1291,48 @@
   }
  ],
  "history": [
+  {
+   "date": "2026-07-27",
+   "symbol": "MSFT",
+   "impact": "neutral",
+   "headline": "Q4 earnings preview only \u2014 no new data; hold thesis pending actual results",
+   "strength": 72
+  },
+  {
+   "date": "2026-07-27",
+   "symbol": "META",
+   "impact": "neutral",
+   "headline": "Meta's 5 GW Louisiana data center signals massive AI infrastructure bet, not yet a thesis mover",
+   "strength": 74
+  },
+  {
+   "date": "2026-07-27",
+   "symbol": "DECK",
+   "impact": "strengthens",
+   "headline": "DECK hits $1B Q1 revenue milestone; HOKA + UGG both contributing, thesis tracking well",
+   "strength": 78
+  },
+  {
+   "date": "2026-07-27",
+   "symbol": "SHOP.TO",
+   "impact": "neutral",
+   "headline": "SHOP +7.8% in a session; price move alone carries no thesis information",
+   "strength": 62
+  },
+  {
+   "date": "2026-07-27",
+   "symbol": "ASTS",
+   "impact": "weakens",
+   "headline": "Analyst flags Starlink D2D lead may render ASTS 'too little, too late' \u2014 core kill criterion under scrutiny",
+   "strength": 42
+  },
+  {
+   "date": "2026-07-27",
+   "symbol": "NVDA",
+   "impact": "neutral",
+   "headline": "NVIDIA reportedly financing OpenAI infrastructure \u2014 ecosystem deepening, but new financial risk to monitor",
+   "strength": 74
+  },
   {
    "date": "2026-07-24",
    "symbol": "GOOGL",

@@ -1,6 +1,26 @@
 # Deckers Outdoor Corp. (DECK) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-27 — DECK hits $1B Q1 revenue milestone; HOKA + UGG both contributing, thesis tracking well
+**Thesis impact: STRENGTHENS** · Thesis strength: 78/100 · Conviction: 91.0/100 · **ALERTED**
+
+**What changed:** Deckers reported its first-ever $1 billion Q1 revenue quarter, driven by continued HOKA momentum and UGG resilience. This is a seasonally weak quarter for the company (Q1 ends June 30), making the milestone more meaningful. Both brands contributed, suggesting the growth is not a single-brand anomaly. No additional detail on margins, DTC mix, or guidance has been provided in the available material.
+
+**Why it matters:** Q1 is historically Deckers' softest quarter due to UGG seasonality, so crossing $1B in this period implies a structurally higher revenue base than the market may be pricing in at a trailing P/E of ~14x. HOKA's continued momentum is the primary thesis driver — if it is sustaining growth into what used to be a low-activity season, international expansion and category broadening are likely working. UGG's contribution in Q1 also supports the thesis that management has successfully reduced the brand's seasonal dependency. Together, these two points suggest the $5.5B TTM revenue run-rate has room to compound meaningfully.
+
+**Intrinsic value:** up / small (<5%) via growth — The milestone supports a modestly higher near-term revenue base, which flows into FCF estimates. However, without gross margin and DTC mix data, a meaningful upward revision is premature. The effect is real but bounded until the full earnings release confirms margin quality.
+**Management credibility:** improved — Management has consistently guided toward HOKA as the primary growth engine and UGG as a resilient cash generator. Delivering a record Q1 — the weakest seasonal period — in both brands simultaneously is execution aligned with that stated strategy. No specific guidance comparison is available from this report, but the directional beat supports the credibility pattern already rated highly in the thesis.
+**New risks:**
+- Revenue milestone achieved without margin detail creates a temporary information gap — if Q1 margins compressed to drive volume, the quality of this milestone would be lower than it appears.
+- A $1B Q1 raises the base for year-over-year comparisons in future periods, increasing the risk of optically weak growth rates even if absolute dollar growth continues.
+
+**Valuation:** fair value $83 / **$210** / $244 · implied growth at price: 3.5%
+
+**Committee memo:** Deckers' first $1 billion Q1 is a legitimate positive milestone and incremental thesis confirmation, not noise. The significance is amplified by seasonality: Q1 has historically been suppressed by UGG's winter skew, meaning $1B in this period implies an annual revenue run-rate that is comfortably above the $5.5B TTM figure. More importantly, the market appears to be pricing in only ~3.5% perpetual growth against a business that just demonstrated both brand pillars firing simultaneously in an off-season quarter. At 14x trailing earnings with a net cash balance sheet (net debt/EBITDA of -0.85x) and ROIC above 75%, the stock screens as materially undervalued relative to the base DCF of ~$210. My recommended posture is to hold conviction at current levels and use the forthcoming full earnings release as the real decision point — specifically watching gross margin (does 57%+ hold?), DTC mix trend (is the channel shift continuing?), and HOKA ASPs (is growth volume-driven or price-driven?). The risk I am watching most carefully is whether this milestone was achieved by pulling forward demand or relaxing distribution discipline, either of which would be an early warning sign inconsistent with the thesis. What would prove this judgment wrong: if the full earnings release shows gross margin compression below 55%, inventory growth materially outpacing revenue, or a meaningful shift toward wholesale at the expense of DTC — any of those would require reassessment of revenue quality and potentially the brand health narrative.
+
+**Plain English:** Deckers just had its best-ever first quarter, crossing $1 billion in sales for the first time in a period that is normally its slowest due to UGG's winter seasonality. Both its main brands — HOKA running shoes and UGG boots — contributed, which is exactly what the investment thesis predicted. The stock is currently trading at a valuation that implies the business will only grow at about 3.5% per year forever, which looks increasingly pessimistic given this kind of performance. The main caveat is that we only have the top-line number right now — we need to see profit margins and how much was sold through its own stores versus third-party retailers before drawing strong conclusions. If the margins hold up, this is a meaningful positive signal for long-term investors.
+
+---
 ## 2026-07-24 — DECK beats Q1 FY2027 but cautious Q2/full-year guidance rattles market; thesis intact at current price
 **Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 85.0/100 · **ALERTED**
 

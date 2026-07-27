@@ -1,6 +1,22 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-27 — Q4 earnings preview only — no new data; hold thesis pending actual results
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 60.0/100 · **ALERTED**
+
+**What changed:** A pre-earnings preview article has been flagged ahead of Microsoft's Q4 report. No actual financial results, guidance, or management commentary has been released. The event is anticipatory, not informational.
+
+**Why it matters:** Previews carry no new fundamental information — they synthesize existing consensus estimates and analyst expectations already priced in. The actual Q4 print will matter because it will update Azure growth trajectory, Copilot monetization progress, capital expenditure commitments, and forward margin guidance — all of which are live thesis drivers.
+
+**Intrinsic value:** none / none via none — No new data has been disclosed. Intrinsic value cannot be revised based on analyst speculation ahead of a print. Reserve judgment for the actual release.
+
+**Valuation:** fair value $64 / **$103** / $192 · implied growth at price: 26.3%
+
+**Committee memo:** The flagged event is a pre-earnings preview with no new fundamental content — it reflects consensus expectations already embedded in the stock price. No action is warranted. The more important observation is contextual: the current valuation shows a meaningful gap between the DCF-derived fair value (base ~$103, high ~$192) and the current price of ~$392, with the reverse-DCF implying ~26% perpetual growth already priced in. This is not a new risk, but it does mean the stock has limited margin of safety and requires Microsoft to execute exceptionally well on Azure growth and Copilot monetization to justify the current price over a 5-year horizon. When the actual Q4 report arrives, the committee should focus on: (1) Azure constant-currency growth rate vs. prior quarters and vs. AWS/GCP, (2) any concrete Copilot seat attach or ARPU data, (3) CapEx guidance — specifically whether management is growing into capacity or chasing demand, and (4) operating margin trajectory in the Intelligent Cloud segment. This judgment would be proven wrong if the actual print shows Azure deceleration, Copilot monetization stalling, or management signaling a materially higher and longer CapEx burden than currently modeled.
+
+**Plain English:** This event is just a preview article speculating about what Microsoft might report — there are no actual numbers yet. Nothing about Microsoft's business has changed based on this. The real test will come when the Q4 results are published: we will want to see how fast Azure is growing, whether AI features like Copilot are actually generating new revenue, and whether Microsoft's enormous data center spending is starting to pay off. Until then, the thesis is exactly where it was.
+
+---
 ## 2026-07-22 — Microsoft-Mistral partnership incrementally supports AI distribution thesis; no structural change
 **Thesis impact: STRENGTHENS** · Thesis strength: 76/100 · Conviction: 64.0/100 · **ALERTED**
 
