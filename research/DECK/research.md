@@ -1,6 +1,22 @@
 # Deckers Outdoor Corp. (DECK) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-28 — StockStory Q2 deep-dive flags channel mix shift; no structural thesis change without hard data
+**Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 87.0/100 · **ALERTED**
+
+**What changed:** A StockStory analyst piece examined Deckers' Q2 results with focus on the product pipeline, gross margins, and the evolving mix between wholesale and direct-to-consumer channels. The screener note flags this as relevant to HOKA growth momentum and UGG profitability. No actual Q2 earnings release or specific financial figures are provided in the event content itself — only the framing of the analysis.
+
+**Why it matters:** Channel mix is a genuine thesis lever: DTC carries structurally higher gross margins and gives Deckers tighter control over brand presentation and pricing, while a shift back toward wholesale would pressure both margins and brand perception. Product pipeline health is the forward indicator for HOKA's ability to sustain share gains. Gross margin stability (currently ~57.7% TTM) is a key signal of whether pricing power is holding or whether discounting is creeping in.
+
+**Intrinsic value:** none / none via none — No new quantitative data is present in this event. Intrinsic value cannot be meaningfully revised on the basis of a third-party framing piece alone. If the actual Q2 data showed a sustained DTC-to-wholesale reversal or gross margin compression, that would be a different conversation.
+
+**Valuation:** fair value $85 / **$214** / $249 · implied growth at price: 3.1%
+
+**Committee memo:** This event is a third-party analytical commentary on Q2, not the Q2 results themselves. The content surfaced by the screener is the framing of the analysis (product pipeline, margins, channel mix) rather than the findings. Accordingly, no thesis-altering information has been presented. The current fundamental picture remains compelling: ROIC at 76.7% is exceptional for a consumer brand, FCF has grown from $460M to $1.1B over four years, gross margins have expanded roughly 750bps over the period and are now stable near 57-58%, and the balance sheet carries net cash. The reverse DCF implies only 3.1% long-term growth is priced in, which appears conservative given HOKA's international runway and UGG's demonstrated resilience. The analyst framing — 'margins in focus, shifting channel mix' — does flag the two variables most worth watching: if DTC mix is declining (wholesale creep eroding brand discipline and margins) or if gross margins are compressing due to discounting, those would be early-warning signals for the thesis. My recommendation is to hold conviction at current levels and obtain the actual Q2 financial statements before making any valuation assumption changes. What would prove this judgment wrong: the Q2 data reveals a 200+ bps gross margin decline driven by promotional pricing, or HOKA DTC penetration has reversed materially toward wholesale — either of those would warrant a more serious reassessment.
+
+**Plain English:** A financial news outlet published a deep-dive analysis of Deckers' most recent quarter, highlighting questions about their product pipeline, profit margins, and whether they're selling more through their own stores/website versus third-party retailers. However, this event contains no actual numbers — it's an analyst framing piece, not a results announcement. The business fundamentals we already have look healthy: profits are growing, the balance sheet has net cash (no debt problem), and they generate strong returns on invested capital. Until we see the actual Q2 data — particularly gross margins and the direct-to-consumer versus wholesale split — there's nothing here that changes the investment case. The questions being raised are the right ones to watch, but questions aren't answers.
+
+---
 ## 2026-07-27 — DECK hits $1B Q1 revenue milestone; HOKA + UGG both contributing, thesis tracking well
 **Thesis impact: STRENGTHENS** · Thesis strength: 78/100 · Conviction: 91.0/100 · **ALERTED**
 

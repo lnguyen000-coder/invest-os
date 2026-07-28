@@ -1,6 +1,25 @@
 # Amazon Com Inc. (AMZN) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-28 — Unverified report of AI strategy shift at Amazon; no action warranted until earnings confirmation
+**Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
+
+**What changed:** A report (sourced via Stocktwits, citing unspecified origins) alleges Amazon has shifted its Nova AI models into a 'keep the lights on' maintenance mode ahead of earnings, potentially signaling a deprioritization of that model family. The sourcing is informal and unverified. No official Amazon communication, SEC filing, or credible trade-press corroboration has been provided. The timing — just before an earnings release — adds noise but not signal.
+
+**Why it matters:** AWS AI infrastructure investment and the returns it generates is a named thesis driver. If Amazon were genuinely pulling back on a key AI model line, it could signal either (a) a capital discipline pivot that reduces near-term capex burn, which would be positive for FCF, or (b) a competitive retreat from generative AI, which would be negative for AWS's long-term positioning against Microsoft Azure/OpenAI and Google Cloud/Gemini. The distinction matters enormously for intrinsic value. However, we cannot determine which interpretation is correct — or whether the report is accurate at all — from the available material.
+
+**Intrinsic value:** none / none via none — No verified facts have changed. Assigning an intrinsic value adjustment to an unconfirmed social media report would be analytically irresponsible. We will revisit if earnings confirm a structural capex or strategy shift.
+**New risks:**
+- If Amazon is pulling back from first-party frontier AI model development, it risks ceding AI-native workload acquisition to Azure (OpenAI) and Google Cloud (Gemini), potentially slowing AWS's ability to capture net-new AI spending in the medium term.
+- The report's pre-earnings timing could indicate a deliberate or inadvertent information leak, which itself carries a reputational and regulatory risk if material non-public information was involved — though this is speculative.
+
+**Valuation:** fair value $4 / **$35** / $106
+
+**Committee memo:** This event is a social-media-sourced rumor with no independent verification, and the committee should assign it minimal weight. The thesis for Amazon does not hinge on Nova specifically; it rests on AWS's structural switching costs, the advertising flywheel, Prime loyalty economics, and management's demonstrated ability to allocate capital into durable return-generating investments. A potential moderation of spend on one first-party AI model family, if confirmed, would need to be interpreted in context: is this capital discipline (positive for FCF, supportive of thesis) or competitive retreat (negative for AWS's AI positioning, potentially thesis-relevant over a 5-year horizon)? We cannot answer that question today. What I would do: hold current conviction, bring this question explicitly to the earnings call — specifically asking whether capex guidance for 2025 is intact, what share of AWS growth is AI-driven, and whether the Nova model family is still in active development. What would prove this judgment wrong: if earnings reveal a material downward revision to AWS AI infrastructure capex combined with slower AWS revenue growth, that would suggest Amazon is losing the AI workload battle, which is a thesis kill-criterion adjacent event. That scenario would warrant a formal thesis review and potential assumption changes to AWS growth stage 1 and 2 rates.
+
+**Plain English:** A rumor circulating on a retail stock-discussion platform claims Amazon quietly put its Nova AI models on the back burner before its next earnings report. This could mean Amazon is being more disciplined about where it spends its AI budget — which would actually be good for cash flow — or it could mean Amazon is falling behind in the AI race, which would be bad. The problem is we simply don't know if the report is true, and even if it is, we don't know which interpretation is correct. Amazon's cloud business doesn't live or die on one AI model family; it's deeply embedded in how thousands of companies run their technology. The right move is to wait for Amazon's earnings call, pay close attention to what management says about AI investment and AWS growth, and only update our view based on verified information. Nothing has changed today.
+
+---
 ## 2026-07-14 — Robotics + Trainium expansion reinforces thesis but is incremental, not transformational
 **Thesis impact: STRENGTHENS** · Thesis strength: 84/100 · Conviction: 77.0/100 · **ALERTED**
 

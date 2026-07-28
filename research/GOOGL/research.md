@@ -1,6 +1,28 @@
 # Alphabet Inc. (GOOGL) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-28 — EU fine opens door to ~$10B rival litigation; material but not thesis-altering absent monetization damage
+**Thesis impact: WEAKENS** · Thesis strength: 74/100 · Conviction: 67.0/100 · **ALERTED**
+
+**What changed:** Following a European Commission antitrust fine against Google, rival companies are now pursuing follow-on civil damages claims that could total up to $10 billion in aggregate. These suits are enabled by the EU fine, which effectively pre-establishes liability for claimants in civil proceedings. The specific underlying conduct relates to Google's search and advertising dominance in Europe.
+
+**Why it matters:** The thesis rests on Alphabet's ability to compound free cash flow and allocate capital intelligently over 5+ years. A $10B litigation liability — even if paid out over several years — represents roughly 44% of TTM FCF, which would be a meaningful but not catastrophic drag. More importantly, the question is whether any remedy (behavioral or financial) structurally impairs Search or advertising monetization in Europe, which is the real thesis risk, not the dollar amount itself.
+
+**Intrinsic value:** down / small (<5%) via risk — A $10B cash outflow spread over several years reduces intrinsic value by roughly $8-10B on a present-value basis, which is ~0.2-0.3% of Alphabet's $4T market cap. The more meaningful but unquantifiable risk is a behavioral remedy restricting Search distribution in Europe; absent that outcome materializing, the direct financial impact is immaterial to DCF valuation.
+**New risks:**
+- Follow-on civil suits in the EU could aggregate to $10B in damages, representing a meaningful but absorbable cash outflow over multiple years.
+- A successful plaintiff recovery could embolden further copycat suits in other jurisdictions, increasing the total regulatory overhang.
+- Courts adjudicating civil claims could impose behavioral remedies beyond what the original EC fine required, potentially restricting distribution agreements that underpin Search's default placement.
+**⚠ Kill criteria at risk:**
+- Regulatory actions materially impairing the business model: not triggered yet, but this litigation trajectory is the clearest current path to that outcome if it results in structural remedies rather than financial penalties.
+
+**Valuation:** fair value $98 / **$182** / $390 · implied growth at price: 24.7%
+
+**Committee memo:** The EU follow-on litigation against Google represents an escalation of a known regulatory risk rather than a new one. Alphabet's balance sheet — net cash positive at -0.7x net debt/EBITDA — means the financial exposure is manageable even in a worst-case scenario. The more important analytical question is whether this litigation pathway leads to a behavioral remedy restricting Search's default distribution arrangements, which is the mechanism through which EU regulatory action could actually impair long-term intrinsic value. That has not happened yet. I would hold conviction at current levels but flag this as a developing situation requiring monitoring: specifically, watch for any court rulings that go beyond financial damages and prescribe operational restrictions. The reverse DCF implies the market is pricing in 24.7% growth — a high bar that leaves limited room for structural impairment. I would not adjust DCF assumptions on the basis of this news alone, as it represents litigation risk already partially embedded in the 'regulatory risk' discount. What would prove this judgment wrong: a European court ruling that restricts Google's ability to maintain paid default search agreements, or a US DOJ remedy (separate proceeding) that achieves the same result, triggering measurable market share loss in Search. That would require revisiting kill criteria.
+
+**Plain English:** After the European Union fined Google for antitrust violations related to its dominant search position, competing companies are now suing Google for damages in civil courts, with total claims potentially reaching $10 billion. For a company generating over $70 billion in free cash flow annually with no net debt, $10 billion is painful but manageable — roughly equivalent to five months of free cash flow. The real concern is not the money but whether courts or regulators might eventually force Google to change how it operates in Europe, such as restricting its ability to pay to be the default search engine on devices. That would be a structural problem. For now, this is a serious but familiar risk for Alphabet; the company has been navigating EU antitrust pressure for over a decade. The thesis is modestly weaker, but not broken.
+
+---
 ## 2026-07-24 — Search growth decelerated 2pp but moat intact; -7.1% drop is price noise, not thesis signal
 **Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
 

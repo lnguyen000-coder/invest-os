@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-27 14:02 UTC",
+ "generated": "2026-07-28 13:23 UTC",
  "rows": [
   {
    "symbol": "CSU.TO",
@@ -19,13 +19,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 2729.72,
+   "price": 2837.32,
    "fair_low": 460.5776080431524,
    "fair_base": 4841.692830021196,
    "fair_high": 7438.866727393741,
-   "upside_pct": 77.36957746659716,
+   "upside_pct": 70.6431713737328,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -42,10 +43,56 @@
    "thesis_needed": false
   },
   {
+   "symbol": "META",
+   "name": "Meta Platforms Inc.",
+   "conviction": 87.0,
+   "thesis_strength": 82,
+   "conviction_history": [
+    43.0,
+    55.0,
+    55.0,
+    55.0,
+    75.0,
+    75.0,
+    87.0,
+    87.0,
+    81.0,
+    81.0,
+    81.0,
+    79.0,
+    79.0,
+    87.0
+   ],
+   "price": 593.87,
+   "fair_low": 297.85822132476756,
+   "fair_base": 496.9148589044447,
+   "fair_high": 958.9625165912731,
+   "upside_pct": -16.325987353386306,
+   "last_impact": "neutral",
+   "last_memo": "Meta and BlackRock are jointly building a massive data center in Texas \u2014 roughly the size needed to power a small city \u2014 for about $14 billion. This is Meta putting serious money behind its AI ambitions, which is exactly what the investment thesis expects. The interesting wrinkle",
+   "risks": [
+    "Off-balance-sheet lease or power-purchase obligations tied to the BlackRock partnership could understate effective leverage beyond the current 0.05x net debt/EBITDA if not fully disclosed.",
+    "A 1-gigawatt single-site concentration creates operational risk (power disruption, permitting delays, or environmental challenges specific to Texas grid) that a distributed capex program would not carry to the same degree.",
+    "Capex guidance creep: a 5 GW campus suggests capex commitments may extend well beyond 2025, potentially pressuring FCF for 3-5 years before revenue payoff.",
+    "Concentration risk: a single 5 GW campus in Louisiana creates geographic and regulatory concentration in a state where permitting, power grid reliability, and weather risk are material."
+   ],
+   "catalysts": [
+    {
+     "id": 7,
+     "symbol": "META",
+     "date": "2026-07-29",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 9501.92,
+   "thesis_needed": false
+  },
+  {
    "symbol": "DECK",
    "name": "Deckers Outdoor Corp.",
-   "conviction": 91.0,
-   "thesis_strength": 78,
+   "conviction": 87.0,
+   "thesis_strength": 74,
    "conviction_history": [
     63.0,
     63.0,
@@ -59,15 +106,16 @@
     91.0,
     91.0,
     85.0,
-    91.0
+    91.0,
+    87.0
    ],
-   "price": 98.82,
-   "fair_low": 83.42849296741575,
-   "fair_base": 209.78748819499936,
-   "fair_high": 244.2504478470841,
-   "upside_pct": 112.2925401689935,
-   "last_impact": "strengthens",
-   "last_memo": "Deckers just had its best-ever first quarter, crossing $1 billion in sales for the first time in a period that is normally its slowest due to UGG's winter seasonality. Both its main brands \u2014 HOKA running shoes and UGG boots \u2014 contributed, which is exactly what the investment thes",
+   "price": 97.73,
+   "fair_low": 85.08203074644862,
+   "fair_base": 213.9454386141005,
+   "fair_high": 249.0914479502334,
+   "upside_pct": 118.91480468034432,
+   "last_impact": "neutral",
+   "last_memo": "A financial news outlet published a deep-dive analysis of Deckers' most recent quarter, highlighting questions about their product pipeline, profit margins, and whether they're selling more through their own stores/website versus third-party retailers. However, this event contain",
    "risks": [
     "Revenue milestone achieved without margin detail creates a temporary information gap \u2014 if Q1 margins compressed to drive volume, the quality of this milestone would be lower than it appears.",
     "A $1B Q1 raises the base for year-over-year comparisons in future periods, increasing the risk of optically weak growth rates even if absolute dollar growth continues.",
@@ -83,59 +131,14 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3557.5199999999995,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "META",
-   "name": "Meta Platforms Inc.",
-   "conviction": 79.0,
-   "thesis_strength": 74,
-   "conviction_history": [
-    43.0,
-    55.0,
-    55.0,
-    55.0,
-    75.0,
-    75.0,
-    87.0,
-    87.0,
-    81.0,
-    81.0,
-    81.0,
-    79.0,
-    79.0
-   ],
-   "price": 607.495,
-   "fair_low": 297.85822132476756,
-   "fair_base": 496.9148589044447,
-   "fair_high": 958.9625165912731,
-   "upside_pct": -18.20264217739328,
-   "last_impact": "neutral",
-   "last_memo": "Meta is building one of the largest data centers in history in Louisiana, capable of handling 5 gigawatts of power \u2014 roughly equivalent to the electricity needs of several million homes. The purpose is to run the AI systems that power Meta's ad targeting, content recommendations,",
-   "risks": [
-    "Capex guidance creep: a 5 GW campus suggests capex commitments may extend well beyond 2025, potentially pressuring FCF for 3-5 years before revenue payoff.",
-    "Concentration risk: a single 5 GW campus in Louisiana creates geographic and regulatory concentration in a state where permitting, power grid reliability, and weather risk are material.",
-    "Execution risk on scale: infrastructure builds of this magnitude have historically experienced cost overruns, delays, and technical challenges that compress returns.",
-    "Escalating AI infrastructure debt financing, if it becomes a recurring funding mechanism rather than opportunistic treasury management, could introduce interest expense drag and signal FCF is insufficient to self-fund the capex program."
-   ],
-   "catalysts": [
-    {
-     "id": 7,
-     "symbol": "META",
-     "date": "2026-07-29",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 9719.92,
+   "position_value": 3518.28,
    "thesis_needed": false
   },
   {
    "symbol": "AMZN",
    "name": "Amazon Com Inc.",
-   "conviction": 77.0,
-   "thesis_strength": 84,
+   "conviction": 75.0,
+   "thesis_strength": 82,
    "conviction_history": [
     43.0,
     43.0,
@@ -149,16 +152,19 @@
     77.0,
     77.0,
     77.0,
-    77.0
+    77.0,
+    75.0
    ],
-   "price": 234.24,
+   "price": 231.39,
    "fair_low": 3.755618111346491,
    "fair_base": 34.51737594055758,
    "fair_high": 106.37401171749354,
-   "upside_pct": -85.26409838603246,
-   "last_impact": "strengthens",
-   "last_memo": "Amazon is building a new highly automated warehouse in Texas and opening up its homemade AI chip \u2014 Trainium \u2014 to more cloud customers. Neither of these is a surprise; both are pieces of a strategy Amazon has been executing for years. The robotic warehouse means fewer people doing",
+   "upside_pct": -85.08259823650219,
+   "last_impact": "neutral",
+   "last_memo": "A rumor circulating on a retail stock-discussion platform claims Amazon quietly put its Nova AI models on the back burner before its next earnings report. This could mean Amazon is being more disciplined about where it spends its AI budget \u2014 which would actually be good for cash ",
    "risks": [
+    "If Amazon is pulling back from first-party frontier AI model development, it risks ceding AI-native workload acquisition to Azure (OpenAI) and Google Cloud (Gemini), potentially slowing AWS's ability to capture net-new AI spending in the medium term.",
+    "The report's pre-earnings timing could indicate a deliberate or inadvertent information leak, which itself carries a reputational and regulatory risk if material non-public information was involved \u2014 though this is speculative.",
     "Trainium adoption requires customers to retool AI workflows for non-Nvidia hardware; slower-than-expected developer uptake could limit the competitive moat benefit.",
     "Heavy capex for robotic warehouses and AI chip infrastructure keeps capital intensity elevated; if utilization ramps slowly, ROIC temporarily compresses before the efficiency gains materialize."
    ],
@@ -171,7 +177,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3513.6000000000004,
+   "position_value": 3470.85,
    "thesis_needed": false
   },
   {
@@ -192,13 +198,14 @@
     65.8,
     66.0,
     71.4,
+    72.0,
     72.0
    ],
-   "price": 218.43,
+   "price": 216.28,
    "fair_low": 75.00733660346769,
    "fair_base": 288.55960253064944,
    "fair_high": 396.3485189888189,
-   "upside_pct": 32.10621367515883,
+   "upside_pct": 33.41945743048338,
    "last_impact": "neutral",
    "last_memo": "IBM is buying a quantum computing research lab called HRL Laboratories. Quantum computing is a very early-stage technology \u2014 think of it as computing that could eventually solve problems classical computers cannot, but it is not generating meaningful business revenue for anyone y",
    "risks": [
@@ -220,6 +227,44 @@
    "thesis_needed": false
   },
   {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "conviction": 67.0,
+   "thesis_strength": 74,
+   "conviction_history": [
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    67.0,
+    67.0,
+    67.0,
+    65.0,
+    55.0,
+    65.0,
+    65.0,
+    67.0
+   ],
+   "price": 326.56,
+   "fair_low": 98.1810001979202,
+   "fair_base": 182.2386496011964,
+   "fair_high": 390.11857819186713,
+   "upside_pct": -44.19443606038816,
+   "last_impact": "weakens",
+   "last_memo": "After the European Union fined Google for antitrust violations related to its dominant search position, competing companies are now suing Google for damages in civil courts, with total claims potentially reaching $10 billion. For a company generating over $70 billion in free cash",
+   "risks": [
+    "Follow-on civil suits in the EU could aggregate to $10B in damages, representing a meaningful but absorbable cash outflow over multiple years.",
+    "A successful plaintiff recovery could embolden further copycat suits in other jurisdictions, increasing the total regulatory overhang.",
+    "Courts adjudicating civil claims could impose behavioral remedies beyond what the original EC fine required, potentially restricting distribution agreements that underpin Search's default placement.",
+    "Capex acceleration may be outpacing near-term AI revenue generation, compressing FCF returns below historical norms for longer than the market or thesis assumes."
+   ],
+   "catalysts": [],
+   "position_value": 3592.16,
+   "thesis_needed": false
+  },
+  {
    "symbol": "NVDA",
    "name": "NVIDIA Corporation",
    "conviction": 67.0,
@@ -237,13 +282,14 @@
     65.0,
     67.0,
     67.0,
+    67.0,
     67.0
    ],
-   "price": 201.7075,
+   "price": 196.51,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -73.54223495932189,
+   "upside_pct": -72.84245258794677,
    "last_impact": "neutral",
    "last_memo": "Reports say NVIDIA may be helping to finance OpenAI's purchase of NVIDIA hardware \u2014 essentially lending money to a customer to buy your own products. On one hand, this shows just how central NVIDIA is to the AI world: the most important AI company apparently wants NVIDIA's chips ",
    "risks": [
@@ -265,43 +311,6 @@
    "thesis_needed": false
   },
   {
-   "symbol": "GOOGL",
-   "name": "Alphabet Inc.",
-   "conviction": 65.0,
-   "thesis_strength": 72,
-   "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    67.0,
-    67.0,
-    67.0,
-    65.0,
-    55.0,
-    65.0,
-    65.0
-   ],
-   "price": 328.095,
-   "fair_low": 98.1810001979202,
-   "fair_base": 182.2386496011964,
-   "fair_high": 390.11857819186713,
-   "upside_pct": -44.45552367418083,
-   "last_impact": "neutral",
-   "last_memo": "Google's search business grew 17% last quarter instead of 19% \u2014 a modest slowdown that spooked the market and sent the stock down 7%. That kind of single-quarter move is almost always about investor sentiment, not business value. The business itself still grew meaningfully, the b",
-   "risks": [
-    "Capex acceleration may be outpacing near-term AI revenue generation, compressing FCF returns below historical norms for longer than the market or thesis assumes.",
-    "The TTM FCF figure of $25.5B \u2014 roughly one-third of prior-year levels \u2014 is unexplained in provided materials and represents a yellow flag on cash earnings quality until clarified.",
-    "Search growth deceleration, even if currently macro-driven, raises the probability that AI-native competitors (Perplexity, ChatGPT search) are beginning to attract incremental query share at the margin.",
-    "Alphabet issued mandatory convertible preferred stock at a 6.25% coupon plus common equity dilution to fund Wiz \u2014 the preferred will convert to common shares, creating an ongoing dilution overhang."
-   ],
-   "catalysts": [],
-   "position_value": 3609.045,
-   "thesis_needed": false
-  },
-  {
    "symbol": "LOPE",
    "name": "Grand Canyon Education",
    "conviction": 63.0,
@@ -319,13 +328,14 @@
     58.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 141.71,
+   "price": 144.86,
    "fair_low": 133.57404780273154,
    "fair_base": 239.0670398931219,
    "fair_high": 285.9006884667065,
-   "upside_pct": 68.70160178753926,
+   "upside_pct": 65.03316298020285,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -338,7 +348,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 2125.65,
+   "position_value": 2172.9,
    "thesis_needed": true
   },
   {
@@ -359,13 +369,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 206.8,
+   "price": 206.18,
    "fair_low": 153.8550255428788,
    "fair_base": 446.05034777459474,
    "fair_high": 563.8410179604589,
-   "upside_pct": 115.69165753123536,
+   "upside_pct": 116.34025985769458,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -378,7 +389,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7238.0,
+   "position_value": 7216.3,
    "thesis_needed": true
   },
   {
@@ -399,13 +410,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 69.95,
+   "price": 70.4,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 81.41677416357722,
+   "upside_pct": 80.25714989690663,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -439,13 +451,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 66.49,
+   "price": 68.18,
    "fair_low": 21.678384934562395,
    "fair_base": 92.73147049799306,
    "fair_high": 122.83676658745333,
-   "upside_pct": 39.46679274777119,
+   "upside_pct": 36.00978365795402,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -479,13 +492,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 115.99,
+   "price": 117.83,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 281.01939036977205,
+   "upside_pct": 275.0694991851809,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -502,55 +516,10 @@
    "thesis_needed": false
   },
   {
-   "symbol": "PLTR",
-   "name": "Palantir Tech Inc.",
-   "conviction": 61.0,
-   "thesis_strength": 68,
-   "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    55.0,
-    65.0,
-    65.0,
-    65.0,
-    65.0,
-    61.0,
-    61.0,
-    61.0
-   ],
-   "price": 128.05,
-   "fair_low": 7.454305495494721,
-   "fair_base": 20.021198777861585,
-   "fair_high": 25.114005799476644,
-   "upside_pct": -84.3645460539933,
-   "last_impact": "neutral",
-   "last_memo": "Palantir's stock dropped about 6% today, but nothing happened at the company \u2014 no earnings report, no contract news, no management statement. The stock simply fell, which happens regularly with high-valuation technology names. Think of it like this: if you owned a rental property",
-   "risks": [
-    "Channel partnerships with integrators like SNP can create margin dilution on co-sold deals if revenue-sharing terms are unfavorable; terms were not disclosed.",
-    "Reliance on a partner to drive SAP-adjacent pipeline introduces execution dependency on a third party outside Palantir's direct control.",
-    "Nvidia partnership could create indirect dependency: if Nvidia's AI hardware market share erodes or enterprise AI spending decelerates, Palantir's growth narrative tied to Nvidia co-selling could be impaired.",
-    "SBA fraud initiatives tied to specific political priorities may be de-funded or redirected with administration changes, adding concentration risk within the government segment if this becomes a material revenue line."
-   ],
-   "catalysts": [
-    {
-     "id": 5,
-     "symbol": "PLTR",
-     "date": "2026-08-03",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 19207.5,
-   "thesis_needed": false
-  },
-  {
    "symbol": "MSFT",
    "name": "Microsoft Corporation",
-   "conviction": 60.0,
-   "thesis_strength": 72,
+   "conviction": 62.0,
+   "thesis_strength": 74,
    "conviction_history": [
     38.0,
     38.0,
@@ -566,20 +535,21 @@
     64.0,
     64.0,
     64.0,
-    60.0
+    60.0,
+    62.0
    ],
-   "price": 391.605,
+   "price": 389.1,
    "fair_low": 64.15462217769772,
    "fair_base": 102.88630008833451,
    "fair_high": 192.26997108513837,
-   "upside_pct": -73.72702082753425,
-   "last_impact": "neutral",
-   "last_memo": "This event is just a preview article speculating about what Microsoft might report \u2014 there are no actual numbers yet. Nothing about Microsoft's business has changed based on this. The real test will come when the Q4 results are published: we will want to see how fast Azure is gro",
+   "upside_pct": -73.55787712970073,
+   "last_impact": "strengthens",
+   "last_memo": "Microsoft is about to report quarterly earnings, and separately just launched a cheaper version of its AI-powered security product. The security move is a smart business play: instead of only selling to large enterprises who can afford the full-price product, Microsoft is now off",
    "risks": [
-    "Multi-model marketplace strategy could commoditize Azure's AI differentiation if customers treat cloud providers as interchangeable inference pipes \u2014 though Microsoft's enterprise compliance, identity, and security envelope mitigates this significantly.",
-    "No financial terms disclosed means the committee cannot assess whether Microsoft is subsidizing Mistral's Azure compute costs to win the partnership, which would be a margin headwind if material.",
-    "If Mistral's models underperform technically relative to OpenAI or Google Gemini, Microsoft's European AI positioning could be weakened despite the investment, having allocated capital to a suboptimal asset.",
-    "EU regulatory bodies may scrutinize the deal as a de facto acquisition of influence over a nominally 'independent' European AI champion, creating regulatory friction in a market where Microsoft already faces elevated antitrust attention."
+    "Lower-cost AI security SKU could cannibalize premium Security Copilot tiers if positioning is not cleanly differentiated, compressing segment ARPU.",
+    "Q4 earnings may reveal Azure growth deceleration or Copilot attach rates below investor expectations, which would stress-test the AI monetization thesis directly.",
+    "Pricing aggression in security could trigger competitive responses from CrowdStrike or Palo Alto that accelerate their own lower-cost AI offerings.",
+    "Multi-model marketplace strategy could commoditize Azure's AI differentiation if customers treat cloud providers as interchangeable inference pipes \u2014 though Microsoft's enterprise compliance, identity, and security envelope mitigates this significantly."
    ],
    "catalysts": [
     {
@@ -591,6 +561,52 @@
     }
    ],
    "position_value": 0,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "PLTR",
+   "name": "Palantir Tech Inc.",
+   "conviction": 55.0,
+   "thesis_strength": 62,
+   "conviction_history": [
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    55.0,
+    65.0,
+    65.0,
+    65.0,
+    65.0,
+    61.0,
+    61.0,
+    61.0,
+    55.0
+   ],
+   "price": 131.53,
+   "fair_low": 7.454305495494721,
+   "fair_base": 20.021198777861585,
+   "fair_high": 25.114005799476644,
+   "upside_pct": -84.7782264290568,
+   "last_impact": "strengthens",
+   "last_memo": "Palantir just reported better-than-expected results and raised its forecast for 2026, which is genuinely good news \u2014 it means the business is growing faster than Wall Street expected and management is confident enough to commit to higher targets. The stock jumped 7% on the news. ",
+   "risks": [
+    "Stock trading at ~60x forward earnings and ~$315B market cap creates a high execution bar where any future guidance miss could trigger a severe de-rating, irrespective of underlying business quality.",
+    "Without segment detail, there is a non-trivial risk that the beat is government-contract-timing-driven rather than commercial AIP adoption, which would not validate the core long-term thesis driver.",
+    "Channel partnerships with integrators like SNP can create margin dilution on co-sold deals if revenue-sharing terms are unfavorable; terms were not disclosed.",
+    "Reliance on a partner to drive SAP-adjacent pipeline introduces execution dependency on a third party outside Palantir's direct control."
+   ],
+   "catalysts": [
+    {
+     "id": 5,
+     "symbol": "PLTR",
+     "date": "2026-08-03",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 19729.5,
    "thesis_needed": false
   },
   {
@@ -611,13 +627,14 @@
     55.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 88.985,
+   "price": 89.66,
    "fair_low": 46.45671896898705,
    "fair_base": 68.5439290486749,
    "fair_high": 85.74192116037001,
-   "upside_pct": -22.971367029639943,
+   "upside_pct": -23.551272531034016,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -630,7 +647,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8898.5,
+   "position_value": 8966.0,
    "thesis_needed": true
   },
   {
@@ -651,13 +668,14 @@
     65.0,
     65.0,
     65.0,
+    55.0,
     55.0
    ],
-   "price": 173.0,
+   "price": 179.14,
    "fair_low": 11.690267416651736,
    "fair_base": 14.045639577281454,
    "fair_high": 19.573210924567046,
-   "upside_pct": -91.88113319232286,
+   "upside_pct": -92.15940628710425,
    "last_impact": "neutral",
    "last_memo": "Shopify's stock jumped about 8% today, but there was no news behind it \u2014 no earnings, no product announcement, no strategic update. The business itself is unchanged. Shopify is a genuinely excellent company with strong competitive advantages, but the stock already trades at a ver",
    "risks": [
@@ -675,7 +693,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6920.0,
+   "position_value": 7165.599999999999,
    "thesis_needed": false
   },
   {
@@ -696,9 +714,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 25.87,
+   "price": 25.72,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -707,7 +726,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 1008.9300000000001,
+   "position_value": 1003.0799999999999,
    "thesis_needed": true
   },
   {
@@ -730,13 +749,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 944.165,
+   "price": 951.58,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -32.76370580327056,
+   "upside_pct": -33.28763140224148,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -770,13 +790,14 @@
     41.1,
     41.1,
     41.1,
+    41.1,
     41.1
    ],
-   "price": 128.47,
+   "price": 126.05,
    "fair_low": 17.438329054264695,
    "fair_base": 51.10289449023222,
    "fair_high": 62.15245858192385,
-   "upside_pct": -60.22192380304179,
+   "upside_pct": -59.45823523186655,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -812,13 +833,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 334.89,
+   "price": 336.91,
    "fair_low": 71.85573534462412,
    "fair_base": 72.36653113089089,
    "fair_high": 73.51461788169713,
-   "upside_pct": -78.39095490134346,
+   "upside_pct": -78.52051552910544,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -852,13 +874,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 41.665,
+   "price": 42.14,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -41.878856780743654,
+   "upside_pct": -42.53399543829342,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -892,9 +915,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 34.785,
+   "price": 35.14,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -932,9 +956,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 110.63,
+   "price": 113.5,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -972,9 +997,10 @@
     20.8,
     20.8,
     20.8,
+    20.8,
     20.8
    ],
-   "price": 36.7,
+   "price": 35.92,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1012,13 +1038,14 @@
     18.9,
     18.9,
     18.9,
+    18.9,
     18.9
    ],
-   "price": 413.51,
+   "price": 417.64,
    "fair_low": 132.5492993322689,
    "fair_base": 205.2851777929539,
    "fair_high": 239.75334744632553,
-   "upside_pct": -50.35545022056205,
+   "upside_pct": -50.846380185577544,
    "last_impact": "neutral",
    "last_memo": "A financial news article warned of a risk in UnitedHealth's earnings story that it says the market hasn't priced in, but we don't have the actual content of that article \u2014 just the headline. A headline by itself tells us nothing we can act on. What we can observe from UnitedHealt",
    "risks": [
@@ -1036,7 +1063,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7071.021000000001,
+   "position_value": 7141.644,
    "thesis_needed": false
   },
   {
@@ -1057,9 +1084,10 @@
     13.0,
     17.0,
     17.0,
+    17.0,
     17.0
    ],
-   "price": 58.06,
+   "price": 58.29,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1102,9 +1130,10 @@
     13.8,
     13.8,
     13.8,
+    13.8,
     13.8
    ],
-   "price": 19.09,
+   "price": 16.21,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1142,13 +1171,14 @@
     16.3,
     13.3,
     13.3,
+    12.1,
     12.1
    ],
-   "price": 308.86,
+   "price": 309.22,
    "fair_low": 15.452268642505791,
    "fair_base": 16.08681782130258,
    "fair_high": 16.415240390523092,
-   "upside_pct": -94.79155027478386,
+   "upside_pct": -94.79761405429707,
    "last_impact": "weakens",
    "last_memo": "Tesla's sales grew 26% compared to a year ago, which sounds great \u2014 but the company actually earned far less from operations, and cash flow turned negative for the quarter. The reason is that Tesla is spending massively more on research and paying its employees (especially Elon M",
    "risks": [
@@ -1187,9 +1217,10 @@
     10.3,
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 36.8151,
+   "price": 36.29,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1227,9 +1258,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.065,
+   "price": 5.11,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1246,7 +1278,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 506.50000000000006,
+   "position_value": 511.00000000000006,
    "thesis_needed": true
   },
   {
@@ -1267,9 +1299,10 @@
     40.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 15.89,
+   "price": 15.64,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1291,6 +1324,48 @@
   }
  ],
  "history": [
+  {
+   "date": "2026-07-28",
+   "symbol": "MSFT",
+   "impact": "strengthens",
+   "headline": "MSFT Q4 earnings imminent; lower-cost AI security model signals broadening monetization playbook",
+   "strength": 74
+  },
+  {
+   "date": "2026-07-28",
+   "symbol": "GOOGL",
+   "impact": "weakens",
+   "headline": "EU fine opens door to ~$10B rival litigation; material but not thesis-altering absent monetization damage",
+   "strength": 74
+  },
+  {
+   "date": "2026-07-28",
+   "symbol": "PLTR",
+   "impact": "strengthens",
+   "headline": "PLTR Q2 beat + guidance raise confirmed; stock +7% but trades at ~130x trailing earnings",
+   "strength": 62
+  },
+  {
+   "date": "2026-07-28",
+   "symbol": "META",
+   "impact": "neutral",
+   "headline": "Meta-BlackRock $14B Texas data center confirms AI capex scaling; no thesis change",
+   "strength": 82
+  },
+  {
+   "date": "2026-07-28",
+   "symbol": "DECK",
+   "impact": "neutral",
+   "headline": "StockStory Q2 deep-dive flags channel mix shift; no structural thesis change without hard data",
+   "strength": 74
+  },
+  {
+   "date": "2026-07-28",
+   "symbol": "AMZN",
+   "impact": "neutral",
+   "headline": "Unverified report of AI strategy shift at Amazon; no action warranted until earnings confirmation",
+   "strength": 82
+  },
   {
    "date": "2026-07-27",
    "symbol": "MSFT",
