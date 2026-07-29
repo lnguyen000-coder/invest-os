@@ -1,6 +1,22 @@
 # International Business Machines Corporation (IBM) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-29 — IBM +5.2% single-day move; no fundamental event — price action alone
+**Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 66.0/100 · **ALERTED**
+
+**What changed:** IBM's share price moved from $216.28 to $227.55, a 5.2% single-session gain. No earnings release, strategic announcement, or material business update accompanies this move. The event is flagged as rule-based screener output, not a company-specific disclosure.
+
+**Why it matters:** A 5.2% daily move on no fundamental news is market noise. It does not affect Red Hat growth, software margins, FCF trajectory, or any of the thesis drivers that determine IBM's intrinsic value over a 5-year horizon. The only marginal relevance is positional: at $227.55, IBM trades slightly closer to the base-case fair value of $288.56 and above the exit-multiple-derived value of $178.75, modestly compressing the margin of safety.
+
+**Intrinsic value:** none / none via none — Intrinsic value is a function of future cash flows, not today's quote. No business driver has changed. The price move affects the margin of safety, not the value itself.
+
+**Valuation:** fair value $75 / **$289** / $396 · implied growth at price: 2.9%
+
+**Committee memo:** The 5.2% price move is noise, not signal. There is no underlying event — earnings, contract win, management change, or competitive development — that would require us to revisit the thesis. IBM's intrinsic value range ($75–$396, base case $289) is wide precisely because the business sits at a transformation inflection point, and the current price of $228 sits below base case, implying reasonable upside if software and Red Hat execution continues. The more substantive pre-existing concern, unchanged by this event, is leverage: net debt/EBITDA at 3.47x exceeds our 2.5x discipline threshold and warrants monitoring — specifically, whether FCF ($12B TTM) is being deployed to reduce debt or recycled into buybacks at current multiples. ROIC at 10.8% is acceptable but not exceptional; we need to see that figure hold or improve as the Hashicorp acquisition is absorbed. Our posture is hold conviction at current sizing. We would consider adding on meaningful weakness (approaching the $178 exit-multiple floor) if the business fundamentals remain intact. What would prove this judgment wrong: a reversal of the gross margin expansion trend, a deceleration in software/Red Hat organic growth in the next earnings print, or evidence that debt is being refinanced at materially higher rates that pressure FCF.
+
+**Plain English:** IBM's stock jumped about 5% in one day, but there was no news behind it — no earnings, no announcement, nothing. This kind of move happens in the market and doesn't tell us anything about whether IBM's business is getting better or worse. The company's value hasn't changed; we're just paying a bit more per share today than yesterday. One thing worth keeping an eye on: IBM carries more debt than we'd ideally like (net debt over 3x EBITDA, above our 2.5x comfort threshold), and that's a pre-existing concern this event doesn't resolve. Nothing here changes our view on the company.
+
+---
 ## 2026-07-24 — IBM acquires HRL Laboratories quantum research lab; long-term bet, no near-term thesis shift
 **Thesis impact: NEUTRAL** · Thesis strength: 68/100 · Conviction: 71.4/100 · **ALERTED**
 

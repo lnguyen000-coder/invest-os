@@ -1,6 +1,22 @@
 # Deckers Outdoor Corp. (DECK) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-29 — DECK +6.3% in a session; no new fundamental information changes the thesis
+**Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 87.0/100 · **ALERTED**
+
+**What changed:** DECK's share price moved from $97.73 to $103.92, a single-session gain of 6.3%. No earnings release, guidance update, management commentary, or operational disclosure accompanied this move. The event appears to be a price-only signal flagged by a rule-based screener.
+
+**Why it matters:** A 6.3% single-day move in a ~$14B market-cap company without an accompanying catalyst is worth noting purely for valuation context. At $103.92, the stock still trades well below the base DCF fair value of ~$214 and exit-multiple estimate of ~$249, implying the market is pricing in only ~4% long-run growth — far below what the thesis requires from HOKA. The move itself does not alter any of the drivers (HOKA growth, UGG cash generation, gross margins, FCF) that determine intrinsic value.
+
+**Intrinsic value:** none / none via none — Intrinsic value is a function of future cash flows, not daily price movements. No operational, competitive, or strategic information was disclosed. The reverse-DCF implied growth of ~4% remains the relevant tension point versus the thesis expectation of sustained double-digit HOKA-led growth.
+
+**Valuation:** fair value $85 / **$214** / $249 · implied growth at price: 4.0%
+
+**Committee memo:** The sole event today is a 6.3% price appreciation with no accompanying fundamental disclosure — a rule-based screener flag, not an information event. I am not inclined to adjust any model assumptions or conviction level based on price action alone. What is worth re-emphasizing to the committee is the valuation context: at $103.92, DECK trades at roughly 12.4x forward earnings and 10x EV/EBITDA for a business with 76.7% ROIC, a net-cash balance sheet (net debt/EBITDA of -0.85x), and a four-year FCF trajectory that has grown from $460M to $1.1B. The reverse-DCF implies the market is pricing in only ~4% perpetual growth — a figure that would require HOKA to stall almost entirely. Our base case at ~$214 requires HOKA to sustain meaningful growth into its international expansion phase, which we view as achievable but not assured. The primary risk to the thesis is not price volatility but a genuine deceleration in HOKA's momentum or a gross-margin break driven by discounting — neither of which is signaled today. Recommendation: hold conviction at current levels; the discount to intrinsic value remains wide enough to warrant patience. I would want to see the next earnings release to verify HOKA growth rates and DTC mix trends before reassessing conviction direction.
+
+**Plain English:** Deckers' stock jumped about 6% in a single day, but there was no news attached — no earnings, no guidance, no announcement. The business itself is unchanged: HOKA is growing, UGG is generating strong cash, margins are healthy, and the company has no meaningful debt. At ~$104, the stock is still priced for only about 4% annual growth forever, which looks conservative if HOKA keeps taking market share globally. This price move doesn't tell us anything new about whether the investment will work; it's just noise. The real question remains whether HOKA can sustain above-market growth for the next five-plus years, and nothing today changes that answer.
+
+---
 ## 2026-07-28 — StockStory Q2 deep-dive flags channel mix shift; no structural thesis change without hard data
 **Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 87.0/100 · **ALERTED**
 

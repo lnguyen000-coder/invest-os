@@ -1,6 +1,22 @@
 # Palantir Tech Inc. (PLTR) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-29 — PLTR drops 6.1% — price move only, no change to business fundamentals
+**Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
+
+**What changed:** Palantir's share price fell 6.1% from $131.53 to $123.53 in a single session. No new fundamental data, earnings release, contract announcement, or management commentary accompanied this move. The event is flagged by a rule-based screener, not by any company-specific disclosure.
+
+**Why it matters:** A 6.1% single-day move in a high-multiple stock like PLTR is not unusual given its ~139x trailing P/E and the inherent volatility of momentum-driven names. The thesis explicitly calls out 'do not sell simply because of volatility or a sharp share price decline if the underlying business remains strong.' Nothing in the provided material suggests the business has changed. The only relevant observation is that the stock was already trading at a very large premium to any reasonable fundamental estimate of intrinsic value (fair value base case $20, current price $123), so price volatility is structurally amplified.
+
+**Intrinsic value:** none / none via none — Intrinsic value is a function of cash flows, growth, and risk — none of which have been updated by a price-only event. The stock price declining 6.1% means the market is pricing in slightly less speculative premium, but the business's earnings power in 2031 is unchanged.
+
+**Valuation:** fair value $7 / **$20** / $25
+
+**Committee memo:** Today's 6.1% price decline in PLTR is a rule-based alert with no fundamental content attached. The investment committee should not act on it. Palantir's thesis rests on durable embedding in mission-critical workflows, AIP adoption driving long-term commercial growth, and FCF margin expansion — none of those drivers have been updated. What does warrant ongoing committee attention — and predates this move — is the structural valuation gap: the stock at ~$124 implies a growth and margin trajectory that our own reverse-DCF models have difficulty justifying even under aggressive assumptions, and our base intrinsic value estimate is roughly $20. This means the position carries significant 'priced for perfection' risk that any deceleration in commercial growth or AI adoption sentiment could unlock violently. The appropriate posture remains hold conviction on the business quality while maintaining awareness that position sizing must account for the gap between price and value. No trim is warranted solely on today's move. What would prove this judgment wrong: if follow-on reporting reveals a fundamental catalyst for the decline (e.g., a large customer non-renewal, a government contract loss, or a competitive displacement) that was not captured in the screener alert — in that case, reassessment would be immediate.
+
+**Plain English:** Palantir's stock fell about 6% today, but nothing happened at the actual company — no earnings, no contract news, no management announcements. This is just normal price volatility for a stock that trades at an enormous premium to what most valuation models say it's worth. The business itself — its software, its government contracts, its AI platform — is exactly the same as it was yesterday. The honest concern here isn't today's drop; it's the pre-existing fact that the stock at $124 trades at roughly six times even an optimistic estimate of intrinsic value, which means holders are entirely dependent on the market continuing to pay that premium indefinitely. That was already true before today.
+
+---
 ## 2026-07-28 — PLTR Q2 beat + guidance raise confirmed; stock +7% but trades at ~130x trailing earnings
 **Thesis impact: STRENGTHENS** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
 
