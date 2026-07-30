@@ -1,6 +1,25 @@
 # Palantir Tech Inc. (PLTR) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-30 — Pre-earnings setup: 12-quarter acceleration streak on the line; no new fundamental data yet
+**Thesis impact: NEUTRAL** · Thesis strength: 68/100 · Conviction: 61.0/100 · **ALERTED**
+
+**What changed:** Two pre-earnings news items flag that Palantir reports Q2 results on August 3. The narrative focus is on whether Palantir can extend its streak of sequential revenue acceleration to a 12th consecutive quarter, with US commercial growth identified as the swing factor. No actual results, guidance, or operational data have been released.
+
+**Why it matters:** The revenue acceleration streak is a proxy for the core thesis driver — that AIP adoption is translating into durable, compounding commercial growth rather than a one-time AI hype cycle. US commercial is the highest-quality growth vector (organic, price-driven, shorter sales cycles than government) and is the segment most investors are using to underwrite the long-term model. A break in the streak would not automatically kill the thesis, but it would demand an explanation rooted in business fundamentals rather than calendar noise.
+
+**Intrinsic value:** none / none via none — No new financial data has been disclosed. Intrinsic value cannot be revised based on a preview article that describes what analysts are watching rather than what the business has delivered.
+**New risks:**
+- Market expectations for a 12th consecutive quarter of revenue acceleration are now explicitly elevated; a deceleration — even a modest one — could trigger outsized price volatility disproportionate to the actual business impact.
+- The August 3 earnings date compresses the window for position-sizing decisions ahead of a high-expectation print at a ~138x trailing P/E.
+
+**Valuation:** fair value $7 / **$20** / $25
+
+**Committee memo:** These two items are pre-earnings media previews with no new financial or operational content. They do not move intrinsic value, and manufacturing significance here would be a discipline failure. What they usefully do is crystallize the market's expectations heading into August 3: twelve consecutive quarters of revenue acceleration is a high bar, and with the stock at ~123 and a trailing P/E of 138x, there is essentially no margin of safety priced in. Our DCF base case of $20 per share implies the current price embeds an extraordinary growth scenario that must be validated repeatedly. The August 3 print will be meaningful — we should be watching US commercial revenue growth rate and trajectory, AIP-driven customer expansion metrics, FCF margin versus the prior $2.1B TTM run rate, and any change in management's forward tone on deal flow. Hold current conviction into earnings but do not add at these levels ahead of the print; the risk/reward of paying 56x sales for an uncertain beat is asymmetric to the downside. What would prove this pre-earnings neutral judgment wrong: a surprise pre-announcement (positive or negative) or a leaked contract disclosure that materially changes the revenue outlook before August 3.
+
+**Plain English:** Two news articles are essentially saying 'Palantir reports earnings on August 3 and analysts are watching closely.' There is no new information about the actual business — no sales data, no customer numbers, no profit figures. The reason this matters at all is context: Palantir has grown revenue faster every quarter for nearly three years straight, and the market is pricing in continued acceleration, especially from US corporate customers using its AI software. If that streak breaks when results come out, the stock could fall hard even if the underlying business is fine. For now, nothing has changed in our view of what the company is worth — we're just being reminded that a high-stakes data point is coming soon.
+
+---
 ## 2026-07-29 — PLTR drops 6.1% — price move only, no change to business fundamentals
 **Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
 

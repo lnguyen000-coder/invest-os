@@ -1,6 +1,26 @@
 # Deckers Outdoor Corp. (DECK) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-30 — DECK raises FY2027 guidance; growth implied by market price (4%) looks too pessimistic
+**Thesis impact: STRENGTHENS** · Thesis strength: 78/100 · Conviction: 91.0/100 · **ALERTED**
+
+**What changed:** Deckers management upgraded their fiscal year 2027 guidance and announced a Teva product expansion. The market's reaction has been mixed. The stock is trading near $103.54, implying the market prices in only ~4% long-term growth against a DCF fair value of ~$245. No specific revised guidance numbers were provided in the event summary, so quantitative detail is limited.
+
+**Why it matters:** Upgraded multi-year guidance is directly relevant to the two core thesis drivers: HOKA's sustained growth trajectory and UGG's continued cash generation. If management is raising the bar for 2027, it signals confidence in HOKA's international expansion pipeline and the DTC mix shift — both of which are margin-accretive. The 4% growth implied by the current price is dramatically below what even a conservative reading of HOKA's runway would suggest, meaning either management is wrong, the market doesn't believe them, or the stock is meaningfully undervalued. Teva expansion is a secondary item; Teva is a small, mature brand and its product line extension does not move the needle on intrinsic value.
+
+**Intrinsic value:** up / small (<5%) via growth — A guidance upgrade confirms the near-term earnings trajectory but does not structurally alter long-term growth assumptions unless specific unit economics or market share metrics are disclosed. The magnitude is small because the base DCF already assumed continuation of recent growth; guidance confirmation reduces downside risk more than it lifts the central estimate. We would need the actual revised numbers to size a larger adjustment.
+**Management credibility:** improved — Management is raising forward guidance rather than walking it down — a pattern consistent with the thesis's observation of 'guidance beaten quietly.' Without seeing the original 2027 targets to compare, this is a directional positive. The track record visible in fundamentals (revenue +51% over four years, FCF growing from $0.46B to $1.1B, gross margins expanding then stabilizing near 57.7%) supports the credibility of a guidance raise rather than contradicting it.
+**New risks:**
+- Upgraded guidance increases the bar management must clear; a future miss against a raised target would be more damaging to credibility than missing a conservative baseline.
+- Teva product expansion, if funded with meaningful marketing spend, could dilute management attention and capital away from HOKA and UGG without commensurate return.
+
+**Valuation:** fair value $85 / **$214** / $249 · implied growth at price: 4.0%
+
+**Committee memo:** Deckers raised its FY2027 guidance, a direct affirmation of the thesis's core premise: HOKA's growth runway is intact and management has visibility into multi-year earnings compounding. The stock at $103.54 implies a ~4% perpetual growth rate in a reverse DCF — a number inconsistent with four consecutive years of double-digit revenue growth, 76.7% ROIC, and a net cash balance sheet. Our base DCF suggests fair value near $245 and exit-multiple analysis near $249, making the current price roughly a 50% discount to intrinsic value even on conservative assumptions. The guidance raise incrementally validates the growth assumptions baked into those models rather than forcing us to raise them. We would hold conviction at current prices and treat any further weakness as a buying opportunity. The Teva expansion is not a consideration for position sizing. What would prove this judgment wrong: the 2027 guidance details, once disclosed, reveal the raise is driven by UGG one-time factors rather than HOKA's organic global expansion; or HOKA gross margins compress meaningfully as the brand scales into more price-competitive international markets. We would want to see the actual 2027 revenue and margin targets broken out by brand before drawing stronger conclusions from this headline.
+
+**Plain English:** Deckers just told investors their business will be larger and more profitable by 2027 than they previously expected — that's a good sign for anyone holding the stock for the long term. The stock currently trades as if the company will barely grow at all (about 4% per year), which looks very cheap against a business that has been compounding revenue and cash flow at double-digit rates for several years. The guidance upgrade doesn't change what the business fundamentally does, but it reduces the risk that management has been too optimistic — they're becoming more optimistic, not less. The Teva news (a smaller, older brand in their portfolio) is essentially irrelevant to the main story. The biggest open question is whether HOKA can keep gaining ground globally in performance footwear against Nike, On Running, and others — that remains the make-or-break question for this investment.
+
+---
 ## 2026-07-29 — DECK +6.3% in a session; no new fundamental information changes the thesis
 **Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 87.0/100 · **ALERTED**
 
