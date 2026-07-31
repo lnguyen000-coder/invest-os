@@ -1,6 +1,24 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-31 — MSFT +15.5% in a single session; no new fundamental information, thesis unchanged
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
+
+**What changed:** Microsoft's share price rose 15.5% from $390.54 to $451.10 in a single trading session. No new earnings release, guidance change, or strategic announcement is provided as the catalyst. The move appears to be a price event, not a fundamental event. Market cap is now approximately $3.35 trillion.
+
+**Why it matters:** A 15% single-day move in a $3+ trillion company is unusual and warrants attention, but the relevance to the thesis depends entirely on what drove it. Without an identifiable catalyst tied to Azure growth, margins, AI monetization, or competitive position, this is a market pricing event — not a business event. What matters is that the stock now trades at an even larger premium to the DCF-derived fair value range ($63–$192 base), with the current price implying a ~28% long-term growth rate in the reverse DCF — a demanding assumption. The price move makes the stock less attractive on a forward return basis but does not alter what the business will earn in 2031.
+
+**Intrinsic value:** none / none via none — Intrinsic value is determined by cash flows, not by today's stock price. No information was provided that changes revenue, margin, or capital intensity assumptions. The price moved; the business did not.
+**New risks:**
+- At $451/share, the stock now prices in ~28% long-term growth, leaving minimal margin of safety if Azure growth decelerates or AI monetization underwhelms — even modestly.
+
+**Valuation:** fair value $64 / **$102** / $192 · implied growth at price: 28.3%
+
+**Committee memo:** The sole event presented is a 15.5% single-session price increase in MSFT with no accompanying fundamental catalyst. This is a price event, not a business event, and standard silence discipline applies: there is no thesis impact. That said, the committee should register one important valuation observation: at $451, MSFT trades at a significant premium to the model's base ($102) and high ($192) fair value estimates, with the reverse DCF implying ~28% sustained growth to justify the current price. The TTM FCF figure of $16.4B shown in the fundamentals appears anomalously low versus the $67–74B range in prior years — this discrepancy must be resolved before any valuation work is reliable; it is likely a data artifact or trailing window issue rather than a real FCF collapse, but it must be confirmed. Gross margins have drifted down modestly (689 → 679 bps) over four years, which is worth flagging as a structural question at the next earnings call, though it is not yet alarming at these ROIC levels (27%). Recommended action: hold conviction, do not add at current price given the valuation stretch, and do not trim solely because the stock ran — the business has not deteriorated. What would prove this judgment wrong: if the price move was driven by a specific positive catalyst (e.g., a major AI platform contract, a significant guidance raise, or a regulatory resolution) that was not included in this event package, that information could modestly shift both intrinsic value and thesis strength upward and should be reviewed immediately.
+
+**Plain English:** Microsoft's stock jumped 15% in a single day, which sounds dramatic but doesn't tell us anything new about the actual business. No earnings report, no major contract announcement, no strategic news was provided — just the price move itself. The underlying thesis — that Microsoft has durable advantages in cloud, enterprise software, and AI distribution — is completely intact. The problem is purely one of price: at $451, the stock is well above our highest fair value estimate, and to justify this price you'd need Microsoft to grow at roughly 28% per year for years, which is an extremely demanding expectation even for a great company. We're not selling because the thesis is intact, but we're certainly not adding at this price either.
+
+---
 ## 2026-07-30 — Azure crosses $100B; AI monetization thesis advancing, but SaaS commoditization risk merits monitoring
 **Thesis impact: STRENGTHENS** · Thesis strength: 74/100 · Conviction: 62.0/100 · **ALERTED**
 

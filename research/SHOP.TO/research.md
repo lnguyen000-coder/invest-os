@@ -1,6 +1,22 @@
 # Shopify Inc. (SHOP.TO) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-07-31 — SHOP.TO fell 5.6% — price move only, no fundamental change detected
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
+
+**What changed:** Shopify's share price declined 5.6% from C$181.73 to C$171.52 in a single session. No new earnings release, guidance update, strategic announcement, or material operational disclosure accompanied this move. The event appears to be a rule-based price-alert trigger with no underlying fundamental catalyst provided.
+
+**Why it matters:** A 5.6% single-day move in a high-multiple growth stock is not unusual and, absent a fundamental catalyst, tells us nothing about what the business will earn in 2031. The thesis is built on GMV growth, Merchant Solutions expansion, Payments penetration, and operating leverage — none of which are affected by a price oscillation. The only reason to note it at all is to ask whether the price now offers a better entry point relative to intrinsic value.
+
+**Intrinsic value:** none / none via none — Intrinsic value is a function of future cash flows, not yesterday's closing price. No new information about growth, margins, or capital intensity was provided. The 5.6% price drop is irrelevant to the DCF.
+
+**Valuation:** fair value $12 / **$14** / $20
+
+**Committee memo:** The sole event triggering this review is a 5.6% price decline with no identified fundamental catalyst — this is rule-based noise, not signal. Shopify's underlying business profile is unchanged: strong FCF trajectory (FCF has grown from negative $190M to over $1.25B in four years), an 18.8% ROIC on a net-cash balance sheet, and a merchant ecosystem with genuine switching costs and a deepening Payments flywheel. None of that changed today. The valuation remains the central tension in this thesis: even the high-end DCF scenario produces C$19.57/share versus a current price of C$171.52 — a gap that demands either a significant upward revision to long-term growth and margin assumptions or acceptance that the market is pricing in outcomes well beyond what our model captures. The price decline does not materially close that gap. My recommendation is to hold conviction on the thesis, take no action, and continue monitoring the metrics that actually matter: GMV growth rate, Merchant Solutions revenue mix, Payments penetration as a share of GPV, enterprise (Plus) cohort expansion, and free cash flow margin progression. This judgment would be wrong if the price drop turns out to be front-running a material negative disclosure — earnings miss, merchant churn data, or a competitive threat — that has not yet been made public. We should watch for any such disclosure in the coming days.
+
+**Plain English:** Shopify's stock dropped about 5.6% today, but there's no news behind it — no earnings, no business update, nothing. The business itself is unchanged. The stock is still trading at a very high premium to what our models suggest it's worth (roughly 12x the base-case fair value estimate), so the modest price dip doesn't flip the valuation math. For a long-term investor, a single day's price move with no new information is simply not relevant. The right response is to do nothing and wait for actual news about the business.
+
+---
 ## 2026-07-27 — SHOP +7.8% in a session; price move alone carries no thesis information
 **Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
 
