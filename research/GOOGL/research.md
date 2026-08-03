@@ -1,6 +1,25 @@
 # Alphabet Inc. (GOOGL) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-03 — YouTube wrongful death lawsuit is a real but bounded risk; no thesis-level change warranted
+**Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
+
+**What changed:** Alphabet faces a wrongful death lawsuit alleging YouTube targeted minors in harmful ways. The specific claims, damages sought, and procedural status are not detailed in the provided material. This adds to an existing pile of regulatory and legal scrutiny on YouTube's practices toward younger users.
+
+**Why it matters:** YouTube is a key thesis driver — both for advertising revenue and subscription growth. Legal actions that result in binding operational restrictions (e.g., limiting ad targeting on content viewed by minors) or large financial penalties would directly affect YouTube's monetization model. However, a single lawsuit, even one framed as wrongful death, is unlikely on its own to structurally alter YouTube's economics. The risk is that it becomes a catalyst for broader regulatory action or class litigation.
+
+**Intrinsic value:** none / none via none — A single lawsuit with no disclosed damages figure, no ruling, and no immediate operational impact does not move intrinsic value estimates. If it escalates into systemic regulatory action, that reassessment belongs at that time with actual facts.
+**New risks:**
+- If this lawsuit generates significant media coverage or political attention, it could accelerate existing legislative efforts (e.g., KOSA-type laws) to restrict algorithmic targeting of minors, which would constrain YouTube's ad revenue mix.
+- A wrongful death framing may attract plaintiff's attorneys to pursue coordinated class or mass tort litigation, increasing aggregate potential liability beyond what a single case would suggest.
+
+**Valuation:** fair value $98 / **$182** / $390 · implied growth at price: 26.7%
+
+**Committee memo:** This lawsuit fits squarely within the 'regulatory and legal risk' bucket the thesis already identifies and prices. Alphabet's legal exposure at any given time is extensive; what matters is whether individual actions are likely to produce outcomes that structurally impair the business. Based on available information, this one does not clear that bar. The wrongful death framing is emotionally resonant and will likely attract press coverage, but emotional resonance and legal materiality are different things. The scenario I would watch is whether this becomes a rallying point for federal child safety legislation — particularly any law that would prohibit behavioral ad targeting for users under 18 or require age verification at a platform level. YouTube generates meaningful revenue from content consumed by younger audiences, and binding operational constraints there would reduce addressable ad inventory. That risk is real but not new, and this lawsuit alone does not materially increase its probability. Hold conviction. I would want to see: (1) the actual complaint to understand the legal theory and damages sought, (2) whether other plaintiffs are joining or likely to join, and (3) any management commentary on YouTube's current policies for minor-adjacent content. What would prove this judgment wrong is a fast-moving regulatory response — a committee hearing, an FTC enforcement inquiry, or a bill gaining momentum — that specifically cites this lawsuit as the catalyst.
+
+**Plain English:** A family has filed a wrongful death lawsuit claiming YouTube's recommendation algorithm targeted their minor child with harmful content. This is serious from a human standpoint, but as an investment matter, Alphabet faces dozens of legal actions at any given time and this one doesn't have the scale or specificity to change what the business earns over the next five years. The real risk to watch is whether this becomes a trigger for broader government regulation that forces YouTube to change how it targets ads to younger audiences — that could actually affect revenue. For now, it's a known risk category (regulatory/legal) that was already part of the thesis, with one more data point added to it. No reason to change our view of the business.
+
+---
 ## 2026-07-28 — EU fine opens door to ~$10B rival litigation; material but not thesis-altering absent monetization damage
 **Thesis impact: WEAKENS** · Thesis strength: 74/100 · Conviction: 67.0/100 · **ALERTED**
 

@@ -1,6 +1,22 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-03 — MSFT +5.5% price move is noise; no new information changes the long-term thesis
+**Thesis impact: NEUTRAL** · Thesis strength: 68/100 · Conviction: 61.0/100 · **ALERTED**
+
+**What changed:** Microsoft's share price moved up 5.5% from the prior close to $490.20, lifting market cap to approximately $3.64 trillion. The move appears to be rule-based price screening, not tied to any new fundamental disclosure. No earnings release, guidance change, product announcement, or strategic event has been identified as the catalyst.
+
+**Why it matters:** A single-day price move matters only if it reflects new information about intrinsic value. Here, no such information has been provided. The more relevant observation is that the current price of $490 implies a reverse-DCF growth rate of ~29.5%, which is already demanding and sits well above all three fair value estimates in the model (base $102, exit-multiple $191, even the optimistic case at $192). That valuation gap is the standing concern, not this day's move.
+
+**Intrinsic value:** none / none via none — Price movements without accompanying fundamental data do not affect intrinsic value. The business earned the same cash flows before and after this session.
+
+**Valuation:** fair value $64 / **$102** / $192 · implied growth at price: 29.5%
+
+**Committee memo:** Today's 5.5% price move carries no analytical content — it is a price screen alert, not a news event. Intrinsic value is unchanged. The more useful use of this moment is to re-anchor on valuation: at $490, the implied reverse-DCF growth rate is 29.5%, which is a very high bar for a business already generating $330B in revenue. All three valuation scenarios in the model — DCF at $63, EPV at $129, exit-multiple at $192 — sit dramatically below the current price, suggesting the market is embedding significant AI monetization optionality that has not yet shown up in cash flows. TTM FCF of $16.4B against a $3.6T market cap is a 0.45% FCF yield, which is historically thin even for Microsoft. The FCF history ($59B → $74B → $72B → $67B → $16B TTM) raises a flag that warrants investigation: is the TTM figure depressed by capex timing (data center buildout), or is there a structural FCF compression underway? That question — capex normalization versus permanent margin pressure — is the most important thing to resolve before adding to this position. I would hold existing conviction but not add at current prices, and I would specifically request the next earnings call transcript to reconcile the FCF step-down with capex guidance. The thesis would be proven wrong if Azure growth decelerates materially while capex remains elevated, signaling that AI infrastructure investment is not converting to incremental revenue.
+
+**Plain English:** Microsoft's stock jumped 5.5% today, but there was no news attached to that move — it was flagged purely because the price changed, not because anything happened at the company. When nothing fundamental changes, the right answer is to do nothing. The bigger standing issue, which this event doesn't change, is that at $490 the stock looks expensive relative to any reasonable estimate of what the business is worth today — the model puts fair value between roughly $100 and $190 depending on assumptions. That gap means the market is already pricing in Microsoft executing perfectly on AI and cloud for many years. The thesis on the business quality remains intact; the question is simply whether you're paying a reasonable price for it.
+
+---
 ## 2026-07-31 — MSFT +15.5% in a single session; no new fundamental information, thesis unchanged
 **Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
 

@@ -1,6 +1,22 @@
 # Meta Platforms Inc. (META) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-03 — META +5.8% single-day move; no new fundamental information to act on
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 77.0/100 · **ALERTED**
+
+**What changed:** META's share price rose 5.8% in a single session, from $556.71 to $589.18. The only event logged is the price move itself, flagged by a rule-based screener. No new earnings, guidance, product announcements, regulatory developments, or management commentary accompanied this move.
+
+**Why it matters:** A 5.8% move is notable in absolute terms for a $1.5T company but tells us nothing about intrinsic value without a fundamental catalyst. At $589.18, the stock now trades above the base-case fair value estimate of $487.40 and implies ~21.6% perpetual growth in the reverse-DCF — a demanding assumption. The move narrows the margin of safety without any corresponding improvement in the business.
+
+**Intrinsic value:** none / none via none — Intrinsic value is determined by future cash flows, not by today's price. A price-only event with no disclosed catalyst does not alter growth, margins, capital intensity, or risk. Intrinsic value is unchanged.
+
+**Valuation:** fair value $289 / **$487** / $948 · implied growth at price: 21.6%
+
+**Committee memo:** Today's 5.8% price move is rule-triggered noise with no attached fundamental catalyst — the committee should not read anything into it about the business. Meta's core thesis — AI-driven advertising efficiency gains, WhatsApp and messaging monetization, and exceptional FCF generation on a nearly debt-free balance sheet — is entirely intact. However, valuation discipline matters here: at $589, the stock trades 21% above our base DCF ($487) and requires ~21.6% implied growth to justify the current price. Our exit-multiple scenario does reach $947, but that relies on a sustained premium multiple well into the future — a scenario that should be weighted, not anchored to. The ROIC of ~29% and a 16.7x forward PE are genuinely attractive for a business of this quality, but the gap between the DCF and the current price means the margin of safety has compressed. My recommendation is to hold existing conviction — the long-term thesis is strong — but resist adding at these levels without a more attractive entry point or a positive fundamental catalyst (e.g., WhatsApp monetization inflection, evidence that AI capex is bending the ROI curve favorably). What would prove this judgment wrong: a disclosed catalyst explaining the move (e.g., a rumored deal, a leaked earnings beat, or a regulatory resolution) that we are not yet aware of — in that case, this memo would need immediate revision.
+
+**Plain English:** Meta's stock jumped about 6% today, but there was no news attached to the move — no earnings, no product launch, no regulatory update. The business itself is unchanged. The only practical consequence is that the stock is now trading even further above what our conservative and base-case valuation models suggest it's worth. That doesn't mean we should sell — the exit-multiple scenario (which prices in a sustained premium franchise) is still plausible — but it does mean the cushion between price and value has shrunk. For someone already holding, this changes nothing about the long-term story. For someone thinking of buying more, the math is less attractive today than it was yesterday.
+
+---
 ## 2026-07-31 — META Q2 2026: Revenue +28% YoY but R&D surge and expense acceleration compress operating margins
 **Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 77.0/100 · **ALERTED**
 
