@@ -1,6 +1,23 @@
 # AST SpaceMobile Inc. (ASTS) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-04 — WhatsApp/Meta tease is intriguing but unconfirmed; BlueBird launch remains the real thesis event
+**Thesis impact: NEUTRAL** · Thesis strength: 38/100 · Conviction: 13.0/100 · **ALERTED**
+
+**What changed:** A Meta executive publicly teased WhatsApp functionality over satellite connectivity ahead of ASTS's BlueBird constellation launch. The stock rose 7.7% on the news. No formal partnership agreement, revenue terms, or integration timeline has been announced. This is a social-media-era 'tease,' not a signed contract.
+
+**Why it matters:** ASTS's entire value proposition rests on converting mobile operator and platform partnerships into recurring, usage-based revenue flowing through existing consumer devices. WhatsApp has ~2 billion monthly active users globally, concentrated heavily in exactly the underserved and emerging markets ASTS targets. If a real integration is in development, it would validate the distribution thesis far beyond what existing MNO partnerships alone represent. However, the thesis requires actual commercial deployment, not executive hints—and the BlueBird launch performance is the imminent proof point that actually matters.
+
+**Intrinsic value:** none / none via none — A confirmed, revenue-generating WhatsApp integration would be a meaningful growth driver given the addressable user base. But an unconfirmed executive tease does not move intrinsic value—it moves sentiment. We need contract terms, pricing structure, and launch confirmation before any model adjustment is defensible.
+**New risks:**
+- Hype-driven price appreciation disconnected from fundamentals creates downside volatility risk if BlueBird launch underperforms or the Meta tease leads to no formal agreement—sentiment unwind could be sharp.
+- If Meta is evaluating ASTS as a satellite partner, it is likely also evaluating Starlink Direct-to-Cell and other competitors, meaning ASTS does not have an exclusive negotiating position.
+
+**Committee memo:** The Meta/WhatsApp tease is directionally consistent with the ASTS thesis but contains zero actionable substance. WhatsApp's user base in sub-Saharan Africa, South Asia, and Latin America maps almost perfectly onto the connectivity gaps ASTS claims to address, so a formal partnership would be a genuine thesis accelerant—specifically by de-risking the revenue conversion question that sits at the heart of the bear case. However, the committee should be disciplined: we are not buying the tease, we are evaluating whether it changes long-term intrinsic value, and it does not yet. ASTS is trading at 290x trailing revenue with negative FCF accelerating to -$1.4B annually. At that valuation, every incremental piece of good news is already doing enormous work to justify the price. Hold existing conviction level—do not add on a social media hint. The near-term judgment event is BlueBird launch success and the first demonstration of multi-satellite simultaneous direct-to-device connectivity. If that milestone is delivered cleanly, the thesis moves from 'plausible' to 'progressing,' and a reassessment of growth assumptions would be appropriate. What would prove this judgment wrong: a formal, signed WhatsApp/Meta commercial agreement announced within 30-60 days, which would constitute genuine thesis strengthening and warrant revisiting the partnership revenue line in our model.
+
+**Plain English:** A Meta executive hinted that WhatsApp might work over satellite internet ahead of ASTS's next big rocket launch. The stock jumped 7.7% on the excitement. This is interesting because WhatsApp is used by billions of people in exactly the places ASTS wants to serve—emerging markets with patchy cell coverage. But interesting is not the same as real: there's no signed deal, no price agreed, no timeline confirmed. The company is still burning through over a billion dollars a year building its satellite network and has almost no revenue yet. The genuinely important event is the upcoming BlueBird satellite launch itself—if those satellites work as advertised, that's what moves the needle. One executive's tease on social media does not.
+
+---
 ## 2026-08-03 — Rakuten Japan D2C launch nears; milestone validation but pre-revenue execution risk remains high
 **Thesis impact: STRENGTHENS** · Thesis strength: 42/100 · Conviction: 17.0/100 · **ALERTED**
 

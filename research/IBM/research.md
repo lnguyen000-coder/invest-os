@@ -1,6 +1,25 @@
 # International Business Machines Corporation (IBM) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-04 — IBM Q2 beat on margins/guidance despite revenue miss; thesis intact but leverage remains a flag
+**Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 66.0/100 · **ALERTED**
+
+**What changed:** IBM rallied ~1.2% following Q2 2025 earnings despite missing top-line revenue expectations. The market reaction implies IBM beat on margins, free cash flow, or forward guidance — the specific numbers are not provided in the event material. The headline alone tells us the market found something to like beneath the surface.
+
+**Why it matters:** For this thesis, revenue quality and FCF trajectory matter more than any single quarter's top line. A margin or guidance beat would reinforce the software mix shift story — the core mechanism by which IBM expands FCF per dollar of revenue. A top-line miss, however, warrants scrutiny: was it consulting cyclicality (expected, tolerable), infrastructure decline (expected, tolerable), or — critically — softness in software or Red Hat (not tolerable per the thesis)?
+
+**Intrinsic value:** none / none via none — Insufficient detail to move intrinsic value estimates. A confirmed margin beat or raised FCF guidance would be a small upward driver; a software revenue miss would be a small-to-moderate downward driver. I need the actual Q2 segment numbers before changing any DCF assumptions.
+**New risks:**
+- If the top-line miss reflects software or Red Hat deceleration rather than consulting/infrastructure, the primary growth engine of the thesis is impaired — this must be confirmed or ruled out via segment data.
+- Net debt/EBITDA at 3.47x remains above the 2.5x discipline threshold; any FCF guidance reduction would tighten this constraint materially.
+
+**Valuation:** fair value $75 / **$289** / $396 · implied growth at price: 2.8%
+
+**Committee memo:** IBM's post-Q2 rally on a revenue miss is interesting but inconclusive. The market is telling us something went right — most likely margins or FCF guidance — and that is consistent with the multi-year gross margin expansion trend (54% to 58%+) we've been tracking as the software mix shifts upward. However, I am not prepared to change any valuation assumptions based on a headline and a price move. What I need before passing judgment: (1) Red Hat and software segment revenue growth rates versus prior quarter and prior year; (2) consulting revenue and margin — cyclical weakness is acceptable, structural deterioration is not; (3) full-year FCF guidance update, given that net debt/EBITDA at 3.47x already exceeds our 2.5x discipline threshold and leaves limited buffer. The base-case fair value of ~$289 versus the current price of ~$226 suggests a meaningful margin of safety exists if the FCF trajectory holds — the reverse DCF implies only 2.8% long-term growth, which is a low bar given the software mix shift story. My recommendation is to hold current conviction, pull the Q2 earnings transcript and segment tables within 24 hours, and revisit. If Red Hat growth is re-accelerating and software recurring revenue is expanding, this event modestly strengthens the thesis. If software disappointed, that is a kill-criterion proximity event requiring immediate reassessment. I would be proven wrong if the transcript shows Red Hat growth decelerating to single digits, software mix declining as a percentage of total revenue, or FCF guidance being cut.
+
+**Plain English:** IBM reported Q2 earnings and the stock went up about 1%, even though the company didn't hit its revenue target. That sounds counterintuitive, but it likely means IBM did better than expected on profits or cash flow — which are the things that actually drive IBM's long-term value. The problem is we only have a headline, not the actual numbers. The parts of IBM that matter most to the investment case — the Red Hat cloud business and the broader software division — could have had a great quarter or a disappointing one, and we can't tell yet. Until we see the full results broken down by segment, the right call is to hold steady and not read too much into a one-day stock move. The one genuine concern that doesn't need new data: IBM still carries more debt than our preferred ceiling, which leaves less room for error.
+
+---
 ## 2026-07-29 — IBM +5.2% single-day move; no fundamental event — price action alone
 **Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 66.0/100 · **ALERTED**
 

@@ -1,6 +1,25 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-04 — 131 malicious npm packages are a yellow flag for developer ecosystem trust, not a thesis mover
+**Thesis impact: NEUTRAL** · Thesis strength: 87/100 · Conviction: 80.0/100 · **ALERTED**
+
+**What changed:** Security researchers discovered 131 malicious ("poisoned") packages published to npm, the open-source JavaScript package registry that Microsoft operates as part of its GitHub/developer-tools platform. The packages targeted AI workflows, representing a supply-chain attack vector. CrowdStrike is positioned as a beneficiary of the resulting security anxiety.
+
+**Why it matters:** GitHub and the developer ecosystem are a listed moat source in this thesis — switching costs and distribution depend in part on developers trusting and building on Microsoft's infrastructure. A supply-chain compromise, even if contained, chips at that trust. Separately, Azure and M365 cybersecurity revenues could be affected in either direction: Microsoft could lose credibility or, conversely, accelerate its own security upsell. The incident does not affect recurring revenue contracts today, but repeated supply-chain failures would be a structural signal.
+
+**Intrinsic value:** none / none via none — A contained npm package pollution incident does not alter revenue trajectory, margins, or capital intensity. No assumption changes are warranted unless this proves to be part of a sustained compromise pattern.
+**New risks:**
+- If AI-specific package targeting escalates, enterprise customers may impose stricter controls on open-source dependencies, marginally slowing developer adoption of Microsoft AI tooling on GitHub/Azure.
+- Repeated supply-chain incidents on npm could provide competitive ammunition for GitLab, JFrog Artifactory, or other alternative artifact registries seeking to displace GitHub in enterprise environments.
+
+**Valuation:** fair value $64 / **$102** / $192 · implied growth at price: 29.4%
+
+**Committee memo:** The 131 poisoned npm packages are a genuine supply-chain security event but do not rise to the level of thesis relevance. npm/GitHub supply-chain attacks are endemic to the open-source ecosystem and this incident appears contained in scope. Microsoft's developer moat — hundreds of millions of packages, GitHub Copilot integration, Actions CI/CD — is not materially threatened by a single pollution event. The more interesting signal is indirect: Microsoft's own security product suite (Defender, Sentinel, Purview) could see incremental enterprise demand from exactly this type of anxiety, which would be modestly positive for a thesis driver (cybersecurity revenue growth). The TTM FCF figure in the fundamentals ($16.4B) looks anomalously low versus the FCF history ($59-74B range) and deserves scrutiny before any valuation work — that discrepancy is a more pressing analytical question than this security incident. My recommendation is to hold conviction unchanged, monitor for any pattern of repeated npm compromises or developer platform defections over the next two to four quarters, and direct analytical energy toward reconciling the FCF data anomaly and the gap between the reverse-DCF implied growth rate (29.4%) and what Azure + M365 can realistically deliver. This event would prove more damaging to the thesis only if: (1) a major enterprise customer discloses a breach traceable to Microsoft's npm infrastructure, or (2) GitHub market share in enterprise source control begins declining in subsequent developer surveys.
+
+**Plain English:** Someone uploaded 131 malicious software packages to npm, the massive public library of code that Microsoft runs through GitHub. This is a real security problem — bad actors can trick developers into downloading tainted code — but it is not unique to Microsoft; this kind of attack happens regularly across the open-source world. It does not affect Microsoft's core business of selling cloud services and software to enterprises. The risk to watch is whether this becomes a pattern that erodes developer trust in GitHub, but a single incident does not come close to that threshold. For now, this is a news story, not a business story.
+
+---
 ## 2026-08-03 — MSFT +5.5% price move is noise; no new information changes the long-term thesis
 **Thesis impact: NEUTRAL** · Thesis strength: 68/100 · Conviction: 61.0/100 · **ALERTED**
 
