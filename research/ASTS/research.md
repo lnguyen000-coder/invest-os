@@ -1,6 +1,20 @@
 # AST SpaceMobile Inc. (ASTS) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-05 — ASTS +10.7% single-day move is noise; thesis unchanged, execution remains the only thing that matters
+**Thesis impact: NEUTRAL** · Thesis strength: 35/100 · Conviction: 10.0/100 · **ALERTED**
+
+**What changed:** ASTS shares moved from $63.52 to $70.31, a 10.7% single-session gain. No fundamental event, earnings release, or strategic announcement is attached to this move. The trigger appears to be rule-based price screening, not a business development.
+
+**Why it matters:** For a pre-revenue, pre-profitability company trading at 321x trailing sales with negative FCF accelerating toward -$1.4B annually, price volatility is expected and uninformative on its own. The thesis is binary on technology and commercial execution milestones, not on near-term price action. A 10% move in either direction tells us nothing about whether ASTS will have a working commercial constellation in 2027-2031.
+
+**Intrinsic value:** none / none via none — No new information was provided that would affect any DCF input. Revenue, margins, capital intensity, and risk profile are identical to what they were at the prior close.
+
+**Committee memo:** Today's 10.7% price move requires no action and no change in conviction. The event is a momentum-driven price alert with zero informational content about the underlying business. ASTS remains a high-conviction speculative position contingent on technology and commercial execution, not a valuation story. The fundamentals are stark: -$1.4B in annual FCF against $85M in revenue, implying the company needs to raise substantial additional capital to reach commercial scale — a recurring kill-criterion risk that bears monitoring every quarter. The thesis strength is scored at 35 not because something has gone wrong, but because this is an early-stage, capital-intensive technology bet where the range of outcomes is extremely wide and most of the value-determining events are still in the future. What I would need to see to raise conviction: consistent commercial service activation, operator billing data showing real recurring revenue, and a financing plan that doesn't require catastrophically dilutive equity raises. What would prove this judgment wrong in the bullish direction: a major operator announcing live commercial deployment with disclosed subscriber numbers and ARPU, demonstrating the business model works at scale. Hold current position; do not add on price momentum alone.
+
+**Plain English:** ASTS stock jumped about 11% today, but there's no news attached to it — just a price alert triggered by the move. The company is still burning through roughly $1.4 billion in cash per year while generating almost no revenue, and its entire value rests on whether it can successfully build and operate a satellite network that lets regular smartphones connect from space. A single day's stock move tells us absolutely nothing about whether that will happen. The stock is already priced for success — at $27 billion market cap against $85 million in real revenue, the market is essentially betting the whole vision plays out. That bet hasn't gotten more or less credible today.
+
+---
 ## 2026-08-04 — WhatsApp/Meta tease is intriguing but unconfirmed; BlueBird launch remains the real thesis event
 **Thesis impact: NEUTRAL** · Thesis strength: 38/100 · Conviction: 13.0/100 · **ALERTED**
 

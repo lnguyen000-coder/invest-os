@@ -1,6 +1,24 @@
 # Tesla Inc. (TSLA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-05 — Tesla's AI Chief signals FSD philosophy shift: less user control, more system autonomy
+**Thesis impact: NEUTRAL** · Thesis strength: 52/100 · Conviction: 26.1/100 · **ALERTED**
+
+**What changed:** Tesla's AI Chief Ashok Elluswamy publicly stated that Tesla's FSD development strategy prioritizes making the system smarter rather than adding user override controls like manual speed caps, calling such controls an 'anti-pattern.' This is a directional statement about product philosophy, not an operational or financial announcement. No new capability release, regulatory approval, or commercial milestone was disclosed.
+
+**Why it matters:** FSD is one of the highest-leverage thesis drivers — successful commercialization of autonomous driving is arguably the single biggest potential source of upside in this investment case. The stated philosophy (trust the AI, reduce human patch-work) is consistent with the path toward Level 4/5 autonomy, which is what would actually unlock robotaxi economics. However, a philosophy statement is many steps removed from a demonstrated capability, regulatory approval, or revenue. It matters as a signal of internal conviction but not as evidence of progress.
+
+**Intrinsic value:** none / none via none — A product philosophy statement from an executive does not change cash flows, growth rates, or risk. Intrinsic value would move on demonstrated capability improvements, regulatory milestones, or monetization events — none of which were disclosed here.
+**New risks:**
+- If Tesla's 'no user overrides' philosophy slows near-term FSD adoption by consumers who prefer configurable safety controls, subscription attach rates could disappoint in the medium term before the underlying AI reaches full trustworthiness.
+
+**Valuation:** fair value $15 / **$16** / $16
+
+**Committee memo:** Elluswamy's statement is philosophically coherent but operationally inert. The core claim — that adding user-configurable overrides is an 'anti-pattern' because it masks underlying AI deficiencies — aligns with a serious long-term autonomy strategy rather than a feature-accumulation approach. That is directionally consistent with the thesis. However, the committee should be disciplined: we are already paying roughly 295x trailing earnings and 117x EBITDA for this business, with a fair value estimate on fundamentals alone implying the stock is pricing in decades of exceptional execution. Every FSD update that is a philosophy statement rather than a capability milestone is a reminder that the option value embedded in the current price remains just that — an option, not a delivery. I would hold conviction here, neither adding nor trimming based on this event. What would upgrade my view: an announced commercial robotaxi launch date with regulatory backing, improving FSD disengagement statistics disclosed publicly, or a meaningful acceleration in FSD subscription revenue visible in the next earnings print. What would prove this judgment wrong: if Elluswamy's philosophy statement is later cited as the foundation for a major product leap (e.g., a Level 4 demonstration in an uncontrolled environment) that I underweighted — but I would need that demonstration, not the preceding comment, to justify a view change.
+
+**Plain English:** Tesla's head of AI went on record saying the company believes in making FSD smarter rather than letting drivers manually override it — for example, capping their own speed. The idea is that adding user workarounds is a band-aid that avoids fixing the actual problem. This is a reasonable engineering philosophy and consistent with where Tesla says it's going. But it's just a statement of intent — there's no new product, no regulatory approval, and no evidence the technology has actually improved. The thesis depends on autonomous driving eventually working at a commercial scale; this news neither confirms nor denies that's happening on any particular timeline. No change to our view of the business or what it's worth.
+
+---
 ## 2026-07-30 — Tesla Q-earnings miss triggers 15% selloff; no structural thesis change but valuation gap remains extreme
 **Thesis impact: WEAKENS** · Thesis strength: 42/100 · Conviction: 16.1/100 · **ALERTED**
 

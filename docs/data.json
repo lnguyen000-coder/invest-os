@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-04 13:28 UTC",
+ "generated": "2026-08-05 13:26 UTC",
  "rows": [
   {
    "symbol": "CSU.TO",
@@ -25,13 +25,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 3002.99,
+   "price": 3224.99,
    "fair_low": 460.5776080431524,
    "fair_base": 4841.692830021196,
    "fair_high": 7438.866727393741,
-   "upside_pct": 61.22906936157617,
+   "upside_pct": 50.13047575407044,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -71,13 +72,14 @@
     91.0,
     85.0,
     85.0,
+    85.0,
     85.0
    ],
-   "price": 99.5,
+   "price": 99.87,
    "fair_low": 85.08203074644862,
    "fair_base": 213.9454386141005,
    "fair_high": 249.0914479502334,
-   "upside_pct": 115.02054132070403,
+   "upside_pct": 114.22392972274005,
    "last_impact": "neutral",
    "last_memo": "Deckers had a decent but not exceptional quarter\u2014sales grew about 6%, the direct-to-consumer business (selling straight to shoppers, bypassing retailers) grew a healthy 13%, and international demand kept building. The downside is that spending on overhead and marketing grew much ",
    "risks": [
@@ -95,7 +97,59 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3582.0,
+   "position_value": 3595.32,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms Inc.",
+   "conviction": 83.0,
+   "thesis_strength": 78,
+   "conviction_history": [
+    43.0,
+    55.0,
+    55.0,
+    55.0,
+    75.0,
+    75.0,
+    87.0,
+    87.0,
+    81.0,
+    81.0,
+    81.0,
+    79.0,
+    79.0,
+    87.0,
+    83.0,
+    77.0,
+    77.0,
+    77.0,
+    67.0,
+    83.0
+   ],
+   "price": 587.94,
+   "fair_low": 289.16284470284506,
+   "fair_base": 487.3995682928012,
+   "fair_high": 947.5440523750636,
+   "upside_pct": -17.100457820049474,
+   "last_impact": "neutral",
+   "last_memo": "A financial news article pointed out that Meta's free cash flow recently dropped about 91% in a single quarter, which sounds alarming. The reason is that Meta is spending enormous sums building AI data centers and buying GPUs \u2014 cash goes out the door when you build things, which ",
+   "risks": [
+    "AI capex cycle may be longer and larger than originally modeled, keeping FCF conversion below historical norms for 2-3 years and delaying the cash return phase of the thesis.",
+    "Zuckerberg's 'superintelligence' framing, if it raises market expectations unrealistically, creates a sentiment risk where execution against a lower-but-still-excellent bar reads as disappointment.",
+    "Compute monetization strategy is unproven and puts Meta in direct competition with hyperscalers (AWS, Azure, GCP) that have significant operational and customer-relationship advantages.",
+    "If compute-sale revenue disappoints, Meta is left with $130B in annual capex commitments and no offsetting revenue stream, creating a multi-year FCF trough."
+   ],
+   "catalysts": [
+    {
+     "id": 41,
+     "symbol": "META",
+     "date": "2026-10-28",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 9407.04,
    "thesis_needed": false
   },
   {
@@ -124,13 +178,14 @@
     62.0,
     65.0,
     61.0,
+    80.0,
     80.0
    ],
-   "price": 487.65,
+   "price": 492.81,
    "fair_low": 63.511889782430764,
    "fair_base": 102.25863784077146,
    "fair_high": 191.67708722046243,
-   "upside_pct": -79.03032136967673,
+   "upside_pct": -79.24988578949869,
    "last_impact": "neutral",
    "last_memo": "Someone uploaded 131 malicious software packages to npm, the massive public library of code that Microsoft runs through GitHub. This is a real security problem \u2014 bad actors can trick developers into downloading tainted code \u2014 but it is not unique to Microsoft; this kind of attack",
    "risks": [
@@ -175,13 +230,14 @@
     67.0,
     67.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 373.51,
+   "price": 377.65,
    "fair_low": 98.1810001979202,
    "fair_base": 182.2386496011964,
    "fair_high": 390.11857819186713,
-   "upside_pct": -51.20916452004059,
+   "upside_pct": -51.744035588191075,
    "last_impact": "neutral",
    "last_memo": "A family has filed a wrongful death lawsuit claiming YouTube's recommendation algorithm targeted their minor child with harmful content. This is serious from a human standpoint, but as an investment matter, Alphabet faces dozens of legal actions at any given time and this one doe",
    "risks": [
@@ -199,7 +255,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 4108.61,
+   "position_value": 4154.15,
    "thesis_needed": false
   },
   {
@@ -226,20 +282,21 @@
     75.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 284.02,
+   "price": 277.42,
    "fair_low": 0.3897164164121739,
    "fair_base": 31.068186238720195,
    "fair_high": 102.7302688951925,
-   "upside_pct": -89.06126813649736,
+   "upside_pct": -88.80102867899929,
    "last_impact": "strengthens",
-   "last_memo": "Amazon just reported an exceptional quarter: revenue grew nearly 20% and profits grew over 40%, which means the business is becoming more efficient as it scales\u2014exactly what the investment thesis predicted. The cloud business (AWS) is the main engine and it's accelerating, which ",
+   "last_memo": "Amazon's cloud boss said that essentially all of their AI server capacity is already committed to customers through 2028 \u2014 think of it like a hotel where every room is booked years in advance. This is important because one of the biggest questions about Amazon has been whether co",
    "risks": [
+    "Execution risk on supply side: if Amazon cannot build data center and AI chip capacity fast enough to honor multi-year commitments, customer satisfaction and contract terms could be impaired.",
+    "Concentration risk: capacity locked through 2028 means AWS is betting heavily on AI workloads remaining on current architectural assumptions \u2014 a disruptive shift in AI compute paradigm (e.g., dramatically more efficient models) could strand infrastructure investment.",
     "Memory price inflation adding ~$20B to the capex program creates a near-term FCF headwind that could persist through 2026-2027 depending on DRAM/HBM market conditions.",
-    "Long-term debt doubled from $65.6B to $128.9B in six months (H1 2026 new issuance of ~$67B); while net debt/EBITDA remains well below 2.5x given earnings scale, the leverage trajectory warrants monitoring.",
-    "The $53B Q2 non-operating gain (likely Anthropic/investment mark-to-market) creates GAAP net income that dramatically overstates operating business performance; tax provision of $18B in Q2 alone suggests cash tax drag in coming periods.",
-    "Other assets surged from $122.6B to $284.1B in six months, a $161B increase likely tied to investment fair value re-measurement; if these are unrealized gains they are volatile and could reverse."
+    "Long-term debt doubled from $65.6B to $128.9B in six months (H1 2026 new issuance of ~$67B); while net debt/EBITDA remains well below 2.5x given earnings scale, the leverage trajectory warrants monitoring."
    ],
    "catalysts": [
     {
@@ -250,109 +307,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 4260.299999999999,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "PLTR",
-   "name": "Palantir Tech Inc.",
-   "conviction": 71.0,
-   "thesis_strength": 78,
-   "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    55.0,
-    65.0,
-    65.0,
-    65.0,
-    65.0,
-    61.0,
-    61.0,
-    61.0,
-    55.0,
-    55.0,
-    61.0,
-    61.0,
-    65.0,
-    71.0
-   ],
-   "price": 125.65,
-   "fair_low": 7.454305495494721,
-   "fair_base": 20.021198777861585,
-   "fair_high": 25.114005799476644,
-   "upside_pct": -84.06589830651686,
-   "last_impact": "strengthens",
-   "last_memo": "Palantir just reported one of the most impressive quarters in its history: revenue nearly doubled year-over-year, profits tripled, and the company generated more cash in just the first half of 2026 than it did in all of the prior twelve months. The company also raised its full-ye",
-   "risks": [
-    "Revenue growth comparison base becomes extremely difficult in H2 2026 and 2027, increasing risk of apparent deceleration that could compress the multiple even if absolute growth remains strong.",
-    "Customer I represents 27% of accounts receivable \u2014 concentration risk at the AR level is elevated and warrants monitoring for any single-customer slowdown.",
-    "At $125.65/share (~75x annualized FCF run-rate), the stock now prices in sustained hypergrowth; any execution stumble would be disproportionately penalized by the market.",
-    "Productizing FDE methodology risks diluting the bespoke, high-touch differentiation that drives Palantir's pricing power and customer stickiness \u2014 commoditization of the delivery model is a real second-order risk."
-   ],
-   "catalysts": [
-    {
-     "id": 46,
-     "symbol": "PLTR",
-     "date": "2026-11-02",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 18847.5,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "META",
-   "name": "Meta Platforms Inc.",
-   "conviction": 67.0,
-   "thesis_strength": 62,
-   "conviction_history": [
-    43.0,
-    55.0,
-    55.0,
-    55.0,
-    75.0,
-    75.0,
-    87.0,
-    87.0,
-    81.0,
-    81.0,
-    81.0,
-    79.0,
-    79.0,
-    87.0,
-    83.0,
-    77.0,
-    77.0,
-    77.0,
-    67.0
-   ],
-   "price": 590.24,
-   "fair_low": 289.16284470284506,
-   "fair_base": 487.3995682928012,
-   "fair_high": 947.5440523750636,
-   "upside_pct": -17.423494122255157,
-   "last_impact": "weakens",
-   "last_memo": "Meta just told investors it plans to spend roughly $130 billion on data centers and AI hardware in 2025 \u2014 a staggering number that is about six times what the company generates in free cash flow today. To justify this, CEO Mark Zuckerberg said Meta will also sell spare computing ",
-   "risks": [
-    "Compute monetization strategy is unproven and puts Meta in direct competition with hyperscalers (AWS, Azure, GCP) that have significant operational and customer-relationship advantages.",
-    "If compute-sale revenue disappoints, Meta is left with $130B in annual capex commitments and no offsetting revenue stream, creating a multi-year FCF trough.",
-    "Regulatory scrutiny could intensify if Meta becomes a significant cloud/AI infrastructure provider in addition to its existing dominant social media position.",
-    "Operational complexity of running an external compute business could distract management attention from the core Family of Apps monetization."
-   ],
-   "catalysts": [
-    {
-     "id": 41,
-     "symbol": "META",
-     "date": "2026-10-28",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 9443.84,
+   "position_value": 4161.3,
    "thesis_needed": false
   },
   {
@@ -379,13 +334,14 @@
     67.0,
     67.0,
     67.0,
+    67.0,
     67.0
    ],
-   "price": 206.64,
+   "price": 211.94,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -74.17378222056435,
+   "upside_pct": -74.81962044945465,
    "last_impact": "neutral",
    "last_memo": "Reports say NVIDIA may be helping to finance OpenAI's purchase of NVIDIA hardware \u2014 essentially lending money to a customer to buy your own products. On one hand, this shows just how central NVIDIA is to the AI world: the most important AI company apparently wants NVIDIA's chips ",
    "risks": [
@@ -430,13 +386,14 @@
     66.0,
     66.0,
     66.0,
+    66.0,
     66.0
    ],
-   "price": 226.31,
+   "price": 235.15,
    "fair_low": 75.00733660346769,
    "fair_base": 288.55960253064944,
    "fair_high": 396.3485189888189,
-   "upside_pct": 27.506341978105,
+   "upside_pct": 22.71299278360597,
    "last_impact": "neutral",
    "last_memo": "IBM reported Q2 earnings and the stock went up about 1%, even though the company didn't hit its revenue target. That sounds counterintuitive, but it likely means IBM did better than expected on profits or cash flow \u2014 which are the things that actually drive IBM's long-term value.",
    "risks": [
@@ -481,18 +438,19 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 150.88,
+   "price": 150.8,
    "fair_low": 136.75084586911478,
    "fair_base": 244.06212335589788,
    "fair_high": 291.7030003299072,
-   "upside_pct": 61.759095543410595,
+   "upside_pct": 61.844909387200175,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 2263.2,
+   "position_value": 2262.0,
    "thesis_needed": true
   },
   {
@@ -519,13 +477,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 203.52,
+   "price": 211.83,
    "fair_low": 152.6314725975932,
    "fair_base": 441.1748921460508,
    "fair_high": 557.4933961752869,
-   "upside_pct": 116.77225439566175,
+   "upside_pct": 108.26837187652872,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -538,7 +497,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7123.200000000001,
+   "position_value": 7414.05,
    "thesis_needed": true
   },
   {
@@ -565,13 +524,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 73.33,
+   "price": 73.57,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 73.05473002512241,
+   "upside_pct": 72.49019101185577,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -611,13 +571,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 71.61,
+   "price": 71.99,
    "fair_low": 21.678384934562395,
    "fair_base": 92.73147049799306,
    "fair_high": 122.83676658745333,
-   "upside_pct": 29.495141038951346,
+   "upside_pct": 28.811599524924382,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -657,13 +618,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 123.67,
+   "price": 123.03,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 257.3577997007347,
+   "upside_pct": 259.2167689912205,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -678,52 +640,6 @@
    ],
    "position_value": 0,
    "thesis_needed": false
-  },
-  {
-   "symbol": "ATD.TO",
-   "name": "Alimentation Couche-Tard",
-   "conviction": 55.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    55.0,
-    43.0,
-    43.0,
-    55.0,
-    55.0,
-    55.0,
-    55.0,
-    55.0,
-    55.0,
-    55.0,
-    55.0,
-    55.0,
-    55.0,
-    55.0,
-    43.0,
-    55.0,
-    55.0,
-    55.0,
-    55.0
-   ],
-   "price": 91.01,
-   "fair_low": 46.45671896898705,
-   "fair_base": 68.5439290486749,
-   "fair_high": 85.74192116037001,
-   "upside_pct": -24.685277388556315,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 12,
-     "symbol": "ATD.TO",
-     "date": "2026-09-02",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 9101.0,
-   "thesis_needed": true
   },
   {
    "symbol": "SHOP.TO",
@@ -749,20 +665,21 @@
     55.0,
     65.0,
     65.0,
+    55.0,
     55.0
    ],
-   "price": 164.18,
+   "price": 173.41,
    "fair_low": 11.690267416651736,
    "fair_base": 14.045639577281454,
    "fair_high": 19.573210924567046,
-   "upside_pct": -91.44497528488156,
+   "upside_pct": -91.90032894453523,
    "last_impact": "strengthens",
-   "last_memo": "Shopify just disclosed that orders placed by AI agents \u2014 software that can browse and buy on behalf of consumers \u2014 grew 13 times over. This is an early sign that Shopify is successfully embedding itself into the next wave of how online shopping happens, which is exactly what the ",
+   "last_memo": "Shopify just reported a stronger-than-expected quarter \u2014 both sales and operating profit came in above what analysts predicted, and management's guidance for the future also impressed investors. The stock jumped about 5-6% on the news. This is good news for anyone who owns Shopif",
    "risks": [
+    "A 'largest gain since 2015' reaction compresses the already-wide valuation gap further, making any future disappointment in guidance more punishing to the stock price.",
+    "Positive guidance without detail creates the risk of future guidance misses being amplified by elevated expectations set this quarter.",
     "Congressional probe into AI agents could result in regulatory constraints on autonomous purchasing, limiting the scale of this growth vector before it becomes financially material.",
-    "The 13x figure is a growth rate without a disclosed base \u2014 if AI orders are currently a rounding error, the signal is more marketing than substance and risks overstating the near-term opportunity.",
-    "DoorDash partnership creates a dependency on a third-party logistics network; if DoorDash changes pricing, availability, or terms, merchants enabled through this channel could face disruption with limited Shopify recourse.",
-    "Analyst downgrade, even if valuation-driven, can accelerate institutional selling and increase short-term price volatility, which matters only if Shopify needs to issue equity or if management credibility becomes tied to share price performance."
+    "The 13x figure is a growth rate without a disclosed base \u2014 if AI orders are currently a rounding error, the signal is more marketing than substance and risks overstating the near-term opportunity."
    ],
    "catalysts": [
     {
@@ -773,7 +690,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6567.200000000001,
+   "position_value": 6936.4,
    "thesis_needed": false
   },
   {
@@ -800,9 +717,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 26.26,
+   "price": 26.73,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -811,8 +729,60 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 1024.14,
+   "position_value": 1042.47,
    "thesis_needed": true
+  },
+  {
+   "symbol": "PLTR",
+   "name": "Palantir Tech Inc.",
+   "conviction": 45.0,
+   "thesis_strength": 52,
+   "conviction_history": [
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    55.0,
+    65.0,
+    65.0,
+    65.0,
+    65.0,
+    61.0,
+    61.0,
+    61.0,
+    55.0,
+    55.0,
+    61.0,
+    61.0,
+    65.0,
+    71.0,
+    45.0
+   ],
+   "price": 162.66,
+   "fair_low": 8.040497535225128,
+   "fair_base": 20.582035439741578,
+   "fair_high": 25.664567046148527,
+   "upside_pct": -87.34659077846946,
+   "last_impact": "neutral",
+   "last_memo": "Palantir's stock jumped nearly 30% in a single day, but no news about the actual business \u2014 new contracts, earnings, or AI platform wins \u2014 appears to explain it. The company itself is the same business it was yesterday: a high-quality AI software platform with real and growing ca",
+   "risks": [
+    "At 63x trailing sales, any deceleration in commercial or government revenue growth \u2014 even a modest miss \u2014 could trigger a violent de-rating, creating forced-seller dynamics that affect even long-term holders who are psychologically anchored to recent prices.",
+    "A move of this magnitude without a disclosed catalyst suggests potential speculative or options-driven activity; if that flow reverses, the stock could give back gains equally rapidly, testing conviction without any change in fundamentals.",
+    "Revenue growth comparison base becomes extremely difficult in H2 2026 and 2027, increasing risk of apparent deceleration that could compress the multiple even if absolute growth remains strong.",
+    "Customer I represents 27% of accounts receivable \u2014 concentration risk at the AR level is elevated and warrants monitoring for any single-customer slowdown."
+   ],
+   "catalysts": [
+    {
+     "id": 46,
+     "symbol": "PLTR",
+     "date": "2026-11-02",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 24399.0,
+   "thesis_needed": false
   },
   {
    "symbol": "COST",
@@ -840,13 +810,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 954.08,
+   "price": 947.85,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -33.46243951214254,
+   "upside_pct": -33.02510343381859,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -860,6 +831,53 @@
     }
    ],
    "position_value": 0,
+   "thesis_needed": true
+  },
+  {
+   "symbol": "ATD.TO",
+   "name": "Alimentation Couche-Tard",
+   "conviction": 43.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    55.0,
+    43.0,
+    43.0,
+    55.0,
+    55.0,
+    55.0,
+    55.0,
+    55.0,
+    55.0,
+    55.0,
+    55.0,
+    55.0,
+    55.0,
+    55.0,
+    43.0,
+    55.0,
+    55.0,
+    55.0,
+    55.0,
+    43.0
+   ],
+   "price": 93.13,
+   "fair_low": 46.45671896898705,
+   "fair_base": 68.5439290486749,
+   "fair_high": 85.74192116037001,
+   "upside_pct": -26.39973257953946,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 12,
+     "symbol": "ATD.TO",
+     "date": "2026-09-02",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 9313.0,
    "thesis_needed": true
   },
   {
@@ -886,13 +904,14 @@
     41.1,
     41.1,
     40.8,
+    40.8,
     40.8
    ],
-   "price": 120.98,
+   "price": 130.98,
    "fair_low": 16.960440723154207,
    "fair_base": 50.62500615912173,
    "fair_high": 61.67457025081336,
-   "upside_pct": -58.15423527928441,
+   "upside_pct": -61.349056222994555,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -932,13 +951,14 @@
     38.9,
     34.9,
     34.9,
+    34.9,
     34.9
    ],
-   "price": 415.36,
+   "price": 407.55,
    "fair_low": 132.5492993322689,
    "fair_base": 205.2851777929539,
    "fair_high": 239.75334744632553,
-   "upside_pct": -50.57656543890747,
+   "upside_pct": -49.629449688883845,
    "last_impact": "weakens",
    "last_memo": "The government is eliminating a subsidy that helped keep Medicare drug plan premiums low, and it takes effect in 2027. UnitedHealth runs one of the largest pharmacy benefit managers (Optum Rx), which depends heavily on Medicare drug plan economics, so this policy change hits a co",
    "risks": [
@@ -956,7 +976,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7102.656000000001,
+   "position_value": 6969.1050000000005,
    "thesis_needed": false
   },
   {
@@ -985,13 +1005,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 303.42,
+   "price": 309.38,
    "fair_low": 71.92111971979769,
    "fair_base": 72.43517666278456,
    "fair_high": 73.59059333079705,
-   "upside_pct": -76.12709226063392,
+   "upside_pct": -76.58698795565823,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1031,13 +1052,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 42.64,
+   "price": 41.53,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -43.207846336062026,
+   "upside_pct": -41.68992457909185,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1052,6 +1074,58 @@
    ],
    "position_value": 0,
    "thesis_needed": true
+  },
+  {
+   "symbol": "TSLA",
+   "name": "Tesla Inc.",
+   "conviction": 26.1,
+   "thesis_strength": 52,
+   "conviction_history": [
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    16.3,
+    16.3,
+    6.3,
+    16.3,
+    13.3,
+    13.3,
+    12.1,
+    12.1,
+    12.1,
+    16.1,
+    16.1,
+    16.1,
+    16.1,
+    26.1
+   ],
+   "price": 327.35,
+   "fair_low": 15.452268642505791,
+   "fair_base": 16.08681782130258,
+   "fair_high": 16.415240390523092,
+   "upside_pct": -95.08574375399341,
+   "last_impact": "neutral",
+   "last_memo": "Tesla's head of AI went on record saying the company believes in making FSD smarter rather than letting drivers manually override it \u2014 for example, capping their own speed. The idea is that adding user workarounds is a band-aid that avoids fixing the actual problem. This is a rea",
+   "risks": [
+    "If Tesla's 'no user overrides' philosophy slows near-term FSD adoption by consumers who prefer configurable safety controls, subscription attach rates could disappoint in the medium term before the underlying AI reaches full trustworthiness.",
+    "The magnitude of the implied value destruction ($25B) suggests guidance for 2025 or beyond may have been cut, introducing risk that consensus earnings estimates are still too high and further multiple compression is possible.",
+    "A six-day losing streak to multi-year lows increases the risk of forced selling by momentum and index-rebalancing flows, adding near-term price volatility unrelated to fundamentals.",
+    "If the earnings miss is partly attributable to Elon Musk's attention being diverted to political/governmental roles (DOGE, etc.), key-person execution risk \u2014 already a known risk \u2014 becomes more acute."
+   ],
+   "catalysts": [
+    {
+     "id": 34,
+     "symbol": "TSLA",
+     "date": "2026-10-21",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
   },
   {
    "symbol": "OUST",
@@ -1077,9 +1151,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 42.48,
+   "price": 47.84,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1123,9 +1198,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 114.53,
+   "price": 125.33,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1135,9 +1211,9 @@
    "risks": [],
    "catalysts": [
     {
-     "id": 31,
+     "id": 47,
      "symbol": "SPCX",
-     "date": "2026-08-04",
+     "date": "2026-11-03",
      "label": "Earnings report",
      "source": "yfinance"
     }
@@ -1169,9 +1245,10 @@
     20.8,
     20.8,
     20.8,
+    20.8,
     20.8
    ],
-   "price": 38.85,
+   "price": 41.72,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1192,62 +1269,12 @@
    "thesis_needed": true
   },
   {
-   "symbol": "TSLA",
-   "name": "Tesla Inc.",
-   "conviction": 16.1,
-   "thesis_strength": 42,
-   "conviction_history": [
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    16.3,
-    16.3,
-    6.3,
-    16.3,
-    13.3,
-    13.3,
-    12.1,
-    12.1,
-    12.1,
-    16.1,
-    16.1,
-    16.1,
-    16.1
-   ],
-   "price": 322.08,
-   "fair_low": 15.452268642505791,
-   "fair_base": 16.08681782130258,
-   "fair_high": 16.415240390523092,
-   "upside_pct": -95.00533475493586,
-   "last_impact": "weakens",
-   "last_memo": "Tesla just reported earnings that disappointed investors enough to send the stock down about 15% over six days. The company's profit margins on cars have been squeezed for two years \u2014 from about 25 cents of gross profit per dollar of revenue down to about 18 cents \u2014 and this quar",
-   "risks": [
-    "The magnitude of the implied value destruction ($25B) suggests guidance for 2025 or beyond may have been cut, introducing risk that consensus earnings estimates are still too high and further multiple compression is possible.",
-    "A six-day losing streak to multi-year lows increases the risk of forced selling by momentum and index-rebalancing flows, adding near-term price volatility unrelated to fundamentals.",
-    "If the earnings miss is partly attributable to Elon Musk's attention being diverted to political/governmental roles (DOGE, etc.), key-person execution risk \u2014 already a known risk \u2014 becomes more acute.",
-    "Stock-based compensation running at ~$4.6B annualized pace in 2026 represents a structural per-share dilution headwind not previously modeled at this magnitude, particularly tied to Musk's new performance grant."
-   ],
-   "catalysts": [
-    {
-     "id": 34,
-     "symbol": "TSLA",
-     "date": "2026-10-21",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
-  },
-  {
    "symbol": "QBTS",
    "name": "D-Wave Quantum Inc.",
    "conviction": 13.8,
    "thesis_strength": 50,
    "conviction_history": [
+    13.8,
     13.8,
     13.8,
     13.8,
@@ -1289,57 +1316,6 @@
    "thesis_needed": true
   },
   {
-   "symbol": "ASTS",
-   "name": "AST SpaceMobile Inc.",
-   "conviction": 13.0,
-   "thesis_strength": 38,
-   "conviction_history": [
-    25.0,
-    13.0,
-    20.0,
-    20.0,
-    27.0,
-    17.0,
-    17.0,
-    13.0,
-    23.0,
-    13.0,
-    17.0,
-    17.0,
-    17.0,
-    17.0,
-    13.0,
-    17.0,
-    17.0,
-    17.0,
-    13.0
-   ],
-   "price": 63.52,
-   "fair_low": null,
-   "fair_base": null,
-   "fair_high": null,
-   "upside_pct": null,
-   "last_impact": "neutral",
-   "last_memo": "A Meta executive hinted that WhatsApp might work over satellite internet ahead of ASTS's next big rocket launch. The stock jumped 7.7% on the excitement. This is interesting because WhatsApp is used by billions of people in exactly the places ASTS wants to serve\u2014emerging markets ",
-   "risks": [
-    "Hype-driven price appreciation disconnected from fundamentals creates downside volatility risk if BlueBird launch underperforms or the Meta tease leads to no formal agreement\u2014sentiment unwind could be sharp.",
-    "If Meta is evaluating ASTS as a satellite partner, it is likely also evaluating Starlink Direct-to-Cell and other competitors, meaning ASTS does not have an exclusive negotiating position.",
-    "Market expectations may now be pricing in a successful Japan launch; any delay or technical underperformance in live commercial conditions could cause a sharp de-rating given the 281x P/S multiple.",
-    "A Guinness World Record is a marketing milestone, not an operational one \u2014 headline risk if the commercial launch timeline slips after this publicity push."
-   ],
-   "catalysts": [
-    {
-     "id": 22,
-     "symbol": "ASTS",
-     "date": "2026-08-10",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
-  },
-  {
    "symbol": "IREN",
    "name": "IREN Limited",
    "conviction": 10.3,
@@ -1363,9 +1339,10 @@
     10.3,
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 39.75,
+   "price": 40.85,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1384,6 +1361,58 @@
    ],
    "position_value": 0,
    "thesis_needed": true
+  },
+  {
+   "symbol": "ASTS",
+   "name": "AST SpaceMobile Inc.",
+   "conviction": 10.0,
+   "thesis_strength": 35,
+   "conviction_history": [
+    25.0,
+    13.0,
+    20.0,
+    20.0,
+    27.0,
+    17.0,
+    17.0,
+    13.0,
+    23.0,
+    13.0,
+    17.0,
+    17.0,
+    17.0,
+    17.0,
+    13.0,
+    17.0,
+    17.0,
+    17.0,
+    13.0,
+    10.0
+   ],
+   "price": 70.31,
+   "fair_low": null,
+   "fair_base": null,
+   "fair_high": null,
+   "upside_pct": null,
+   "last_impact": "neutral",
+   "last_memo": "ASTS stock jumped about 11% today, but there's no news attached to it \u2014 just a price alert triggered by the move. The company is still burning through roughly $1.4 billion in cash per year while generating almost no revenue, and its entire value rests on whether it can successful",
+   "risks": [
+    "Hype-driven price appreciation disconnected from fundamentals creates downside volatility risk if BlueBird launch underperforms or the Meta tease leads to no formal agreement\u2014sentiment unwind could be sharp.",
+    "If Meta is evaluating ASTS as a satellite partner, it is likely also evaluating Starlink Direct-to-Cell and other competitors, meaning ASTS does not have an exclusive negotiating position.",
+    "Market expectations may now be pricing in a successful Japan launch; any delay or technical underperformance in live commercial conditions could cause a sharp de-rating given the 281x P/S multiple.",
+    "A Guinness World Record is a marketing milestone, not an operational one \u2014 headline risk if the commercial launch timeline slips after this publicity push."
+   ],
+   "catalysts": [
+    {
+     "id": 22,
+     "symbol": "ASTS",
+     "date": "2026-08-10",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
   },
   {
    "symbol": "IMSR",
@@ -1409,9 +1438,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.06,
+   "price": 5.39,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1435,7 +1465,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 505.99999999999994,
+   "position_value": 539.0,
    "thesis_needed": true
   },
   {
@@ -1462,9 +1492,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 16.02,
+   "price": 17.45,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1486,6 +1517,48 @@
   }
  ],
  "history": [
+  {
+   "date": "2026-08-05",
+   "symbol": "PLTR",
+   "impact": "neutral",
+   "headline": "PLTR surges 29.5% in a single session; business unchanged, valuation now extreme",
+   "strength": 52
+  },
+  {
+   "date": "2026-08-05",
+   "symbol": "META",
+   "impact": "neutral",
+   "headline": "FCF crater is real but likely timing/capex \u2014 not a structural cash generation break",
+   "strength": 78
+  },
+  {
+   "date": "2026-08-05",
+   "symbol": "AMZN",
+   "impact": "strengthens",
+   "headline": "AWS capacity spoken for through 2028 \u2014 AI demand backlog materially de-risks the core earnings driver",
+   "strength": 82
+  },
+  {
+   "date": "2026-08-05",
+   "symbol": "SHOP.TO",
+   "impact": "strengthens",
+   "headline": "Shopify Q2 2026 'monster quarter': revenue + operating profit beat, stock +5.6%",
+   "strength": 62
+  },
+  {
+   "date": "2026-08-05",
+   "symbol": "ASTS",
+   "impact": "neutral",
+   "headline": "ASTS +10.7% single-day move is noise; thesis unchanged, execution remains the only thing that matters",
+   "strength": 35
+  },
+  {
+   "date": "2026-08-05",
+   "symbol": "TSLA",
+   "impact": "neutral",
+   "headline": "Tesla's AI Chief signals FSD philosophy shift: less user control, more system autonomy",
+   "strength": 52
+  },
   {
    "date": "2026-08-04",
    "symbol": "MSFT",
@@ -1964,13 +2037,6 @@
   },
   {
    "date": "2026-07-20",
-   "symbol": "META",
-   "impact": "strengthens",
-   "headline": "Meta secures $12B external financing for Texas data centers \u2014 capex risk partially offloaded",
-   "strength": 82
-  },
-  {
-   "date": "2026-07-20",
    "symbol": "IBM",
    "impact": "neutral",
    "headline": "Break-up speculation signals market anxiety, but thesis hinges on fundamentals not sentiment",
@@ -2010,13 +2076,6 @@
    "impact": "neutral",
    "headline": "IBM shares -3.6% on analyst warnings; thin content warrants investigation, not panic",
    "strength": 62
-  },
-  {
-   "date": "2026-07-17",
-   "symbol": "ASTS",
-   "impact": "strengthens",
-   "headline": "$1B convertible offering extends runway; ~1.5% dilution less severe than market's 25% reaction implied",
-   "strength": 42
   },
   {
    "date": "2026-07-17",
