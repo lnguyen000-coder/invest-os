@@ -1,6 +1,22 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-06 — India data center opening is geographic expansion, not a thesis-moving event
+**Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100
+
+**What changed:** Microsoft opened its largest data center hub in India, described as part of its broader AI infrastructure buildout. The facility expands Azure's regional footprint in one of the world's fastest-growing enterprise IT markets. No financial specifics (capex amount, capacity, expected revenue contribution) were disclosed in the event summary.
+
+**Why it matters:** Geographic infrastructure expansion supports Azure's long-term addressable market and is consistent with the thesis that Microsoft is investing its substantial FCF to maintain and extend its cloud moat. India is a meaningful enterprise market with high growth potential. However, this is one node in a global buildout already underway — it does not change the trajectory of Azure margins, capex intensity, or AI monetization in any measurable near-term way.
+
+**Intrinsic value:** none / none via none — A single regional data center opening, with no disclosed financial terms, does not move the needle on the inputs that drive intrinsic value: long-run revenue growth, margins, or capital intensity. This is a routine infrastructure investment within the already-assumed capex envelope.
+
+**Valuation:** fair value $64 / **$102** / $192 · implied growth at price: 29.4%
+
+**Committee memo:** Microsoft's India data center opening is a routine infrastructure execution event that warrants acknowledgment but not action. The facility is consistent with management's repeatedly stated commitment to global AI and cloud capacity buildout and does nothing to change the thesis in either direction. The more important unresolved question — which this event does not answer — is whether the multi-year surge in capital expenditures is earning returns that justify the investment. TTM FCF of $16.4B against a historical run-rate of $60-74B annually is a striking divergence worth monitoring carefully; this compression is the direct result of the capex cycle management is executing. The India hub is one more data point in that cycle. I would hold conviction at current levels, but the committee should be asking: at what point does continued FCF compression relative to GAAP earnings become a structural concern rather than a transient investment phase? The kill criterion to watch is not this data center, but whether FCF growth resumes as data centers ramp utilization over the next 18-24 months. If it does not, the capex-return assumption needs to be revisited materially. This event alone proves nothing either way — file it as 'execution on plan' and wait for Azure revenue growth and margin data in the next earnings print.
+
+**Plain English:** Microsoft opened a big new data center in India to support Azure and AI services there. This is exactly what you'd expect from a company investing aggressively in cloud infrastructure — it's part of the plan, not a surprise. It doesn't tell us anything new about whether Microsoft is actually making money from AI, whether Azure is growing faster or slower than expected, or whether margins are improving. The stock's fair value doesn't change based on this news. The one thing worth watching over time is whether the cumulative capex spending across all these facilities — India plus dozens of others globally — is generating returns proportionate to the investment, but a single facility announcement doesn't answer that question.
+
+---
 ## 2026-08-04 — 131 malicious npm packages are a yellow flag for developer ecosystem trust, not a thesis mover
 **Thesis impact: NEUTRAL** · Thesis strength: 87/100 · Conviction: 80.0/100 · **ALERTED**
 

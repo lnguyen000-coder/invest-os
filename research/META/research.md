@@ -1,6 +1,30 @@
 # Meta Platforms Inc. (META) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-06 — Q1 FCF plunged 91% YoY to $784M on AI capex surge — thesis stress-test, not yet a break
+**Thesis impact: WEAKENS** · Thesis strength: 68/100 · Conviction: 73.0/100 · **ALERTED**
+
+**What changed:** Meta reported Q1 2025 free cash flow of approximately $784 million, down roughly 91% year-over-year, as capital expenditures ballooned due to aggressive AI infrastructure investment. This is a single-quarter result driven by a deliberate front-loading of capex. The TTM FCF figure in the fundamentals ($21.6B) reflects the trailing four quarters and has not yet fully absorbed the new capex run-rate. Management has guided full-year 2025 capex at $64–72 billion, up sharply from prior years.
+
+**Why it matters:** The thesis rests explicitly on 'exceptional cash generation' as the financial foundation that funds AI investment, buybacks, and optionality. A sustained collapse in FCF — rather than a transient capex spike — would directly undermine the thesis's capital allocation pillar. The more important question is whether this capex is return-generative (AI improving ad ROI, opening new revenue streams) or empire-building with poor returns. If the former, depressed near-term FCF is the price of durable competitive widening; if the latter, it triggers the kill criterion around 'investing heavily in projects with persistently poor returns and no credible strategic rationale.'
+
+**Intrinsic value:** down / moderate (5-15%) via capital_intensity — Raising the normalized capex assumption from prior-cycle levels (~$30–35B) toward $60–70B+ structurally reduces FCF yield and thus DCF-derived intrinsic value. If $64–72B capex becomes the new steady-state (rather than a temporary build), the FCF base used in valuation must be reset lower. Against a base fair value of ~$487, a 5–15% downward revision implies roughly $415–$463, which still leaves the stock near or above fair value at current prices — a meaningful change in the risk/reward setup.
+**New risks:**
+- AI infrastructure capex at $64–72B annualized may become a floor rather than a ceiling if competitive AI spending escalates, permanently raising Meta's capital intensity above historical norms.
+- If AI-driven advertising improvements plateau or competitors (Google, TikTok, Amazon) close the targeting gap, the capex will have been spent without a durable competitive return.
+- Sustained FCF compression reduces the financial cushion available for buybacks, limiting the per-share value accretion that has supported the stock's re-rating.
+**⚠ Kill criteria at risk:**
+- The 'AI investments fail to generate attractive returns' caution condition is now live — not triggered, but the clock has started; investors need to see measurable ad ROI or new revenue streams from AI within 12–18 months to validate the spend.
+**Proposed valuation assumption changes (edit assumptions.yaml to accept):**
+- `fcf_base`: 46.11 → 35.0 — Normalized FCF must reflect the new capex regime of $64–72B annually; using prior-cycle FCF of ~$46B as a base materially overstates near-term cash generation and should be reset to reflect ~$35B under the new capex assumption until AI returns are demonstrated.
+
+**Valuation:** fair value $289 / **$487** / $948 · implied growth at price: 21.6%
+
+**Committee memo:** Meta's Q1 FCF collapse is the most important near-term data point for the thesis, but it should be evaluated against what management promised, not against prior performance. Zuckerberg explicitly guided toward a massive infrastructure build; the $64–72B capex range was disclosed. What's changed is the market is now seeing the cash statement reality of that commitment. The operating business — revenue growth, gross margins at 82%, ROIC at 28.8% — remains among the highest quality in large-cap tech. The thesis stress is on capital intensity, not on moat or business quality. However, the current stock price at $589 sits above our base DCF of $400 and above our base fair value of $487, implying the market is already pricing in significant AI-driven upside. With FCF compressed for at least two years and the return on this capex unproven, the risk/reward has shifted: we are being asked to pay a premium for an unproven outcome while the financial cushion that historically justified confidence in Meta has temporarily disappeared. My recommendation is to hold conviction at current sizing but not add at these prices. I would need to see either (1) a price correction that restores margin of safety to the $400–$450 range, or (2) concrete evidence — in the form of measurable ad revenue per user acceleration or new monetizable AI products — that the capex is earning a return. This judgment would be proven wrong if AI-driven ad improvements produce a step-change in revenue per user over the next 4–6 quarters, in which case the capex would be underpriced at current multiples.
+
+**Plain English:** Meta made so much money last year that people got used to thinking of it as a cash machine. But in the first quarter of 2025, that cash machine nearly ran dry — free cash flow fell 91% because Meta is spending an enormous amount building AI data centers and infrastructure. This wasn't a secret; management warned it was coming. The real question is whether this spending is like Amazon building AWS — painful short-term, transformative long-term — or whether it's money being poured into something that never pays off. The core advertising business still looks healthy with strong margins and billions of daily users. But the stock's current price essentially assumes Meta will grow very fast for a very long time, so if the AI spending doesn't translate into better products and higher revenue, there's meaningful downside risk. The thesis isn't broken, but investors now have less cushion for error.
+
+---
 ## 2026-08-05 — FCF crater is real but likely timing/capex — not a structural cash generation break
 **Thesis impact: NEUTRAL** · Thesis strength: 78/100 · Conviction: 83.0/100 · **ALERTED**
 
