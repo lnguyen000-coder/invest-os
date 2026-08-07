@@ -1,6 +1,25 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-07 — Vague AI headline insufficient to assess thesis impact; investigation required
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
+
+**What changed:** A news outlet (TheStreet) published a headline suggesting Microsoft made a 'controversial decision' that 'changes its AI story.' No substantive content, details, or specifics were provided in the material supplied. The nature, scope, and strategic implications of this decision are entirely unknown from the available information.
+
+**Why it matters:** AI monetization is thesis driver #4 (Copilot adoption) and #5 (enterprise AI spending), and failure to monetize AI is kill criterion #2. Any structural change to Microsoft's AI strategy — pricing, partnership, product direction, or regulatory response — could be material. However, without knowing what the decision actually is, no informed judgment is possible. A headline from a single outlet using the word 'controversial' carries minimal signal on its own.
+
+**Intrinsic value:** none / none via none — No content was provided that would allow even a directional estimate of intrinsic value change. A headline alone — especially one that is editorial in nature — does not move intrinsic value. We need the underlying facts.
+**New risks:**
+- Unknown AI strategic decision may affect Copilot pricing, partnership structure, or product roadmap — cannot quantify until details are available.
+- If the 'controversial decision' relates to OpenAI partnership terms or exclusivity arrangements, it could affect Azure AI differentiation — requires verification.
+
+**Valuation:** fair value $64 / **$102** / $192 · implied growth at price: 29.8%
+
+**Committee memo:** The sole event submitted is a news headline with no article body or supporting content. TheStreet's characterization of a Microsoft AI decision as 'controversial' is not investable information — it is an editorial frame without underlying facts. I am not in a position to assess whether this is a pricing change to Copilot, a restructuring of the OpenAI partnership, a product deprecation, or something else entirely, and I will not manufacture significance from a void. The correct action is to obtain and read the full article, cross-reference with Microsoft's investor relations communications, and check whether any 8-K, press release, or management comment has been issued. Two things are worth noting independently of this event: first, the reverse-DCF implies the market is pricing in ~30% growth, which is an aggressive assumption that leaves limited margin of safety; second, the TTM FCF figure of $16.5B appears dramatically lower than the historical run-rate of $60-74B annually, which needs explanation — this may be a data anomaly or a real FCF compression from capex that deserves immediate clarification before the next review. On the thesis as a whole, conviction remains high given balance sheet strength (0.27x net debt/EBITDA), ROIC of 27%, and durable moat sources, but I would lower confidence slightly until the AI headline is resolved and the FCF discrepancy is explained. Hold current position; do not add until the underlying facts of both items are understood.
+
+**Plain English:** A news headline says Microsoft made some kind of controversial AI decision, but the actual article content wasn't included, so we have no idea what happened. Reacting to a headline without knowing what's underneath it would be irresponsible. The business itself remains one of the strongest in the world — dominant enterprise software, fast-growing cloud, exceptional cash generation, almost no net debt. There is one pre-existing thing worth watching: gross margins have ticked down slightly over four years, which likely reflects heavy investment in AI infrastructure, and the question of whether that investment pays off remains the central uncertainty in the thesis. But today's headline tells us nothing new. Read the actual article before drawing any conclusions.
+
+---
 ## 2026-08-06 — India data center opening is geographic expansion, not a thesis-moving event
 **Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100
 

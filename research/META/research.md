@@ -1,6 +1,28 @@
 # Meta Platforms Inc. (META) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-07 — $567M child safety judgment is a one-time cash hit; structural compliance cost is the real watch item
+**Thesis impact: WEAKENS** · Thesis strength: 74/100 · Conviction: 79.0/100 · **ALERTED**
+
+**What changed:** A New Mexico court has ordered Meta to pay $567 million related to child safety failures on Facebook and Instagram. Beyond the monetary penalty, the ruling requires Meta to overhaul teen-protection features and policies on both platforms. Three separate sources confirm the same ruling, so this is not a rumor. No appeal timeline or settlement details have been provided in the available material.
+
+**Why it matters:** The $567M payment is roughly 2.6% of TTM FCF and less than 0.04% of market cap — financially trivial in isolation. What matters more is the mandated product and policy overhaul, which could (a) increase ongoing compliance costs, (b) restrict monetization of teen users, and (c) set a precedent that emboldens similar actions in other jurisdictions. The thesis already flags regulatory changes impairing monetization as a known risk and a kill criterion; this ruling edges that risk from theoretical to partially realized.
+
+**Intrinsic value:** down / small (<5%) via risk — The $567M cash outflow is immaterial relative to $46B+ in annual FCF. The small downward nudge comes from modestly higher risk premium warranted by escalating regulatory exposure on teen monetization and the compliance cost uncertainty embedded in 'product overhaul' requirements. No growth or margin assumption change is justified on current information alone.
+**New risks:**
+- Mandated teen-protection product overhauls may restrict ad load and data collection on under-18 users across Facebook and Instagram, creating a measurable but currently unquantified revenue drag.
+- New Mexico ruling may embolden other U.S. states or federal regulators to pursue similar child safety actions, creating a patchwork of compliance obligations that raises operating complexity and cost.
+- Reputational damage from public child safety rulings could accelerate legislative momentum for federal children's online privacy or safety legislation that imposes structural limits on Meta's business model.
+**⚠ Kill criteria at risk:**
+- Regulatory changes materially impairing Meta's ability to monetize its platforms: not triggered yet, but this ruling is a directional step toward that criterion and warrants active monitoring as similar cases accumulate.
+
+**Valuation:** fair value $289 / **$487** / $948 · implied growth at price: 21.7%
+
+**Committee memo:** The $567M New Mexico judgment is financially immaterial to Meta's intrinsic value — at roughly 2.6% of annual free cash flow, it is within the range of routine litigation noise for a company of this scale. The committee should not let the dollar headline distract from the more consequential element: the court-ordered product and policy overhaul affecting teen users on Facebook and Instagram. Restrictions on teen-targeted advertising and data collection are the mechanism by which child safety regulation could actually impair long-term revenue, and this ruling is the clearest U.S. domestic precedent yet. The thesis already identifies regulatory impairment of monetization as a kill criterion; today this risk moves from 'known but theoretical' to 'partially realized and precedent-setting.' My recommendation is to hold conviction at current position size — the moat, FCF generation, and AI-driven advertising improvements remain intact — but to flag this as a developing situation requiring active monitoring rather than a resolved one. Specifically, I want to see Meta's next earnings call address the scope of mandated product changes, any quantification of compliance costs, and whether management is engaging proactively with federal legislators. The judgment that would prove this assessment too sanguine is if a federal child safety law passes imposing blanket restrictions on behavioral advertising to under-18s; that would require a meaningful downward revision to long-term DAP monetization assumptions and could push the thesis toward 'weakens materially.'
+
+**Plain English:** A New Mexico court ordered Meta to pay $567 million for failing to protect children on Facebook and Instagram, and also told the company to change how it handles teen users on those platforms. The fine itself is small — Meta generates roughly $46 billion in cash per year, so this is about a week and a half of earnings. The bigger issue is what comes next: the court is forcing real product changes, and if other states or the federal government follow with similar demands, Meta could face restrictions on how it shows ads to teenagers and how it collects their data. That's a real business risk because younger users are the future growth of the platform. For now, this doesn't change the core investment story — Meta still has billions of users, dominant advertising technology, and strong cash flow — but the regulatory pressure on teen safety is clearly building, and investors should watch whether it starts to affect actual revenue over the next few years.
+
+---
 ## 2026-08-06 — Q1 FCF plunged 91% YoY to $784M on AI capex surge — thesis stress-test, not yet a break
 **Thesis impact: WEAKENS** · Thesis strength: 68/100 · Conviction: 73.0/100 · **ALERTED**
 

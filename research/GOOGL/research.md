@@ -1,6 +1,28 @@
 # Alphabet Inc. (GOOGL) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-07 — Alphabet issues $25B in debt — largest bond deal in company history, funding AI infrastructure
+**Thesis impact: NEUTRAL** · Thesis strength: 80/100 · Conviction: 73.0/100 · **ALERTED**
+
+**What changed:** Alphabet has issued $25 billion in debt, reportedly its largest bond sale ever. The proceeds are understood to be directed toward AI infrastructure capital expenditure. This is a deliberate shift from Alphabet's historical posture of funding all capex from operating cash flow, moving the balance sheet from net cash toward a more levered position.
+
+**Why it matters:** Alphabet's thesis rests on financial strength enabling unconstrained AI investment without compromising the balance sheet. Issuing debt at scale changes two thesis drivers: (1) capital intensity increases, as debt service adds a fixed cost layer that didn't previously exist, and (2) risk profile shifts modestly — net debt/EBITDA remains low given Alphabet's cash generation, but the direction of travel matters. The positive read is that management sees AI infrastructure ROI high enough to justify locking in long-term capital at current rates rather than waiting to accumulate it organically. The negative read is that organic FCF — currently ~$22-23B TTM against a capex trajectory already rising sharply — may be insufficient to fund the pace of investment the AI arms race demands.
+
+**Intrinsic value:** down / small (<5%) via capital_intensity — Adding $25B in debt modestly increases capital intensity and introduces fixed financing costs that compress future FCF. However, at Alphabet's scale and cash generation, the direct P&L impact is small. The indirect impact — whether this debt funds return-generating or return-neutral capex — is the real variable and cannot be assessed from the issuance alone.
+**New risks:**
+- If AI infrastructure returns disappoint, Alphabet will have permanently increased its capital base and interest burden with limited ability to quickly reverse the commitment.
+- Debt issuance signals that organic FCF may be insufficient to simultaneously fund peak AI capex AND sustain the current buyback program — one or both may need to be reduced.
+- The 'AI arms race' framing suggests capex is partly competitive/defensive rather than purely return-driven, which is a lower-quality use of capital.
+**Proposed valuation assumption changes (edit assumptions.yaml to accept):**
+- `fcf_base`: 73.27 → 70.0 — Debt service on $25B at current investment-grade rates (~4.5-5%) adds roughly $1.1-1.25B in annual interest expense, modestly reducing normalized FCF before any capex inflation effect.
+
+**Valuation:** fair value $98 / **$182** / $390 · implied growth at price: 26.1%
+
+**Committee memo:** Alphabet's $25B bond issuance is the largest in the company's history and marks a meaningful shift in financing philosophy — from pure organic self-funding to using the capital markets to accelerate AI infrastructure build-out. In isolation, this does not threaten the investment thesis. With net debt/EBITDA at -0.70x and TTM FCF of ~$73B, Alphabet has the financial headroom to absorb this debt comfortably, and the incremental interest cost (~$1.1-1.25B annually) is immaterial relative to earnings. What the event does do is raise the stakes on a question already central to the thesis: are these AI capex dollars producing returns above cost of capital, or are they largely defensive expenditure to maintain search relevance in a world where AI is changing how people find information? The debt financing actually provides some useful signal — management is sufficiently confident in AI ROI to lock in long-term capital obligations rather than waiting. However, the 'arms race' framing in media coverage is worth taking seriously; if hyperscalers are all building at maximum pace regardless of marginal return, rational capital allocation norms may be temporarily suspended across the industry. Our recommended posture is hold conviction — the balance sheet remains strong, the moat drivers are intact, and the capex commitment is consistent with prior management messaging. We would revisit if: (1) FCF per share declines for two or more consecutive years despite revenue growth, indicating capex is not monetizing; (2) Google Cloud margin expansion stalls despite scale, suggesting infrastructure costs are outpacing revenue; or (3) net debt/EBITDA crosses 1.5x, signaling the balance sheet is being consumed rather than deployed productively.
+
+**Plain English:** Alphabet just borrowed $25 billion — the largest bond deal in its history — to fund the massive data centers and chips needed to compete in AI. This sounds alarming, but Alphabet has so much cash and generates so much profit that this doesn't create a financial stress problem. Think of it like a profitable homeowner taking out a mortgage to build a valuable addition — the debt is manageable, but the question is whether the addition actually adds value. The real issue to watch is whether all this AI spending eventually produces higher profits, or whether it's just the cost of staying in the game without a clear payoff. For now, the thesis is intact — but we want to see evidence that the capex produces returns, not just infrastructure.
+
+---
 ## 2026-08-06 — Alphabet issues up to $25B in bonds to fund AI capex; modest leverage impact on a net-cash balance sheet
 **Thesis impact: NEUTRAL** · Thesis strength: 78/100 · Conviction: 71.0/100 · **ALERTED**
 

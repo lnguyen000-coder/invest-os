@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-06 13:24 UTC",
+ "generated": "2026-08-07 12:33 UTC",
  "rows": [
   {
    "symbol": "CSU.TO",
@@ -27,13 +27,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 3145.19,
+   "price": 3212.66,
    "fair_low": 460.5776080431524,
    "fair_base": 4841.692830021196,
    "fair_high": 7438.866727393741,
-   "upside_pct": 53.939597608449596,
+   "upside_pct": 50.70666768413701,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -75,13 +76,14 @@
     85.0,
     85.0,
     85.0,
+    85.0,
     85.0
    ],
-   "price": 99.31,
+   "price": 97.87,
    "fair_low": 85.08203074644862,
    "fair_base": 213.9454386141005,
    "fair_high": 249.0914479502334,
-   "upside_pct": 115.43191885419444,
+   "upside_pct": 118.60165384091191,
    "last_impact": "neutral",
    "last_memo": "Deckers had a decent but not exceptional quarter\u2014sales grew about 6%, the direct-to-consumer business (selling straight to shoppers, bypassing retailers) grew a healthy 13%, and international demand kept building. The downside is that spending on overhead and marketing grew much ",
    "risks": [
@@ -99,57 +101,110 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3575.16,
+   "position_value": 3523.32,
    "thesis_needed": false
   },
   {
-   "symbol": "MSFT",
-   "name": "Microsoft Corporation",
-   "conviction": 75.0,
-   "thesis_strength": 82,
+   "symbol": "META",
+   "name": "Meta Platforms Inc.",
+   "conviction": 79.0,
+   "thesis_strength": 74,
    "conviction_history": [
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    62.0,
-    76.0,
-    76.0,
-    60.0,
-    70.0,
-    64.0,
-    64.0,
-    64.0,
-    60.0,
-    62.0,
-    62.0,
-    62.0,
-    65.0,
-    61.0,
-    80.0,
-    80.0,
-    75.0
+    43.0,
+    55.0,
+    55.0,
+    55.0,
+    75.0,
+    75.0,
+    87.0,
+    87.0,
+    81.0,
+    81.0,
+    81.0,
+    79.0,
+    79.0,
+    87.0,
+    83.0,
+    77.0,
+    77.0,
+    77.0,
+    67.0,
+    83.0,
+    73.0,
+    79.0
    ],
-   "price": 487.46,
-   "fair_low": 63.511889782430764,
-   "fair_base": 102.25863784077146,
-   "fair_high": 191.67708722046243,
-   "upside_pct": -79.022147901208,
-   "last_impact": "neutral",
-   "last_memo": "Microsoft opened a big new data center in India to support Azure and AI services there. This is exactly what you'd expect from a company investing aggressively in cloud infrastructure \u2014 it's part of the plan, not a surprise. It doesn't tell us anything new about whether Microsoft",
+   "price": 589.9,
+   "fair_low": 289.16284470284506,
+   "fair_base": 487.3995682928012,
+   "fair_high": 947.5440523750636,
+   "upside_pct": -17.375899594371724,
+   "last_impact": "weakens",
+   "last_memo": "A New Mexico court ordered Meta to pay $567 million for failing to protect children on Facebook and Instagram, and also told the company to change how it handles teen users on those platforms. The fine itself is small \u2014 Meta generates roughly $46 billion in cash per year, so this",
    "risks": [
-    "If AI-specific package targeting escalates, enterprise customers may impose stricter controls on open-source dependencies, marginally slowing developer adoption of Microsoft AI tooling on GitHub/Azure.",
-    "Repeated supply-chain incidents on npm could provide competitive ammunition for GitLab, JFrog Artifactory, or other alternative artifact registries seeking to displace GitHub in enterprise environments.",
-    "At $451/share, the stock now prices in ~28% long-term growth, leaving minimal margin of safety if Azure growth decelerates or AI monetization underwhelms \u2014 even modestly.",
-    "SaaS commoditization of AI features: competitive pressure (OpenAI direct, Google Gemini, Anthropic enterprise) could force Microsoft to bundle Copilot into base M365 pricing rather than sustaining $30/seat uplift, converting a margin-accretive AI monetization story into a defensive retention play."
+    "Mandated teen-protection product overhauls may restrict ad load and data collection on under-18 users across Facebook and Instagram, creating a measurable but currently unquantified revenue drag.",
+    "New Mexico ruling may embolden other U.S. states or federal regulators to pursue similar child safety actions, creating a patchwork of compliance obligations that raises operating complexity and cost.",
+    "Reputational damage from public child safety rulings could accelerate legislative momentum for federal children's online privacy or safety legislation that imposes structural limits on Meta's business model.",
+    "AI infrastructure capex at $64\u201372B annualized may become a floor rather than a ceiling if competitive AI spending escalates, permanently raising Meta's capital intensity above historical norms."
    ],
    "catalysts": [
     {
-     "id": 40,
-     "symbol": "MSFT",
+     "id": 41,
+     "symbol": "META",
      "date": "2026-10-28",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 9438.4,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "IBM",
+   "name": "International Business Machines Corporation",
+   "conviction": 76.0,
+   "thesis_strength": 72,
+   "conviction_history": [
+    45.7,
+    57.7,
+    57.7,
+    55.7,
+    45.7,
+    45.8,
+    65.8,
+    61.8,
+    71.8,
+    65.8,
+    66.0,
+    71.4,
+    72.0,
+    72.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    76.0
+   ],
+   "price": 233.43,
+   "fair_low": 75.00733660346769,
+   "fair_base": 288.55960253064944,
+   "fair_high": 396.3485189888189,
+   "upside_pct": 23.617188249432132,
+   "last_impact": "strengthens",
+   "last_memo": "IBM just got permission to sell its Maximo software \u2014 which helps large organizations manage buildings, equipment, and physical assets \u2014 to U.S. federal government agencies. Previously, a missing government security certification blocked these sales entirely. This is genuinely go",
+   "risks": [
+    "Federal procurement cycles are notoriously slow; FedRAMP authorization may not translate to meaningful revenue for 2-3 years, creating an execution timing gap.",
+    "Competing asset management vendors (ServiceNow, Oracle, SAP) may also pursue or already hold FedRAMP certifications, limiting IBM's first-mover window.",
+    "If the top-line miss reflects software or Red Hat deceleration rather than consulting/infrastructure, the primary growth engine of the thesis is impaired \u2014 this must be confirmed or ruled out via segment data.",
+    "Net debt/EBITDA at 3.47x remains above the 2.5x discipline threshold; any FCF guidance reduction would tighten this constraint materially."
+   ],
+   "catalysts": [
+    {
+     "id": 33,
+     "symbol": "IBM",
+     "date": "2026-10-21",
      "label": "Earnings report",
      "source": "yfinance"
     }
@@ -183,13 +238,14 @@
     75.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 272.65,
+   "price": 272.26,
    "fair_low": 0.3897164164121739,
    "fair_base": 31.068186238720195,
    "fair_high": 102.7302688951925,
-   "upside_pct": -88.60510315836413,
+   "upside_pct": -88.5887804897083,
    "last_impact": "strengthens",
    "last_memo": "Amazon's cloud boss said that essentially all of their AI server capacity is already committed to customers through 2028 \u2014 think of it like a hotel where every room is booked years in advance. This is important because one of the biggest questions about Amazon has been whether co",
    "risks": [
@@ -207,67 +263,14 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 4089.7499999999995,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "META",
-   "name": "Meta Platforms Inc.",
-   "conviction": 73.0,
-   "thesis_strength": 68,
-   "conviction_history": [
-    43.0,
-    55.0,
-    55.0,
-    55.0,
-    75.0,
-    75.0,
-    87.0,
-    87.0,
-    81.0,
-    81.0,
-    81.0,
-    79.0,
-    79.0,
-    87.0,
-    83.0,
-    77.0,
-    77.0,
-    77.0,
-    67.0,
-    83.0,
-    73.0
-   ],
-   "price": 588.77,
-   "fair_low": 289.16284470284506,
-   "fair_base": 487.3995682928012,
-   "fair_high": 947.5440523750636,
-   "upside_pct": -17.21732284375882,
-   "last_impact": "weakens",
-   "last_memo": "Meta made so much money last year that people got used to thinking of it as a cash machine. But in the first quarter of 2025, that cash machine nearly ran dry \u2014 free cash flow fell 91% because Meta is spending an enormous amount building AI data centers and infrastructure. This w",
-   "risks": [
-    "AI infrastructure capex at $64\u201372B annualized may become a floor rather than a ceiling if competitive AI spending escalates, permanently raising Meta's capital intensity above historical norms.",
-    "If AI-driven advertising improvements plateau or competitors (Google, TikTok, Amazon) close the targeting gap, the capex will have been spent without a durable competitive return.",
-    "Sustained FCF compression reduces the financial cushion available for buybacks, limiting the per-share value accretion that has supported the stock's re-rating.",
-    "AI capex cycle may be longer and larger than originally modeled, keeping FCF conversion below historical norms for 2-3 years and delaying the cash return phase of the thesis."
-   ],
-   "catalysts": [
-    {
-     "id": 41,
-     "symbol": "META",
-     "date": "2026-10-28",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 9420.32,
+   "position_value": 4083.8999999999996,
    "thesis_needed": false
   },
   {
    "symbol": "GOOGL",
    "name": "Alphabet Inc.",
-   "conviction": 71.0,
-   "thesis_strength": 78,
+   "conviction": 73.0,
+   "thesis_strength": 80,
    "conviction_history": [
     43.0,
     43.0,
@@ -289,20 +292,21 @@
     75.0,
     75.0,
     75.0,
-    71.0
+    71.0,
+    73.0
    ],
-   "price": 362.43,
+   "price": 357.75,
    "fair_low": 98.1810001979202,
    "fair_base": 182.2386496011964,
    "fair_high": 390.11857819186713,
-   "upside_pct": -49.717559362857266,
+   "upside_pct": -49.059776491629236,
    "last_impact": "neutral",
-   "last_memo": "Alphabet just borrowed up to $25 billion by selling bonds to investors \u2014 think of it as taking out a very large, low-interest mortgage to fund its AI spending spree. This is notable because $25 billion is actually more than the company generates in free cash flow in an entire yea",
+   "last_memo": "Alphabet just borrowed $25 billion \u2014 the largest bond deal in its history \u2014 to fund the massive data centers and chips needed to compete in AI. This sounds alarming, but Alphabet has so much cash and generates so much profit that this doesn't create a financial stress problem. Th",
    "risks": [
-    "If AI infrastructure investment continues to scale faster than FCF generation, Alphabet could transition from a net-cash to a net-debt company within 2-3 years, potentially constraining capital return flexibility.",
-    "Floating rate tranches expose a portion of interest costs to SOFR volatility, though this is a minor concern given Alphabet's cash generation.",
-    "The $40B equity distribution shelf (separate from the bond offering) represents a potential future dilution mechanism that warrants monitoring, even though no shares have been sold under it to date.",
-    "If this lawsuit generates significant media coverage or political attention, it could accelerate existing legislative efforts (e.g., KOSA-type laws) to restrict algorithmic targeting of minors, which would constrain YouTube's ad revenue mix."
+    "If AI infrastructure returns disappoint, Alphabet will have permanently increased its capital base and interest burden with limited ability to quickly reverse the commitment.",
+    "Debt issuance signals that organic FCF may be insufficient to simultaneously fund peak AI capex AND sustain the current buyback program \u2014 one or both may need to be reduced.",
+    "The 'AI arms race' framing suggests capex is partly competitive/defensive rather than purely return-driven, which is a lower-quality use of capital.",
+    "If AI infrastructure investment continues to scale faster than FCF generation, Alphabet could transition from a net-cash to a net-debt company within 2-3 years, potentially constraining capital return flexibility."
    ],
    "catalysts": [
     {
@@ -313,7 +317,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3986.73,
+   "position_value": 3935.25,
    "thesis_needed": false
   },
   {
@@ -342,13 +346,14 @@
     67.0,
     67.0,
     67.0,
+    67.0,
     67.0
    ],
-   "price": 219.22,
+   "price": 218.99,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -75.6558268317554,
+   "upside_pct": -75.63025872440485,
    "last_impact": "neutral",
    "last_memo": "Reports say NVIDIA may be helping to finance OpenAI's purchase of NVIDIA hardware \u2014 essentially lending money to a customer to buy your own products. On one hand, this shows just how central NVIDIA is to the AI world: the most important AI company apparently wants NVIDIA's chips ",
    "risks": [
@@ -370,51 +375,54 @@
    "thesis_needed": false
   },
   {
-   "symbol": "IBM",
-   "name": "International Business Machines Corporation",
-   "conviction": 66.0,
-   "thesis_strength": 62,
+   "symbol": "MSFT",
+   "name": "Microsoft Corporation",
+   "conviction": 65.0,
+   "thesis_strength": 72,
    "conviction_history": [
-    45.7,
-    57.7,
-    57.7,
-    55.7,
-    45.7,
-    45.8,
-    65.8,
-    61.8,
-    71.8,
-    65.8,
-    66.0,
-    71.4,
-    72.0,
-    72.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    62.0,
+    76.0,
+    76.0,
+    60.0,
+    70.0,
+    64.0,
+    64.0,
+    64.0,
+    60.0,
+    62.0,
+    62.0,
+    62.0,
+    65.0,
+    61.0,
+    80.0,
+    80.0,
+    75.0,
+    65.0
    ],
-   "price": 235.92,
-   "fair_low": 75.00733660346769,
-   "fair_base": 288.55960253064944,
-   "fair_high": 396.3485189888189,
-   "upside_pct": 22.312479879047743,
+   "price": 499.86,
+   "fair_low": 63.537745917072016,
+   "fair_base": 102.28449397541269,
+   "fair_high": 191.70294335510366,
+   "upside_pct": -79.53737166898478,
    "last_impact": "neutral",
-   "last_memo": "IBM reported Q2 earnings and the stock went up about 1%, even though the company didn't hit its revenue target. That sounds counterintuitive, but it likely means IBM did better than expected on profits or cash flow \u2014 which are the things that actually drive IBM's long-term value.",
+   "last_memo": "A news headline says Microsoft made some kind of controversial AI decision, but the actual article content wasn't included, so we have no idea what happened. Reacting to a headline without knowing what's underneath it would be irresponsible. The business itself remains one of the",
    "risks": [
-    "If the top-line miss reflects software or Red Hat deceleration rather than consulting/infrastructure, the primary growth engine of the thesis is impaired \u2014 this must be confirmed or ruled out via segment data.",
-    "Net debt/EBITDA at 3.47x remains above the 2.5x discipline threshold; any FCF guidance reduction would tighten this constraint materially.",
-    "Undisclosed purchase price prevents assessment of whether IBM deployed capital at a value-destructive valuation \u2014 will need disclosure to clear the kill criterion check on value-destructive acquisitions.",
-    "Quantum computing timelines are highly uncertain; if IBM escalates investment in quantum at the expense of software and hybrid cloud execution, it could distract management attention from the core thesis drivers."
+    "Unknown AI strategic decision may affect Copilot pricing, partnership structure, or product roadmap \u2014 cannot quantify until details are available.",
+    "If the 'controversial decision' relates to OpenAI partnership terms or exclusivity arrangements, it could affect Azure AI differentiation \u2014 requires verification.",
+    "If AI-specific package targeting escalates, enterprise customers may impose stricter controls on open-source dependencies, marginally slowing developer adoption of Microsoft AI tooling on GitHub/Azure.",
+    "Repeated supply-chain incidents on npm could provide competitive ammunition for GitLab, JFrog Artifactory, or other alternative artifact registries seeking to displace GitHub in enterprise environments."
    ],
    "catalysts": [
     {
-     "id": 33,
-     "symbol": "IBM",
-     "date": "2026-10-21",
+     "id": 40,
+     "symbol": "MSFT",
+     "date": "2026-10-28",
      "label": "Earnings report",
      "source": "yfinance"
     }
@@ -448,18 +456,19 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 150.56,
+   "price": 148.74,
    "fair_low": 136.75084586911478,
    "fair_base": 244.06212335589788,
    "fair_high": 291.7030003299072,
-   "upside_pct": 62.10289808441676,
+   "upside_pct": 64.08640806501134,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 2258.4,
+   "position_value": 2231.1000000000004,
    "thesis_needed": true
   },
   {
@@ -488,13 +497,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 232.25,
+   "price": 235.39,
    "fair_low": 152.6314725975932,
    "fair_base": 441.1748921460508,
    "fair_high": 557.4933961752869,
-   "upside_pct": 89.95689651067849,
+   "upside_pct": 87.42295430819102,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -507,7 +517,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8128.75,
+   "position_value": 8238.65,
    "thesis_needed": true
   },
   {
@@ -536,13 +546,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 74.2,
+   "price": 73.69,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 71.0256516542079,
+   "upside_pct": 72.20930048503497,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -584,13 +595,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 68.18,
-   "fair_low": 20.198722578290656,
-   "fair_base": 91.25180814172131,
-   "fair_high": 121.3571042311816,
-   "upside_pct": 33.8395543293067,
+   "price": 70.47,
+   "fair_low": 20.129884707677242,
+   "fair_base": 90.94081916022745,
+   "fair_high": 120.94351547047137,
+   "upside_pct": 29.04898419217745,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -632,13 +644,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 123.51,
+   "price": 124.73,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 257.820735883652,
+   "upside_pct": 254.3208457387145,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -680,20 +693,21 @@
     65.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 201.97,
+   "price": 206.42,
    "fair_low": 11.038403998229002,
    "fair_base": 13.39377615885872,
    "fair_high": 18.92134750614431,
-   "upside_pct": -93.36843285692989,
+   "upside_pct": -93.51139610558148,
    "last_impact": "strengthens",
-   "last_memo": "Shopify reported better-than-expected results for Q2 2026 and told investors it expects Q3 to be stronger than the market had assumed \u2014 a positive signal that the business is executing well. The stock jumped 17% in a single day on that news. For a long-term holder, the beat is en",
+   "last_memo": "Shopify reported a better-than-expected quarter with strong sales growth and solid profit, driven by merchants processing more transactions through the platform. The company is also leaning hard into AI as a way to make its tools more powerful for merchants, which is a smart defe",
    "risks": [
-    "A 17% single-day move compresses the margin of safety further on an already premium valuation, making the stock more sensitive to any future guidance miss.",
-    "Without the full Q2 earnings detail, there is a risk that the beat was driven by one-time items or favorable timing rather than structural acceleration \u2014 this requires verification against the actual filing.",
-    "A 'largest gain since 2015' reaction compresses the already-wide valuation gap further, making any future disappointment in guidance more punishing to the stock price.",
-    "Positive guidance without detail creates the risk of future guidance misses being amplified by elevated expectations set this quarter."
+    "AI commerce strategy adds execution risk: if Shopify is investing heavily in AI tooling to stay ahead, this may pressure near-term margins or require capital allocation that delays FCF margin expansion.",
+    "AI-native commerce platforms (e.g., those building directly on LLM infrastructure) could bypass traditional storefront software entirely \u2014 the Q2 call highlights this is on management's radar, suggesting competitive intensity is real.",
+    "Valuation-to-fair-value gap (current price ~16x base case fair value) means any miss or guidance cut would cause severe price dislocations, even if the long-term thesis remains intact.",
+    "A 17% single-day move compresses the margin of safety further on an already premium valuation, making the stock more sensitive to any future guidance miss."
    ],
    "catalysts": [
     {
@@ -704,7 +718,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8078.8,
+   "position_value": 8256.8,
    "thesis_needed": false
   },
   {
@@ -733,9 +747,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 27.355,
+   "price": 27.295,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -744,7 +759,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 1066.845,
+   "position_value": 1064.505,
    "thesis_needed": true
   },
   {
@@ -773,13 +788,14 @@
     65.0,
     71.0,
     45.0,
+    45.0,
     45.0
    ],
-   "price": 158.43,
-   "fair_low": 8.056753105687307,
-   "fair_base": 20.623646388054173,
-   "fair_high": 25.716453409669228,
-   "upside_pct": -86.98248665779576,
+   "price": 155.92,
+   "fair_low": 8.040497535225128,
+   "fair_base": 20.582035439741578,
+   "fair_high": 25.664567046148527,
+   "upside_pct": -86.79961811201797,
    "last_impact": "neutral",
    "last_memo": "Palantir's stock jumped nearly 30% in a single day, but no news about the actual business \u2014 new contracts, earnings, or AI platform wins \u2014 appears to explain it. The company itself is the same business it was yesterday: a high-quality AI software platform with real and growing ca",
    "risks": [
@@ -797,7 +813,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 23764.5,
+   "position_value": 23387.999999999996,
    "thesis_needed": false
   },
   {
@@ -828,13 +844,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 941.99,
+   "price": 949.15,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -32.60846111927403,
+   "upside_pct": -33.11683536821888,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -876,13 +893,14 @@
     55.0,
     55.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 91.56,
+   "price": 92.7,
    "fair_low": 46.45671896898705,
    "fair_base": 68.5439290486749,
    "fair_high": 85.74192116037001,
-   "upside_pct": -25.13769217051671,
+   "upside_pct": -26.058328965830746,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -895,7 +913,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9156.0,
+   "position_value": 9270.0,
    "thesis_needed": true
   },
   {
@@ -924,13 +942,14 @@
     40.8,
     40.8,
     40.8,
+    40.8,
     40.8
    ],
-   "price": 132.2,
+   "price": 131.36,
    "fair_low": 16.960440723154207,
    "fair_base": 50.62500615912173,
    "fair_high": 61.67457025081336,
-   "upside_pct": -61.705744206413215,
+   "upside_pct": -61.46086620042499,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -972,9 +991,10 @@
     25.0,
     25.0,
     25.0,
+    40.0,
     40.0
    ],
-   "price": 108.27,
+   "price": 114.92,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1020,13 +1040,14 @@
     34.9,
     34.9,
     34.9,
+    34.9,
     34.9
    ],
-   "price": 412.75,
+   "price": 403.97,
    "fair_low": 132.5492993322689,
    "fair_base": 205.2851777929539,
    "fair_high": 239.75334744632553,
-   "upside_pct": -50.264039299102635,
+   "upside_pct": -49.18306364508407,
    "last_impact": "weakens",
    "last_memo": "The government is eliminating a subsidy that helped keep Medicare drug plan premiums low, and it takes effect in 2027. UnitedHealth runs one of the largest pharmacy benefit managers (Optum Rx), which depends heavily on Medicare drug plan economics, so this policy change hits a co",
    "risks": [
@@ -1044,7 +1065,61 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7058.025000000001,
+   "position_value": 6907.887000000001,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "ASTS",
+   "name": "AST SpaceMobile Inc.",
+   "conviction": 29.0,
+   "thesis_strength": 54,
+   "conviction_history": [
+    25.0,
+    13.0,
+    20.0,
+    20.0,
+    27.0,
+    17.0,
+    17.0,
+    13.0,
+    23.0,
+    13.0,
+    17.0,
+    17.0,
+    17.0,
+    17.0,
+    13.0,
+    17.0,
+    17.0,
+    17.0,
+    13.0,
+    10.0,
+    13.0,
+    29.0
+   ],
+   "price": 67.36,
+   "fair_low": null,
+   "fair_base": null,
+   "fair_high": null,
+   "upside_pct": null,
+   "last_impact": "strengthens",
+   "last_memo": "AST SpaceMobile just added three of Europe's biggest phone carriers \u2014 Vodafone, Deutsche Telekom, and Orange \u2014 as partners, and got government approval to operate its satellite phone service in Japan. Think of this as getting shelf space in major stores before your product offici",
+   "risks": [
+    "Accelerated European and Japanese expansion could increase near-term capex and launch cadence requirements, straining the already-negative FCF trajectory if satellite production does not scale on schedule.",
+    "Managing commercial rollout across multiple Tier-1 carriers in multiple jurisdictions simultaneously increases operational complexity and potential for execution misses that damage multiple partner relationships at once.",
+    "A Meta association \u2014 however informal \u2014 could raise competitive sensitivity if Meta pursues its own satellite connectivity strategy (e.g., via Starlink or proprietary infrastructure), potentially displacing ASTS from hyperscaler consideration.",
+    "Rapid constellation build-up ahead of beta service increases pressure on management to demonstrate revenue conversion quickly, raising market expectations that could punish any beta service disappointment."
+   ],
+   "catalysts": [
+    {
+     "id": 22,
+     "symbol": "ASTS",
+     "date": "2026-08-10",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
    "thesis_needed": false
   },
   {
@@ -1075,13 +1150,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 311.0,
+   "price": 312.41,
    "fair_low": 71.92111971979769,
    "fair_base": 72.43517666278456,
    "fair_high": 73.59059333079705,
-   "upside_pct": -76.7089464106802,
+   "upside_pct": -76.81406591889358,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1123,13 +1199,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 42.45,
+   "price": 42.0,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -42.95365295099375,
+   "upside_pct": -42.34244208975439,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1171,9 +1248,10 @@
     25.0,
     25.0,
     25.0,
+    25.0,
     25.0
    ],
-   "price": 45.12,
+   "price": 45.58,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1183,9 +1261,9 @@
    "risks": [],
    "catalysts": [
     {
-     "id": 30,
+     "id": 51,
      "symbol": "OUST",
-     "date": "2026-08-06",
+     "date": "2026-11-03",
      "label": "Earnings report",
      "source": "yfinance"
     }
@@ -1196,7 +1274,7 @@
   {
    "symbol": "IONQ",
    "name": "IonQ Inc.",
-   "conviction": 20.8,
+   "conviction": 24.7,
    "thesis_strength": 50,
    "conviction_history": [
     20.8,
@@ -1219,9 +1297,10 @@
     20.8,
     20.8,
     20.8,
-    20.8
+    20.8,
+    24.7
    ],
-   "price": 39.93,
+   "price": 39.72,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1234,6 +1313,55 @@
      "id": 49,
      "symbol": "IONQ",
      "date": "2026-11-04",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": true
+  },
+  {
+   "symbol": "QBTS",
+   "name": "D-Wave Quantum Inc.",
+   "conviction": 20.3,
+   "thesis_strength": 50,
+   "conviction_history": [
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    13.8,
+    20.3
+   ],
+   "price": 16.21,
+   "fair_low": null,
+   "fair_base": null,
+   "fair_high": null,
+   "upside_pct": null,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 52,
+     "symbol": "QBTS",
+     "date": "2026-11-05",
      "label": "Earnings report",
      "source": "yfinance"
     }
@@ -1267,13 +1395,14 @@
     16.1,
     16.1,
     26.1,
+    16.1,
     16.1
    ],
-   "price": 321.55,
+   "price": 319.53,
    "fair_low": 15.452268642505791,
    "fair_base": 16.08681782130258,
    "fair_high": 16.415240390523092,
-   "upside_pct": -94.99710221697944,
+   "upside_pct": -94.96547497220837,
    "last_impact": "weakens",
    "last_memo": "Three things happened: European regulators quietly agreed to keep Tesla's self-driving safety data secret (apparently after Tesla pushed for that); Waymo's CEO publicly said Tesla's approach to self-driving \u2014 cameras only, no radar-like lidar sensors \u2014 is risky compared to how Wa",
    "risks": [
@@ -1287,107 +1416,6 @@
      "id": 34,
      "symbol": "TSLA",
      "date": "2026-10-21",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "QBTS",
-   "name": "D-Wave Quantum Inc.",
-   "conviction": 13.8,
-   "thesis_strength": 50,
-   "conviction_history": [
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8,
-    13.8
-   ],
-   "price": 16.21,
-   "fair_low": null,
-   "fair_base": null,
-   "fair_high": null,
-   "upside_pct": null,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 16,
-     "symbol": "QBTS",
-     "date": "2026-08-06",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": true
-  },
-  {
-   "symbol": "ASTS",
-   "name": "AST SpaceMobile Inc.",
-   "conviction": 13.0,
-   "thesis_strength": 38,
-   "conviction_history": [
-    25.0,
-    13.0,
-    20.0,
-    20.0,
-    27.0,
-    17.0,
-    17.0,
-    13.0,
-    23.0,
-    13.0,
-    17.0,
-    17.0,
-    17.0,
-    17.0,
-    13.0,
-    17.0,
-    17.0,
-    17.0,
-    13.0,
-    10.0,
-    13.0
-   ],
-   "price": 68.38,
-   "fair_low": null,
-   "fair_base": null,
-   "fair_high": null,
-   "upside_pct": null,
-   "last_impact": "strengthens",
-   "last_memo": "AST SpaceMobile put three more of its 'BlueBird' satellites into orbit, which is exactly what the company said it would do and is necessary to eventually offer paying customers a space-based cellular service. This is good news \u2014 the hardware is getting up there on schedule. A sen",
-   "risks": [
-    "A Meta association \u2014 however informal \u2014 could raise competitive sensitivity if Meta pursues its own satellite connectivity strategy (e.g., via Starlink or proprietary infrastructure), potentially displacing ASTS from hyperscaler consideration.",
-    "Rapid constellation build-up ahead of beta service increases pressure on management to demonstrate revenue conversion quickly, raising market expectations that could punish any beta service disappointment.",
-    "Hype-driven price appreciation disconnected from fundamentals creates downside volatility risk if BlueBird launch underperforms or the Meta tease leads to no formal agreement\u2014sentiment unwind could be sharp.",
-    "If Meta is evaluating ASTS as a satellite partner, it is likely also evaluating Starlink Direct-to-Cell and other competitors, meaning ASTS does not have an exclusive negotiating position."
-   ],
-   "catalysts": [
-    {
-     "id": 22,
-     "symbol": "ASTS",
-     "date": "2026-08-10",
      "label": "Earnings report",
      "source": "yfinance"
     }
@@ -1421,9 +1449,10 @@
     10.3,
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 38.89,
+   "price": 37.93,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1469,9 +1498,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.35,
+   "price": 5.36,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1495,7 +1525,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 535.0,
+   "position_value": 536.0,
    "thesis_needed": true
   },
   {
@@ -1524,9 +1554,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 16.78,
+   "price": 16.53,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1534,20 +1565,54 @@
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
-   "catalysts": [
-    {
-     "id": 36,
-     "symbol": "RGTI",
-     "date": "2026-08-06",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
+   "catalysts": [],
    "position_value": 0,
    "thesis_needed": true
   }
  ],
  "history": [
+  {
+   "date": "2026-08-07",
+   "symbol": "MSFT",
+   "impact": "neutral",
+   "headline": "Vague AI headline insufficient to assess thesis impact; investigation required",
+   "strength": 72
+  },
+  {
+   "date": "2026-08-07",
+   "symbol": "GOOGL",
+   "impact": "neutral",
+   "headline": "Alphabet issues $25B in debt \u2014 largest bond deal in company history, funding AI infrastructure",
+   "strength": 80
+  },
+  {
+   "date": "2026-08-07",
+   "symbol": "META",
+   "impact": "weakens",
+   "headline": "$567M child safety judgment is a one-time cash hit; structural compliance cost is the real watch item",
+   "strength": 74
+  },
+  {
+   "date": "2026-08-07",
+   "symbol": "SHOP.TO",
+   "impact": "strengthens",
+   "headline": "Shopify Q2 beat validates GMV/ecosystem thesis but valuation gap remains extreme",
+   "strength": 62
+  },
+  {
+   "date": "2026-08-07",
+   "symbol": "IBM",
+   "impact": "strengthens",
+   "headline": "IBM's Maximo earns FedRAMP Moderate auth; modest but real expansion of federal software TAM",
+   "strength": 72
+  },
+  {
+   "date": "2026-08-07",
+   "symbol": "ASTS",
+   "impact": "strengthens",
+   "headline": "Europe telco partnerships + Japan regulatory approval widen addressable market, validate thesis",
+   "strength": 54
+  },
   {
    "date": "2026-08-06",
    "symbol": "MSFT",
@@ -1935,13 +2000,6 @@
   },
   {
    "date": "2026-07-24",
-   "symbol": "META",
-   "impact": "neutral",
-   "headline": "Marketplace Seller app extends monetization optionality; AI debt raise warrants balance sheet watch",
-   "strength": 74
-  },
-  {
-   "date": "2026-07-24",
    "symbol": "DECK",
    "impact": "neutral",
    "headline": "DECK beats Q1 FY2027 but cautious Q2/full-year guidance rattles market; thesis intact at current price",
@@ -2068,24 +2126,10 @@
   },
   {
    "date": "2026-07-21",
-   "symbol": "ASTS",
-   "impact": "strengthens",
-   "headline": "ASTS raises $1B via 8yr convertible notes to fund satellite buildout; Midland approves 5x factory expansion",
-   "strength": 48
-  },
-  {
-   "date": "2026-07-21",
    "symbol": "TSLA",
    "impact": "weakens",
    "headline": "Tesla AI/autonomy capex burn headlines arrive as FCF already weak; no new data, but pressure real",
    "strength": 32
-  },
-  {
-   "date": "2026-07-20",
-   "symbol": "MSFT",
-   "impact": "neutral",
-   "headline": "BofA flags Azure growth and capex as key watch items \u2014 no new data, thesis intact",
-   "strength": 72
   },
   {
    "date": "2026-07-20",
@@ -2198,13 +2242,6 @@
    "impact": "strengthens",
    "headline": "Robotics + Trainium expansion reinforces thesis but is incremental, not transformational",
    "strength": 84
-  },
-  {
-   "date": "2026-07-14",
-   "symbol": "IBM",
-   "impact": "weakens",
-   "headline": "IBM pre-announces Q2 'shortfall' \u2014 stock -25%; thesis under acute pressure pending detail",
-   "strength": 52
   }
  ]
 }
