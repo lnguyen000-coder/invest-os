@@ -1,6 +1,25 @@
 # NVIDIA Corporation (NVDA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-10 — Sovereign AI spending wave emerging as incremental TAM, but too early to resize intrinsic value
+**Thesis impact: NEUTRAL** · Thesis strength: 78/100 · Conviction: 71.0/100 · **ALERTED**
+
+**What changed:** A new narrative is forming around governments and nation-states directly funding AI infrastructure ('sovereign AI'), representing a potential demand vector distinct from hyperscaler capex. The article highlights this as a growing spending category. No specific revenue figures, contract wins, or guidance revisions for NVIDIA have been disclosed in this event.
+
+**Why it matters:** NVIDIA's thesis already depends on AI infrastructure demand being structural rather than cyclical. Sovereign AI spending, if durable, would diversify the customer base away from the concentrated hyperscaler cohort (AWS, Microsoft, Google, Meta) — which is one of the thesis's known risks. Governments building national AI compute capacity would logically anchor on NVIDIA's CUDA ecosystem because switching to an alternative mid-build is prohibitively costly, reinforcing switching-cost moat logic. However, the event is a thematic news piece, not a verified revenue event.
+
+**Intrinsic value:** none / none via none — No verifiable revenue, contract, or margin data accompanies this news piece. Sovereign AI could expand TAM and reduce customer concentration over time, but neither the size nor the timing is quantifiable from this event alone. Assumption changes require evidence, not narrative.
+**New risks:**
+- Sovereign AI demand is disproportionately concentrated in regions (Middle East, Southeast Asia, parts of Europe) where U.S. export controls could restrict NVIDIA's ability to deliver H100/B200-class hardware, potentially capping addressable sovereign TAM.
+- Government procurement cycles are slower and more unpredictable than hyperscaler capex, introducing potential lumpiness in recognized revenue if this channel grows.
+
+**Valuation:** fair value $32 / **$53** / $116
+
+**Committee memo:** The sovereign AI narrative is thematically additive to the NVIDIA thesis but produces no actionable valuation change today. The core thesis already posits that AI infrastructure demand is structural and broad-based; sovereign government spending is a logical extension of that view, not a contradiction of it. The potentially significant incremental value lies in customer diversification: if sovereign buyers represent 10-15% of Data Center revenue within three years, the customer concentration risk — currently one of the thesis's most credible vulnerabilities — becomes meaningfully lower. That would reduce the risk discount in our DCF, a modest upward intrinsic value effect. Against this, sovereign procurement comes with complications: export control exposure (many of the most aggressive sovereign AI spenders are in U.S.-restricted geographies), slower sales cycles, and potentially different pricing structures than hyperscaler volume deals. I recommend holding current conviction and monitoring two specific data points: (1) whether NVIDIA management begins quantifying a sovereign AI revenue channel on earnings calls, and (2) whether the Commerce Department's chip export rules tighten further in ways that explicitly target sovereign AI buyers. If sovereign AI becomes a disclosed, growing revenue line with margins consistent with the broader Data Center segment, I would revisit growth assumptions modestly upward. This event alone does not meet that bar.
+
+**Plain English:** Countries around the world are starting to spend serious money building their own national AI computing infrastructure rather than relying solely on big tech clouds — think of it like each country wanting its own AI 'power grid.' NVIDIA is the most obvious beneficiary because its hardware and software are already the global standard. This is good news for the thesis in principle, since it means more buyers beyond just Amazon, Microsoft, and Google. However, this particular article is a thematic opinion piece with no hard numbers or confirmed deals, so it doesn't change what NVIDIA is actually worth today. The main thing to watch is whether U.S. export restrictions prevent NVIDIA from selling its best chips to the countries most eager to spend.
+
+---
 ## 2026-07-27 — NVIDIA reportedly financing OpenAI infrastructure — ecosystem deepening, but new financial risk to monitor
 **Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 67.0/100 · **ALERTED**
 

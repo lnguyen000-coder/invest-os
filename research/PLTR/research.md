@@ -1,6 +1,24 @@
 # Palantir Tech Inc. (PLTR) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-10 — PLTR +10.3% in a single session; business unchanged, valuation now more stretched
+**Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
+
+**What changed:** Palantir's share price rose 10.3% in a single session, moving from $155.92 to $172.01. Market cap is now approximately $413 billion. No new fundamental information was provided alongside this move — the trigger appears to be price action flagged by a rules-based screener, not a business event.
+
+**Why it matters:** The thesis is built on long-term business quality, not short-term price movements. A 10% single-day move with no accompanying fundamental catalyst matters only insofar as it widens the already-substantial gap between current price and any reasonable estimate of intrinsic value. Our base-case fair value is ~$20-26/share; the stock now trades at $172 — roughly 7-8x the base DCF. The move does not change what Palantir earns in 2031, but it does raise the cost of being right and compress the margin of safety to essentially zero.
+
+**Intrinsic value:** none / none via none — Intrinsic value is a function of future cash flows, growth, and risk — none of which were updated by this event. Price and value are not the same thing. The gap between them just got wider.
+**New risks:**
+- At $172/share (~$413B market cap, ~67x TTM revenue, ~152x EV/EBITDA), the stock now prices in a near-perfect multi-decade execution scenario, leaving almost no margin for error and making position-sizing discipline essential.
+
+**Valuation:** fair value $8 / **$21** / $26
+
+**Committee memo:** This event is a price move without a fundamental catalyst — our analysis should be brief and our conclusion should be disciplined silence on intrinsic value. Palantir's business thesis remains intact: high switching costs, mission-critical government and enterprise integrations, and a credible AI orchestration layer that benefits from model-agnosticism. The FCF trajectory ($0.18B → $0.7B → $1.14B → $2.1B annualized) is genuinely impressive and is the best evidence the moat is real. However, at $172/share the stock trades at approximately 67x trailing revenue and 152x EV/EBITDA. Our base-case DCF implies fair value near $21/share, meaning the current price embeds an extraordinary growth and margin assumption that leaves the investor with no margin of safety whatsoever. The appropriate action is hold conviction on the business thesis but do not add capital at these levels — the risk-reward is asymmetric to the downside from a valuation standpoint even if the thesis is entirely correct. What would prove this judgment wrong: if AIP adoption accelerates to a degree that justifies a 10x revenue multiple in forward terms — i.e., Palantir achieves something like $15-20B in revenue within 5 years at 40%+ FCF margins — the current price could eventually be rationalized. Until we see evidence of that trajectory in hard numbers, the thesis_strength score reflects confidence in the business (high) discounted by the valuation risk (severe).
+
+**Plain English:** Palantir's stock jumped over 10% today, but nothing about the actual business changed — no new contracts, no earnings update, no product news. The company remains a genuinely impressive software business with deep roots in government and enterprise AI, but it was already priced for perfection before today. At $172 a share, the market is valuing Palantir at roughly $413 billion, which is about 7-8 times what a careful discounted cash flow analysis says the business is worth today. That doesn't mean the stock falls tomorrow, but it does mean you are paying an enormous premium on the hope that everything goes right for a very long time. The thesis on the business is unchanged; the price just got more uncomfortable.
+
+---
 ## 2026-08-05 — PLTR surges 29.5% in a single session; business unchanged, valuation now extreme
 **Thesis impact: NEUTRAL** · Thesis strength: 52/100 · Conviction: 45.0/100 · **ALERTED**
 

@@ -1,6 +1,20 @@
 # AST SpaceMobile Inc. (ASTS) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-10 — ASTS up 6.8% on no new fundamental information — noise, not signal
+**Thesis impact: NEUTRAL** · Thesis strength: 40/100 · Conviction: 15.0/100 · **ALERTED**
+
+**What changed:** ASTS shares rose 6.8% from $67.36 to $71.94 in a single session. No new earnings release, partnership announcement, technology milestone, launch update, or regulatory development accompanied the move. The event flagged is a rule-based price screen trigger, not a fundamental disclosure.
+
+**Why it matters:** For a pre-revenue-scale company trading at 329x trailing sales with negative FCF of $1.4B annually, daily price moves are almost entirely sentiment-driven. Nothing in this event touches the thesis drivers that actually matter: satellite deployment progress, operator partnership conversions, technology validation, or financing runway. A one-day 6.8% move on a stock with this volatility profile is well within normal noise.
+
+**Intrinsic value:** none / none via none — No new information was disclosed that would alter estimates of future cash flows, growth trajectory, margin structure, or risk profile. Price and intrinsic value are not the same thing, especially for a pre-commercial-scale business.
+
+**Committee memo:** Today's 6.8% price move in ASTS is a rule-based screen trigger with no underlying fundamental catalyst. I reviewed this to confirm no material disclosure was buried beneath the headline — there was none. The stock now trades at approximately 329x trailing revenue and a market cap of $27.9B against a business burning $1.4B in FCF annually with essentially no commercial revenue base. That valuation is entirely a bet on future execution, and today's price action changes none of the variables that determine whether that bet pays off. My recommended posture is to hold conviction unchanged and resist any temptation to interpret price as information. What would move this thesis — in either direction — is evidence on satellite deployment cadence, the first material recurring revenue from operator partners, any sign that the company needs to raise capital at terms more dilutive than currently modeled, or a competitor (Starlink direct-to-device, or AST's own delayed timeline) gaining demonstrable commercial ground. None of those signals appeared today. The thesis strength score of 40 reflects the inherently speculative, pre-commercial nature of this investment — not any deterioration from this event. I would need to see two or three consecutive operational milestones delivered on schedule before moving that score materially higher.
+
+**Plain English:** ASTS stock jumped about 7% today, but there was no actual news behind the move — just a price alert triggered by the size of the daily swing. For a company that is still burning through over a billion dollars a year in cash while generating almost no revenue, a single day's stock movement tells us nothing meaningful. The real questions — can they get enough satellites in orbit, will phone carriers actually pay for the service, and can they raise more money without drowning existing shareholders — are completely unchanged. This is the normal volatility you accept when you own an early-stage, high-conviction speculative position. Nothing to act on here.
+
+---
 ## 2026-08-07 — Europe telco partnerships + Japan regulatory approval widen addressable market, validate thesis
 **Thesis impact: STRENGTHENS** · Thesis strength: 54/100 · Conviction: 29.0/100 · **ALERTED**
 
