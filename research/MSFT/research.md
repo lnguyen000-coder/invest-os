@@ -1,6 +1,22 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-11 — Analyst target reset and cloud ranking piece add no new data; thesis unchanged
+**Thesis impact: NEUTRAL** · Thesis strength: 78/100 · Conviction: 71.0/100 · **ALERTED**
+
+**What changed:** Two news items surfaced: a GuruFocus piece noting an analyst price-target reset for Microsoft through 2027, and a Motley Fool article ranking Microsoft among cloud/AI peers. Neither article provides the underlying analyst model, specific target figures, revised assumptions, or primary data on Azure market share, margins, or Copilot monetization. The content is headline-only.
+
+**Why it matters:** Analyst price-target resets matter only when they reflect a structural reassessment of a key thesis driver — Azure growth, margin trajectory, or AI monetization. Without the actual rationale and numbers, this is signal-free noise. The competitive ranking piece is similarly unactionable without data on market share trends, pricing dynamics, or enterprise win rates. Neither event touches the five-year earnings power of the business.
+
+**Intrinsic value:** none / none via none — No new data on revenue growth, margins, capital intensity, or competitive position has been introduced. The fair value range (base $102 DCF, $129 EPV, $192 exit-multiple) and the reverse-DCF implied growth rate of ~30% remain the relevant frame. Neither headline changes any input to that model.
+
+**Valuation:** fair value $64 / **$102** / $192 · implied growth at price: 29.9%
+
+**Committee memo:** Both events are information-free relative to thesis drivers and should be filed without action. The analyst target reset at GuruFocus is unreviewed — we do not know whether it reflects a higher or lower target, nor the model behind it; if the rationale becomes available and references Azure share loss or AI monetization failure, that would warrant re-evaluation. The Motley Fool competitive piece is editorial and carries no evidentiary weight in an investment committee context. The standing valuation concern deserves more attention than either headline: at $506 the market implies ~30% sustained growth, while our base DCF fair value is $102 and EPV is $129 — this is a stock priced for a very optimistic outcome, and the gap between TTM FCF ($16.5B) and historical FCF levels ($60-74B range in prior years) is a yellow flag worth monitoring, likely reflecting elevated capex rather than earnings deterioration, but needs confirmation. Our posture is hold conviction on thesis quality while maintaining valuation discipline: this is not a price at which to add aggressively. We would be proved wrong if Azure market share data showed multi-year deceleration versus AWS, or if Copilot attach rates at the next earnings release showed meaningful enterprise resistance to the $30/seat premium.
+
+**Plain English:** Two news articles appeared about Microsoft — one noting an analyst changed their 2027 price target, another ranking Microsoft against Amazon and Google in cloud. Neither article gave us any actual numbers, reasoning, or new facts about Microsoft's business. They are headlines without content. Microsoft's core story — dominant enterprise software, fast-growing cloud, early AI monetization leverage — is completely unchanged by these items. One thing worth noting separately: the current stock price at ~$506 implies the market expects about 30% annual growth, which is a high bar and already embeds a lot of optimism. That's not new, but it's a standing reason for valuation discipline. Nothing today changes our view.
+
+---
 ## 2026-08-07 — Vague AI headline insufficient to assess thesis impact; investigation required
 **Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
 
