@@ -1,6 +1,25 @@
 # Tesla Inc. (TSLA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-12 — Sentiment erosion on Tesla autonomy thesis; no new operational evidence yet to confirm or deny
+**Thesis impact: WEAKENS** · Thesis strength: 52/100 · Conviction: 26.1/100 · **ALERTED**
+
+**What changed:** Gary Black, a prominent Tesla bull, is publicly stating that investors are losing faith in Tesla's ability to scale autonomous driving at the pace required to justify the valuation. He attributes this skepticism to Tesla's vision-only sensor approach (no lidar or radar), which some view as a technical constraint versus rivals using sensor fusion. This is a sentiment and analyst credibility event, not a new operational data point from Tesla itself.
+
+**Why it matters:** Autonomous driving is the single largest optionality embedded in Tesla's valuation — arguably the only way to justify a 150x forward PE. If the market narrative shifts from 'FSD is a matter of when' to 'FSD at scale is uncertain,' the multiple compression risk is real and significant. However, narrative shifts from commentators are not the same as operational failures; the thesis kill criterion requires autonomous driving to 'fail to make meaningful progress over an extended period,' which has not yet been confirmed.
+
+**Intrinsic value:** none / none via none — A commentator expressing concern is not a change in Tesla's underlying operations, technology capability, or cash flows. Intrinsic value is unchanged until there is evidence of actual FSD progress stalling — e.g., declining FSD attach rates, failed regulatory milestones, or a competitor demonstrably scaling L4 autonomy that Tesla cannot match.
+**New risks:**
+- Growing analyst consensus that vision-only architecture is a technical ceiling could accelerate multiple compression independent of Tesla's actual operational progress, creating a self-fulfilling sentiment trap.
+- If credible Tesla bulls publicly defect from the autonomy thesis, institutional holders with shorter time horizons may reduce positions, increasing volatility and potentially forcing the company to defend its narrative at the expense of management bandwidth.
+
+**Valuation:** fair value $15 / **$16** / $16
+
+**Committee memo:** Gary Black's commentary is a sentiment data point, not an operational one, and the committee should be careful not to conflate the two. That said, it deserves serious attention because it illustrates the fragility of the valuation: at 150x forward earnings and $1.3T market cap, Tesla is priced for an autonomous driving outcome that has not been demonstrated at commercial scale by anyone, and the margin of safety is effectively zero on the core auto business alone — our fair value estimate of ~$16/share on current earnings capacity makes that plain. The vision-only debate is real: Waymo is demonstrably scaling paid robotaxi rides using sensor fusion, while Tesla's Robotaxi commercial launch timeline remains uncertain. The moat argument around vision-plus-data is coherent but unproven at L4. What would prove this judgment wrong: Tesla demonstrating material Robotaxi revenue in 2025-2026, regulatory approval in additional jurisdictions, and FSD v13+ showing statistically significant safety improvements that close the gap with sensor-fusion systems. What confirms the concern: another 12-18 months of limited Robotaxi commercialization, declining FSD attach rates, or a credible competitor achieving L4 at scale with better unit economics. Current recommendation is hold conviction but size accordingly — the autonomous optionality is real but the probability distribution has wide tails, and the base business at current margins does not support the valuation. We are not at a kill criterion, but we are watching.
+
+**Plain English:** A well-known Tesla investor is saying publicly that other investors are giving up on the idea that Tesla can build a self-driving car business at the scale needed to justify the stock price. His concern is that Tesla's choice to use cameras only — no radar or lidar — might be a technical dead end compared to rivals who use multiple sensor types. This is an opinion piece, not a report that Tesla's technology broke or stopped working. The stock is priced as if the self-driving business will be huge; if enough people stop believing that, the stock can fall even if nothing actually changes at the company. For a long-term investor, the question is whether Tesla's actual technology progress over the next two years will prove or disprove this concern — that data doesn't exist yet.
+
+---
 ## 2026-08-11 — High-profile Autopilot crash renews regulatory/reputational pressure but doesn't alter long-term FSD thesis alone
 **Thesis impact: WEAKENS** · Thesis strength: 52/100 · Conviction: 26.1/100 · **ALERTED**
 
