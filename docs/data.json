@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12 12:36 UTC",
+ "generated": "2026-08-13 12:35 UTC",
  "rows": [
   {
    "symbol": "CSU.TO",
@@ -31,13 +31,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 3220.61,
-   "fair_low": 460.5776080431524,
-   "fair_base": 4841.692830021196,
-   "fair_high": 7438.866727393741,
-   "upside_pct": 50.33465182127594,
+   "price": 3075.41,
+   "fair_low": 442.31560393113216,
+   "fair_base": 4823.430825909175,
+   "fair_high": 7420.604723281721,
+   "upside_pct": 56.83862723699198,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -51,6 +52,64 @@
     }
    ],
    "position_value": 0,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms Inc.",
+   "conviction": 89.0,
+   "thesis_strength": 84,
+   "conviction_history": [
+    43.0,
+    55.0,
+    55.0,
+    55.0,
+    75.0,
+    75.0,
+    87.0,
+    87.0,
+    81.0,
+    81.0,
+    81.0,
+    79.0,
+    79.0,
+    87.0,
+    83.0,
+    77.0,
+    77.0,
+    77.0,
+    67.0,
+    83.0,
+    73.0,
+    79.0,
+    79.0,
+    79.0,
+    83.0,
+    89.0
+   ],
+   "price": 578.85,
+   "fair_low": 289.16284470284506,
+   "fair_base": 487.3995682928012,
+   "fair_high": 947.5440523750636,
+   "upside_pct": -15.798640702634337,
+   "last_impact": "neutral",
+   "last_memo": "Australia passed a law restricting teens from social media, and Meta removed about 756,000 accounts there as a result. Australia is a small country relative to Meta's global user base of over 3 billion daily users, so the direct financial impact is essentially zero. The real ques",
+   "risks": [
+    "If Australia's age-restriction framework becomes a model adopted by the EU or US at scale, it could structurally reduce Meta's addressable teen demographic pipeline and compress long-term DAP growth in high-value markets.",
+    "Repeated high-profile regulatory enforcement actions across multiple jurisdictions could increase compliance costs and management bandwidth diversion over time.",
+    "An adverse verdict in the 29-state trial could set legal precedent that accelerates federal legislation restricting algorithmic personalization or data use for minors, potentially expanding to broader platform regulation.",
+    "Reputational spillover from trial publicity (internal documents, testimony) could create advertiser brand-safety concerns, particularly among consumer-facing brands sensitive to youth welfare associations."
+   ],
+   "catalysts": [
+    {
+     "id": 41,
+     "symbol": "META",
+     "date": "2026-10-28",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 9261.6,
    "thesis_needed": false
   },
   {
@@ -83,13 +142,14 @@
     85.0,
     85.0,
     85.0,
+    85.0,
     85.0
    ],
-   "price": 93.84,
+   "price": 91.2,
    "fair_low": 85.08203074644862,
    "fair_base": 213.9454386141005,
    "fair_high": 249.0914479502334,
-   "upside_pct": 127.98959784111305,
+   "upside_pct": 134.5892967259874,
    "last_impact": "neutral",
    "last_memo": "Deckers had a decent but not exceptional quarter\u2014sales grew about 6%, the direct-to-consumer business (selling straight to shoppers, bypassing retailers) grew a healthy 13%, and international demand kept building. The downside is that spending on overhead and marketing grew much ",
    "risks": [
@@ -107,121 +167,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3378.2400000000002,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "META",
-   "name": "Meta Platforms Inc.",
-   "conviction": 83.0,
-   "thesis_strength": 78,
-   "conviction_history": [
-    43.0,
-    55.0,
-    55.0,
-    55.0,
-    75.0,
-    75.0,
-    87.0,
-    87.0,
-    81.0,
-    81.0,
-    81.0,
-    79.0,
-    79.0,
-    87.0,
-    83.0,
-    77.0,
-    77.0,
-    77.0,
-    67.0,
-    83.0,
-    73.0,
-    79.0,
-    79.0,
-    79.0,
-    83.0
-   ],
-   "price": 599.12,
-   "fair_low": 289.16284470284506,
-   "fair_base": 487.3995682928012,
-   "fair_high": 947.5440523750636,
-   "upside_pct": -18.64742150273715,
-   "last_impact": "weakens",
-   "last_memo": "Twenty-nine U.S. states have taken Meta to trial, claiming Facebook and Instagram were deliberately designed to be addictive to children and teenagers. This is the most serious coordinated legal challenge on platform design Meta has faced. The direct financial risk is manageable ",
-   "risks": [
-    "An adverse verdict in the 29-state trial could set legal precedent that accelerates federal legislation restricting algorithmic personalization or data use for minors, potentially expanding to broader platform regulation.",
-    "Reputational spillover from trial publicity (internal documents, testimony) could create advertiser brand-safety concerns, particularly among consumer-facing brands sensitive to youth welfare associations.",
-    "Injunctive relief compelling material product redesign could increase compliance and engineering costs, acting as a margin headwind over a multi-year remediation period.",
-    "If the 'superintelligent AI for everyone' framing accelerates capex commitments beyond current guidance without a clear monetization bridge, it could pressure FCF margins sooner than the thesis anticipates \u2014 but this is a latent risk, not a confirmed one from this event."
-   ],
-   "catalysts": [
-    {
-     "id": 41,
-     "symbol": "META",
-     "date": "2026-10-28",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 9585.92,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "IBM",
-   "name": "International Business Machines Corporation",
-   "conviction": 76.0,
-   "thesis_strength": 72,
-   "conviction_history": [
-    45.7,
-    57.7,
-    57.7,
-    55.7,
-    45.7,
-    45.8,
-    65.8,
-    61.8,
-    71.8,
-    65.8,
-    66.0,
-    71.4,
-    72.0,
-    72.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    76.0,
-    76.0,
-    76.0,
-    76.0
-   ],
-   "price": 238.42,
-   "fair_low": 75.00733660346769,
-   "fair_base": 288.55960253064944,
-   "fair_high": 396.3485189888189,
-   "upside_pct": 21.02994821350954,
-   "last_impact": "neutral",
-   "last_memo": "IBM did two notable things recently. First, it borrowed roughly $2 billion in Canadian dollars, which adds to an already elevated debt load \u2014 IBM owes more than 3.4 times its annual earnings before interest and taxes, which is higher than we'd like for a company we plan to hold f",
-   "risks": [
-    "The CAD-denominated debt adds currency translation exposure: if the CAD appreciates relative to USD, IBM's debt service obligations in USD-equivalent terms increase.",
-    "The 'general corporate purposes' use of proceeds leaves open the possibility of a near-term acquisition, which the thesis treats as a kill-criterion risk if value-destructive.",
-    "AI inference infrastructure deals may require meaningful capex commitments that could pressure FCF if IBM is building out dedicated capacity for Together AI, partially offsetting the revenue benefit.",
-    "Federal procurement cycles are notoriously slow; FedRAMP authorization may not translate to meaningful revenue for 2-3 years, creating an execution timing gap."
-   ],
-   "catalysts": [
-    {
-     "id": 33,
-     "symbol": "IBM",
-     "date": "2026-10-21",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
+   "position_value": 3283.2000000000003,
    "thesis_needed": false
   },
   {
@@ -254,13 +200,14 @@
     75.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 272.27,
+   "price": 267.28,
    "fair_low": 0.3897164164121739,
    "fair_base": 31.068186238720195,
    "fair_high": 102.7302688951925,
-   "upside_pct": -88.58919960380499,
+   "upside_pct": -88.37616498102358,
    "last_impact": "strengthens",
    "last_memo": "Amazon's cloud boss said that essentially all of their AI server capacity is already committed to customers through 2028 \u2014 think of it like a hotel where every room is booked years in advance. This is important because one of the biggest questions about Amazon has been whether co",
    "risks": [
@@ -278,7 +225,65 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 4084.0499999999997,
+   "position_value": 4009.2,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "IBM",
+   "name": "International Business Machines Corporation",
+   "conviction": 72.0,
+   "thesis_strength": 68,
+   "conviction_history": [
+    45.7,
+    57.7,
+    57.7,
+    55.7,
+    45.7,
+    45.8,
+    65.8,
+    61.8,
+    71.8,
+    65.8,
+    66.0,
+    71.4,
+    72.0,
+    72.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    76.0,
+    76.0,
+    76.0,
+    76.0,
+    72.0
+   ],
+   "price": 235.98,
+   "fair_low": 75.00733660346769,
+   "fair_base": 288.55960253064944,
+   "fair_high": 396.3485189888189,
+   "upside_pct": 22.281380850347254,
+   "last_impact": "strengthens",
+   "last_memo": "IBM just made a big bet on AI by partnering with OpenAI \u2014 the company behind ChatGPT \u2014 to bring the latest AI models into IBM's enterprise software and services. Think of IBM as the trusted contractor that large banks, hospitals, and governments hire to safely install and manage ",
+   "risks": [
+    "IBM is now explicitly dependent on OpenAI's model roadmap and pricing decisions, introducing a key-supplier risk that did not previously exist at this scale.",
+    "Building a thousands-strong AI practice rapidly risks talent quality dilution and integration costs that could pressure consulting margins in the near term.",
+    "The $240M deal, if it is primarily implementation/services rather than recurring software, could flatter near-term bookings without improving long-term revenue quality.",
+    "Closer OpenAI alignment may create channel conflict with IBM's own Watsonx platform, potentially cannibalizing internal AI product investment."
+   ],
+   "catalysts": [
+    {
+     "id": 33,
+     "symbol": "IBM",
+     "date": "2026-10-21",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
    "thesis_needed": false
   },
   {
@@ -313,13 +318,14 @@
     65.0,
     65.0,
     71.0,
+    71.0,
     71.0
    ],
-   "price": 503.81,
+   "price": 492.43,
    "fair_low": 63.537745917072016,
    "fair_base": 102.28449397541269,
    "fair_high": 191.70294335510366,
-   "upside_pct": -79.69780393890302,
+   "upside_pct": -79.22862255032945,
    "last_impact": "neutral",
    "last_memo": "Two news articles appeared about Microsoft \u2014 one noting an analyst changed their 2027 price target, another ranking Microsoft against Amazon and Google in cloud. Neither article gave us any actual numbers, reasoning, or new facts about Microsoft's business. They are headlines wit",
    "risks": [
@@ -370,13 +376,14 @@
     73.0,
     73.0,
     71.0,
+    71.0,
     71.0
    ],
-   "price": 343.8,
+   "price": 343.54,
    "fair_low": 98.1810001979202,
    "fair_base": 182.2386496011964,
    "fair_high": 390.11857819186713,
-   "upside_pct": -46.992830249797436,
+   "upside_pct": -46.952713046167425,
    "last_impact": "neutral",
    "last_memo": "Alphabet just borrowed $25 billion by issuing bonds to investors, which is notable because this company usually sits on a massive pile of cash and rarely needs to borrow. The bonds range from short-term (due 2028) to very long-term (due 2066), at interest rates between roughly 4.",
    "risks": [
@@ -394,7 +401,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3781.8,
+   "position_value": 3778.94,
    "thesis_needed": false
   },
   {
@@ -427,13 +434,14 @@
     67.0,
     71.0,
     71.0,
+    71.0,
     71.0
    ],
-   "price": 217.5,
+   "price": 224.09,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -75.4633119910686,
+   "upside_pct": -76.1848826723969,
    "last_impact": "neutral",
    "last_memo": "Countries around the world are starting to spend serious money building their own national AI computing infrastructure rather than relying solely on big tech clouds \u2014 think of it like each country wanting its own AI 'power grid.' NVIDIA is the most obvious beneficiary because its",
    "risks": [
@@ -484,18 +492,19 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 144.38,
+   "price": 142.06,
    "fair_low": 136.75084586911478,
    "fair_base": 244.06212335589788,
    "fair_high": 291.7030003299072,
-   "upside_pct": 69.04150391736937,
+   "upside_pct": 71.80214230318025,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 2165.7,
+   "position_value": 2130.9,
    "thesis_needed": true
   },
   {
@@ -528,13 +537,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 253.2,
+   "price": 257.82,
    "fair_low": 152.6314725975932,
    "fair_base": 441.1748921460508,
    "fair_high": 557.4933961752869,
-   "upside_pct": 74.23968884125229,
+   "upside_pct": 71.11740444730852,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -547,7 +557,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8862.0,
+   "position_value": 9023.699999999999,
    "thesis_needed": true
   },
   {
@@ -580,13 +590,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 74.79,
+   "price": 74.21,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 69.67647215860711,
+   "upside_pct": 71.00260548096252,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -595,6 +606,59 @@
      "id": 32,
      "symbol": "NFLX",
      "date": "2026-10-20",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": true
+  },
+  {
+   "symbol": "UBER",
+   "name": "Uber Technologies Inc.",
+   "conviction": 63.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    55.0,
+    55.0,
+    63.0
+   ],
+   "price": 75.36,
+   "fair_low": 20.129884707677242,
+   "fair_base": 90.94081916022745,
+   "fair_high": 120.94351547047137,
+   "upside_pct": 20.675184660599054,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 50,
+     "symbol": "UBER",
+     "date": "2026-11-03",
      "label": "Earnings report",
      "source": "yfinance"
     }
@@ -632,13 +696,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 125.61,
+   "price": 120.87,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 251.8385406336268,
+   "upside_pct": 265.63613046239647,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -657,8 +722,8 @@
   {
    "symbol": "PLTR",
    "name": "Palantir Tech Inc.",
-   "conviction": 55.0,
-   "thesis_strength": 62,
+   "conviction": 61.0,
+   "thesis_strength": 68,
    "conviction_history": [
     43.0,
     43.0,
@@ -684,20 +749,21 @@
     45.0,
     55.0,
     55.0,
-    55.0
+    55.0,
+    61.0
    ],
-   "price": 174.94,
+   "price": 171.04,
    "fair_low": 8.040497535225128,
    "fair_base": 20.582035439741578,
    "fair_high": 25.664567046148527,
-   "upside_pct": -88.2348031097853,
-   "last_impact": "neutral",
-   "last_memo": "Palantir's business is doing well \u2014 revenue is growing fast, it generates real cash, and its software is becoming more embedded in how large organizations and governments make decisions. The CEO publicly warned that companies are wasting money on AI that doesn't actually work, po",
+   "upside_pct": -87.966536810254,
+   "last_impact": "strengthens",
+   "last_memo": "Palantir had a strong second quarter and told investors it now expects to make more money this year than it previously guided \u2014 a good sign that its AI platform (AIP) is actually being adopted by customers in meaningful ways, not just generating buzz. The stock jumped about 8% on",
    "risks": [
+    "Stock trading at ~8x the high-case DCF fair value means even strong execution may not prevent multiple compression if macro or sentiment shifts, with no margin of safety for the long-term investor who buys here.",
+    "Without the full earnings detail, it is unknown whether the Q2 beat was driven by a large one-time government contract or true broad-based commercial acceleration \u2014 the former would be a lower-quality beat.",
     "Karp's public AI warning, while strategically smart, could signal that enterprise AI deployment timelines are stretching, which would delay AIP revenue conversion from bootcamps and pilots to large multi-year contracts.",
-    "At 68x trailing sales and ~155x EV/EBITDA, the stock is priced for perfection across a decade \u2014 any macro shock, competitor breakthrough, or government budget sequester that interrupts the growth trajectory could cause severe price correction even without fundamental business damage.",
-    "Hyperscaler AI platforms (Microsoft Copilot for enterprise, AWS Bedrock, Google Vertex AI) are maturing rapidly and may offer 'good enough' orchestration at zero marginal cost for existing cloud customers, pressuring Palantir's commercial win rates over time.",
-    "At $172/share (~$413B market cap, ~67x TTM revenue, ~152x EV/EBITDA), the stock now prices in a near-perfect multi-decade execution scenario, leaving almost no margin for error and making position-sizing discipline essential."
+    "At 68x trailing sales and ~155x EV/EBITDA, the stock is priced for perfection across a decade \u2014 any macro shock, competitor breakthrough, or government budget sequester that interrupts the growth trajectory could cause severe price correction even without fundamental business damage."
    ],
    "catalysts": [
     {
@@ -708,7 +774,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 26241.0,
+   "position_value": 25656.0,
    "thesis_needed": false
   },
   {
@@ -741,13 +807,14 @@
     55.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 212.3,
-   "fair_low": 11.13896935825137,
-   "fair_base": 13.515800132767517,
-   "fair_high": 19.09373040899594,
-   "upside_pct": -93.63363159078308,
+   "price": 209.78,
+   "fair_low": 11.038403998229002,
+   "fair_base": 13.39377615885872,
+   "fair_high": 18.92134750614431,
+   "upside_pct": -93.61532264331265,
    "last_impact": "strengthens",
    "last_memo": "Shopify reported a better-than-expected quarter with strong sales growth and solid profit, driven by merchants processing more transactions through the platform. The company is also leaning hard into AI as a way to make its tools more powerful for merchants, which is a smart defe",
    "risks": [
@@ -765,60 +832,8 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8492.0,
+   "position_value": 8391.2,
    "thesis_needed": false
-  },
-  {
-   "symbol": "UBER",
-   "name": "Uber Technologies Inc.",
-   "conviction": 55.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    55.0,
-    55.0
-   ],
-   "price": 78.54,
-   "fair_low": 20.129884707677242,
-   "fair_base": 90.94081916022745,
-   "fair_high": 120.94351547047137,
-   "upside_pct": 15.789176419948369,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 50,
-     "symbol": "UBER",
-     "date": "2026-11-03",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": true
   },
   {
    "symbol": "AFK",
@@ -850,9 +865,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 28.1735,
+   "price": 28.0858,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -861,7 +877,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 1098.7665,
+   "position_value": 1095.3462,
    "thesis_needed": true
   },
   {
@@ -896,13 +912,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 944.32,
+   "price": 949.575,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -32.774741919841745,
+   "upside_pct": -33.14677017586284,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -948,13 +965,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 93.19,
+   "price": 92.37,
    "fair_low": 46.45671896898705,
    "fair_base": 68.5439290486749,
    "fair_high": 85.74192116037001,
-   "upside_pct": -26.44711981041432,
+   "upside_pct": -25.794165802019165,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -967,7 +985,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9319.0,
+   "position_value": 9237.0,
    "thesis_needed": true
   },
   {
@@ -1000,13 +1018,14 @@
     40.8,
     40.8,
     40.8,
+    40.8,
     40.8
    ],
-   "price": 137.51,
+   "price": 138.09,
    "fair_low": 16.960440723154207,
    "fair_base": 50.62500615912173,
    "fair_high": 61.67457025081336,
-   "upside_pct": -63.18449119400644,
+   "upside_pct": -63.33912219630551,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1052,9 +1071,10 @@
     40.0,
     40.0,
     40.0,
+    40.0,
     40.0
    ],
-   "price": 133.29,
+   "price": 146.15,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1106,13 +1126,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 304.91,
+   "price": 302.25,
    "fair_low": 71.92111971979769,
    "fair_base": 72.43517666278456,
    "fair_high": 73.59059333079705,
-   "upside_pct": -76.24375170942753,
+   "upside_pct": -76.03468100486863,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1158,13 +1179,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 41.32,
+   "price": 40.51,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -41.39357618029247,
+   "upside_pct": -40.22173704689421,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1210,9 +1232,10 @@
     29.0,
     15.0,
     17.0,
+    27.0,
     27.0
    ],
-   "price": 71.63,
+   "price": 74.31,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1267,13 +1290,14 @@
     16.1,
     12.1,
     26.1,
+    26.1,
     26.1
    ],
-   "price": 332.81,
+   "price": 327.51,
    "fair_low": 15.452268642505791,
    "fair_base": 16.08681782130258,
    "fair_high": 16.415240390523092,
-   "upside_pct": -95.16636584799058,
+   "upside_pct": -95.08814453870032,
    "last_impact": "weakens",
    "last_memo": "A well-known Tesla investor is saying publicly that other investors are giving up on the idea that Tesla can build a self-driving car business at the scale needed to justify the stock price. His concern is that Tesla's choice to use cameras only \u2014 no radar or lidar \u2014 might be a t",
    "risks": [
@@ -1324,9 +1348,10 @@
     24.7,
     24.7,
     24.2,
+    24.2,
     24.2
    ],
-   "price": 43.44,
+   "price": 45.2,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1373,6 +1398,7 @@
     13.8,
     13.8,
     13.8,
+    20.3,
     20.3,
     20.3,
     20.3,
@@ -1428,13 +1454,14 @@
     34.9,
     34.9,
     38.9,
+    14.9,
     14.9
    ],
-   "price": 402.19,
+   "price": 405.59,
    "fair_low": 134.1071696713082,
    "fair_base": 207.6979230216282,
    "fair_high": 242.57120186391649,
-   "upside_pct": -48.35825778322976,
+   "upside_pct": -48.79116274522838,
    "last_impact": "weakens",
    "last_memo": "UnitedHealth is a genuinely excellent business \u2014 massive scale, integrated health services, and sticky customer relationships. But over the past four years, for every dollar of revenue it brings in, it's keeping less as profit. Gross margins have fallen from about 25 cents per do",
    "risks": [
@@ -1452,7 +1479,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6877.4490000000005,
+   "position_value": 6935.589,
    "thesis_needed": false
   },
   {
@@ -1485,9 +1512,10 @@
     25.0,
     11.4,
     11.4,
+    11.4,
     11.4
    ],
-   "price": 45.13,
+   "price": 46.12,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1537,9 +1565,10 @@
     10.3,
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 39.75,
+   "price": 43.67,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1589,9 +1618,10 @@
     5.0,
     9.6,
     9.6,
+    9.6,
     9.6
    ],
-   "price": 18.09,
+   "price": 18.42,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1633,9 +1663,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.67,
+   "price": 5.81,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1652,11 +1683,32 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 567.0,
+   "position_value": 581.0,
    "thesis_needed": true
   }
  ],
  "history": [
+  {
+   "date": "2026-08-13",
+   "symbol": "PLTR",
+   "impact": "strengthens",
+   "headline": "PLTR raises 2026 revenue guidance post Q2 beat; thesis intact but valuation remains the primary risk",
+   "strength": 68
+  },
+  {
+   "date": "2026-08-13",
+   "symbol": "META",
+   "impact": "neutral",
+   "headline": "756k AU teen account removals: regulatory noise, not a structural moat event",
+   "strength": 84
+  },
+  {
+   "date": "2026-08-13",
+   "symbol": "IBM",
+   "impact": "strengthens",
+   "headline": "IBM-OpenAI partnership + $240M AI deal signal accelerating enterprise AI execution, but leverage remains a concern",
+   "strength": 68
+  },
   {
    "date": "2026-08-12",
    "symbol": "UNH",
@@ -2072,13 +2124,6 @@
   },
   {
    "date": "2026-07-29",
-   "symbol": "META",
-   "impact": "strengthens",
-   "headline": "Meta offloads $14B AI data center capital to BlackRock JV \u2014 capex efficiency signal, not a game-changer",
-   "strength": 78
-  },
-  {
-   "date": "2026-07-29",
    "symbol": "DECK",
    "impact": "neutral",
    "headline": "DECK +6.3% in a session; no new fundamental information changes the thesis",
@@ -2317,24 +2362,10 @@
   },
   {
    "date": "2026-07-17",
-   "symbol": "PLTR",
-   "impact": "strengthens",
-   "headline": "PLTR-SNP partnership targets SAP migrations; minor thesis support, no valuation impact",
-   "strength": 72
-  },
-  {
-   "date": "2026-07-17",
    "symbol": "UNH",
    "impact": "weakens",
    "headline": "UNH Q2 2026: MCR reset narrative + raised guidance, but structural margin compression is real",
    "strength": 42
-  },
-  {
-   "date": "2026-07-17",
-   "symbol": "IBM",
-   "impact": "neutral",
-   "headline": "IBM shares -3.6% on analyst warnings; thin content warrants investigation, not panic",
-   "strength": 62
   },
   {
    "date": "2026-07-17",

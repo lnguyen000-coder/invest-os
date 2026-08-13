@@ -1,6 +1,25 @@
 # Meta Platforms Inc. (META) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-13 — 756k AU teen account removals: regulatory noise, not a structural moat event
+**Thesis impact: NEUTRAL** · Thesis strength: 84/100 · Conviction: 89.0/100 · **ALERTED**
+
+**What changed:** Meta removed approximately 756,000 Australian teen accounts in response to intensifying regulatory scrutiny, likely tied to Australia's new social media age-restriction laws. This is a compliance action specific to one mid-sized market (Australia ~26M population). The removed accounts represent a small fraction of Meta's ~3.3B daily active people globally.
+
+**Why it matters:** This matters to the thesis only if it signals a template that larger regulators (EU, US) will force at scale, which would impair DAU growth and reduce the addressable advertising demographic among younger cohorts — a meaningful long-term audience pipeline. Teens are not heavily monetized today but are critical for long-term engagement continuity. The immediate revenue impact is negligible; the question is whether this is an isolated national policy or a leading indicator of broader regulatory contagion.
+
+**Intrinsic value:** none / none via none — The removed accounts are in one small market and represent a negligible share of global DAP. No material change to revenue, margins, or capital intensity is implied by this action alone.
+**New risks:**
+- If Australia's age-restriction framework becomes a model adopted by the EU or US at scale, it could structurally reduce Meta's addressable teen demographic pipeline and compress long-term DAP growth in high-value markets.
+- Repeated high-profile regulatory enforcement actions across multiple jurisdictions could increase compliance costs and management bandwidth diversion over time.
+
+**Valuation:** fair value $289 / **$487** / $948 · implied growth at price: 21.4%
+
+**Committee memo:** Meta's removal of 756,000 Australian teen accounts is a compliance response to national legislation, not a signal of structural platform deterioration. Australia represents roughly 0.8% of global population, and teen users in that market contribute negligibly to current advertising revenue — Meta's monetization of teens is limited everywhere, by both regulation and advertiser preference. The direct intrinsic value impact is zero by any reasonable DCF sensitivity. The legitimate monitoring question is regulatory contagion: does Australia's framework inspire the EU's Digital Services Act enforcers or US legislators to pursue equivalent mandates at scale? That would matter — removing teens from high-ARPU markets like the US or UK would compress the long-term DAP growth runway and shrink the future advertiser demographic. However, there is no current legislative momentum in the US pointing to a blanket social media ban for under-16s at federal level, and the EU's framework operates differently. My recommendation is to hold conviction unchanged. This is exactly the kind of short-term headline that moves a stock 3-4% intraday but changes 2031 earnings by nothing. What would prove this judgment wrong: a US federal bill or EU-wide directive mandating verified age-gating that forces removal of users under 16 across major markets, which would require a reassessment of DAP growth assumptions and long-term monetization trajectory.
+
+**Plain English:** Australia passed a law restricting teens from social media, and Meta removed about 756,000 accounts there as a result. Australia is a small country relative to Meta's global user base of over 3 billion daily users, so the direct financial impact is essentially zero. The real question is whether this becomes a global trend — if the US or Europe passed similar laws at scale, that would be a bigger deal. For now, this looks like a compliance action in one market, not a sign that Meta's advertising business or user growth is in trouble. It's worth keeping an eye on, but it doesn't change what Meta is likely worth five years from now.
+
+---
 ## 2026-08-12 — 29-state youth addiction trial opens — real but bounded legal risk, no thesis break
 **Thesis impact: WEAKENS** · Thesis strength: 78/100 · Conviction: 83.0/100 · **ALERTED**
 
