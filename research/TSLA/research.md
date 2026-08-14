@@ -1,6 +1,26 @@
 # Tesla Inc. (TSLA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-14 — Tesla's $10.1B Texas solar bet is a major capex commitment; thesis relevance depends on returns
+**Thesis impact: NEUTRAL** · Thesis strength: 52/100 · Conviction: 26.1/100 · **ALERTED**
+
+**What changed:** Tesla is reportedly deploying $10.1 billion into a Texas solar project, one of the largest single capital commitments in the company's history. The company is also exploring satellite internet integration into vehicles. The news was reported by Simply Wall St., citing Tesla's plans but without detailed project economics, timeline, or expected returns publicly disclosed.
+
+**Why it matters:** Capital allocation at this scale is a direct thesis driver — the energy business scaling is a key pillar, but only if deployed capital earns attractive returns. A $10.1B commitment represents roughly 2x Tesla's current annual FCF ($4.8B TTM), meaning this single project could meaningfully pressure free cash flow for multiple years. The satellite internet angle is speculative and immaterial to intrinsic value at this stage.
+
+**Intrinsic value:** none / none via none — No project economics have been disclosed. If returns are above WACC and the energy business scales profitably, this could be modestly value-accretive. If this is low-return capital deployed at optically attractive scale, it is value-destructive. We cannot move the needle without return data. Flag for follow-up, not for model revision.
+**New risks:**
+- A $10.1B single-project capital commitment represents ~2x annual FCF; if the project underperforms or is delayed, it could materially impair Tesla's balance sheet flexibility and free cash flow generation for several years.
+- Large solar infrastructure projects carry execution, permitting, weather, and grid interconnection risks that are different from Tesla's core manufacturing competency.
+- If the satellite internet integration requires ongoing licensing or hardware dependency on a third party (e.g., Starlink/SpaceX), this introduces a related-party or key-person risk given Elon Musk's role at both companies.
+
+**Valuation:** fair value $15 / **$16** / $16
+
+**Committee memo:** Tesla's reported $10.1B Texas solar commitment is the headline, but the headline obscures the real question: at what return? Tesla currently earns an ROIC of approximately 8.1% — barely at or above its cost of capital — and is trading at 122x EV/EBITDA, a multiple that embeds extraordinary future value creation. Committing capital at this scale to a solar project that has not disclosed IRRs, offtake agreements, or completion timelines introduces meaningful capital allocation risk without compensating information. The energy business scaling thesis is intact in direction but must be validated by economics, not by deployment size. The satellite internet angle is speculative noise and should be set aside entirely. The fair value estimates in our model ($15-16/share on a disciplined DCF basis) versus the current price of $340 represent a profound gap that already demands flawless execution across autonomous driving, energy, and robotics over a multi-year horizon — a $10.1B low-return energy bet would make that gap wider, not narrower. I would hold current position, not add, and escalate this to a formal capital allocation watch item. What would prove this judgment wrong: public disclosure of contracted energy offtake agreements at attractive pricing, disclosed IRR above 12%, or evidence that this project creates a proprietary competitive position in utility-scale solar that competitors cannot replicate.
+
+**Plain English:** Tesla is reportedly putting $10.1 billion — about twice what the entire company generates in free cash flow each year — into a solar project in Texas, and is also looking at putting satellite internet into its cars. The solar investment is directionally consistent with Tesla's goal of building a big energy business, but the critical missing piece is whether this investment will actually earn a good return. Spending money on energy is not the same as earning money from energy. The satellite internet idea is too early-stage to matter. The stock is also trading at over 300 times last year's earnings and about 156 times next year's expected earnings, which means the market is already pricing in near-perfect execution across all of Tesla's businesses — leaving very little room for error on a $10.1B bet. We need to see the project economics before drawing any conclusions about whether this is good or bad for long-term value.
+
+---
 ## 2026-08-12 — Sentiment erosion on Tesla autonomy thesis; no new operational evidence yet to confirm or deny
 **Thesis impact: WEAKENS** · Thesis strength: 52/100 · Conviction: 26.1/100 · **ALERTED**
 

@@ -1,6 +1,22 @@
 # Shopify Inc. (SHOP.TO) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-14 — SHOP +5.3% on no new fundamental information — no thesis impact
+**Thesis impact: NEUTRAL** · Thesis strength: 68/100 · Conviction: 61.0/100 · **ALERTED**
+
+**What changed:** Shopify's share price rose 5.3% in a single session, from C$209.78 to C$220.97. The move was flagged by a rule-based screener. No new operating data, guidance, management commentary, or strategic announcements accompanied the move.
+
+**Why it matters:** A single-day price move without an underlying fundamental catalyst tells us nothing about intrinsic value. The relevant question is whether anything changed about Shopify's long-term earnings power, moat, or capital allocation — and the answer here is no. The only information content is a reminder that the stock trades at a very demanding multiple (trailing P/E ~107x, EV/EBITDA ~117x) where sentiment swings can be large relative to underlying value changes.
+
+**Intrinsic value:** none / none via none — No operational, strategic, or financial data was disclosed. Intrinsic value is unchanged. The price move changes the margin of safety (already thin at current multiples) but not the value itself.
+
+**Valuation:** fair value $11 / **$14** / $19
+
+**Committee memo:** Today's 5.3% price move in Shopify carries no fundamental information and warrants no action. The screener flagged it as rule-based, and that is precisely what it is — a sentiment or flow-driven tick on a high-multiple growth stock. Intrinsic value is unchanged. The thesis — that Shopify compounds value through GMV growth, Merchant Solutions expansion, Payments penetration, and eventual operating leverage — remains intact and uncontested by today's event. What does deserve ongoing committee attention, separate from today's move, is the valuation gap: the model's fair value estimates (base ~C$13.52 per share equivalent) sit far below the current market price of C$221, implying the market is pricing in an extremely optimistic long-duration growth scenario. The committee should reconcile whether this gap reflects a modeling currency/share-count issue, a genuinely different long-term growth assumption, or a real overvaluation. The gross margin compression from ~50% to ~48% over the trailing period also deserves monitoring — it is likely structural as Merchant Solutions (payments-heavy, lower margin) grows faster than Subscriptions, and further compression would pressure FCF margin expansion. My recommendation is to hold conviction on the thesis but flag the valuation as requiring discipline: this is not a name to add aggressively at current prices. What would prove this judgment wrong: a discovery that today's price move was preceded by information leakage ahead of an unannounced material event, or a subsequent disclosure that changes the operating picture.
+
+**Plain English:** Shopify's stock jumped about 5% today, but there was no news behind it — no earnings, no product announcement, no guidance change. That kind of move on no information is just market noise. The business itself — its millions of merchants, its payments and financial tools, its growing enterprise customer base — is exactly the same today as it was yesterday. The honest note here is that even after this analysis, Shopify's stock price remains extremely expensive relative to current earnings, which means a lot of future growth is already baked in. The thesis is intact, but there's very little margin for error at this valuation.
+
+---
 ## 2026-08-07 — Shopify Q2 beat validates GMV/ecosystem thesis but valuation gap remains extreme
 **Thesis impact: STRENGTHENS** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
 

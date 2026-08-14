@@ -1,6 +1,25 @@
 # Meta Platforms Inc. (META) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-14 — Teen safety ruling flagged as risk but scope/financials unclear; thesis intact pending detail
+**Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 79.0/100 · **ALERTED**
+
+**What changed:** A news article from Simply Wall St. claims META stock may be 37% undervalued despite a 'teen safety regulatory ruling.' The screener flagged it as a potential material risk to user engagement, monetization, or compliance costs. No primary source (court decision, legislative text, or SEC filing) is included in the event material, so the ruling's actual scope, jurisdiction, and financial obligations are unknown.
+
+**Why it matters:** Teen users are a strategically important cohort for long-term platform health — today's teen is tomorrow's adult advertiser target. Any ruling that meaningfully restricts how Meta can serve, target, or monetize users under 18 touches two thesis drivers directly: ad impressions (if minors must be excluded or experience limited) and advertising pricing (if audience targeting is degraded). Compliance costs could also modestly pressure margins. However, without the ruling's actual text, it is impossible to assess whether this is a narrow technical requirement, a broad behavioral injunction, or something in between.
+
+**Intrinsic value:** none / none via none — No primary source exists in the provided material to anchor any estimate of financial impact. Intrinsic value assumptions remain unchanged until the ruling's scope and enforcement mechanism are established. A worst-case scenario (e.g., broad prohibition on personalized advertising to under-18 users in a major jurisdiction) would be a small negative given teens are a minority of total ad revenue, but this remains speculative.
+**New risks:**
+- A teen safety regulatory ruling (jurisdiction and scope unknown) may impose restrictions on how Meta serves, targets, or monetizes users under 18 — pending review of primary legal documents.
+- If the ruling is multi-jurisdictional or sets a precedent adopted by regulators in the EU or other large markets, the revenue impact could be more than trivial and warrants monitoring.
+
+**Valuation:** fair value $289 / **$487** / $948 · implied growth at price: 21.8%
+
+**Committee memo:** The triggering event is a secondhand news article, not a primary legal document, and it leads with a bullish valuation conclusion while burying the regulatory risk as a secondary concern. This structure should make us skeptical rather than reactive. Teen safety regulation is not a new risk — it is explicitly named in the thesis document, and Meta has faced various state and federal legislative proposals in this space for several years. What would matter is a ruling with specific, enforceable behavioral or data-use restrictions affecting a meaningful share of Meta's user base or advertising inventory, particularly in high-ARPU jurisdictions like the US or EU. None of that detail is present here. Meta's core fundamentals remain strong: ROIC of 28.8%, net debt/EBITDA of just 0.20x, gross margins expanding to 82%, and a forward P/E of ~17x on a business growing revenue at double digits annually. The reverse DCF implies 21.8% growth is priced in — achievable but not guaranteed, which is why we hold rather than add aggressively at current prices. My recommendation is to hold conviction, locate the primary ruling, and return to the committee with a specific financial impact analysis if the ruling proves substantive. What would prove this judgment wrong: discovery that the ruling is a broad federal or multi-state injunction prohibiting personalized advertising to minors, which would trim a low-to-mid single digit percentage of ad revenue and warrant a modest downward revision to growth assumptions.
+
+**Plain English:** A financial news site published an article suggesting Meta's stock might be significantly undervalued, but also flagged a 'teen safety ruling' as a risk worth watching. The problem is: we don't actually know what the ruling says, which court issued it, or what Meta would have to do differently. Regulators restricting how companies interact with teenagers online is a real and growing concern, and it could eventually affect Meta's ad business if it limits targeting or access to younger users. But we can't put a number on something we haven't read. The right move is to find the actual legal document before drawing any conclusions. Nothing about this changes our view of Meta today.
+
+---
 ## 2026-08-13 — 756k AU teen account removals: regulatory noise, not a structural moat event
 **Thesis impact: NEUTRAL** · Thesis strength: 84/100 · Conviction: 89.0/100 · **ALERTED**
 
