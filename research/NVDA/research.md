@@ -1,6 +1,25 @@
 # NVIDIA Corporation (NVDA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-17 — NVDA: OpenAI Ohio guarantee cut to $120B — noise on a massive number, not a thesis break
+**Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
+
+**What changed:** NVIDIA has reduced its guaranteed commitment to the OpenAI Ohio data center project to $120 billion, down from a previously implied higher figure. The exact prior commitment level is not specified in the available material. This represents a reduction in a specific contracted infrastructure guarantee, not a cancellation of the project itself. The $120B figure remains an extraordinarily large single-customer infrastructure commitment.
+
+**Why it matters:** The thesis depends on AI infrastructure demand being structural rather than cyclical, and on hyperscaler/large-customer capex remaining robust. A reduction in a guaranteed commitment could signal either (a) a renegotiation of scope/timing rather than demand destruction, (b) OpenAI adjusting its build-out pace, or (c) early evidence of capex rationalization among large AI customers. The distinction matters enormously: a timing shift does not change 2031 earnings power; a genuine pullback in structural demand would. At $120B, this remains one of the largest infrastructure commitments in corporate history, which limits the bearish read.
+
+**Intrinsic value:** none / none via none — A reduction in a single customer's guaranteed commitment, with the revised figure still at $120B, does not alter our long-run FCF assumptions. Intrinsic value is driven by the aggregate structural demand for accelerated computing across dozens of customers over a 5+ year horizon, not by the precise size of one data center guarantee. We would need evidence of broad-based capex retrenchment to move our model.
+**New risks:**
+- If the OpenAI guarantee reduction reflects a broader pattern of hyperscaler and large-customer capex renegotiations rather than a one-off project timing adjustment, near-term revenue visibility could deteriorate — we would need to see corroborating signals from other customers or from NVIDIA's own backlog disclosures.
+- Concentration risk is highlighted: a single customer commitment at this scale being renegotiated is a reminder that NVIDIA's near-term revenue profile has meaningful dependence on a small number of very large buyers.
+
+**Valuation:** fair value $32 / **$53** / $116
+
+**Committee memo:** The committee should treat this as a yellow flag to monitor, not a thesis-altering event. The reduction of the OpenAI Ohio guarantee to $120B is notable in direction but not in magnitude — $120B remains a number that would be the envy of virtually any infrastructure business on earth. The critical analytical question is whether this is (a) a project phasing or scope adjustment, which is operationally routine for builds of this complexity, or (b) the first visible symptom of AI capex rationalization among NVIDIA's largest customers. We cannot answer that from this data point alone. Our thesis explicitly flags 'AI infrastructure spending becoming cyclical rather than structural' as a kill criterion, so we are correctly sensitized to this signal class. However, a single renegotiated commitment does not meet that bar. What would cause us to act: corroborating capex guidance cuts from multiple hyperscalers in their next earnings calls, or a revision to NVIDIA's own forward revenue guidance. Until then, we hold conviction. The gross margin trajectory from 75% to 71.1% remains the more pressing fundamental to track — that is a structural question this event does not address. We would be wrong in this judgment if the OpenAI reduction turns out to be the leading edge of a synchronized capex pullback, which would pressure NVIDIA's near-term revenue and, more importantly, the market's confidence in the durability of the growth runway.
+
+**Plain English:** NVIDIA apparently agreed to a slightly smaller guaranteed commitment for a massive data center it is helping OpenAI build in Ohio — the revised guarantee is $120 billion, down from some higher number. To put that in perspective, $120 billion is still one of the largest infrastructure commitments in history, so calling this a 'cut' requires context. The worry would be if this signals that big AI customers are pulling back on spending, which is the oxygen NVIDIA's growth runs on. But one renegotiation, at still-enormous scale, doesn't tell us that. It's worth watching to see if similar signals emerge from Amazon, Google, or Microsoft. For now, nothing about this changes what we think NVIDIA will earn over the next five years.
+
+---
 ## 2026-08-10 — Sovereign AI spending wave emerging as incremental TAM, but too early to resize intrinsic value
 **Thesis impact: NEUTRAL** · Thesis strength: 78/100 · Conviction: 71.0/100 · **ALERTED**
 
