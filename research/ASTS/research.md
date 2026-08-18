@@ -1,6 +1,22 @@
 # AST SpaceMobile Inc. (ASTS) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-18 — Q2 2026 earnings transcript flagged but content unavailable — cannot assess execution progress
+**Thesis impact: NEUTRAL** · Thesis strength: 40/100 · Conviction: 15.0/100 · **ALERTED**
+
+**What changed:** A Q2 2026 earnings call transcript has been flagged as a material event requiring review. However, the actual transcript content has not been provided — only a screener note identifying it as relevant. No specific financial results, guidance, deployment updates, or partnership disclosures are available in the supplied material.
+
+**Why it matters:** For ASTS, an earnings call is not routine noise — it is one of the few structured checkpoints where the market can assess whether satellite deployment is on schedule, whether commercial revenue is materializing, whether cash burn is tracking to plan, and whether operator partnerships are converting to contracted revenue. All of these are direct thesis drivers, not peripheral data. Without the actual content, no informed judgment is possible.
+
+**Intrinsic value:** none / none via none — No transcript content was provided. Intrinsic value cannot be revised without knowing what was reported on satellite deployment cadence, commercial revenue ramp, cash runway, and any financing activity — the four variables that actually move ASTS's DCF assumptions at this stage.
+**New risks:**
+- Information gap risk: the committee is operating without Q2 2026 results, which means any position sizing or conviction adjustment is being made without the most recent execution data — itself a procedural risk for an early-stage, milestone-driven holding.
+
+**Committee memo:** The committee should be aware that this analysis is constrained by a data gap, not a judgment call. The Q2 2026 earnings transcript was correctly identified as a high-priority event — at ASTS's stage, each earnings call is effectively a milestone report: how many BlueBird satellites are operational, what is the current monthly cash burn, how many MNO partners have activated commercial service, and has the company secured additional financing without excessive dilution. These are the variables that determine whether the thesis is intact or in jeopardy. What I would need to see before updating any view: (1) deployment count vs. prior guidance, (2) commercial revenue run-rate and whether any is genuinely recurring, (3) updated cash runway and any new equity or debt terms, (4) whether any kill criteria — repeated delays, dilutive financing, partner withdrawals — were triggered. Until the transcript is reviewed, the recommendation is to hold current position without adding, and to prioritize obtaining and reviewing the full Q2 2026 earnings materials before the next committee decision. Thesis strength is scored at 40 not because the thesis has weakened, but because at this stage of the company, being uninformed about the most recent execution report is itself a risk management issue. What would prove this judgment wrong: if the transcript reveals that all major milestones were met on time, commercial revenue is inflecting, and financing is secured on non-dilutive terms — that would warrant a material upward revision to conviction.
+
+**Plain English:** AST SpaceMobile's Q2 2026 earnings call was flagged as important to review, which it absolutely is for this company — but the actual content of that call was never provided. For a pre-profit satellite startup where every quarter is a test of whether the technology and business model are working, not having the transcript means we simply cannot say anything useful right now. The company's fundamentals as of the last available data show it burning roughly $1.8 billion in cash annually against only $115 million in revenue, so what management said about satellite progress, new contracts, and financing is critical information we're missing. Confidence in the thesis remains provisional and unchanged — not because things are fine, but because we don't yet know.
+
+---
 ## 2026-08-14 — FCC grants 800 MHz test authorization — regulatory pathway clearer, but still pre-commercial
 **Thesis impact: STRENGTHENS** · Thesis strength: 38/100 · Conviction: 13.0/100 · **ALERTED**
 

@@ -1,6 +1,27 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-18 — China gov't Windows exit accelerates — real but bounded risk to MSFT's enterprise moat
+**Thesis impact: WEAKENS** · Thesis strength: 84/100 · Conviction: 77.0/100 · **ALERTED**
+
+**What changed:** Beijing is reportedly accelerating the replacement of Windows on Chinese government systems, extending a multi-year policy of de-Americanization in sensitive government IT. This is not a new directive but an acceleration of an existing trend. The move targets Windows specifically within the government sector, not Microsoft's broader commercial or cloud business in China.
+
+**Why it matters:** The thesis moat rests on switching costs — the idea that enterprises don't replace Microsoft's stack because of cost, complexity, and risk. China's government is demonstrating it will absorb those costs for geopolitical reasons, which is a narrow but real exception. The more important question is whether this signals broader commercial contagion inside China, or remains siloed to state entities. China is not a dominant revenue contributor for Microsoft (estimated low-single-digit percentage of total revenue), so direct financial impact is modest. The larger risk is precedent: if sovereign governments can successfully exit Windows at scale, it provides a proof-of-concept that weakens the 'impossible to leave' narrative, however slowly.
+
+**Intrinsic value:** down / none via growth — China government Windows revenue is a small fraction of total revenue. Even a full exit from all Chinese government systems would not move intrinsic value meaningfully given Microsoft's scale. The indirect risk — slower commercial adoption in China or precedent-setting for other sovereigns — is real but too speculative to embed in estimates today.
+**Moat:** narrowed — The switching-cost moat has always had a known exception: sufficiently motivated actors (governments with policy mandates) can exit despite cost. China is executing on that exception at scale. This narrows the moat in the government segment of one geography, not in the core commercial enterprise market where the thesis resides. The narrowing is real but geographically and sectorally bounded.
+**New risks:**
+- Acceleration of sovereign 'de-Americanization' IT policies could set a precedent that other governments (e.g., EU member states, Global South) reference when evaluating Microsoft dependency.
+- Chinese domestic OS alternatives maturing faster than expected could eventually threaten Microsoft's commercial enterprise position in China, not just government.
+- If China exits extend to Azure or Microsoft 365 commercial accounts under future policy expansion, the revenue impact would become more material.
+
+**Valuation:** fair value $64 / **$102** / $192 · implied growth at price: 29.2%
+
+**Committee memo:** Beijing's accelerated Windows exit from government systems is a geopolitically-driven event, not a product-quality signal, and should be interpreted accordingly. Microsoft's switching-cost moat has always carried an asterisk: state actors with policy mandates can override economic switching costs. China is the clearest example. The direct revenue exposure is immaterial — China government Windows licensing is a rounding error against $332B in TTM revenue. The more substantive concern is second-order: does this give other sovereigns a roadmap, and does it eventually infect China's commercial market? On the first question, EU and other Western governments have shown no appetite for a full Microsoft exit despite years of rhetoric. On the second, the commercial market moves on ROI, not politics, and no credible alternative yet matches Microsoft's integrated stack. The current valuation already embeds very high growth expectations (reverse DCF implies ~29% growth), and the stock has pulled back 3% — not because of this news specifically, but the market is pricing in some risk. I would hold conviction here, not add or trim based on this event alone. What would prove this judgment wrong: evidence that Chinese commercial enterprises (not just government) are actively migrating away from Azure and Microsoft 365, or a concrete EU or G7 government announcing a Windows replacement program. Absent those signals, this is a 'note and monitor' item, not a thesis-altering event.
+
+**Plain English:** China's government is speeding up its plan to replace Windows on government computers with Chinese-made software alternatives. This has been happening gradually for years, driven by geopolitics rather than product dissatisfaction. Microsoft doesn't make a lot of money from Chinese government computers to begin with, so the direct financial hit is small. The more interesting question is whether this proves that 'you can leave Microsoft if you really want to' — which is true, but only if you're willing to spend years and a lot of money doing it. Western companies and governments haven't shown that appetite. For now, this is a real but minor negative — worth watching, not worth panicking over.
+
+---
 ## 2026-08-17 — Azure crosses $100B annual revenue — milestone validates cloud thesis but stock price embeds heroic growth
 **Thesis impact: STRENGTHENS** · Thesis strength: 74/100 · Conviction: 67.0/100 · **ALERTED**
 
