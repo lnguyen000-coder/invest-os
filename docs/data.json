@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18 12:05 UTC",
+ "generated": "2026-08-19 12:06 UTC",
  "rows": [
   {
    "symbol": "CSU.TO",
@@ -35,13 +35,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 2990.99,
+   "price": 2998.41,
    "fair_low": 442.31560393113216,
    "fair_base": 4823.430825909175,
    "fair_high": 7420.604723281721,
-   "upside_pct": 61.26536116500474,
+   "upside_pct": 60.86628666223683,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -91,20 +92,21 @@
     85.0,
     85.0,
     85.0,
+    85.0,
     85.0
    ],
-   "price": 90.11,
+   "price": 89.51,
    "fair_low": 85.08203074644862,
    "fair_base": 213.9454386141005,
    "fair_high": 249.0914479502334,
-   "upside_pct": 137.42696550227555,
+   "upside_pct": 139.01847683398557,
    "last_impact": "neutral",
-   "last_memo": "Deckers had a decent but not exceptional quarter\u2014sales grew about 6%, the direct-to-consumer business (selling straight to shoppers, bypassing retailers) grew a healthy 13%, and international demand kept building. The downside is that spending on overhead and marketing grew much ",
+   "last_memo": "A financial news site published an article saying Deckers' stock is falling because of margin pressure, but the article itself isn't included \u2014 just the headline. Looking at the actual numbers Deckers has reported, gross margins are still above 57%, the company generates nearly $",
    "risks": [
+    "If margin pressure is confirmed as structural in the next earnings print \u2014 driven by discounting rather than deliberate marketing investment \u2014 it would elevate the risk of a brand-moat erosion narrative taking hold in the market, compressing the multiple further even if FCF holds.",
     "SG&A growing at 2.2x the rate of revenue in Q1 FY27; if this reflects a higher-cost operating model rather than investment spending, operating margins could structurally compress by 200-300bps versus thesis assumptions.",
     "Inventory rose $320M in the quarter to $807.6M\u2014a seasonal build but the absolute level warrants monitoring against sell-through data; any buildup into fiscal year-end would be a kill-criterion proximity signal.",
-    "Operating lease commitments surged ($120M of new ROU assets in one quarter vs. $45M prior year), indicating a significant retail or distribution footprint expansion; lease costs are fixed obligations that increase operating leverage in a downturn.",
-    "Tariff uncertainty explicitly mentioned in forward-looking statements; as a footwear company with overseas manufacturing, any sustained tariff escalation could structurally raise COGS."
+    "Operating lease commitments surged ($120M of new ROU assets in one quarter vs. $45M prior year), indicating a significant retail or distribution footprint expansion; lease costs are fixed obligations that increase operating leverage in a downturn."
    ],
    "catalysts": [
     {
@@ -115,7 +117,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3243.96,
+   "position_value": 3222.36,
    "thesis_needed": false
   },
   {
@@ -152,20 +154,21 @@
     89.0,
     79.0,
     86.0,
+    83.0,
     83.0
    ],
-   "price": 568.97,
+   "price": 543.67,
    "fair_low": 289.16284470284506,
    "fair_base": 487.3995682928012,
    "fair_high": 947.5440523750636,
-   "upside_pct": -14.33650837604774,
+   "upside_pct": -10.350107916051797,
    "last_impact": "weakens",
-   "last_memo": "Twenty-nine U.S. states have taken Meta to trial arguing that Facebook and Instagram are deliberately designed to be addictive for young users, and the outcomes could include forced changes to how the apps recommend content, notify users, or target teenagers. This is a serious es",
+   "last_memo": "A California court has started a major trial accusing Meta of designing Instagram in ways that harm children and cause addiction. Some headlines are calling this a $1.4 trillion threat to the company, which caused the stock to fall about 4% in a day. That dollar figure is almost ",
    "risks": [
-    "Court-ordered redesign of algorithmic recommendation or notification systems for minors could reduce teen engagement and set precedent applicable to broader platform design.",
-    "A plaintiff-favorable verdict could trigger federal legislative action or EU copycat proceedings that extend product restrictions beyond the U.S. youth cohort.",
-    "Settlement costs, while manageable on Meta's balance sheet, could be large enough to attract attention and signal regulatory vulnerability to other jurisdictions.",
-    "Adverse ruling could restrict Meta's ability to use certain engagement-optimization techniques that also benefit adult user experience and advertiser targeting."
+    "Court-ordered restrictions on algorithmic recommendation or ad-targeting systems for minors could reduce Instagram's advertising yield in a key demographic.",
+    "An adverse verdict could catalyze federal child-safety legislation that extends restrictions beyond minors or beyond Instagram to the full Family of Apps.",
+    "The trial, regardless of outcome, creates a prolonged overhang on the stock that may suppress valuation multiples during proceedings, creating a potential opportunity but also a timing uncertainty.",
+    "Court-ordered redesign of algorithmic recommendation or notification systems for minors could reduce teen engagement and set precedent applicable to broader platform design."
    ],
    "catalysts": [
     {
@@ -176,70 +179,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9103.52,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "MSFT",
-   "name": "Microsoft Corporation",
-   "conviction": 77.0,
-   "thesis_strength": 84,
-   "conviction_history": [
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    38.0,
-    62.0,
-    76.0,
-    76.0,
-    60.0,
-    70.0,
-    64.0,
-    64.0,
-    64.0,
-    60.0,
-    62.0,
-    62.0,
-    62.0,
-    65.0,
-    61.0,
-    80.0,
-    80.0,
-    75.0,
-    65.0,
-    65.0,
-    71.0,
-    71.0,
-    71.0,
-    71.0,
-    67.0,
-    77.0
-   ],
-   "price": 480.35,
-   "fair_low": 63.537745917072016,
-   "fair_base": 102.28449397541269,
-   "fair_high": 191.70294335510366,
-   "upside_pct": -78.70625710931348,
-   "last_impact": "weakens",
-   "last_memo": "China's government is speeding up its plan to replace Windows on government computers with Chinese-made software alternatives. This has been happening gradually for years, driven by geopolitics rather than product dissatisfaction. Microsoft doesn't make a lot of money from Chines",
-   "risks": [
-    "Acceleration of sovereign 'de-Americanization' IT policies could set a precedent that other governments (e.g., EU member states, Global South) reference when evaluating Microsoft dependency.",
-    "Chinese domestic OS alternatives maturing faster than expected could eventually threaten Microsoft's commercial enterprise position in China, not just government.",
-    "If China exits extend to Azure or Microsoft 365 commercial accounts under future policy expansion, the revenue impact would become more material.",
-    "An 18% weekly price surge increases the risk that near-term sentiment is now priced for perfection, leaving less margin of safety if Azure growth decelerates even modestly."
-   ],
-   "catalysts": [
-    {
-     "id": 40,
-     "symbol": "MSFT",
-     "date": "2026-10-28",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
+   "position_value": 8698.72,
    "thesis_needed": false
   },
   {
@@ -276,13 +216,14 @@
     72.0,
     68.0,
     72.0,
+    76.0,
     76.0
    ],
-   "price": 228.85,
+   "price": 232.67,
    "fair_low": 75.00733660346769,
    "fair_base": 288.55960253064944,
    "fair_high": 396.3485189888189,
-   "upside_pct": 26.091152515031446,
+   "upside_pct": 24.020974999204658,
    "last_impact": "strengthens",
    "last_memo": "IBM just got the federal government's official security seal of approval for a cloud version of its Maximo software, which helps large organizations manage physical assets like equipment and facilities. This matters because U.S. government agencies can now buy Maximo as a subscri",
    "risks": [
@@ -304,64 +245,67 @@
    "thesis_needed": false
   },
   {
-   "symbol": "AMZN",
-   "name": "Amazon Com Inc.",
+   "symbol": "MSFT",
+   "name": "Microsoft Corporation",
    "conviction": 75.0,
    "thesis_strength": 82,
    "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    38.0,
+    62.0,
+    76.0,
+    76.0,
+    60.0,
+    70.0,
+    64.0,
+    64.0,
+    64.0,
+    60.0,
+    62.0,
+    62.0,
+    62.0,
+    65.0,
+    61.0,
+    80.0,
+    80.0,
+    75.0,
+    65.0,
+    65.0,
+    71.0,
+    71.0,
+    71.0,
+    71.0,
+    67.0,
     77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
     75.0
    ],
-   "price": 261.31,
-   "fair_low": 0.3897164164121739,
-   "fair_base": 31.068186238720195,
-   "fair_high": 102.7302688951925,
-   "upside_pct": -88.1106018756572,
+   "price": 481.63,
+   "fair_low": 63.537745917072016,
+   "fair_base": 102.28449397541269,
+   "fair_high": 191.70294335510366,
+   "upside_pct": -78.76284824960807,
    "last_impact": "strengthens",
-   "last_memo": "Amazon's cloud boss said that essentially all of their AI server capacity is already committed to customers through 2028 \u2014 think of it like a hotel where every room is booked years in advance. This is important because one of the biggest questions about Amazon has been whether co",
+   "last_memo": "Microsoft's CEO announced that the company's own custom AI chips are about 40% more efficient than relying on outside providers like OpenAI. Think of it like a restaurant that used to buy all its ingredients from one expensive supplier, and has now started growing some of its own",
    "risks": [
-    "Execution risk on supply side: if Amazon cannot build data center and AI chip capacity fast enough to honor multi-year commitments, customer satisfaction and contract terms could be impaired.",
-    "Concentration risk: capacity locked through 2028 means AWS is betting heavily on AI workloads remaining on current architectural assumptions \u2014 a disruptive shift in AI compute paradigm (e.g., dramatically more efficient models) could strand infrastructure investment.",
-    "Memory price inflation adding ~$20B to the capex program creates a near-term FCF headwind that could persist through 2026-2027 depending on DRAM/HBM market conditions.",
-    "Long-term debt doubled from $65.6B to $128.9B in six months (H1 2026 new issuance of ~$67B); while net debt/EBITDA remains well below 2.5x given earnings scale, the leverage trajectory warrants monitoring."
+    "The 40% efficiency figure is a CEO-level claim without independently audited operational data; if it overstates real-world gains, expectations built on it will disappoint.",
+    "Building proprietary silicon at scale requires sustained high capex and engineering talent; if execution falters, Microsoft remains more dependent on OpenAI and third-party GPUs than the market currently prices.",
+    "Vertical integration into chips creates new operational complexity and could divert management attention from software-layer AI monetization, which is nearer-term and higher-margin.",
+    "Acceleration of sovereign 'de-Americanization' IT policies could set a precedent that other governments (e.g., EU member states, Global South) reference when evaluating Microsoft dependency."
    ],
    "catalysts": [
     {
-     "id": 44,
-     "symbol": "AMZN",
-     "date": "2026-10-29",
+     "id": 40,
+     "symbol": "MSFT",
+     "date": "2026-10-28",
      "label": "Earnings report",
      "source": "yfinance"
     }
    ],
-   "position_value": 3919.65,
+   "position_value": 0,
    "thesis_needed": false
   },
   {
@@ -398,13 +342,14 @@
     63.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 115.74,
+   "price": 119.01,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 281.84239752021654,
+   "upside_pct": 271.3506351482216,
    "last_impact": "weakens",
    "last_memo": "Lululemon's head of AI and technology just left the company, and this comes while the company is already searching for a permanent CEO. Neither leader has been replaced yet. This isn't a catastrophe for the brand or the business \u2014 the leggings still sell, the stores still perform",
    "risks": [
@@ -458,13 +403,14 @@
     71.0,
     71.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 225.01,
+   "price": 219.74,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -76.2822557133346,
+   "upside_pct": -75.71343568789214,
    "last_impact": "neutral",
    "last_memo": "NVIDIA apparently agreed to a slightly smaller guaranteed commitment for a massive data center it is helping OpenAI build in Ohio \u2014 the revised guarantee is $120 billion, down from some higher number. To put that in perspective, $120 billion is still one of the largest infrastruc",
    "risks": [
@@ -519,13 +465,14 @@
     71.0,
     71.0,
     71.0,
+    71.0,
     71.0
    ],
-   "price": 344.0,
+   "price": 344.2,
    "fair_low": 98.1810001979202,
    "fair_base": 182.2386496011964,
    "fair_high": 390.11857819186713,
-   "upside_pct": -47.02364837174523,
+   "upside_pct": -47.05443067948971,
    "last_impact": "neutral",
    "last_memo": "Alphabet just borrowed $25 billion by issuing bonds to investors, which is notable because this company usually sits on a massive pile of cash and rarely needs to borrow. The bonds range from short-term (due 2028) to very long-term (due 2066), at interest rates between roughly 4.",
    "risks": [
@@ -543,7 +490,69 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3784.0,
+   "position_value": 3786.2,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "AMZN",
+   "name": "Amazon Com Inc.",
+   "conviction": 71.0,
+   "thesis_strength": 78,
+   "conviction_history": [
+    43.0,
+    43.0,
+    43.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    71.0
+   ],
+   "price": 259.45,
+   "fair_low": 0.3897164164121739,
+   "fair_base": 31.068186238720195,
+   "fair_high": 102.7302688951925,
+   "upside_pct": -88.02536664531887,
+   "last_impact": "strengthens",
+   "last_memo": "Amazon's AI business \u2014 the part of its cloud division that helps companies build and run artificial intelligence applications \u2014 has grown to $25 billion in annual revenue. This matters because Amazon has been spending enormous amounts of money building AI infrastructure, and this",
+   "risks": [
+    "If the $25B AI run rate figure is compositionally dominated by low-margin infrastructure (raw compute rental) rather than high-margin software services, the margin uplift thesis could be weaker than assumed.",
+    "Competitors (Microsoft, Google) are reporting comparable AI momentum, meaning the $25B figure may reflect industry-wide demand rather than Amazon-specific share gains \u2014 making it a rising-tide story rather than a moat-widening one.",
+    "Execution risk on supply side: if Amazon cannot build data center and AI chip capacity fast enough to honor multi-year commitments, customer satisfaction and contract terms could be impaired.",
+    "Concentration risk: capacity locked through 2028 means AWS is betting heavily on AI workloads remaining on current architectural assumptions \u2014 a disruptive shift in AI compute paradigm (e.g., dramatically more efficient models) could strand infrastructure investment."
+   ],
+   "catalysts": [
+    {
+     "id": 44,
+     "symbol": "AMZN",
+     "date": "2026-10-29",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 3891.75,
    "thesis_needed": false
   },
   {
@@ -580,18 +589,19 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 141.84,
+   "price": 146.74,
    "fair_low": 136.75084586911478,
    "fair_base": 244.06212335589788,
    "fair_high": 291.7030003299072,
-   "upside_pct": 72.06861488712484,
+   "upside_pct": 66.32283178131244,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 2127.6,
+   "position_value": 2201.1000000000004,
    "thesis_needed": true
   },
   {
@@ -628,13 +638,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 261.67,
+   "price": 259.53,
    "fair_low": 152.6314725975932,
    "fair_base": 441.1748921460508,
    "fair_high": 557.4933961752869,
-   "upside_pct": 68.59972184279847,
+   "upside_pct": 69.9899403329291,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -647,7 +658,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9158.45,
+   "position_value": 9083.55,
    "thesis_needed": true
   },
   {
@@ -684,13 +695,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 76.02,
+   "price": 77.77,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 66.93111487427292,
+   "upside_pct": 63.174789157030055,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -740,13 +752,14 @@
     63.0,
     55.0,
     55.0,
+    63.0,
     63.0
    ],
-   "price": 74.99,
+   "price": 74.66,
    "fair_low": 20.129884707677242,
    "fair_base": 90.94081916022745,
    "fair_high": 120.94351547047137,
-   "upside_pct": 21.270594959631218,
+   "upside_pct": 21.80661553740617,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -796,13 +809,14 @@
     61.0,
     61.0,
     61.0,
+    61.0,
     61.0
    ],
-   "price": 172.55,
+   "price": 171.54,
    "fair_low": 8.040497535225128,
    "fair_base": 20.582035439741578,
    "fair_high": 25.664567046148527,
-   "upside_pct": -88.0718426892254,
+   "upside_pct": -88.00161161260256,
    "last_impact": "strengthens",
    "last_memo": "Palantir had a strong second quarter and told investors it now expects to make more money this year than it previously guided \u2014 a good sign that its AI platform (AIP) is actually being adopted by customers in meaningful ways, not just generating buzz. The stock jumped about 8% on",
    "risks": [
@@ -820,7 +834,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 25882.5,
+   "position_value": 25731.0,
    "thesis_needed": false
   },
   {
@@ -857,13 +871,14 @@
     55.0,
     61.0,
     61.0,
+    61.0,
     61.0
    ],
-   "price": 206.4,
+   "price": 203.93,
    "fair_low": 11.038403998229002,
    "fair_base": 13.39377615885872,
    "fair_high": 18.92134750614431,
-   "upside_pct": -93.51076736489404,
+   "upside_pct": -93.43216978430897,
    "last_impact": "neutral",
    "last_memo": "Shopify's stock jumped about 5% today, but there was no news behind it \u2014 no earnings, no product announcement, no guidance change. That kind of move on no information is just market noise. The business itself \u2014 its millions of merchants, its payments and financial tools, its grow",
    "risks": [
@@ -881,7 +896,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8256.0,
+   "position_value": 8157.200000000001,
    "thesis_needed": false
   },
   {
@@ -918,13 +933,14 @@
     43.0,
     43.0,
     43.0,
+    55.0,
     55.0
    ],
-   "price": 90.47,
+   "price": 89.93,
    "fair_low": 46.45671896898705,
    "fair_base": 68.5439290486749,
    "fair_high": 85.74192116037001,
-   "upside_pct": -24.23573665449884,
+   "upside_pct": -23.780797232653295,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -937,7 +953,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9047.0,
+   "position_value": 8993.0,
    "thesis_needed": true
   },
   {
@@ -974,9 +990,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 28.09,
+   "price": 27.68,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -985,7 +1002,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 1095.51,
+   "position_value": 1079.52,
    "thesis_needed": true
   },
   {
@@ -1024,13 +1041,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 953.5,
+   "price": 961.35,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -33.421965694541115,
+   "upside_pct": -33.96561532193785,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1080,13 +1098,14 @@
     40.8,
     40.8,
     40.8,
+    40.8,
     40.8
    ],
-   "price": 136.69,
+   "price": 133.44,
    "fair_low": 16.960440723154207,
    "fair_base": 50.62500615912173,
    "fair_high": 61.67457025081336,
-   "upside_pct": -62.96363584818074,
+   "upside_pct": -62.061596103775685,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1136,9 +1155,10 @@
     40.0,
     40.0,
     40.0,
+    40.0,
     40.0
    ],
-   "price": 146.23,
+   "price": 143.34,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1161,8 +1181,8 @@
   {
    "symbol": "UNH",
    "name": "Unitedhealth Group Inc.",
-   "conviction": 38.9,
-   "thesis_strength": 62,
+   "conviction": 28.9,
+   "thesis_strength": 52,
    "conviction_history": [
     26.5,
     26.5,
@@ -1192,20 +1212,21 @@
     14.9,
     14.9,
     14.9,
-    38.9
+    38.9,
+    28.9
    ],
-   "price": 395.62,
+   "price": 393.93,
    "fair_low": 134.1071696713082,
    "fair_base": 207.6979230216282,
    "fair_high": 242.57120186391649,
-   "upside_pct": -47.500651377172986,
+   "upside_pct": -47.27542380076962,
    "last_impact": "weakens",
-   "last_memo": "A group of UnitedHealth shareholders has sued the company's board and executives, claiming they knew for years that the company had serious cybersecurity and governance problems but chose to ignore them. This matters because UnitedHealth's business depends heavily on people trust",
+   "last_memo": "UnitedHealth is now dealing with two new legal problems on top of several existing ones. The IRS is looking at whether the company used overseas subsidiaries to pay less in taxes than it should have \u2014 if the government wins, UnitedHealth could owe significant back taxes and penal",
    "risks": [
-    "Derivative lawsuit discovery may surface internal communications confirming management received and ignored cybersecurity warnings, materially damaging management credibility and triggering regulatory escalation.",
-    "Congressional or HHS investigations could be accelerated by the lawsuit's governance allegations, potentially resulting in mandated security standards or capital set-asides that increase operating costs.",
-    "Counterparties (large employers, CMS) may cite governance allegations in contract renegotiations or competitive RFPs, creating incremental churn risk in an otherwise sticky customer base.",
-    "D&O liability exposure and cyber insurance premiums are likely to increase regardless of lawsuit outcome, representing a structural cost headwind."
+    "IRS determination that foreign subsidiary tax structures were improper could result in back taxes, interest, and penalties that reduce cumulative FCF by an unknown but potentially material amount.",
+    "If IRS probe results in earnings restatements, the quality of historically reported profits would be called into question, damaging investor confidence and potentially triggering debt covenant reviews.",
+    "Governance/cybersecurity lawsuit may expand in scope or attract regulatory co-action (e.g., HHS, FTC), increasing legal costs and management distraction during an already operationally difficult period.",
+    "Accumulation of simultaneous legal/regulatory fronts (DOJ, IRS, plaintiff bar, Change Healthcare) raises the risk that one escalates into a settlement large enough to impair the balance sheet or force asset sales."
    ],
    "catalysts": [
     {
@@ -1216,7 +1237,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6765.102000000001,
+   "position_value": 6736.203,
    "thesis_needed": false
   },
   {
@@ -1255,13 +1276,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 305.59,
+   "price": 310.03,
    "fair_low": 71.92111971979769,
    "fair_base": 72.43517666278456,
    "fair_high": 73.59059333079705,
-   "upside_pct": -76.2966142011242,
+   "upside_pct": -76.63607500474644,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1311,13 +1333,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 39.09,
+   "price": 40.06,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -38.05020638960565,
+   "upside_pct": -39.55023883598814,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1367,13 +1390,14 @@
     26.1,
     26.1,
     22.1,
+    26.1,
     26.1
    ],
-   "price": 339.3,
+   "price": 336.87,
    "fair_low": 15.452268642505791,
    "fair_base": 16.08681782130258,
    "fair_high": 16.415240390523092,
-   "upside_pct": -95.25882174438473,
+   "upside_pct": -95.22462142033943,
    "last_impact": "strengthens",
    "last_memo": "Tesla has started letting its own employees ride in its self-driving Cybercab taxis in Austin, Texas, which is the clearest sign yet that the robotaxi program is actually moving toward real-world use rather than just existing as a demo. This is genuinely good news for the thesis,",
    "risks": [
@@ -1428,9 +1452,10 @@
     24.2,
     24.2,
     24.2,
+    24.2,
     24.2
    ],
-   "price": 46.84,
+   "price": 44.12,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1484,9 +1509,10 @@
     20.3,
     20.3,
     20.3,
+    20.3,
     20.3
    ],
-   "price": 16.21,
+   "price": 19.53,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1509,8 +1535,8 @@
   {
    "symbol": "ASTS",
    "name": "AST SpaceMobile Inc.",
-   "conviction": 15.0,
-   "thesis_strength": 40,
+   "conviction": 17.0,
+   "thesis_strength": 42,
    "conviction_history": [
     25.0,
     13.0,
@@ -1540,20 +1566,21 @@
     27.0,
     13.0,
     13.0,
-    15.0
+    15.0,
+    17.0
    ],
-   "price": 71.14,
+   "price": 67.07,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
    "upside_pct": null,
-   "last_impact": "neutral",
-   "last_memo": "AST SpaceMobile's Q2 2026 earnings call was flagged as important to review, which it absolutely is for this company \u2014 but the actual content of that call was never provided. For a pre-profit satellite startup where every quarter is a test of whether the technology and business mo",
+   "last_impact": "strengthens",
+   "last_memo": "AST SpaceMobile announced it is expanding the factory where it builds its BlueBird satellites, which is a good and necessary step \u2014 you cannot beam internet from space with satellites you haven't made yet. The stock dropped about 6% the same day, largely because of negative chatt",
    "risks": [
+    "Expanded manufacturing capacity increases fixed cost commitments, widening the cash burn window if launch or commercial activation timelines slip.",
+    "Retail-driven volatility in the stock price could complicate future equity raises if sentiment deteriorates sharply, though current net cash position (-1.74x net debt/EBITDA, implying net cash) provides near-term runway.",
     "Information gap risk: the committee is operating without Q2 2026 results, which means any position sizing or conviction adjustment is being made without the most recent execution data \u2014 itself a procedural risk for an early-stage, milestone-driven holding.",
-    "Test authorization does not guarantee commercial spectrum rights; the FCC could impose conditions or deny full commercial licensing even after successful testing.",
-    "If 800 MHz testing reveals performance shortfalls in real-world conditions, it could reset market expectations that have been pricing in technological success.",
-    "Q2 earnings miss, combined with FCF of -$1.8B TTM and accelerating cash burn trend (-$0.21B to -$1.19B over four years), raises the risk that the financing runway is shorter than the timeline to cash-flow-positive operations \u2014 the 10-Q cash position and updated capex guidance must be reviewed urgently."
+    "Test authorization does not guarantee commercial spectrum rights; the FCC could impose conditions or deny full commercial licensing even after successful testing."
    ],
    "catalysts": [
     {
@@ -1601,9 +1628,10 @@
     11.4,
     11.4,
     11.4,
+    11.4,
     11.4
    ],
-   "price": 48.13,
+   "price": 42.99,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1657,9 +1685,10 @@
     10.3,
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 44.9,
+   "price": 42.0,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1713,9 +1742,10 @@
     9.6,
     9.6,
     9.6,
+    9.6,
     9.6
    ],
-   "price": 18.67,
+   "price": 17.71,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1761,9 +1791,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.82,
+   "price": 5.51,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1780,11 +1811,53 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 582.0,
+   "position_value": 551.0,
    "thesis_needed": true
   }
  ],
  "history": [
+  {
+   "date": "2026-08-19",
+   "symbol": "MSFT",
+   "impact": "strengthens",
+   "headline": "Microsoft's proprietary AI chips showing 40% efficiency gains, reducing OpenAI dependency and improving unit economics",
+   "strength": 82
+  },
+  {
+   "date": "2026-08-19",
+   "symbol": "UNH",
+   "impact": "weakens",
+   "headline": "UNH faces IRS tax probe + governance lawsuit atop already-stressed fundamentals",
+   "strength": 52
+  },
+  {
+   "date": "2026-08-19",
+   "symbol": "META",
+   "impact": "weakens",
+   "headline": "Youth-safety trial begins; litigation risk real but $1.4T threat framing is hyperbole",
+   "strength": 78
+  },
+  {
+   "date": "2026-08-19",
+   "symbol": "DECK",
+   "impact": "neutral",
+   "headline": "Margin pressure headline needs verification; DECK still trades at >50% discount to base DCF",
+   "strength": 72
+  },
+  {
+   "date": "2026-08-19",
+   "symbol": "AMZN",
+   "impact": "strengthens",
+   "headline": "AWS AI at $25B run rate validates thesis but valuation already prices in substantial growth",
+   "strength": 78
+  },
+  {
+   "date": "2026-08-19",
+   "symbol": "ASTS",
+   "impact": "strengthens",
+   "headline": "BlueBird production expansion is real progress; -5.7% move is noise at this stage",
+   "strength": 42
+  },
   {
    "date": "2026-08-18",
    "symbol": "MSFT",
@@ -2179,13 +2252,6 @@
   },
   {
    "date": "2026-08-04",
-   "symbol": "META",
-   "impact": "weakens",
-   "headline": "Meta raises 2025 capex guidance to $130B; compute monetization rationale partially offsets FCF headwind",
-   "strength": 62
-  },
-  {
-   "date": "2026-08-04",
    "symbol": "SHOP.TO",
    "impact": "strengthens",
    "headline": "13x AI order surge is real signal but valuation leaves zero margin for error",
@@ -2225,13 +2291,6 @@
    "impact": "strengthens",
    "headline": "Defense manufacturing win + scalable FDE model reinforce moat; valuation remains the dominant risk",
    "strength": 72
-  },
-  {
-   "date": "2026-08-03",
-   "symbol": "ASTS",
-   "impact": "strengthens",
-   "headline": "Rakuten Japan D2C launch nears; milestone validation but pre-revenue execution risk remains high",
-   "strength": 42
   },
   {
    "date": "2026-07-31",
@@ -2323,13 +2382,6 @@
    "impact": "neutral",
    "headline": "IBM +5.2% single-day move; no fundamental event \u2014 price action alone",
    "strength": 62
-  },
-  {
-   "date": "2026-07-28",
-   "symbol": "MSFT",
-   "impact": "strengthens",
-   "headline": "MSFT Q4 earnings imminent; lower-cost AI security model signals broadening monetization playbook",
-   "strength": 74
   },
   {
    "date": "2026-07-28",
@@ -2463,27 +2515,6 @@
    "impact": "strengthens",
    "headline": "DoorDash integration adds omnichannel depth; analyst downgrade is valuation-driven, not thesis-driven",
    "strength": 72
-  },
-  {
-   "date": "2026-07-22",
-   "symbol": "NVDA",
-   "impact": "weakens",
-   "headline": "AMD/Anthropic deal and TSMC warning are real but manageable signals, not thesis-killers",
-   "strength": 72
-  },
-  {
-   "date": "2026-07-21",
-   "symbol": "SHOP.TO",
-   "impact": "strengthens",
-   "headline": "DoorDash integration expands Shopify's logistics layer; incremental, not transformative",
-   "strength": 74
-  },
-  {
-   "date": "2026-07-20",
-   "symbol": "GOOGL",
-   "impact": "neutral",
-   "headline": "Anthropic investment optionality is real but not yet a thesis driver; no change warranted",
-   "strength": 74
   }
  ]
 }

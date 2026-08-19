@@ -1,6 +1,28 @@
 # Meta Platforms Inc. (META) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-19 — Youth-safety trial begins; litigation risk real but $1.4T threat framing is hyperbole
+**Thesis impact: WEAKENS** · Thesis strength: 78/100 · Conviction: 83.0/100 · **ALERTED**
+
+**What changed:** A California trial targeting Meta's Instagram and broader social media platforms for alleged child safety harms and addiction has commenced. The trial is being framed by some outlets as a $1.4 trillion existential threat, contributing to a ~4.4% single-day stock decline. The proceedings could result in product design mandates, content restrictions, or financial penalties. No verdict or settlement has been reached; the trial is at its opening stage.
+
+**Why it matters:** This litigation touches two thesis kill criteria simultaneously: regulatory changes that materially impair monetization, and sustained changes to user engagement if court-mandated product restrictions alter the Instagram experience. The specific concern is whether a court order could compel changes to algorithmic recommendation systems or advertising targeting for minors — the same AI-driven engagement and ad-targeting machinery that is a core moat source. However, the magnitude of impact depends entirely on remedy, not just liability finding, and courts have historically been cautious about mandating specific product designs for large platforms.
+
+**Intrinsic value:** down / small (<5%) via risk — The appropriate response is a modest increase in the discount rate or a haircut to terminal value to reflect a non-trivial but low-probability scenario where product mandates impair advertising targeting. A 50-100bps increase in discount rate would be consistent with this risk level at current probability — not a structural revision to growth or margin assumptions absent an actual adverse ruling.
+**New risks:**
+- Court-ordered restrictions on algorithmic recommendation or ad-targeting systems for minors could reduce Instagram's advertising yield in a key demographic.
+- An adverse verdict could catalyze federal child-safety legislation that extends restrictions beyond minors or beyond Instagram to the full Family of Apps.
+- The trial, regardless of outcome, creates a prolonged overhang on the stock that may suppress valuation multiples during proceedings, creating a potential opportunity but also a timing uncertainty.
+**⚠ Kill criteria at risk:**
+- Regulatory changes materially impairing Meta's ability to monetize its platforms — this criterion is now under active judicial examination, though not yet triggered by an adverse outcome.
+
+**Valuation:** fair value $289 / **$487** / $948 · implied growth at price: 20.5%
+
+**Committee memo:** The commencement of the California youth-safety trial is a legitimate risk event but not a thesis-breaking development at this stage. The $1.4 trillion headline is sensationalized — it aggregates maximum theoretical exposure across all pending state AG actions simultaneously, an outcome with near-zero probability given historical precedent in platform litigation. The actual valuation risk is channeled through two pathways: financial penalties (manageable — Meta carries net debt/EBITDA of 0.2x and generates prodigious FCF) and, more importantly, behavioral remedies that could constrain the AI-driven targeting and recommendation systems that constitute Meta's core advertising moat. The latter scenario is low probability but non-trivial, and it is the right thing to monitor through verdict. I would not reduce the position on the back of trial commencement alone — the market's 4.4% single-day reaction looks like headline fear, not a reasoned reassessment of 2028-2031 earnings power. The forward P/E of ~15.6x with 28.8% ROIC and near-zero leverage already embeds a reasonable margin of safety. I would hold conviction at current levels, with the instruction to revisit immediately upon any injunctive ruling or legislative response. What would prove this judgment wrong: an injunction issued during or after trial that specifically targets Meta's ad-targeting infrastructure, or a congressional bill advancing that mandates algorithmic neutrality for all users (not just minors) — either of those would require a structural downward revision to long-term revenue per user assumptions and a re-rating of the moat.
+
+**Plain English:** A California court has started a major trial accusing Meta of designing Instagram in ways that harm children and cause addiction. Some headlines are calling this a $1.4 trillion threat to the company, which caused the stock to fall about 4% in a day. That dollar figure is almost certainly exaggerated — it seems to pile up worst-case fines from dozens of lawsuits all at once, which is not how courts or settlements actually work. The real risk is smaller but real: if a judge orders Meta to change how its recommendation algorithms work, or how it targets ads, that could dent the core advertising machine that makes Meta so valuable. Meta has essentially no debt and generates massive cash, so it can handle financial penalties. The thing to watch is whether the outcome forces product changes, not whether Meta has to write a check. For now, the business itself hasn't changed — but the legal environment has become more hostile, and that deserves a slightly higher caution level.
+
+---
 ## 2026-08-18 — 29-state addiction trial opens; real but not yet thesis-altering regulatory risk
 **Thesis impact: WEAKENS** · Thesis strength: 78/100 · Conviction: 83.0/100 · **ALERTED**
 

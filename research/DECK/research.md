@@ -1,6 +1,24 @@
 # Deckers Outdoor Corp. (DECK) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-19 — Margin pressure headline needs verification; DECK still trades at >50% discount to base DCF
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 85.0/100 · **ALERTED**
+
+**What changed:** A news article (Simply Wall St.) flagged margin pressure at Deckers and noted the stock trades at what they estimate is a ~27% discount to fair value. The stock slipped 0.7% on the session. No earnings release or management commentary is included in the provided material, so the specific source, magnitude, and duration of the alleged margin pressure cannot be confirmed from this event alone.
+
+**Why it matters:** Gross margin is a primary thesis driver: it reflects brand pricing power, DTC mix, and the absence of distressed discounting. A structural margin decline would directly impair HOKA's and UGG's earnings power and would trigger at least one kill criterion. However, 'margin pressure' in a sell-side screener headline is extremely low-information; it could reflect FX headwinds, a one-quarter wholesale/DTC mix shift, or deliberate investment in HOKA marketing — none of which would be structurally damaging. The gross margin history provided (50.3% → 55.6% → 57.9% → 57.7%) shows a one-tick dip in the most recent year but remains near peak levels, which does not corroborate a serious deterioration.
+
+**Intrinsic value:** none / none via none — Absent a verified earnings report showing structural margin deterioration, no assumption change is warranted. The gross margin history shows a 20bps dip, not a trend break. A screener headline from a third-party analyst is insufficient evidence to revise intrinsic value estimates.
+**New risks:**
+- If margin pressure is confirmed as structural in the next earnings print — driven by discounting rather than deliberate marketing investment — it would elevate the risk of a brand-moat erosion narrative taking hold in the market, compressing the multiple further even if FCF holds.
+
+**Valuation:** fair value $85 / **$214** / $249 · implied growth at price: 1.8%
+
+**Committee memo:** The event is a third-party news headline alleging margin pressure, with no underlying earnings data provided. Our own fundamental snapshot shows gross margins at 57.7% — down 20bps year-over-year but up nearly 750bps from four years ago — which does not support a narrative of structural margin deterioration. ROIC at 76.7% and FCF compounding at a mid-20s CAGR over four years are the dominant signals; a screener headline is not. The stock at $89.51 implies only 1.8% long-term growth in a reverse DCF, while our base case intrinsic value is ~$214 — a gap so large that even a meaningful margin reset would not close it. My recommendation is to hold conviction and use the next earnings release (need date and transcript) to verify: (1) is gross margin pressure from discounting or from DTC/wholesale mix, (2) are HOKA ASPs holding, (3) is inventory growing in line with or faster than revenue? If gross margins are declining because the company is discounting to move inventory — that would be the first activation of a kill criterion and warrant a position review. If margins are soft because of deliberate HOKA marketing spend or FX, that is thesis-consistent and the stock at current prices remains deeply undervalued. Do not act on this event alone; schedule a deep-dive on the next quarterly print.
+
+**Plain English:** A financial news site published an article saying Deckers' stock is falling because of margin pressure, but the article itself isn't included — just the headline. Looking at the actual numbers Deckers has reported, gross margins are still above 57%, the company generates nearly $900 million in cash per year, has no net debt, and earns an extraordinary 76% return on the capital it invests. The stock appears to be pricing in almost no future growth despite HOKA being one of the fastest-growing footwear brands in the world. The headline is worth tracking — margin deterioration is a real risk for any premium brand — but one screener alert doesn't change what this business is actually worth. The right move is to wait for the next earnings report to see whether margins are holding or genuinely slipping, and why.
+
+---
 ## 2026-07-31 — DECK Q1 FY27: Revenue +5.7% YoY, margins squeezed by SG&A; buybacks accelerating sharply
 **Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 85.0/100 · **ALERTED**
 
