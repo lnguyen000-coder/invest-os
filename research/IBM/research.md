@@ -1,6 +1,24 @@
 # International Business Machines Corporation (IBM) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-20 — IBM margin commitment intact but stock pressure signals market skepticism on execution
+**Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 66.0/100 · **ALERTED**
+
+**What changed:** A Trefis analysis highlights that IBM's forward margin guidance has not been revised downward despite the stock falling out of favor with the market. The piece suggests IBM management has held firm on its margin expansion targets even as the stock has underperformed. No specific new financial data is introduced, but the framing implies the market is discounting whether IBM can actually deliver on those commitments.
+
+**Why it matters:** Margin expansion is a central thesis driver: if IBM can structurally grow its software mix and expand operating margins, FCF compounds even on modest top-line growth. The market's skepticism — reflected in the stock's underperformance — could mean one of two things: either the market is wrong and this is a valuation opportunity, or it correctly perceives execution risk that the thesis hasn't fully priced. The article does not provide new evidence either way, but it flags that the credibility gap between guidance and delivery is becoming a focal investor concern.
+
+**Intrinsic value:** none / none via none — No new financial data is presented. The article restates that margin guidance has not changed, which is consistent with the existing thesis assumption. No adjustment to intrinsic value is warranted from this event alone.
+**New risks:**
+- Market sentiment divergence from management guidance creates the risk that when/if any guidance softening occurs, it will be disproportionately punished given elevated investor skepticism already priced into the stock.
+
+**Valuation:** fair value $75 / **$289** / $396 · implied growth at price: 3.3%
+
+**Committee memo:** This event is a secondary-source commentary, not a primary data point, and should be treated accordingly — it warrants a flag, not a position change. The core observation — that IBM management has maintained its margin guidance despite stock underperformance — is actually mildly supportive of the thesis if true, because it suggests management conviction rather than quiet retreat. IBM's observable gross margin trajectory (54% to 58.2% over four reported years) provides genuine structural evidence of software mix improvement, which is the mechanism the thesis relies on. The more important question this article raises is investigative: we should pull the most recent earnings call transcript and compare specific margin targets given 6–12 months ago against actual reported figures. If IBM has quietly missed or narrowed its margin guidance without formal acknowledgment, that would be a management credibility issue worth flagging. The current Net Debt/EBITDA of 3.47x is above our 2.5x comfort threshold and deserves monitoring — if margin expansion stalls and FCF softens, deleveraging slows and risk rises. At a forward P/E of ~18x and with the reverse DCF implying only 3.3% growth expectations, the bar for disappointment is low and the bar for upside surprise is also relatively accessible. I would hold conviction at current levels but actively seek the primary source data this article is characterizing before drawing any stronger conclusion. What would prove this judgment wrong: evidence that IBM's operating margin guidance for 2025–2026 has been formally or informally revised downward, or that the software segment's actual margins are declining despite the favorable mix shift narrative.
+
+**Plain English:** A financial analysis piece noted that IBM's management hasn't lowered its profit margin targets even though the stock has been struggling. This isn't new information — it's essentially a restatement that IBM's guidance is holding steady. The more important underlying concern is whether the market is right to be skeptical, meaning IBM might be promising margin improvements it can't deliver. IBM's actual financial track record over the past four years shows gross margins genuinely improving from 54% to 58%, which supports the thesis. But the stock's poor performance signals that investors want to see this translate into faster earnings growth. No action is warranted from this article alone — what matters is watching the next earnings report to see if actual margins match what management promised.
+
+---
 ## 2026-08-18 — IBM Maximo GovCloud FedRAMP auth: modest moat extension in federal SaaS, not a thesis mover
 **Thesis impact: STRENGTHENS** · Thesis strength: 72/100 · Conviction: 76.0/100 · **ALERTED**
 

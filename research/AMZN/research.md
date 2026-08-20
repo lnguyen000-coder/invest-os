@@ -1,6 +1,25 @@
 # Amazon Com Inc. (AMZN) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-20 — Anthropic stake potentially worth $400B+ — optionality is real but unverifiable; no thesis change yet
+**Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
+
+**What changed:** Reports suggest Amazon's cumulative investment in Anthropic (totaling ~$8B committed) could be worth over $400 billion if Anthropic achieves its reported ~$300B IPO valuation. This implies a paper gain of potentially 50x on invested capital. No IPO has been filed, no valuation is confirmed, and Amazon has not disclosed the stake's carrying value or ownership percentage on its balance sheet.
+
+**Why it matters:** The thesis already prices in AI infrastructure as a key driver — primarily through AWS compute demand from AI workloads. If the Anthropic stake converts to a liquid, realizable asset worth hundreds of billions, it represents a hidden asset not captured in current earnings or FCF, and could fund future capital deployment or return capital. However, the core thesis driver here is whether Anthropic strengthens AWS stickiness and AI revenue — not the paper mark on the equity stake.
+
+**Intrinsic value:** up / small (<5%) via risk — At $400B, a pro-rata stake (Amazon reportedly holds roughly 30%+ economically) could theoretically represent $120B+ in value against a $2.87T market cap — call it ~4%. But applying a 70-80% illiquidity/speculation discount to an unconfirmed pre-IPO number brings the realistic incremental intrinsic value contribution to well under 2%. This is optionality, not a DCF input.
+**New risks:**
+- If Anthropic's valuation collapses pre- or post-IPO, Amazon bears reputational risk around its AI capital allocation narrative, even if the dollar loss (~$8B committed) is manageable relative to Amazon's balance sheet.
+- Anthropic pursuing an IPO at a high valuation could accelerate competition: a well-capitalized public Anthropic may pursue its own cloud or inference infrastructure, reducing dependency on AWS over time.
+
+**Valuation:** fair value $0 / **$31** / $103
+
+**Committee memo:** The Anthropic headline is attention-grabbing but should not move our position sizing or conviction level in either direction. Our thesis rests on AWS's structural advantages in cloud infrastructure, the advertising flywheel, and improving retail economics — none of which are meaningfully altered by a speculative pre-IPO mark on a private AI lab. The $400B figure, if taken seriously, would imply Amazon holds an asset worth roughly 14% of its own market cap that isn't reflected in earnings or FCF — genuine hidden value, but deeply uncertain. The realistic probability-weighted contribution to intrinsic value is under 2% given illiquidity, dilution uncertainty at IPO, and the wide range of outcomes for frontier AI companies. What we should watch instead: whether Anthropic model integrations on AWS Bedrock are winning enterprise AI workloads away from Azure OpenAI Service — that is the question with multi-year cash flow implications. We hold conviction, take no action, and would be wrong if Anthropic's IPO either (a) crystallizes massive value that we underweighted, or (b) disappoints and triggers a reappraisal of Amazon's AI capital allocation credibility.
+
+**Plain English:** Amazon invested roughly $8 billion in Anthropic, an AI company, and reports now suggest that stake could be worth over $400 billion based on Anthropic's potential IPO valuation. That would be an extraordinary return on paper. However, Anthropic hasn't gone public yet, and pre-IPO valuations — especially in AI — can be wildly optimistic. The more important question for Amazon investors isn't whether this stake becomes a jackpot, but whether the Anthropic partnership makes AWS a better, stickier product for businesses building AI applications. That strategic angle was already part of the investment thesis. This news is exciting but doesn't change the fundamental case for owning Amazon.
+
+---
 ## 2026-08-19 — AWS AI at $25B run rate validates thesis but valuation already prices in substantial growth
 **Thesis impact: STRENGTHENS** · Thesis strength: 78/100 · Conviction: 71.0/100 · **ALERTED**
 

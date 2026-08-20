@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19 12:06 UTC",
+ "generated": "2026-08-20 12:06 UTC",
  "rows": [
   {
    "symbol": "CSU.TO",
@@ -36,13 +36,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 2998.41,
+   "price": 3102.9,
    "fair_low": 442.31560393113216,
    "fair_base": 4823.430825909175,
    "fair_high": 7420.604723281721,
-   "upside_pct": 60.86628666223683,
+   "upside_pct": 55.44912262429258,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -93,13 +94,14 @@
     85.0,
     85.0,
     85.0,
+    85.0,
     85.0
    ],
-   "price": 89.51,
+   "price": 91.57,
    "fair_low": 85.08203074644862,
    "fair_base": 213.9454386141005,
    "fair_high": 249.0914479502334,
-   "upside_pct": 139.01847683398557,
+   "upside_pct": 133.64140942896202,
    "last_impact": "neutral",
    "last_memo": "A financial news site published an article saying Deckers' stock is falling because of margin pressure, but the article itself isn't included \u2014 just the headline. Looking at the actual numbers Deckers has reported, gross margins are still above 57%, the company generates nearly $",
    "risks": [
@@ -117,7 +119,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3222.36,
+   "position_value": 3296.5199999999995,
    "thesis_needed": false
   },
   {
@@ -155,20 +157,21 @@
     79.0,
     86.0,
     83.0,
+    83.0,
     83.0
    ],
-   "price": 543.67,
+   "price": 546.03,
    "fair_low": 289.16284470284506,
    "fair_base": 487.3995682928012,
    "fair_high": 947.5440523750636,
-   "upside_pct": -10.350107916051797,
-   "last_impact": "weakens",
-   "last_memo": "A California court has started a major trial accusing Meta of designing Instagram in ways that harm children and cause addiction. Some headlines are calling this a $1.4 trillion threat to the company, which caused the stock to fall about 4% in a day. That dollar figure is almost ",
+   "upside_pct": -10.737584328186877,
+   "last_impact": "neutral",
+   "last_memo": "Meta made so much capital investment in AI computers and data centers in Q1 2025 that almost all of its cash profits went out the door as spending \u2014 leaving only $784 million in free cash flow instead of the multi-billion dollar figure investors are used to. This looks alarming i",
    "risks": [
-    "Court-ordered restrictions on algorithmic recommendation or ad-targeting systems for minors could reduce Instagram's advertising yield in a key demographic.",
-    "An adverse verdict could catalyze federal child-safety legislation that extends restrictions beyond minors or beyond Instagram to the full Family of Apps.",
-    "The trial, regardless of outcome, creates a prolonged overhang on the stock that may suppress valuation multiples during proceedings, creating a potential opportunity but also a timing uncertainty.",
-    "Court-ordered redesign of algorithmic recommendation or notification systems for minors could reduce teen engagement and set precedent applicable to broader platform design."
+    "If AI infrastructure capex remains at $64\u201372B+ annually for multiple years without clear revenue acceleration, normalized FCF could be structurally lower than prior models assumed, reducing intrinsic value by a moderate amount.",
+    "Competing hyperscalers (Google, Microsoft, Amazon) are making similar AI infrastructure bets; if AI commoditizes advertising targeting, the incremental ROI on Meta's spend could disappoint.",
+    "Balance sheet remains strong (net debt/EBITDA 0.2x), but sustained capex at this level could eventually crowd out buybacks if revenue growth disappoints, removing a key capital return lever.",
+    "Court-ordered restrictions on algorithmic recommendation or ad-targeting systems for minors could reduce Instagram's advertising yield in a key demographic."
    ],
    "catalysts": [
     {
@@ -179,69 +182,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8698.72,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "IBM",
-   "name": "International Business Machines Corporation",
-   "conviction": 76.0,
-   "thesis_strength": 72,
-   "conviction_history": [
-    45.7,
-    57.7,
-    57.7,
-    55.7,
-    45.7,
-    45.8,
-    65.8,
-    61.8,
-    71.8,
-    65.8,
-    66.0,
-    71.4,
-    72.0,
-    72.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    66.0,
-    76.0,
-    76.0,
-    76.0,
-    76.0,
-    72.0,
-    68.0,
-    72.0,
-    76.0,
-    76.0
-   ],
-   "price": 232.67,
-   "fair_low": 75.00733660346769,
-   "fair_base": 288.55960253064944,
-   "fair_high": 396.3485189888189,
-   "upside_pct": 24.020974999204658,
-   "last_impact": "strengthens",
-   "last_memo": "IBM just got the federal government's official security seal of approval for a cloud version of its Maximo software, which helps large organizations manage physical assets like equipment and facilities. This matters because U.S. government agencies can now buy Maximo as a subscri",
-   "risks": [
-    "Federal procurement cycles are long and unpredictable; FedRAMP authorization does not guarantee contract wins, and continued cost or DOGE-related federal IT budget pressures could delay or reduce expected government SaaS revenue.",
-    "Use of proceeds undisclosed: if this debt funds an acquisition rather than refinancing, it would trigger the kill criterion around value-destructive M&A and push leverage further above our comfort threshold.",
-    "Refinancing risk crystallized: rolling 2026 near-zero-coupon notes into 4.1-4.75% paper raises annual interest costs by an estimated $80-95M, modestly reducing FCF generation and slowing the deleveraging path.",
-    "Currency mismatch: CAD-denominated debt issued by a primarily USD-reporting company introduces a foreign exchange liability that must be hedged or absorbed, adding a small but real ongoing cost."
-   ],
-   "catalysts": [
-    {
-     "id": 33,
-     "symbol": "IBM",
-     "date": "2026-10-21",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
+   "position_value": 8736.48,
    "thesis_needed": false
   },
   {
@@ -281,20 +222,21 @@
     71.0,
     67.0,
     77.0,
+    75.0,
     75.0
    ],
-   "price": 481.63,
+   "price": 484.31,
    "fair_low": 63.537745917072016,
    "fair_base": 102.28449397541269,
    "fair_high": 191.70294335510366,
-   "upside_pct": -78.76284824960807,
+   "upside_pct": -78.88036712530968,
    "last_impact": "strengthens",
-   "last_memo": "Microsoft's CEO announced that the company's own custom AI chips are about 40% more efficient than relying on outside providers like OpenAI. Think of it like a restaurant that used to buy all its ingredients from one expensive supplier, and has now started growing some of its own",
+   "last_memo": "Meta \u2014 one of the world's largest and most technically sophisticated technology companies \u2014 has reportedly become one of Microsoft's biggest AI customers, paying to use Microsoft's Azure cloud for AI workloads. This matters because Meta could plausibly build or host most of this ",
    "risks": [
+    "Meta is also a major AI investor and competitor (via Llama and its own infrastructure); if Meta develops sufficient internal capability, it could reduce Azure dependency over time, making this a less durable customer relationship than a typical enterprise win.",
+    "Concentration risk: if Microsoft's AI revenue is being driven by a small number of hyperscaler-class customers rather than broad enterprise adoption, revenue could be more volatile than a diversified base would imply.",
     "The 40% efficiency figure is a CEO-level claim without independently audited operational data; if it overstates real-world gains, expectations built on it will disappoint.",
-    "Building proprietary silicon at scale requires sustained high capex and engineering talent; if execution falters, Microsoft remains more dependent on OpenAI and third-party GPUs than the market currently prices.",
-    "Vertical integration into chips creates new operational complexity and could divert management attention from software-layer AI monetization, which is nearer-term and higher-margin.",
-    "Acceleration of sovereign 'de-Americanization' IT policies could set a precedent that other governments (e.g., EU member states, Global South) reference when evaluating Microsoft dependency."
+    "Building proprietary silicon at scale requires sustained high capex and engineering talent; if execution falters, Microsoft remains more dependent on OpenAI and third-party GPUs than the market currently prices."
    ],
    "catalysts": [
     {
@@ -306,6 +248,132 @@
     }
    ],
    "position_value": 0,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "GOOGL",
+   "name": "Alphabet Inc.",
+   "conviction": 75.0,
+   "thesis_strength": 82,
+   "conviction_history": [
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    67.0,
+    67.0,
+    67.0,
+    65.0,
+    55.0,
+    65.0,
+    65.0,
+    67.0,
+    67.0,
+    67.0,
+    67.0,
+    75.0,
+    75.0,
+    75.0,
+    71.0,
+    73.0,
+    73.0,
+    71.0,
+    71.0,
+    71.0,
+    71.0,
+    71.0,
+    71.0,
+    71.0,
+    75.0
+   ],
+   "price": 344.72,
+   "fair_low": 98.1810001979202,
+   "fair_base": 182.2386496011964,
+   "fair_high": 390.11857819186713,
+   "upside_pct": -47.134297516478185,
+   "last_impact": "strengthens",
+   "last_memo": "Google just struck a deal giving it the right to buy up to $12.2 billion worth of shares in Marvell, a chip company that designs custom semiconductors for AI workloads. Think of it like a car manufacturer partnering with a specialized engine builder and locking in supply \u2014 Google",
+   "risks": [
+    "A $12.2B capital commitment to a single silicon partner concentrates supply-chain risk \u2014 if Marvell underdelivers on chip performance or roadmap, Google has limited near-term alternatives at this scale.",
+    "Custom silicon partnerships require deep engineering coordination; talent or integration failures could delay cost benefits and create stranded capital.",
+    "The equity buy-right creates mark-to-market exposure to Marvell's stock price, introducing a non-core financial asset on Alphabet's balance sheet that could distort reported earnings.",
+    "Use of proceeds is undisclosed; a large acquisition at a full multiple would represent a capital discipline risk inconsistent with the thesis."
+   ],
+   "catalysts": [
+    {
+     "id": 38,
+     "symbol": "GOOGL",
+     "date": "2026-10-28",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 3791.92,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "AMZN",
+   "name": "Amazon Com Inc.",
+   "conviction": 75.0,
+   "thesis_strength": 82,
+   "conviction_history": [
+    43.0,
+    43.0,
+    43.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    77.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    75.0,
+    71.0,
+    75.0
+   ],
+   "price": 265.84,
+   "fair_low": 0.3897164164121739,
+   "fair_base": 31.068186238720195,
+   "fair_high": 102.7302688951925,
+   "upside_pct": -88.31320108383983,
+   "last_impact": "neutral",
+   "last_memo": "Amazon invested roughly $8 billion in Anthropic, an AI company, and reports now suggest that stake could be worth over $400 billion based on Anthropic's potential IPO valuation. That would be an extraordinary return on paper. However, Anthropic hasn't gone public yet, and pre-IPO",
+   "risks": [
+    "If Anthropic's valuation collapses pre- or post-IPO, Amazon bears reputational risk around its AI capital allocation narrative, even if the dollar loss (~$8B committed) is manageable relative to Amazon's balance sheet.",
+    "Anthropic pursuing an IPO at a high valuation could accelerate competition: a well-capitalized public Anthropic may pursue its own cloud or inference infrastructure, reducing dependency on AWS over time.",
+    "If the $25B AI run rate figure is compositionally dominated by low-margin infrastructure (raw compute rental) rather than high-margin software services, the margin uplift thesis could be weaker than assumed.",
+    "Competitors (Microsoft, Google) are reporting comparable AI momentum, meaning the $25B figure may reflect industry-wide demand rather than Amazon-specific share gains \u2014 making it a rising-tide story rather than a moat-widening one."
+   ],
+   "catalysts": [
+    {
+     "id": 44,
+     "symbol": "AMZN",
+     "date": "2026-10-29",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 3987.5999999999995,
    "thesis_needed": false
   },
   {
@@ -343,13 +411,14 @@
     75.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 119.01,
+   "price": 119.45,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 271.3506351482216,
+   "upside_pct": 269.9827466637912,
    "last_impact": "weakens",
    "last_memo": "Lululemon's head of AI and technology just left the company, and this comes while the company is already searching for a permanent CEO. Neither leader has been replaced yet. This isn't a catastrophe for the brand or the business \u2014 the leggings still sell, the stores still perform",
    "risks": [
@@ -404,13 +473,14 @@
     71.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 219.74,
+   "price": 217.56,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -75.71343568789214,
+   "upside_pct": -75.47007886586421,
    "last_impact": "neutral",
    "last_memo": "NVIDIA apparently agreed to a slightly smaller guaranteed commitment for a massive data center it is helping OpenAI build in Ohio \u2014 the revised guarantee is $120 billion, down from some higher number. To put that in perspective, $120 billion is still one of the largest infrastruc",
    "risks": [
@@ -432,127 +502,66 @@
    "thesis_needed": false
   },
   {
-   "symbol": "GOOGL",
-   "name": "Alphabet Inc.",
-   "conviction": 71.0,
-   "thesis_strength": 78,
+   "symbol": "IBM",
+   "name": "International Business Machines Corporation",
+   "conviction": 66.0,
+   "thesis_strength": 62,
    "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    67.0,
-    67.0,
-    67.0,
-    65.0,
-    55.0,
-    65.0,
-    65.0,
-    67.0,
-    67.0,
-    67.0,
-    67.0,
-    75.0,
-    75.0,
-    75.0,
-    71.0,
-    73.0,
-    73.0,
-    71.0,
-    71.0,
-    71.0,
-    71.0,
-    71.0,
-    71.0,
-    71.0
+    45.7,
+    57.7,
+    57.7,
+    55.7,
+    45.7,
+    45.8,
+    65.8,
+    61.8,
+    71.8,
+    65.8,
+    66.0,
+    71.4,
+    72.0,
+    72.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    66.0,
+    76.0,
+    76.0,
+    76.0,
+    76.0,
+    72.0,
+    68.0,
+    72.0,
+    76.0,
+    76.0,
+    66.0
    ],
-   "price": 344.2,
-   "fair_low": 98.1810001979202,
-   "fair_base": 182.2386496011964,
-   "fair_high": 390.11857819186713,
-   "upside_pct": -47.05443067948971,
+   "price": 237.16,
+   "fair_low": 75.00733660346769,
+   "fair_base": 288.55960253064944,
+   "fair_high": 396.3485189888189,
+   "upside_pct": 21.672964467300314,
    "last_impact": "neutral",
-   "last_memo": "Alphabet just borrowed $25 billion by issuing bonds to investors, which is notable because this company usually sits on a massive pile of cash and rarely needs to borrow. The bonds range from short-term (due 2028) to very long-term (due 2066), at interest rates between roughly 4.",
+   "last_memo": "A financial analysis piece noted that IBM's management hasn't lowered its profit margin targets even though the stock has been struggling. This isn't new information \u2014 it's essentially a restatement that IBM's guidance is holding steady. The more important underlying concern is w",
    "risks": [
-    "Use of proceeds is undisclosed; a large acquisition at a full multiple would represent a capital discipline risk inconsistent with the thesis.",
-    "If debt is used to fund buybacks at 24x forward earnings, management is prioritizing financial engineering over reinvestment, which would be a credibility yellow flag.",
-    "Long-dated tranches (40-year notes at 6.5%) lock in financing cost at elevated rates; if AI capex returns disappoint, this leverage becomes harder to justify.",
-    "If AI infrastructure returns disappoint, Alphabet will have permanently increased its capital base and interest burden with limited ability to quickly reverse the commitment."
+    "Market sentiment divergence from management guidance creates the risk that when/if any guidance softening occurs, it will be disproportionately punished given elevated investor skepticism already priced into the stock.",
+    "Federal procurement cycles are long and unpredictable; FedRAMP authorization does not guarantee contract wins, and continued cost or DOGE-related federal IT budget pressures could delay or reduce expected government SaaS revenue.",
+    "Use of proceeds undisclosed: if this debt funds an acquisition rather than refinancing, it would trigger the kill criterion around value-destructive M&A and push leverage further above our comfort threshold.",
+    "Refinancing risk crystallized: rolling 2026 near-zero-coupon notes into 4.1-4.75% paper raises annual interest costs by an estimated $80-95M, modestly reducing FCF generation and slowing the deleveraging path."
    ],
    "catalysts": [
     {
-     "id": 38,
-     "symbol": "GOOGL",
-     "date": "2026-10-28",
+     "id": 33,
+     "symbol": "IBM",
+     "date": "2026-10-21",
      "label": "Earnings report",
      "source": "yfinance"
     }
    ],
-   "position_value": 3786.2,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "AMZN",
-   "name": "Amazon Com Inc.",
-   "conviction": 71.0,
-   "thesis_strength": 78,
-   "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    77.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    75.0,
-    71.0
-   ],
-   "price": 259.45,
-   "fair_low": 0.3897164164121739,
-   "fair_base": 31.068186238720195,
-   "fair_high": 102.7302688951925,
-   "upside_pct": -88.02536664531887,
-   "last_impact": "strengthens",
-   "last_memo": "Amazon's AI business \u2014 the part of its cloud division that helps companies build and run artificial intelligence applications \u2014 has grown to $25 billion in annual revenue. This matters because Amazon has been spending enormous amounts of money building AI infrastructure, and this",
-   "risks": [
-    "If the $25B AI run rate figure is compositionally dominated by low-margin infrastructure (raw compute rental) rather than high-margin software services, the margin uplift thesis could be weaker than assumed.",
-    "Competitors (Microsoft, Google) are reporting comparable AI momentum, meaning the $25B figure may reflect industry-wide demand rather than Amazon-specific share gains \u2014 making it a rising-tide story rather than a moat-widening one.",
-    "Execution risk on supply side: if Amazon cannot build data center and AI chip capacity fast enough to honor multi-year commitments, customer satisfaction and contract terms could be impaired.",
-    "Concentration risk: capacity locked through 2028 means AWS is betting heavily on AI workloads remaining on current architectural assumptions \u2014 a disruptive shift in AI compute paradigm (e.g., dramatically more efficient models) could strand infrastructure investment."
-   ],
-   "catalysts": [
-    {
-     "id": 44,
-     "symbol": "AMZN",
-     "date": "2026-10-29",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 3891.75,
+   "position_value": 0,
    "thesis_needed": false
   },
   {
@@ -590,18 +599,19 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 146.74,
+   "price": 146.92,
    "fair_low": 136.75084586911478,
    "fair_base": 244.06212335589788,
    "fair_high": 291.7030003299072,
-   "upside_pct": 66.32283178131244,
+   "upside_pct": 66.11906027491008,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 2201.1000000000004,
+   "position_value": 2203.7999999999997,
    "thesis_needed": true
   },
   {
@@ -639,13 +649,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 259.53,
+   "price": 286.84,
    "fair_low": 152.6314725975932,
    "fair_base": 441.1748921460508,
    "fair_high": 557.4933961752869,
-   "upside_pct": 69.9899403329291,
+   "upside_pct": 53.80521968555669,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -658,7 +669,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9083.55,
+   "position_value": 10039.4,
    "thesis_needed": true
   },
   {
@@ -696,13 +707,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 77.77,
+   "price": 80.22,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 63.174789157030055,
+   "upside_pct": 58.1912659279759,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -711,63 +723,6 @@
      "id": 32,
      "symbol": "NFLX",
      "date": "2026-10-20",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": true
-  },
-  {
-   "symbol": "UBER",
-   "name": "Uber Technologies Inc.",
-   "conviction": 63.0,
-   "thesis_strength": 50,
-   "conviction_history": [
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    63.0,
-    55.0,
-    55.0,
-    63.0,
-    55.0,
-    55.0,
-    63.0,
-    63.0
-   ],
-   "price": 74.66,
-   "fair_low": 20.129884707677242,
-   "fair_base": 90.94081916022745,
-   "fair_high": 120.94351547047137,
-   "upside_pct": 21.80661553740617,
-   "last_impact": "neutral",
-   "last_memo": "",
-   "risks": [],
-   "catalysts": [
-    {
-     "id": 50,
-     "symbol": "UBER",
-     "date": "2026-11-03",
      "label": "Earnings report",
      "source": "yfinance"
     }
@@ -810,13 +765,14 @@
     61.0,
     61.0,
     61.0,
+    61.0,
     61.0
    ],
-   "price": 171.54,
+   "price": 175.19,
    "fair_low": 8.040497535225128,
    "fair_base": 20.582035439741578,
    "fair_high": 25.664567046148527,
-   "upside_pct": -88.00161161260256,
+   "upside_pct": -88.2515923056444,
    "last_impact": "strengthens",
    "last_memo": "Palantir had a strong second quarter and told investors it now expects to make more money this year than it previously guided \u2014 a good sign that its AI platform (AIP) is actually being adopted by customers in meaningful ways, not just generating buzz. The stock jumped about 8% on",
    "risks": [
@@ -834,7 +790,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 25731.0,
+   "position_value": 26278.5,
    "thesis_needed": false
   },
   {
@@ -872,13 +828,14 @@
     61.0,
     61.0,
     61.0,
+    61.0,
     61.0
    ],
-   "price": 203.93,
+   "price": 202.61,
    "fair_low": 11.038403998229002,
    "fair_base": 13.39377615885872,
    "fair_high": 18.92134750614431,
-   "upside_pct": -93.43216978430897,
+   "upside_pct": -93.38938050498065,
    "last_impact": "neutral",
    "last_memo": "Shopify's stock jumped about 5% today, but there was no news behind it \u2014 no earnings, no product announcement, no guidance change. That kind of move on no information is just market noise. The business itself \u2014 its millions of merchants, its payments and financial tools, its grow",
    "risks": [
@@ -896,7 +853,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8157.200000000001,
+   "position_value": 8104.400000000001,
    "thesis_needed": false
   },
   {
@@ -934,13 +891,14 @@
     43.0,
     43.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 89.93,
+   "price": 87.98,
    "fair_low": 46.45671896898705,
    "fair_base": 68.5439290486749,
    "fair_high": 85.74192116037001,
-   "upside_pct": -23.780797232653295,
+   "upside_pct": -22.091465050380886,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -953,7 +911,65 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8993.0,
+   "position_value": 8798.0,
+   "thesis_needed": true
+  },
+  {
+   "symbol": "UBER",
+   "name": "Uber Technologies Inc.",
+   "conviction": 55.0,
+   "thesis_strength": 50,
+   "conviction_history": [
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    63.0,
+    55.0,
+    55.0,
+    63.0,
+    55.0,
+    55.0,
+    63.0,
+    63.0,
+    55.0
+   ],
+   "price": 78.04,
+   "fair_low": 20.129884707677242,
+   "fair_base": 90.94081916022745,
+   "fair_high": 120.94351547047137,
+   "upside_pct": 16.531034290399084,
+   "last_impact": "neutral",
+   "last_memo": "",
+   "risks": [],
+   "catalysts": [
+    {
+     "id": 50,
+     "symbol": "UBER",
+     "date": "2026-11-03",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
    "thesis_needed": true
   },
   {
@@ -991,9 +1007,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 27.68,
+   "price": 28.85,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1002,7 +1019,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 1079.52,
+   "position_value": 1125.15,
    "thesis_needed": true
   },
   {
@@ -1042,13 +1059,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 961.35,
+   "price": 956.99,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -33.96561532193785,
+   "upside_pct": -33.664765869805265,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1099,13 +1117,14 @@
     40.8,
     40.8,
     40.8,
+    40.8,
     40.8
    ],
-   "price": 133.44,
+   "price": 135.25,
    "fair_low": 16.960440723154207,
    "fair_base": 50.62500615912173,
    "fair_high": 61.67457025081336,
-   "upside_pct": -62.061596103775685,
+   "upside_pct": -62.569311527451575,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1156,9 +1175,10 @@
     40.0,
     40.0,
     40.0,
+    40.0,
     40.0
    ],
-   "price": 143.34,
+   "price": 139.65,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1213,13 +1233,14 @@
     14.9,
     14.9,
     38.9,
+    28.9,
     28.9
    ],
-   "price": 393.93,
+   "price": 388.61,
    "fair_low": 134.1071696713082,
    "fair_base": 207.6979230216282,
    "fair_high": 242.57120186391649,
-   "upside_pct": -47.27542380076962,
+   "upside_pct": -46.55363397194405,
    "last_impact": "weakens",
    "last_memo": "UnitedHealth is now dealing with two new legal problems on top of several existing ones. The IRS is looking at whether the company used overseas subsidiaries to pay less in taxes than it should have \u2014 if the government wins, UnitedHealth could owe significant back taxes and penal",
    "risks": [
@@ -1237,7 +1258,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6736.203,
+   "position_value": 6645.231000000001,
    "thesis_needed": false
   },
   {
@@ -1277,13 +1298,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 310.03,
+   "price": 316.83,
    "fair_low": 71.92111971979769,
    "fair_base": 72.43517666278456,
    "fair_high": 73.59059333079705,
-   "upside_pct": -76.63607500474644,
+   "upside_pct": -77.13752590891502,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1334,13 +1356,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 40.06,
+   "price": 41.05,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -39.55023883598814,
+   "upside_pct": -41.00810152910316,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1355,68 +1378,6 @@
    ],
    "position_value": 0,
    "thesis_needed": true
-  },
-  {
-   "symbol": "TSLA",
-   "name": "Tesla Inc.",
-   "conviction": 26.1,
-   "thesis_strength": 52,
-   "conviction_history": [
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    16.3,
-    16.3,
-    6.3,
-    16.3,
-    13.3,
-    13.3,
-    12.1,
-    12.1,
-    12.1,
-    16.1,
-    16.1,
-    16.1,
-    16.1,
-    26.1,
-    16.1,
-    16.1,
-    12.1,
-    26.1,
-    26.1,
-    26.1,
-    26.1,
-    22.1,
-    26.1,
-    26.1
-   ],
-   "price": 336.87,
-   "fair_low": 15.452268642505791,
-   "fair_base": 16.08681782130258,
-   "fair_high": 16.415240390523092,
-   "upside_pct": -95.22462142033943,
-   "last_impact": "strengthens",
-   "last_memo": "Tesla has started letting its own employees ride in its self-driving Cybercab taxis in Austin, Texas, which is the clearest sign yet that the robotaxi program is actually moving toward real-world use rather than just existing as a demo. This is genuinely good news for the thesis,",
-   "risks": [
-    "A high-profile safety incident during the Austin employee pilot \u2014 even a minor one \u2014 could trigger regulatory scrutiny that delays or blocks the public launch, disproportionately damaging the AV narrative given how much of the valuation depends on it.",
-    "Austin as a single-city pilot may reveal scalability constraints (geofencing, weather, edge cases) that make the path to national deployment longer and more capital-intensive than current investor assumptions.",
-    "Competitive pressure from Waymo's already-commercial multi-city operations means Tesla is entering a market where the benchmark is live, paying customers \u2014 not internal benchmarks.",
-    "Waymo's demonstrated willingness to absorb extreme import costs to scale its fleet signals that well-capitalized rivals will compete aggressively on autonomous deployment regardless of near-term economics, potentially delaying Tesla's window to establish robotaxi network effects."
-   ],
-   "catalysts": [
-    {
-     "id": 34,
-     "symbol": "TSLA",
-     "date": "2026-10-21",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
   },
   {
    "symbol": "IONQ",
@@ -1453,9 +1414,10 @@
     24.2,
     24.2,
     24.2,
+    24.2,
     24.2
    ],
-   "price": 44.12,
+   "price": 43.36,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1510,9 +1472,10 @@
     20.3,
     20.3,
     20.3,
+    20.3,
     20.3
    ],
-   "price": 19.53,
+   "price": 19.32,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1567,9 +1530,10 @@
     13.0,
     13.0,
     15.0,
+    17.0,
     17.0
    ],
-   "price": 67.07,
+   "price": 66.43,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1587,6 +1551,69 @@
      "id": 53,
      "symbol": "ASTS",
      "date": "2026-11-09",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "TSLA",
+   "name": "Tesla Inc.",
+   "conviction": 12.1,
+   "thesis_strength": 38,
+   "conviction_history": [
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    16.3,
+    16.3,
+    6.3,
+    16.3,
+    13.3,
+    13.3,
+    12.1,
+    12.1,
+    12.1,
+    16.1,
+    16.1,
+    16.1,
+    16.1,
+    26.1,
+    16.1,
+    16.1,
+    12.1,
+    26.1,
+    26.1,
+    26.1,
+    26.1,
+    22.1,
+    26.1,
+    26.1,
+    12.1
+   ],
+   "price": 351.12,
+   "fair_low": 15.452268642505791,
+   "fair_base": 16.08681782130258,
+   "fair_high": 16.415240390523092,
+   "upside_pct": -95.41842736918929,
+   "last_impact": "neutral",
+   "last_memo": "Tesla's stock jumped about 4% because a major bank reported that Tesla is confident about rolling out its robotaxi service and that its latest self-driving software is significantly better than before. One analyst also said robotaxis could make up 30% of the most optimistic valua",
+   "risks": [
+    "Sentiment-driven price appreciation (+4.2% on analyst commentary alone) further widens the gap between market price and fundamental fair value, increasing downside risk if autonomous driving timelines slip again.",
+    "Framing Cybercab as 30% of bull case in public analyst notes may set informal market expectations that, if unmet, create outsized negative reactions to any delay announcement.",
+    "A high-profile safety incident during the Austin employee pilot \u2014 even a minor one \u2014 could trigger regulatory scrutiny that delays or blocks the public launch, disproportionately damaging the AV narrative given how much of the valuation depends on it.",
+    "Austin as a single-city pilot may reveal scalability constraints (geofencing, weather, edge cases) that make the path to national deployment longer and more capital-intensive than current investor assumptions."
+   ],
+   "catalysts": [
+    {
+     "id": 34,
+     "symbol": "TSLA",
+     "date": "2026-10-21",
      "label": "Earnings report",
      "source": "yfinance"
     }
@@ -1629,9 +1656,10 @@
     11.4,
     11.4,
     11.4,
+    11.4,
     11.4
    ],
-   "price": 42.99,
+   "price": 40.06,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1686,9 +1714,10 @@
     10.3,
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 42.0,
+   "price": 42.84,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1743,9 +1772,10 @@
     9.6,
     9.6,
     9.6,
+    9.6,
     9.6
    ],
-   "price": 17.71,
+   "price": 17.0,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1792,9 +1822,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.51,
+   "price": 5.69,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1811,11 +1842,53 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 551.0,
+   "position_value": 569.0,
    "thesis_needed": true
   }
  ],
  "history": [
+  {
+   "date": "2026-08-20",
+   "symbol": "MSFT",
+   "impact": "strengthens",
+   "headline": "Meta as major Azure/AI customer validates MSFT's distribution-led AI monetization thesis",
+   "strength": 82
+  },
+  {
+   "date": "2026-08-20",
+   "symbol": "GOOGL",
+   "impact": "strengthens",
+   "headline": "Google secures $12.2B Marvell chip buy-right, deepening vertical AI infrastructure control",
+   "strength": 82
+  },
+  {
+   "date": "2026-08-20",
+   "symbol": "META",
+   "impact": "neutral",
+   "headline": "Q1 FCF plunge is a capex timing story, not a cash generation collapse \u2014 watch full-year trajectory",
+   "strength": 78
+  },
+  {
+   "date": "2026-08-20",
+   "symbol": "AMZN",
+   "impact": "neutral",
+   "headline": "Anthropic stake potentially worth $400B+ \u2014 optionality is real but unverifiable; no thesis change yet",
+   "strength": 82
+  },
+  {
+   "date": "2026-08-20",
+   "symbol": "IBM",
+   "impact": "neutral",
+   "headline": "IBM margin commitment intact but stock pressure signals market skepticism on execution",
+   "strength": 62
+  },
+  {
+   "date": "2026-08-20",
+   "symbol": "TSLA",
+   "impact": "neutral",
+   "headline": "Cybercab/FSD momentum is real signal but thesis remains priced for near-perfection",
+   "strength": 38
+  },
   {
    "date": "2026-08-19",
    "symbol": "MSFT",
@@ -2203,13 +2276,6 @@
   },
   {
    "date": "2026-08-05",
-   "symbol": "META",
-   "impact": "neutral",
-   "headline": "FCF crater is real but likely timing/capex \u2014 not a structural cash generation break",
-   "strength": 78
-  },
-  {
-   "date": "2026-08-05",
    "symbol": "AMZN",
    "impact": "strengthens",
    "headline": "AWS capacity spoken for through 2028 \u2014 AI demand backlog materially de-risks the core earnings driver",
@@ -2326,13 +2392,6 @@
    "impact": "neutral",
    "headline": "SHOP.TO fell 5.6% \u2014 price move only, no fundamental change detected",
    "strength": 72
-  },
-  {
-   "date": "2026-07-30",
-   "symbol": "MSFT",
-   "impact": "strengthens",
-   "headline": "Azure crosses $100B; AI monetization thesis advancing, but SaaS commoditization risk merits monitoring",
-   "strength": 74
   },
   {
    "date": "2026-07-30",
@@ -2483,38 +2542,10 @@
   },
   {
    "date": "2026-07-23",
-   "symbol": "IBM",
-   "impact": "weakens",
-   "headline": "IBM cuts 2026 revenue guidance after Q2 miss; thesis under modest pressure but not broken",
-   "strength": 62
-  },
-  {
-   "date": "2026-07-23",
-   "symbol": "TSLA",
-   "impact": "weakens",
-   "headline": "TSLA Q2 2026: Revenue +26% YoY but operating income collapses 57%; FCF turns negative",
-   "strength": 38
-  },
-  {
-   "date": "2026-07-23",
    "symbol": "NVDA",
    "impact": "neutral",
    "headline": "Google's TPU efficiency claim is a known risk materializing, not a thesis-breaker \u2014 yet",
    "strength": 74
-  },
-  {
-   "date": "2026-07-22",
-   "symbol": "GOOGL",
-   "impact": "neutral",
-   "headline": "Q2 earnings imminent; thesis intact but reverse-DCF implies ~26% growth priced in",
-   "strength": 72
-  },
-  {
-   "date": "2026-07-22",
-   "symbol": "SHOP.TO",
-   "impact": "strengthens",
-   "headline": "DoorDash integration adds omnichannel depth; analyst downgrade is valuation-driven, not thesis-driven",
-   "strength": 72
   }
  ]
 }
