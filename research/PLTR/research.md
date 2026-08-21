@@ -1,6 +1,22 @@
 # Palantir Tech Inc. (PLTR) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-21 — Zacks commentary on PLTR margin expansion adds no new data; thesis intact but valuation remains extreme
+**Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
+
+**What changed:** A Zacks article argues that Palantir's margin expansion signals a structural growth advantage. No new financial disclosures, guidance changes, or contract announcements accompany this piece. The source is third-party commentary, not a company filing or earnings release. The underlying margin trend it references — gross margins improving from ~79% to ~82% over four years and FCF scaling from $0.18B to $2.1B — was already known.
+
+**Why it matters:** Margin trajectory is a genuine thesis driver: rising FCF margins confirm that Palantir's platform has operating leverage, meaning each incremental dollar of revenue costs less to service than the last. However, a Zacks commentary piece does not add new information — it merely narrates existing fundamentals. The relevant question is whether the margin trend is structural (moat-driven pricing power and scale economics) or temporary (government contract mix, low capex). The data available suggests it is structural, but this event does not advance that determination.
+
+**Intrinsic value:** none / none via none — No new data was disclosed. The margin trajectory referenced in the article is already embedded in trailing financials and visible to any analyst. Intrinsic value estimates are unchanged.
+
+**Valuation:** fair value $8 / **$21** / $26
+
+**Committee memo:** This event is a secondary-source news article containing no new disclosures; the correct response is silence discipline — do not assign it significance it does not have. That said, the underlying margin data it references deserves periodic acknowledgment: Palantir has grown FCF from $180M to $2.1B in four years while expanding gross margins to 82.4%, which is a real operating achievement consistent with the thesis that deep platform integration creates durable pricing power and scale economics. The business quality is not in question. What remains the central tension in this thesis is the valuation gap between intrinsic value estimates (base case $20.58/share on DCF; high case $25.66) and the current price of $173.96 — a roughly 7-8x premium to our highest fair value estimate. At 153x EV/EBITDA and 68x trailing revenue, the market is not paying for today's cash flows; it is paying for a very specific and optimistic path of AIP-driven commercial acceleration over the next decade. The thesis can accommodate a premium, but this level of premium requires continuous positive surprise on commercial growth, AIP adoption, and margin sustainability — leaving essentially no margin of safety. My recommendation is to hold existing conviction if the position was sized appropriately at entry, but not to add at current levels. The event that would prove this judgment wrong is a sustained acceleration in US commercial customer count and revenue per customer that begins to close the gap between current price and intrinsic value through earnings growth rather than multiple expansion. Conversely, any deceleration in commercial growth or AIP adoption at this valuation would be severely punished.
+
+**Plain English:** A financial website published a positive article about Palantir's improving profit margins, but it contains no new information — it is simply summarizing numbers that were already public. Palantir's business is genuinely impressive: it is converting a growing share of revenue into cash, its gross margins are world-class, and the platform appears to have real operating leverage. The problem is not the business — it is the price. At roughly 68 times annual revenue, the stock is priced as if everything goes right for a very long time. A flattering article changes none of that math. The thesis remains intact, but nothing here moves the needle on what the company is actually worth.
+
+---
 ## 2026-08-13 — PLTR raises 2026 revenue guidance post Q2 beat; thesis intact but valuation remains the primary risk
 **Thesis impact: STRENGTHENS** · Thesis strength: 68/100 · Conviction: 61.0/100 · **ALERTED**
 

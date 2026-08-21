@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20 12:06 UTC",
+ "generated": "2026-08-21 12:04 UTC",
  "rows": [
   {
    "symbol": "CSU.TO",
@@ -37,13 +37,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 3102.9,
+   "price": 3075.89,
    "fair_low": 442.31560393113216,
    "fair_base": 4823.430825909175,
    "fair_high": 7420.604723281721,
-   "upside_pct": 55.44912262429258,
+   "upside_pct": 56.8141521936472,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -95,13 +96,14 @@
     85.0,
     85.0,
     85.0,
+    85.0,
     85.0
    ],
-   "price": 91.57,
+   "price": 88.86,
    "fair_low": 85.08203074644862,
    "fair_base": 213.9454386141005,
    "fair_high": 249.0914479502334,
-   "upside_pct": 133.64140942896202,
+   "upside_pct": 140.76686767285676,
    "last_impact": "neutral",
    "last_memo": "A financial news site published an article saying Deckers' stock is falling because of margin pressure, but the article itself isn't included \u2014 just the headline. Looking at the actual numbers Deckers has reported, gross margins are still above 57%, the company generates nearly $",
    "risks": [
@@ -119,7 +121,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3296.5199999999995,
+   "position_value": 3198.96,
    "thesis_needed": false
   },
   {
@@ -158,13 +160,14 @@
     86.0,
     83.0,
     83.0,
+    83.0,
     83.0
    ],
-   "price": 546.03,
+   "price": 545.83,
    "fair_low": 289.16284470284506,
    "fair_base": 487.3995682928012,
    "fair_high": 947.5440523750636,
-   "upside_pct": -10.737584328186877,
+   "upside_pct": -10.70487728911912,
    "last_impact": "neutral",
    "last_memo": "Meta made so much capital investment in AI computers and data centers in Q1 2025 that almost all of its cash profits went out the door as spending \u2014 leaving only $784 million in free cash flow instead of the multi-billion dollar figure investors are used to. This looks alarming i",
    "risks": [
@@ -182,7 +185,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8736.48,
+   "position_value": 8733.28,
    "thesis_needed": false
   },
   {
@@ -223,13 +226,14 @@
     67.0,
     77.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 484.31,
+   "price": 481.15,
    "fair_low": 63.537745917072016,
    "fair_base": 102.28449397541269,
    "fair_high": 191.70294335510366,
-   "upside_pct": -78.88036712530968,
+   "upside_pct": -78.74166185692347,
    "last_impact": "strengthens",
    "last_memo": "Meta \u2014 one of the world's largest and most technically sophisticated technology companies \u2014 has reportedly become one of Microsoft's biggest AI customers, paying to use Microsoft's Azure cloud for AI workloads. This matters because Meta could plausibly build or host most of this ",
    "risks": [
@@ -286,13 +290,14 @@
     71.0,
     71.0,
     71.0,
+    75.0,
     75.0
    ],
-   "price": 344.72,
+   "price": 340.67,
    "fair_low": 98.1810001979202,
    "fair_base": 182.2386496011964,
    "fair_high": 390.11857819186713,
-   "upside_pct": -47.134297516478185,
+   "upside_pct": -46.50581219326727,
    "last_impact": "strengthens",
    "last_memo": "Google just struck a deal giving it the right to buy up to $12.2 billion worth of shares in Marvell, a chip company that designs custom semiconductors for AI workloads. Think of it like a car manufacturer partnering with a specialized engine builder and locking in supply \u2014 Google",
    "risks": [
@@ -310,7 +315,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3791.92,
+   "position_value": 3747.3700000000003,
    "thesis_needed": false
   },
   {
@@ -349,13 +354,14 @@
     75.0,
     75.0,
     71.0,
+    75.0,
     75.0
    ],
-   "price": 265.84,
+   "price": 260.11,
    "fair_low": 0.3897164164121739,
    "fair_base": 31.068186238720195,
    "fair_high": 102.7302688951925,
-   "upside_pct": -88.31320108383983,
+   "upside_pct": -88.05575093663442,
    "last_impact": "neutral",
    "last_memo": "Amazon invested roughly $8 billion in Anthropic, an AI company, and reports now suggest that stake could be worth over $400 billion based on Anthropic's potential IPO valuation. That would be an extraordinary return on paper. However, Anthropic hasn't gone public yet, and pre-IPO",
    "risks": [
@@ -373,7 +379,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3987.5999999999995,
+   "position_value": 3901.65,
    "thesis_needed": false
   },
   {
@@ -412,13 +418,14 @@
     75.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 119.45,
+   "price": 115.69,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 269.9827466637912,
+   "upside_pct": 282.00742578433625,
    "last_impact": "weakens",
    "last_memo": "Lululemon's head of AI and technology just left the company, and this comes while the company is already searching for a permanent CEO. Neither leader has been replaced yet. This isn't a catastrophe for the brand or the business \u2014 the leggings still sell, the stores still perform",
    "risks": [
@@ -474,13 +481,14 @@
     75.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 217.56,
+   "price": 216.85,
    "fair_low": 31.97461213654321,
    "fair_base": 53.36729641942582,
    "fair_high": 116.22463125381913,
-   "upside_pct": -75.47007886586421,
+   "upside_pct": -75.38976415982208,
    "last_impact": "neutral",
    "last_memo": "NVIDIA apparently agreed to a slightly smaller guaranteed commitment for a massive data center it is helping OpenAI build in Ohio \u2014 the revised guarantee is $120 billion, down from some higher number. To put that in perspective, $120 billion is still one of the largest infrastruc",
    "risks": [
@@ -537,13 +545,14 @@
     72.0,
     76.0,
     76.0,
+    66.0,
     66.0
    ],
-   "price": 237.16,
+   "price": 233.69,
    "fair_low": 75.00733660346769,
    "fair_base": 288.55960253064944,
    "fair_high": 396.3485189888189,
-   "upside_pct": 21.672964467300314,
+   "upside_pct": 23.47965361403972,
    "last_impact": "neutral",
    "last_memo": "A financial analysis piece noted that IBM's management hasn't lowered its profit margin targets even though the stock has been struggling. This isn't new information \u2014 it's essentially a restatement that IBM's guidance is holding steady. The more important underlying concern is w",
    "risks": [
@@ -600,18 +609,19 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 146.92,
+   "price": 146.27,
    "fair_low": 136.75084586911478,
    "fair_base": 244.06212335589788,
    "fair_high": 291.7030003299072,
-   "upside_pct": 66.11906027491008,
+   "upside_pct": 66.85726625821964,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 2203.7999999999997,
+   "position_value": 2194.05,
    "thesis_needed": true
   },
   {
@@ -650,13 +660,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 286.84,
+   "price": 292.11,
    "fair_low": 152.6314725975932,
    "fair_base": 441.1748921460508,
    "fair_high": 557.4933961752869,
-   "upside_pct": 53.80521968555669,
+   "upside_pct": 51.030396818339256,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -669,7 +680,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 10039.4,
+   "position_value": 10223.85,
    "thesis_needed": true
   },
   {
@@ -708,13 +719,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 80.22,
+   "price": 80.14,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 58.1912659279759,
+   "upside_pct": 58.34918084280294,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -729,69 +741,6 @@
    ],
    "position_value": 0,
    "thesis_needed": true
-  },
-  {
-   "symbol": "PLTR",
-   "name": "Palantir Tech Inc.",
-   "conviction": 61.0,
-   "thesis_strength": 68,
-   "conviction_history": [
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    43.0,
-    55.0,
-    65.0,
-    65.0,
-    65.0,
-    65.0,
-    61.0,
-    61.0,
-    61.0,
-    55.0,
-    55.0,
-    61.0,
-    61.0,
-    65.0,
-    71.0,
-    45.0,
-    45.0,
-    45.0,
-    55.0,
-    55.0,
-    55.0,
-    61.0,
-    61.0,
-    61.0,
-    61.0,
-    61.0,
-    61.0
-   ],
-   "price": 175.19,
-   "fair_low": 8.040497535225128,
-   "fair_base": 20.582035439741578,
-   "fair_high": 25.664567046148527,
-   "upside_pct": -88.2515923056444,
-   "last_impact": "strengthens",
-   "last_memo": "Palantir had a strong second quarter and told investors it now expects to make more money this year than it previously guided \u2014 a good sign that its AI platform (AIP) is actually being adopted by customers in meaningful ways, not just generating buzz. The stock jumped about 8% on",
-   "risks": [
-    "Stock trading at ~8x the high-case DCF fair value means even strong execution may not prevent multiple compression if macro or sentiment shifts, with no margin of safety for the long-term investor who buys here.",
-    "Without the full earnings detail, it is unknown whether the Q2 beat was driven by a large one-time government contract or true broad-based commercial acceleration \u2014 the former would be a lower-quality beat.",
-    "Karp's public AI warning, while strategically smart, could signal that enterprise AI deployment timelines are stretching, which would delay AIP revenue conversion from bootcamps and pilots to large multi-year contracts.",
-    "At 68x trailing sales and ~155x EV/EBITDA, the stock is priced for perfection across a decade \u2014 any macro shock, competitor breakthrough, or government budget sequester that interrupts the growth trajectory could cause severe price correction even without fundamental business damage."
-   ],
-   "catalysts": [
-    {
-     "id": 46,
-     "symbol": "PLTR",
-     "date": "2026-11-02",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 26278.5,
-   "thesis_needed": false
   },
   {
    "symbol": "SHOP.TO",
@@ -829,13 +778,14 @@
     61.0,
     61.0,
     61.0,
+    61.0,
     61.0
    ],
-   "price": 202.61,
-   "fair_low": 11.038403998229002,
-   "fair_base": 13.39377615885872,
-   "fair_high": 18.92134750614431,
-   "upside_pct": -93.38938050498065,
+   "price": 203.37,
+   "fair_low": 11.13896935825137,
+   "fair_base": 13.515800132767517,
+   "fair_high": 19.09373040899594,
+   "upside_pct": -93.3540836245427,
    "last_impact": "neutral",
    "last_memo": "Shopify's stock jumped about 5% today, but there was no news behind it \u2014 no earnings, no product announcement, no guidance change. That kind of move on no information is just market noise. The business itself \u2014 its millions of merchants, its payments and financial tools, its grow",
    "risks": [
@@ -853,7 +803,71 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8104.400000000001,
+   "position_value": 8134.8,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "PLTR",
+   "name": "Palantir Tech Inc.",
+   "conviction": 55.0,
+   "thesis_strength": 62,
+   "conviction_history": [
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    43.0,
+    55.0,
+    65.0,
+    65.0,
+    65.0,
+    65.0,
+    61.0,
+    61.0,
+    61.0,
+    55.0,
+    55.0,
+    61.0,
+    61.0,
+    65.0,
+    71.0,
+    45.0,
+    45.0,
+    45.0,
+    55.0,
+    55.0,
+    55.0,
+    61.0,
+    61.0,
+    61.0,
+    61.0,
+    61.0,
+    61.0,
+    55.0
+   ],
+   "price": 173.96,
+   "fair_low": 8.040497535225128,
+   "fair_base": 20.582035439741578,
+   "fair_high": 25.664567046148527,
+   "upside_pct": -88.16852412063602,
+   "last_impact": "neutral",
+   "last_memo": "A financial website published a positive article about Palantir's improving profit margins, but it contains no new information \u2014 it is simply summarizing numbers that were already public. Palantir's business is genuinely impressive: it is converting a growing share of revenue int",
+   "risks": [
+    "Stock trading at ~8x the high-case DCF fair value means even strong execution may not prevent multiple compression if macro or sentiment shifts, with no margin of safety for the long-term investor who buys here.",
+    "Without the full earnings detail, it is unknown whether the Q2 beat was driven by a large one-time government contract or true broad-based commercial acceleration \u2014 the former would be a lower-quality beat.",
+    "Karp's public AI warning, while strategically smart, could signal that enterprise AI deployment timelines are stretching, which would delay AIP revenue conversion from bootcamps and pilots to large multi-year contracts.",
+    "At 68x trailing sales and ~155x EV/EBITDA, the stock is priced for perfection across a decade \u2014 any macro shock, competitor breakthrough, or government budget sequester that interrupts the growth trajectory could cause severe price correction even without fundamental business damage."
+   ],
+   "catalysts": [
+    {
+     "id": 46,
+     "symbol": "PLTR",
+     "date": "2026-11-02",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 26094.0,
    "thesis_needed": false
   },
   {
@@ -892,13 +906,14 @@
     43.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 87.98,
+   "price": 86.05,
    "fair_low": 46.45671896898705,
    "fair_base": 68.5439290486749,
    "fair_high": 85.74192116037001,
-   "upside_pct": -22.091465050380886,
+   "upside_pct": -20.34406850822208,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -911,7 +926,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8798.0,
+   "position_value": 8605.0,
    "thesis_needed": true
   },
   {
@@ -950,13 +965,14 @@
     55.0,
     63.0,
     63.0,
+    55.0,
     55.0
    ],
-   "price": 78.04,
+   "price": 78.55,
    "fair_low": 20.129884707677242,
    "fair_base": 90.94081916022745,
    "fair_high": 120.94351547047137,
-   "upside_pct": 16.531034290399084,
+   "upside_pct": 15.774435595451886,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1008,9 +1024,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 28.85,
+   "price": 29.1842,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1019,7 +1036,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 1125.15,
+   "position_value": 1138.1838,
    "thesis_needed": true
   },
   {
@@ -1060,13 +1077,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 956.99,
+   "price": 933.51,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -33.664765869805265,
+   "upside_pct": -31.99627672948865,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1118,13 +1136,14 @@
     40.8,
     40.8,
     40.8,
+    40.8,
     40.8
    ],
-   "price": 135.25,
+   "price": 131.77,
    "fair_low": 16.960440723154207,
    "fair_base": 50.62500615912173,
    "fair_high": 61.67457025081336,
-   "upside_pct": -62.569311527451575,
+   "upside_pct": -61.58078002646905,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1176,9 +1195,10 @@
     40.0,
     40.0,
     40.0,
+    40.0,
     40.0
    ],
-   "price": 139.65,
+   "price": 134.0,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1234,13 +1254,14 @@
     14.9,
     38.9,
     28.9,
+    28.9,
     28.9
    ],
-   "price": 388.61,
+   "price": 384.85,
    "fair_low": 134.1071696713082,
    "fair_base": 207.6979230216282,
    "fair_high": 242.57120186391649,
-   "upside_pct": -46.55363397194405,
+   "upside_pct": -46.03146082327447,
    "last_impact": "weakens",
    "last_memo": "UnitedHealth is now dealing with two new legal problems on top of several existing ones. The IRS is looking at whether the company used overseas subsidiaries to pay less in taxes than it should have \u2014 if the government wins, UnitedHealth could owe significant back taxes and penal",
    "risks": [
@@ -1258,7 +1279,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6645.231000000001,
+   "position_value": 6580.935000000001,
    "thesis_needed": false
   },
   {
@@ -1299,13 +1320,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 316.83,
+   "price": 311.3,
    "fair_low": 71.92111971979769,
    "fair_base": 72.43517666278456,
    "fair_high": 73.59059333079705,
-   "upside_pct": -77.13752590891502,
+   "upside_pct": -76.73139201323978,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1357,13 +1379,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 41.05,
+   "price": 40.21,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -41.00810152910316,
+   "upside_pct": -39.775741551098854,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1378,6 +1401,70 @@
    ],
    "position_value": 0,
    "thesis_needed": true
+  },
+  {
+   "symbol": "TSLA",
+   "name": "Tesla Inc.",
+   "conviction": 26.1,
+   "thesis_strength": 52,
+   "conviction_history": [
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    16.3,
+    16.3,
+    6.3,
+    16.3,
+    13.3,
+    13.3,
+    12.1,
+    12.1,
+    12.1,
+    16.1,
+    16.1,
+    16.1,
+    16.1,
+    26.1,
+    16.1,
+    16.1,
+    12.1,
+    26.1,
+    26.1,
+    26.1,
+    26.1,
+    22.1,
+    26.1,
+    26.1,
+    12.1,
+    26.1
+   ],
+   "price": 345.13,
+   "fair_low": 15.452268642505791,
+   "fair_base": 16.08681782130258,
+   "fair_high": 16.415240390523092,
+   "upside_pct": -95.33891060721972,
+   "last_impact": "weakens",
+   "last_memo": "Tesla told investigators that data from a fatal crash involving its Autopilot system didn't exist. A security researcher proved it did, and Tesla ended up paying $243 million to settle the lawsuit. The money itself is not the problem \u2014 it's a rounding error for a trillion-dollar ",
+   "risks": [
+    "NHTSA or other regulators may launch formal investigations into Tesla's data disclosure practices, potentially restricting Autopilot or FSD operations pending review.",
+    "The documented suppression of crash data creates a litigation template for plaintiffs' attorneys in future Autopilot/FSD accident cases, materially raising tail legal liability.",
+    "International regulators (EU, China) watching U.S. proceedings may impose their own data transparency requirements or operating conditions on Tesla's driver-assistance systems.",
+    "If additional instances of data denial or suppression surface, management credibility deteriorates to a threshold that could qualify as a kill criterion under 'execution deterioration across multiple business lines.'"
+   ],
+   "catalysts": [
+    {
+     "id": 34,
+     "symbol": "TSLA",
+     "date": "2026-10-21",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
+   "thesis_needed": false
   },
   {
    "symbol": "IONQ",
@@ -1415,9 +1502,10 @@
     24.2,
     24.2,
     24.2,
+    24.2,
     24.2
    ],
-   "price": 43.36,
+   "price": 41.53,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1473,9 +1561,10 @@
     20.3,
     20.3,
     20.3,
+    20.3,
     20.3
    ],
-   "price": 19.32,
+   "price": 18.8,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1531,89 +1620,27 @@
     13.0,
     15.0,
     17.0,
+    17.0,
     17.0
    ],
-   "price": 66.43,
+   "price": 65.06,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
    "upside_pct": null,
-   "last_impact": "strengthens",
-   "last_memo": "AST SpaceMobile announced it is expanding the factory where it builds its BlueBird satellites, which is a good and necessary step \u2014 you cannot beam internet from space with satellites you haven't made yet. The stock dropped about 6% the same day, largely because of negative chatt",
+   "last_impact": "weakens",
+   "last_memo": "AST SpaceMobile and SpaceX are apparently both trying to get the government to grant them rights to use the same slice of radio spectrum \u2014 the invisible airwave 'real estate' that satellites need to beam signals to phones. This matters because spectrum rights are permanent and le",
    "risks": [
-    "Expanded manufacturing capacity increases fixed cost commitments, widening the cash burn window if launch or commercial activation timelines slip.",
-    "Retail-driven volatility in the stock price could complicate future equity raises if sentiment deteriorates sharply, though current net cash position (-1.74x net debt/EBITDA, implying net cash) provides near-term runway.",
-    "Information gap risk: the committee is operating without Q2 2026 results, which means any position sizing or conviction adjustment is being made without the most recent execution data \u2014 itself a procedural risk for an early-stage, milestone-driven holding.",
-    "Test authorization does not guarantee commercial spectrum rights; the FCC could impose conditions or deny full commercial licensing even after successful testing."
+    "SpaceX, with superior regulatory leverage and deployed satellite infrastructure, could secure priority rights to the contested spectrum band, permanently impairing ASTS's service capacity or geographic reach.",
+    "A prolonged regulatory dispute could delay commercial service launch timelines, extending cash burn during a period when the company is already FCF-negative at approximately -$1.2B annually.",
+    "Spectrum competition with a well-resourced incumbent may force ASTS into costly legal proceedings or settlement terms that dilute the strategic value of any spectrum award.",
+    "Expanded manufacturing capacity increases fixed cost commitments, widening the cash burn window if launch or commercial activation timelines slip."
    ],
    "catalysts": [
     {
      "id": 53,
      "symbol": "ASTS",
      "date": "2026-11-09",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
-  },
-  {
-   "symbol": "TSLA",
-   "name": "Tesla Inc.",
-   "conviction": 12.1,
-   "thesis_strength": 38,
-   "conviction_history": [
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    16.3,
-    16.3,
-    6.3,
-    16.3,
-    13.3,
-    13.3,
-    12.1,
-    12.1,
-    12.1,
-    16.1,
-    16.1,
-    16.1,
-    16.1,
-    26.1,
-    16.1,
-    16.1,
-    12.1,
-    26.1,
-    26.1,
-    26.1,
-    26.1,
-    22.1,
-    26.1,
-    26.1,
-    12.1
-   ],
-   "price": 351.12,
-   "fair_low": 15.452268642505791,
-   "fair_base": 16.08681782130258,
-   "fair_high": 16.415240390523092,
-   "upside_pct": -95.41842736918929,
-   "last_impact": "neutral",
-   "last_memo": "Tesla's stock jumped about 4% because a major bank reported that Tesla is confident about rolling out its robotaxi service and that its latest self-driving software is significantly better than before. One analyst also said robotaxis could make up 30% of the most optimistic valua",
-   "risks": [
-    "Sentiment-driven price appreciation (+4.2% on analyst commentary alone) further widens the gap between market price and fundamental fair value, increasing downside risk if autonomous driving timelines slip again.",
-    "Framing Cybercab as 30% of bull case in public analyst notes may set informal market expectations that, if unmet, create outsized negative reactions to any delay announcement.",
-    "A high-profile safety incident during the Austin employee pilot \u2014 even a minor one \u2014 could trigger regulatory scrutiny that delays or blocks the public launch, disproportionately damaging the AV narrative given how much of the valuation depends on it.",
-    "Austin as a single-city pilot may reveal scalability constraints (geofencing, weather, edge cases) that make the path to national deployment longer and more capital-intensive than current investor assumptions."
-   ],
-   "catalysts": [
-    {
-     "id": 34,
-     "symbol": "TSLA",
-     "date": "2026-10-21",
      "label": "Earnings report",
      "source": "yfinance"
     }
@@ -1657,9 +1684,10 @@
     11.4,
     11.4,
     11.4,
+    11.4,
     11.4
    ],
-   "price": 40.06,
+   "price": 37.95,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1715,9 +1743,10 @@
     10.3,
     10.3,
     10.3,
+    10.3,
     10.3
    ],
-   "price": 42.84,
+   "price": 42.6,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1773,9 +1802,10 @@
     9.6,
     9.6,
     9.6,
+    9.6,
     9.6
    ],
-   "price": 17.0,
+   "price": 16.065,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1823,9 +1853,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.69,
+   "price": 5.27,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1842,11 +1873,32 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 569.0,
+   "position_value": 527.0,
    "thesis_needed": true
   }
  ],
  "history": [
+  {
+   "date": "2026-08-21",
+   "symbol": "PLTR",
+   "impact": "neutral",
+   "headline": "Zacks commentary on PLTR margin expansion adds no new data; thesis intact but valuation remains extreme",
+   "strength": 62
+  },
+  {
+   "date": "2026-08-21",
+   "symbol": "ASTS",
+   "impact": "weakens",
+   "headline": "ASTS and SpaceX competing for same spectrum band; regulatory outcome, not technology, becomes near-term gating factor",
+   "strength": 42
+  },
+  {
+   "date": "2026-08-21",
+   "symbol": "TSLA",
+   "impact": "weakens",
+   "headline": "Tesla paid $243M to settle suit after falsely claiming fatal Autopilot crash data didn't exist",
+   "strength": 52
+  },
   {
    "date": "2026-08-20",
    "symbol": "MSFT",
@@ -2331,13 +2383,6 @@
    "strength": 62
   },
   {
-   "date": "2026-08-04",
-   "symbol": "ASTS",
-   "impact": "neutral",
-   "headline": "WhatsApp/Meta tease is intriguing but unconfirmed; BlueBird launch remains the real thesis event",
-   "strength": 38
-  },
-  {
    "date": "2026-08-03",
    "symbol": "MSFT",
    "impact": "neutral",
@@ -2406,13 +2451,6 @@
    "impact": "strengthens",
    "headline": "DECK raises FY2027 guidance; growth implied by market price (4%) looks too pessimistic",
    "strength": 78
-  },
-  {
-   "date": "2026-07-30",
-   "symbol": "TSLA",
-   "impact": "weakens",
-   "headline": "Tesla Q-earnings miss triggers 15% selloff; no structural thesis change but valuation gap remains extreme",
-   "strength": 42
   },
   {
    "date": "2026-07-29",
@@ -2532,13 +2570,6 @@
    "impact": "weakens",
    "headline": "Q2 2026 10-Q filed; earnings triggered stock sell-off; capex surge and equity issuance are the real thesis tests",
    "strength": 62
-  },
-  {
-   "date": "2026-07-23",
-   "symbol": "PLTR",
-   "impact": "neutral",
-   "headline": "PLTR drops 6.1% \u2014 price move only, no thesis-relevant information",
-   "strength": 68
   },
   {
    "date": "2026-07-23",
