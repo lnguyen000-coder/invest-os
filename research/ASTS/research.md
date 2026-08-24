@@ -1,6 +1,20 @@
 # AST SpaceMobile Inc. (ASTS) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-24 — ASTS +5.5% on no new fundamental information — noise, not signal
+**Thesis impact: NEUTRAL** · Thesis strength: 38/100 · Conviction: 13.0/100 · **ALERTED**
+
+**What changed:** ASTS shares rose 5.5% from $65.06 to $68.65 in a single session. No new earnings release, partnership announcement, launch update, or regulatory filing accompanies this move. The price change is flagged by a rule-based screener, not by a material corporate event.
+
+**Why it matters:** For a pre-revenue, pre-profitability company trading at 232x trailing sales with a negative FCF of $1.8B TTM, daily price volatility is expected and uninformative. The thesis depends entirely on technology milestones, satellite deployment progress, and commercial partner conversion — none of which are affected by a single session's price move. The only way this price move matters is if it signals improved market appetite for dilutive capital raises at better terms, which is speculative.
+
+**Intrinsic value:** none / none via none — Intrinsic value is a function of long-run cash generation capacity, not daily price. No new information was released that would alter estimates of satellite deployment timelines, revenue ramp, or capital requirements.
+
+**Committee memo:** Today's 5.5% price move in ASTS is a rule-based alert with no underlying fundamental content. The committee should disregard it as investment signal. To restate where we stand: ASTS is a pre-commercial satellite operator burning approximately $1.8B in free cash flow annually against $115M in trailing revenue, implying a cash-consumption-to-revenue ratio that is unsustainable without continued capital markets access. The stock trades at 232x trailing sales — a valuation that prices in substantial probability of commercial success at scale. Our thesis conviction remains provisional and low (38/100) precisely because the critical unknowns — reliable broadband service at commercial scale, meaningful MNO revenue conversion, and non-dilutive financing — have not yet been resolved. Net debt is negative (meaning the company holds net cash), which is the one near-term comfort. We would hold any existing position without change and would not add on price strength alone. What would move the needle positively: announced commercial service activation with a major MNO partner, satellite launch success on the Block 2 constellation, or contracted recurring revenue above $50M. What would prove this judgment wrong and force a reassessment downward: any credible report of satellite performance degradation, MNO partner pulling back commitments, or a financing round at terms implying greater than 15% annual dilution.
+
+**Plain English:** ASTS stock jumped about 5.5% today, but nothing actually happened at the company. No new satellites launched, no new partnerships announced, no earnings reported. For a company that is still burning through nearly $2 billion a year in cash while generating almost no revenue, a single day's stock move tells us nothing useful. The real questions — can they build and launch enough satellites, will phone carriers pay for the service, and can they raise money without crushing existing shareholders — remain completely unanswered by today's price action. This is noise; the thesis is unchanged.
+
+---
 ## 2026-08-21 — ASTS and SpaceX competing for same spectrum band; regulatory outcome, not technology, becomes near-term gating factor
 **Thesis impact: WEAKENS** · Thesis strength: 42/100 · Conviction: 17.0/100 · **ALERTED**
 

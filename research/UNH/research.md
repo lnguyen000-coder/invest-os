@@ -1,6 +1,25 @@
 # Unitedhealth Group Inc. (UNH) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-24 — IRS scrutiny adds a tail risk but no structural thesis change without details
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 48.9/100 · **ALERTED**
+
+**What changed:** UnitedHealth Group is reportedly under IRS tax scrutiny, flagged as a potential regulatory/legal risk. The specific nature, scope, dollar magnitude, and timeline of the inquiry are not disclosed in the available material. No formal charges, settlement amounts, or material financial adjustments have been announced.
+
+**Why it matters:** Tax scrutiny can affect free cash flow and capital allocation if penalties, back-taxes, or audit-driven adjustments are material. For a company generating ~$24B in annual FCF, a one-time charge would need to exceed roughly $1-2B before it meaningfully dents intrinsic value. More importantly, if the scrutiny relates to Optum's structure or the integrated model's intercompany pricing, it could touch the thesis more directly — but there is no evidence of that yet.
+
+**Intrinsic value:** none / none via none — No dollar amount, subject matter, or resolution timeline is available. Assigning a valuation impact here would be fabricating precision. If a material adjustment emerges (e.g., >$2B penalty), this would be revisited as a small-to-moderate downward revision to FCF.
+**New risks:**
+- IRS scrutiny could result in material back-tax liability, penalties, or required restatements if the subject matter involves aggressive tax positions — scope and dollar exposure are currently unknown.
+- If scrutiny relates to intercompany transfer pricing between UnitedHealthcare and Optum, it could draw regulatory attention to the integrated model's economics, though this is speculative without further detail.
+
+**Valuation:** fair value $134 / **$208** / $243 · implied growth at price: 3.1%
+
+**Committee memo:** The IRS scrutiny headline on UNH warrants acknowledgment but not action. The source material provides no specifics on the subject of inquiry, alleged underpayment amounts, or timeline — making any valuation adjustment intellectually dishonest at this stage. UNH's financial position is resilient: 1.57x net debt/EBITDA, ~$24B in annual FCF, and a forward multiple that already prices in meaningful earnings recovery, suggesting the market has room to absorb a one-time charge. The thesis continues to rest on three structural pillars — MCR discipline, Optum growth, and FCF compounding — none of which are implicated by this news. What would concern me is if this scrutiny (a) reveals aggressive revenue recognition or intercompany pricing between the insurance and Optum segments, which would reframe historical earnings quality, or (b) results in a penalty large enough to impair multi-year capital return capacity (call that a threshold of $5B+). Neither condition is suggested by available evidence. Recommended posture: hold conviction, monitor for SEC or 10-Q disclosures that quantify exposure or describe the subject matter, and revisit if the company is required to disclose a material contingent liability. What would prove this judgment wrong: a disclosed settlement or reserve of $3B+ tied to structural tax avoidance in the Optum model.
+
+**Plain English:** The IRS is apparently looking into UnitedHealth's taxes, but we don't know why, how much money is at stake, or when it will be resolved. On its own, this is not a reason to change the investment view — UnitedHealth makes about $24 billion in cash per year and carries relatively modest debt, so it could absorb a large fine without breaking a sweat. The real question is whether the scrutiny reveals something deeper about how the company has been reporting its finances, and right now there's no evidence of that. This goes on the watch list, not the sell list. We need more information before drawing any conclusions.
+
+---
 ## 2026-08-19 — UNH faces IRS tax probe + governance lawsuit atop already-stressed fundamentals
 **Thesis impact: WEAKENS** · Thesis strength: 52/100 · Conviction: 28.9/100 · **ALERTED**
 

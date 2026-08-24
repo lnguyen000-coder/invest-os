@@ -1,6 +1,25 @@
 # Meta Platforms Inc. (META) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-24 — Addiction litigation noise; $1.4T 'overhang' claim is speculative, not a new legal event
+**Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 79.0/100 · **ALERTED**
+
+**What changed:** Commentator Gary Black has characterized Meta as facing a '$1.4 trillion tobacco-like legal overhang' tied to social media addiction lawsuits. Separately, ongoing coverage asks whether Meta could be found liable for driving addictive platform behavior. Neither event reflects a new court ruling, new legislation, or a newly filed material lawsuit; both are analyst opinion and media framing of existing, long-running litigation.
+
+**Why it matters:** The 'tobacco' analogy is deliberately alarming — it invokes an industry where litigation eventually forced structural business model changes and enormous settlements. If courts or regulators move toward a similar framework for social media, Meta's ability to deploy engagement-maximizing algorithms (its core monetization engine) could be constrained. However, the analogy does more rhetorical work than legal work: tobacco liability took decades to materialize, involved a knowingly harmful physical product, and required coordinated state AG action. None of those preconditions are clearly present here yet. The risk is real and already in our known-risks section; the news cycle is not adding new legal facts.
+
+**Intrinsic value:** none / none via none — No new legal facts have emerged. The litigation risk is already embedded in our discount rate. A structural reassessment would require a concrete legal or legislative trigger, not a commentator's analogy.
+**New risks:**
+- If addiction-liability litigation reaches trial and produces a plaintiff verdict, it could establish precedent that restricts algorithmic engagement optimization — which is structurally embedded in Meta's advertising yield.
+- The 'tobacco-like' framing, if adopted by mainstream financial media or institutional analysts, could compress Meta's valuation multiple even absent a legal ruling, creating a sentiment-driven discount.
+
+**Valuation:** fair value $289 / **$487** / $948 · implied growth at price: 20.7%
+
+**Committee memo:** The two events this week are noise dressed as signal. Gary Black's tobacco analogy is clever rhetoric, not legal analysis: it implies Meta's entire market cap is at risk from addiction litigation, but there is no basis in current U.S. law, no pending trial verdict, and no regulatory framework that would produce that outcome. The tobacco parallel required decades of litigation, state AG coordination, federal legislation, and ultimately settlement negotiations that the industry chose to settle rather than contest indefinitely. None of those conditions are present for social media addiction claims today. That said, the underlying litigation is not nothing — hundreds of municipalities and school districts have filed suits, and some version of platform-liability legislation periodically surfaces in Congress. We treat this as a low-probability, high-magnitude tail risk appropriately discounted in our cost of equity. At a forward P/E of ~16x with 28.8% ROIC, no net debt to speak of, and FCF compounding from $19B to $54B over four years, the market is not ignoring risk — it is already pricing a meaningful uncertainty premium. Our base fair value of $487 implies the stock is roughly fairly valued; the current price of $550 reflects modest optimism about AI-driven monetization acceleration. The committee should hold conviction and not trim on the basis of these headlines. What would change this judgment: a specific plaintiff verdict with large damages upheld on appeal, a federal bill imposing algorithmic liability with named platform obligations, or a state AG enforcement action resulting in injunctive relief on engagement design. Absent those triggers, silence discipline applies.
+
+**Plain English:** An analyst and some media coverage are drawing comparisons between Meta's addiction lawsuits and the tobacco industry's legal battles, suggesting Meta faces a massive legal liability. However, no new lawsuit was filed, no court ruled against Meta, and no new regulation was passed — this is opinion and framing, not a legal event. The addiction litigation is real and ongoing, but it has been known for years and is already part of our risk picture. The '$1.4 trillion overhang' figure is an analyst's extrapolation, not a court award. Meta's business — its users, its advertisers, its cash generation — is unchanged by this week's headlines. We keep watching, but we don't change our view.
+
+---
 ## 2026-08-20 — Q1 FCF plunge is a capex timing story, not a cash generation collapse — watch full-year trajectory
 **Thesis impact: NEUTRAL** · Thesis strength: 78/100 · Conviction: 83.0/100 · **ALERTED**
 

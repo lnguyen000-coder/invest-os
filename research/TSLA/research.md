@@ -1,6 +1,26 @@
 # Tesla Inc. (TSLA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-24 — Optimus 2026 launch date set — optionality signaled but no commercial proof yet
+**Thesis impact: NEUTRAL** · Thesis strength: 42/100 · Conviction: 16.1/100 · **ALERTED**
+
+**What changed:** Tesla has reportedly set a 2026 commercial launch date for its Optimus humanoid robot. Analyst commentary characterizes Tesla's manufacturing and AI integration as a 'massive advantage' over robotics competitors. A crypto prediction market is pricing 2026 launch odds, suggesting the market is beginning to treat this as a near-term event rather than distant speculation. The stock moved +5.1% on the day, likely reflecting enthusiasm around this announcement.
+
+**Why it matters:** Optimus is not in the current thesis as a near-term earnings driver — it is pure optionality. A credible 2026 launch date matters because it converts a vague long-term narrative into a testable milestone, which is good for thesis discipline. However, the thesis caution criterion is clear: capital allocated to projects without attractive long-term returns is a red flag. Until Tesla demonstrates unit economics, production volume, and a customer pipeline for Optimus, this is a milestone event, not a value event. The stock move is macro sentiment, not intrinsic value creation.
+
+**Intrinsic value:** none / none via none — No revenue, margin, or capital deployment data has been disclosed for Optimus. A launch date announcement has zero direct impact on a DCF that requires cash flow inputs. If in 12-18 months Tesla discloses unit economics and order volumes, that would warrant a scenario-weighted adjustment to terminal growth assumptions. We are not there yet.
+**New risks:**
+- A publicly stated 2026 Optimus launch date creates a credibility cliff: if launch slips materially, it will negatively reset management credibility scores precisely when Tesla needs investor trust on FSD and robotaxi timelines.
+- Capital deployment into Optimus manufacturing at scale could compete with vehicle and energy capex, increasing capital intensity if not sequenced carefully.
+- Market pricing Optimus optionality into the stock (already at 332x trailing P/E) means any delay or commercial disappointment could disproportionately compress the multiple.
+
+**Valuation:** fair value $15 / **$16** / $16
+
+**Committee memo:** The Optimus 2026 announcement is a milestone signal, not a value catalyst. The committee should hold conviction on the existing thesis framework while logging this as a trackable management commitment. Tesla's stock at 332x trailing earnings and 168x forward earnings already prices in substantial autonomous and robotics optionality — the question is not whether Optimus is exciting, but whether the current valuation leaves room for error if commercialization slips or unit economics disappoint. Our fair value estimate of approximately $16/share reflects the underlying cash flow business; the gap between that and $362 represents the market's bet on FSD, robotaxi, and now Optimus all working at scale. That gap is not irrational if all three succeed, but it demands execution discipline from management across simultaneous high-stakes launches. The core thesis risks that matter more than today's headline are: automotive gross margins stuck at 18% with no clear recovery catalyst, FCF of only $4.8B on a $1.4T market cap (a 0.3% FCF yield), and ROIC of 8.1% that barely clears a reasonable cost of capital. On Optimus specifically: we would need to see initial commercial contracts, disclosed cost-per-unit targeting, and a production ramp plan before adjusting any DCF inputs. I would hold existing position, not add on this news, and revisit when Q1/Q2 2026 shows first commercial deliveries or meaningful order backlog data. This judgment would be wrong if Tesla announces a large enterprise customer contract for Optimus with disclosed economics, or if FSD regulatory approval in a major market materializes simultaneously — either would represent genuine intrinsic value creation, not narrative.
+
+**Plain English:** Tesla announced it plans to start selling its humanoid robot, Optimus, in 2026. This sounds exciting, but right now it's a date on a calendar, not money in the bank. The stock jumped 5% on the news, which is the market getting enthusiastic about a possibility rather than a reality. Tesla's core business — selling cars — is facing real pressure: revenue has barely grown in two years and profit margins on cars have dropped significantly. The robot business could eventually be huge, but we have no idea yet what it costs to make, what customers will pay, or how many they'll actually sell. Until those numbers exist, this is an interesting headline, not a reason to change what we think Tesla is worth.
+
+---
 ## 2026-08-21 — Tesla paid $243M to settle suit after falsely claiming fatal Autopilot crash data didn't exist
 **Thesis impact: WEAKENS** · Thesis strength: 52/100 · Conviction: 26.1/100 · **ALERTED**
 

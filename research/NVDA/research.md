@@ -1,6 +1,25 @@
 # NVIDIA Corporation (NVDA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-24 — NVDA pays $6B to license Poolside AI model — CUDA moat unchanged, but watch software strategy
+**Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
+
+**What changed:** NVIDIA has agreed to pay $6 billion to license AI model software from Poolside, a startup focused on AI-generated code. This is a licensing arrangement for model weights/software, not an acquisition of the company. The deal represents a meaningful but not extraordinary capital outlay for a business generating ~$46B in annual FCF.
+
+**Why it matters:** The thesis rests heavily on NVIDIA owning the software stack that creates developer lock-in — CUDA, cuDNN, TensorRT, NIM microservices, etc. A $6B license to an external AI model raises two interpretive questions: (1) Is NVIDIA supplementing its platform with best-in-class models to deepen ecosystem value, or (2) does it signal that NVIDIA lacks competitive internal model capabilities and must buy them in? The answer determines whether this strengthens or weakens the CUDA moat argument.
+
+**Intrinsic value:** none / none via none — At ~$6B against $46B trailing FCF and a $5.2T market cap, this deal is not material to intrinsic value in either direction. If the Poolside model deepens platform stickiness and accelerates enterprise AI software adoption, there is a small positive optionality; if it represents the first of many expensive model licenses, margins could face modest headwinds — but neither scenario is established by this single data point.
+**New risks:**
+- If NVIDIA pursues a pattern of large external model licenses, cumulative licensing costs could meaningfully burden FCF and signal a strategic dependency on third-party AI capabilities.
+- Licensing Poolside's code-generation model creates a latent conflict-of-interest risk if Poolside later competes for enterprise software contracts that NVIDIA also pursues.
+
+**Valuation:** fair value $32 / **$53** / $116
+
+**Committee memo:** The Poolside licensing deal is real money but not a thesis-altering event. NVIDIA is spending $6B — roughly 13% of trailing FCF — to license a code-generation AI model, likely to embed in its enterprise software platform (NIM microservices, AI Foundry, DGX Cloud software layer). This is consistent with Jensen Huang's stated strategy of making NVIDIA the full-stack AI infrastructure provider, including curated model offerings. The screener note's concern that this 'challenges software lock-in' misreads the nature of CUDA's moat: lock-in comes from developer workflow dependencies, optimized libraries, and toolchain investment, none of which are threatened by NVIDIA licensing a model weight. The more important strategic question — one this deal does not resolve — is whether NVIDIA is successfully building a recurring software revenue stream that diversifies beyond hardware cycles. I would hold conviction at current levels. I would want to investigate: (1) the accounting treatment of the $6B (expensed vs. amortized, and over what period), (2) whether there are milestone-based additional payments, (3) how Poolside's model is being positioned within NVIDIA's software catalog and at what price point. What would prove this judgment wrong: a pattern of similar large external licenses over the next 12-18 months suggesting NVIDIA cannot build competitive AI software internally, or any indication that this deal was a defensive move to prevent Poolside from being acquired by a competitor and weaponized against NVIDIA's platform.
+
+**Plain English:** NVIDIA just agreed to pay $6 billion to license AI software from a startup called Poolside that specializes in AI that writes code. Think of it like a restaurant paying a premium for a signature sauce recipe to add to its menu — it doesn't mean the kitchen can't cook, it means the restaurant wants the best ingredients to keep customers coming back. NVIDIA's real competitive advantage isn't owning AI models; it's the underlying software and chip platform that runs all AI models, which millions of developers are deeply embedded in. A $6 billion check is large in absolute terms but amounts to about 13% of what NVIDIA generates in cash per year, so it won't break the business. The main thing to watch is whether this becomes a habit — if NVIDIA starts writing many checks like this, it could signal they're struggling to build competitive AI software internally.
+
+---
 ## 2026-08-17 — NVDA: OpenAI Ohio guarantee cut to $120B — noise on a massive number, not a thesis break
 **Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
 
