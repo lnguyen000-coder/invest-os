@@ -1,6 +1,22 @@
 # Amazon Com Inc. (AMZN) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-25 — Jassy's $1T AWS aspiration is plausible math, not near-term reality — thesis intact
+**Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
+
+**What changed:** CEO Andy Jassy has publicly stated he believes AWS can eventually reach $1 trillion in annual revenue. The Motley Fool piece models the implied timeline based on current growth rates (~17-20% annually), suggesting this milestone could arrive sometime in the mid-2030s. No new financial data, guidance revision, or structural product announcement accompanied the statement.
+
+**Why it matters:** AWS is the single most important driver of Amazon's intrinsic value — it generates the majority of operating income and funds the capital-intensive retail and logistics operations. A credible long-term growth trajectory for AWS directly affects the terminal value in any DCF. However, a CEO publicly aspirational comment is not a guidance raise; it is context. The more important question is whether current AWS growth rates (~17%) are durable, and whether incremental AI infrastructure demand (co-pilots, model training, inference) accelerates or sustains that rate into the late 2020s.
+
+**Intrinsic value:** none / none via none — No new financial data was provided. Jassy's aspiration is already embedded in any bull-case model for Amazon. Without an acceleration in reported AWS growth, margins, or backlog, there is no basis to revise intrinsic value estimates.
+
+**Valuation:** fair value $0 / **$31** / $103
+
+**Committee memo:** Jassy's $1T AWS comment generated media coverage but contains no new information material to intrinsic value. AWS at its current ~$100B annualized revenue growing 17-20% per year reaches $1T in the 2037-2040 timeframe — a reasonable aspiration for a business with durable switching costs and accelerating AI demand, but also a number so far out that it adds minimal precision to a 5-year thesis. The more operationally relevant question is whether AWS re-accelerates from its current ~17% growth rate as AI inference and training workloads scale, or whether Azure and GCP continue taking incremental share in new workload categories. We hold conviction at current levels; the thesis is intact and the balance sheet (0.76x net debt/EBITDA) gives management room to keep investing. I would not raise or trim based on this event. What would prove this judgment wrong: evidence that Jassy's optimism is disconnected from actual enterprise pipeline data — specifically, if AWS reported growth decelerates below 15% in the next two quarters while Azure reports acceleration, that would signal competitive displacement and trigger a thesis review. Absent that, this is a CEO playing to the long-term narrative, which is exactly what the thesis asks him to do.
+
+**Plain English:** Amazon's CEO said he thinks AWS — their cloud business — could one day reach $1 trillion in revenue. The math checks out if AWS keeps growing at roughly its current pace for another 13-15 years. But this is a long-range aspiration, not a new forecast or product announcement. Nothing about Amazon's actual competitive position, profitability, or growth rate changed today. The investment thesis for Amazon is already built on AWS being a dominant, growing, high-margin business — so this comment confirms the story rather than advancing it. There is nothing to do here.
+
+---
 ## 2026-08-20 — Anthropic stake potentially worth $400B+ — optionality is real but unverifiable; no thesis change yet
 **Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
 

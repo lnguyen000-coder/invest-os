@@ -1,6 +1,20 @@
 # AST SpaceMobile Inc. (ASTS) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-25 — 9.2% price drop is noise; no new information changes the ASTS thesis
+**Thesis impact: NEUTRAL** · Thesis strength: 40/100 · Conviction: 15.0/100 · **ALERTED**
+
+**What changed:** ASTS shares fell 9.2% from $68.65 to $62.35 in a single session. No new fundamental event, earnings release, partnership change, or regulatory filing has been provided to explain the move. The drop is flagged by a rule-based screener, not by a company disclosure.
+
+**Why it matters:** For a pre-revenue-scale, high-volatility name like ASTS — trading at 210x trailing sales with negative FCF of ~$1.8B TTM — daily price swings of 5-15% are routine and carry essentially no informational content about 2031 earnings power. The thesis here is binary and long-dated: either the satellite network gets built, commercially validated, and generates recurring carrier revenue at scale, or it doesn't. A single-session price move driven by momentum or macro sentiment does not advance or retard that question.
+
+**Intrinsic value:** none / none via none — Intrinsic value is determined by cash flows, not by today's price. No new information about ASTS's cash flow drivers has been presented. The price move is irrelevant to intrinsic value estimation.
+
+**Committee memo:** Today's 9.2% price decline in ASTS is entirely unaccompanied by new fundamental information and should be treated as noise. The stock trades at 210x trailing revenue with negative $1.8B in annual FCF, which means it is priced entirely on optionality — specifically, the probability that AST SpaceMobile builds, launches, and commercially operates a functional direct-to-smartphone satellite network at scale. That probability has not changed today. Our thesis strength remains at 40/100, reflecting the genuine possibility of success but also the very real and unresolved execution, financing, and competitive risks that define this investment. We hold conviction at current levels only because no kill criterion has been triggered. What would cause us to act: evidence of satellite underperformance in commercial deployment, a highly dilutive capital raise, a major operator reducing commitment, or a competitor (e.g., Starlink's direct-to-cell program) achieving scale commercial traction ahead of ASTS. We would also want to investigate whether this price move is accompanied by any insider selling, short interest spike, or analyst downgrade not captured in the provided data — those could carry signal. In the absence of that information, the correct action is to hold and monitor. Do not mistake price for information.
+
+**Plain English:** ASTS stock fell about 9% today, but there's no news attached to the move — it appears to be routine volatility for a highly speculative stock. This company is still in the early stages of building a satellite network that lets regular smartphones connect directly to space, and it's burning through roughly $1.8 billion in cash per year. Whether this company succeeds or fails will be determined by whether satellites get launched, whether they work reliably, whether phone carriers pay for the service, and whether the company can keep raising money without destroying existing shareholders. A one-day price drop tells us nothing about any of those things. The thesis conviction stays at 40 out of 100 — provisional, as it should be for a pre-commercial business with this much execution risk.
+
+---
 ## 2026-08-24 — ASTS +5.5% on no new fundamental information — noise, not signal
 **Thesis impact: NEUTRAL** · Thesis strength: 38/100 · Conviction: 13.0/100 · **ALERTED**
 
