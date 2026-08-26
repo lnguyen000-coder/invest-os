@@ -1,6 +1,29 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-26 — MSFT's AI disclosure gap leaves the 'underestimated monetization' thesis unverifiable
+**Thesis impact: WEAKENS** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
+
+**What changed:** The Wall Street Journal reports that Microsoft is not providing investors with meaningful segment-level disclosure on its AI-specific revenues, costs, or profitability. This means the AI monetization story — a central pillar of the thesis — cannot be independently verified from public filings. Investors are effectively being asked to trust management's qualitative commentary rather than auditable numbers.
+
+**Why it matters:** The thesis explicitly argues that the market underestimates Microsoft's ability to monetize AI through existing distribution channels. That claim requires evidence, and evidence requires disclosure. Without broken-out AI revenue, seat counts for Copilot, or AI-attributable margin contribution, the committee cannot distinguish genuine monetization progress from narrative. This is a transparency gap that directly impairs thesis verification — not just a minor reporting preference.
+
+**Intrinsic value:** none / none via risk — The lack of disclosure does not change what Microsoft actually earns — it changes how confidently we can underwrite future AI-driven earnings. Intrinsic value is unchanged today, but the confidence interval around our AI growth assumptions has widened. We would not move the base case number; we would widen the range between the low and base scenario.
+**Management credibility:** declined — The thesis scorecard rates Transparency at 15% weight as 'Very Good.' Actively obscuring a business line that management has repeatedly cited as central to the company's growth story — in earnings calls, investor days, and public commentary — is inconsistent with that rating. Companies that talk loudly about a growth driver but refuse to disclose its performance have historically created credibility problems when reality eventually surfaces. This is a yellow flag, not a red one, but it should be tracked quarterly.
+**New risks:**
+- Epistemic risk: the AI monetization thesis cannot be independently verified from public disclosures, meaning investors must rely entirely on management's qualitative framing.
+- Regulatory and investor backlash risk: the SEC or large institutional investors may eventually pressure Microsoft to provide more granular AI disclosure, potentially revealing a monetization gap relative to market expectations.
+- Narrative decoupling risk: management continues to promote AI as a growth driver publicly while not backing it with segment financials, which historically precedes negative surprises when disclosure eventually arrives.
+**⚠ Kill criteria at risk:**
+- Kill criterion #2 (AI monetization consistently fails despite heavy investment) cannot be monitored without disclosure — the absence of data means we are flying blind on the most critical near-term thesis driver.
+
+**Valuation:** fair value $64 / **$102** / $192 · implied growth at price: 29.5%
+
+**Committee memo:** Microsoft's decision not to break out AI revenues is a transparency problem that directly undermines one leg of our investment thesis. The thesis claims the market underestimates Microsoft's AI monetization potential — but without disclosed AI revenue, we cannot assess whether monetization is on track, accelerating, or lagging. The reverse DCF implies the current stock price requires ~29.5% long-term growth; a material portion of that must come from AI. We are being asked to pay for something we cannot measure. The underlying business remains exceptional: ROIC at 27%, net debt/EBITDA at 0.27x, and durable enterprise moats are intact. This is not a sell signal. However, we should reduce our confidence score modestly (from ~80 to ~72), flag this as an active monitoring item, and hold current position rather than adding. The two things that would resolve this favorably: (1) Microsoft begins breaking out Copilot seat counts, AI revenue, or Azure AI-attributed growth in coming quarters — which would restore verifiability, or (2) third-party data (channel checks, LinkedIn job postings, partner ecosystems) provides corroborating evidence of AI attach rates. What would prove this judgment wrong in the negative direction: if Microsoft continues to suppress disclosure while capex remains elevated and FCF growth stalls, that would suggest AI investment is not returning and management is hiding it — at which point kill criterion #2 would be formally at risk.
+
+**Plain English:** Microsoft keeps talking up its AI business as a massive growth engine, but it won't show investors the actual sales numbers for that business. The Wall Street Journal called this out specifically. For a company we're partly paying a premium for because of AI growth potential, not being able to see whether AI is actually generating meaningful revenue is a real problem — not because the business is broken, but because we can't verify our own investment case. The core Microsoft business (Office, Azure, Windows) is still excellent and cash-generative. But one of the key reasons we justified paying the current price was confidence in AI monetization, and right now that confidence has to rest on trust alone rather than data. That's a step backward in our ability to own this thesis with conviction.
+
+---
 ## 2026-08-20 — Meta as major Azure/AI customer validates MSFT's distribution-led AI monetization thesis
 **Thesis impact: STRENGTHENS** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
 
