@@ -1,6 +1,22 @@
 # International Business Machines Corporation (IBM) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-28 — 2nm mainframe is interesting engineering but doesn't move the thesis needle materially
+**Thesis impact: NEUTRAL** · Thesis strength: 62/100 · Conviction: 66.0/100
+
+**What changed:** IBM has announced a dual-architecture 2nm mainframe, representing a significant chip advancement for its mainframe line. The headline frames this as potentially reshaping IBM's investment case. No revenue figures, customer commitments, or pricing data are provided in the event material — only the architectural announcement itself.
+
+**Why it matters:** Mainframe sits inside IBM's Infrastructure segment, which is a managed-decline business by design — IBM has explicitly guided investors to expect secular revenue pressure there. A generational chip upgrade could slow that decline, extend refresh cycles, or modestly improve Infrastructure gross margins through better performance-per-watt economics. However, it does not address the core thesis drivers: Red Hat growth, software mix expansion, AI monetization, or consulting margins. The relevant question is whether this announcement changes what IBM earns in 2031, and the honest answer is: marginally at best, because Infrastructure's structural trajectory is down regardless of chip generation.
+
+**Intrinsic value:** none / none via none — A mainframe chip architecture upgrade defends the existing installed base but does not alter the structural decline trajectory of Infrastructure revenue. Without disclosed pricing, volume, or margin data, there is no basis to adjust intrinsic value estimates.
+
+**Valuation:** fair value $75 / **$289** / $396 · implied growth at price: 3.2%
+
+**Committee memo:** The 2nm mainframe announcement is an engineering milestone that belongs in a product press release, not an investment thesis revision. IBM's mainframe installed base is protected by switching costs so severe that most customers would sooner redesign their entire IT organization than migrate off the platform — the chip generation is largely irrelevant to that calculus. What this announcement does confirm is that IBM continues to invest in sustaining Infrastructure, which is appropriate stewardship of a cash-generating asset in managed decline. It does not change Infrastructure's long-term revenue trajectory, which is structurally downward as workloads gradually migrate. The more important unresolved question for this committee remains the balance sheet: at 3.47x net debt/EBITDA, IBM is materially above our 2.5x comfort threshold, and ROIC of 10.8% is adequate but not exceptional for the quality of business we want to own. The base-case fair value of ~$289 implies modest upside from current prices of ~$236, but that upside is hostage to software growth sustaining and AI bookings becoming material. I would hold current conviction, take no action on this announcement, and focus the next research cycle on Q2 software revenue trends and any update to AI-related bookings disclosures. This judgment would be wrong if the 2nm architecture enables IBM to attract new mainframe workloads from competitors or cloud-native workloads returning on-premises — that would be a genuine thesis strengthener worth revisiting, but we need commercial evidence, not architectural announcements.
+
+**Plain English:** IBM announced a new mainframe computer built on cutting-edge 2nm chip technology. This is genuinely impressive engineering, but it mostly helps IBM keep the customers it already has — companies that run their most critical operations on IBM mainframes are not going to switch anyway, and a faster chip makes them even less likely to try. The investment thesis for IBM is really about whether its software business and AI tools keep growing, not whether its mainframes get faster. This announcement doesn't change that picture. One separate concern worth noting: IBM's debt load (3.47x net debt/EBITDA) remains above the 2.5x threshold that warrants caution, and ROIC at 10.8% is modest — these are the more pressing fundamental issues to watch.
+
+---
 ## 2026-08-26 — IBM's dual-architecture mainframe chip is a moat-reinforcing product step, not a growth inflection
 **Thesis impact: STRENGTHENS** · Thesis strength: 72/100 · Conviction: 76.0/100 · **ALERTED**
 
