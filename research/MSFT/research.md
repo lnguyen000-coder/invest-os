@@ -1,6 +1,24 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-31 — Okta gaining AI security momentum — credible but not yet thesis-altering competitive signal
+**Thesis impact: NEUTRAL** · Thesis strength: 88/100 · Conviction: 81.0/100 · **ALERTED**
+
+**What changed:** Zacks published analysis noting Okta is gaining traction in AI-powered identity security, positioning itself as a competitive alternative to CrowdStrike and Microsoft in that segment. The article frames this as momentum for Okta specifically in AI-driven security workflows. No specific market share data, customer win counts, or revenue displacement figures were provided in the event.
+
+**Why it matters:** Cybersecurity revenue growth is listed as a key thesis driver (#10), and Microsoft's security business has been one of its fastest-growing segments — reportedly crossing $20B+ in annual revenue. Identity and access management (IAM) is where Okta directly competes with Microsoft Entra (formerly Azure AD). If Okta wins AI security deals that would otherwise consolidate into the Microsoft security stack, that chips at one of the cross-sell vectors that sustains Microsoft's ecosystem moat. However, the scale gap between Microsoft's security portfolio and Okta's single-product identity focus remains enormous.
+
+**Intrinsic value:** none / none via none — No quantifiable revenue or margin impact can be derived from a directional press article. Microsoft's security segment is large enough that Okta's gains in a subsegment would need to be dramatic and sustained to register at the consolidated level. No assumption changes are warranted.
+**New risks:**
+- If Okta successfully packages AI-native identity management as a best-of-breed alternative to Microsoft Entra, it could slow the 'consolidate security onto Microsoft' purchasing trend that has driven security segment outperformance — worth monitoring over 2-3 quarters.
+
+**Valuation:** fair value $64 / **$102** / $192 · implied growth at price: 30.1%
+
+**Committee memo:** The Okta-versus-Microsoft AI security narrative is a known competitive dynamic repackaged as a news event. Okta has competed with Microsoft Entra for years; adding 'AI' to the framing does not substantively change the competitive equation without data. Microsoft's security business benefits from a platform effect: Defender, Sentinel, Entra, Purview, and Intune are sold and operated together, creating cross-product switching costs that a best-of-breed identity vendor like Okta structurally cannot replicate at the enterprise level. The more important question — whether AI is making best-of-breed identity security compelling enough to break that integrated stack — is not answered by this article. To make this actionable, I would want to see: (1) Microsoft's security segment revenue growth rate over the next 2-3 quarters, (2) any mention of Entra churn or pricing pressure in Microsoft earnings calls, and (3) Okta's enterprise customer growth and net revenue retention trends. Until those data points shift, this is background noise. Hold conviction, no action. This judgment would be proven wrong if Microsoft's Q4 or FY2026 earnings showed security segment deceleration accompanied by management commentary on competitive pressure from Okta specifically — that combination would warrant a reassessment of the security growth assumption.
+
+**Plain English:** A financial news outlet wrote that Okta, a company focused on identity security, is gaining traction with AI-powered features and competing more aggressively with Microsoft and CrowdStrike. This is worth noting because Microsoft's security business is a major growth engine, and identity management (knowing who can access what) is where Okta directly overlaps with Microsoft. However, this is one analyst's opinion with no hard data — no customer wins, no revenue figures, no market share shifts. Microsoft's security products are deeply embedded across thousands of enterprises and work together in ways that Okta, as a standalone identity vendor, cannot easily replicate. This is something to watch over time, not something that changes the investment case today.
+
+---
 ## 2026-08-27 — Enterprise AI scaling to production is directionally positive but valuation gap remains large
 **Thesis impact: STRENGTHENS** · Thesis strength: 72/100 · Conviction: 65.0/100 · **ALERTED**
 

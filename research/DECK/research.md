@@ -1,6 +1,22 @@
 # Deckers Outdoor Corp. (DECK) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-31 — DECK renews $500M revolver to 2031 on favorable terms; no thesis impact
+**Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 95.0/100
+
+**What changed:** Deckers amended its unsecured revolving credit facility on August 27, 2026, increasing commitments from an unspecified prior amount to $500 million and extending the maturity date five years to August 27, 2031. Commitment fees were reduced (now 0.10%–0.175% on unused balances), and interest rate margins remain modest (1.00%–1.50% over SOFR). The facility remains unsecured and is intended for working capital and general corporate purposes.
+
+**Why it matters:** A revolving credit facility is liquidity insurance, not a growth driver. For Deckers, which carries net cash (net debt/EBITDA of -0.85x) and generates ~$870M in annual FCF, this facility is almost certainly undrawn in normal operations. The extension to 2031 matches the investor's holding horizon, which means the company has confirmed access to contingency capital through the full thesis period. The fee reduction is a marginal positive signal — lenders competed to keep this relationship on better terms — but it is immaterial to intrinsic value.
+
+**Intrinsic value:** none / none via none — A modestly cheaper revolving credit facility on an already net-cash balance sheet has no meaningful effect on free cash flow, growth trajectory, or risk profile. There is no change to intrinsic value.
+
+**Valuation:** fair value $85 / **$214** / $249 · implied growth at price: 1.4%
+
+**Committee memo:** The August 27, 2026 8-K discloses a routine amendment to Deckers' unsecured revolving credit facility: capacity increased to $500M, maturity extended to 2031, and commitment fees trimmed. This is standard treasury management for a company in Deckers' position — net cash on the balance sheet, ROIC near 77%, and FCF approaching $900M annually. The facility almost certainly sits undrawn. The five-year extension to 2031 is modestly constructive in that it locks in contingency liquidity through the full thesis horizon at favorable pricing, reflecting bank confidence in the credit. However, this filing contains zero information about HOKA growth, UGG trajectory, margins, or capital allocation — the actual levers of intrinsic value. I recommend holding conviction unchanged. The thesis is intact; the stock at ~$88 continues to imply only ~1.4% long-term growth in the reverse DCF against a base fair value estimate of ~$214, suggesting meaningful undervaluation if the core HOKA/UGG thesis plays out. This judgment would be wrong if subsequent filings reveal the facility was drawn to fund operations, signaling a hidden cash burn not visible in current FCF figures — that would warrant immediate investigation.
+
+**Plain English:** Deckers quietly renewed its backup line of credit — think of it as renewing a home equity line you almost never actually use. The credit limit went up to $500 million, the expiration was pushed out five years to 2031, and the bank fees got a little cheaper. For a company that already has more cash than debt and generates roughly $870 million in free cash flow per year, this is about as exciting as renewing a car insurance policy. It tells us the banks are happy to lend to Deckers on good terms, which is a mild positive signal about the company's financial health, but it changes nothing about whether HOKA keeps taking share or UGG keeps generating profits.
+
+---
 ## 2026-08-19 — Margin pressure headline needs verification; DECK still trades at >50% discount to base DCF
 **Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 85.0/100 · **ALERTED**
 

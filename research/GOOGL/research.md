@@ -1,6 +1,25 @@
 # Alphabet Inc. (GOOGL) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-31 — OpenAI's $1B ad run rate is real but tiny vs. Google's ~$265B ads base; thesis intact
+**Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 67.0/100 · **ALERTED**
+
+**What changed:** OpenAI has launched an advertising platform that has reached $1 billion in annualized revenue run rate. This news triggered a ~2.7% single-day decline in GOOGL shares. There are no other new material disclosures from Alphabet itself — no earnings update, no product announcement, no regulatory action.
+
+**Why it matters:** The thesis explicitly names 'AI permanently reduces Google's ability to monetize user queries' as a kill criterion, and 'search market share' as the primary intrinsic value driver. OpenAI entering advertising is the clearest sign yet that AI-native competitors intend to build full-stack monetization engines, not just search alternatives. However, the key question is velocity and trajectory: $1B annualized is roughly 0.4% of Google's current advertising revenue base (~$265B). The signal matters directionally, but it does not yet constitute evidence of material share loss.
+
+**Intrinsic value:** none / none via none — $1B in competitor ad revenue against a $265B Google ads base is not a structural earnings impairment event at this stage. No DCF input changes are warranted until there is evidence of sustained search query or monetization share loss at Alphabet itself.
+**New risks:**
+- OpenAI has demonstrated willingness and capability to build a full-stack advertising monetization layer, not just a search interface — meaning the competitive threat now includes advertiser budget competition, not only user attention competition.
+- If OpenAI's ad platform scales rapidly and attracts premium advertisers, it could put downward pressure on Google's CPMs in AI-adjacent query categories before Alphabet's own AI products fully offset the impact.
+
+**Valuation:** fair value $98 / **$182** / $390 · implied growth at price: 25.3%
+
+**Committee memo:** OpenAI's $1B annualized ad run rate is worth registering but does not move the needle on Alphabet's intrinsic value today. Google's advertising revenue base is roughly 265x that figure, and the trajectory of advertiser budget reallocation — the mechanism by which OpenAI's platform would actually harm Alphabet — is not visible in any data yet. The stock's 2.7% move is a sentiment reaction to a narrative that the market has been pricing in as a risk for two years; the actual new information is simply that OpenAI has confirmed advertising as a business line and hit a round number milestone. Our thesis was written with full awareness that AI-native competitors would eventually attempt to monetize user attention. The question we care about is whether Google Search's revenue per query is declining in structural terms — and that answer lives in Alphabet's quarterly results, not in a competitor's press release. I would hold conviction at current levels. The business is generating strong free cash flow ($73B TTM base before the recent single-period anomaly in the reported $22.6B figure — the committee should note the TTM FCF figure reported looks inconsistent with the annual history and warrants clarification), ROIC is 43%, the balance sheet carries net cash, and the forward P/E of ~23x is reasonable for a business with this quality profile. What would prove this judgment wrong: if Alphabet's next two earnings reports show declining revenue per search query, advertiser CPM compression in core categories, or accelerating market share loss in search volume — particularly in commercial-intent queries where monetization is densest. I would also want to see ChatGPT's advertiser count and retention data before concluding this platform has durable differentiation from an advertiser's perspective.
+
+**Plain English:** OpenAI just announced its advertising business is on pace to bring in $1 billion a year, which caused Google's stock to drop about 2.7% in a day. This matters because it shows OpenAI isn't just a chatbot — it's trying to become an advertising business, which is Google's core moneymaker. But to put it in perspective: Google makes over $265 billion a year from ads. OpenAI's $1 billion is real, but it's less than half a percent of that. The concern isn't today's numbers — it's the direction of travel. If people start using ChatGPT instead of Google to find products and services, and advertisers follow their attention, Google has a serious long-term problem. But that shift, if it happens, takes years. Right now there's no evidence Google is losing meaningful ad revenue. This is a risk worth watching closely, not a reason to change the investment thesis today.
+
+---
 ## 2026-08-27 — Cloud hits 21% of sales and AI talent/infrastructure moves reinforce execution trajectory
 **Thesis impact: STRENGTHENS** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
 

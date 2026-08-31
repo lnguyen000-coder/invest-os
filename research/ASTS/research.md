@@ -1,6 +1,23 @@
 # AST SpaceMobile Inc. (ASTS) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-08-31 — US Mobile targets Q4 ASTS service launch — a real milestone but not yet evidence of commercial scale
+**Thesis impact: STRENGTHENS** · Thesis strength: 42/100 · Conviction: 17.0/100 · **ALERTED**
+
+**What changed:** US Mobile, a mobile virtual network operator (MVNO), has publicly targeted a Q4 2025 launch of AST SpaceMobile's direct-to-device satellite service. This represents a named partner committing to a specific go-live timeline. No financial terms, subscriber targets, or revenue guarantees have been disclosed in the provided material.
+
+**Why it matters:** The single largest uncertainty in the ASTS thesis is converting announced partnerships into actual recurring revenue. A Q4 launch by US Mobile would be the first visible step from 'partner signed' to 'customer billed.' It is a small MVNO, so the direct revenue contribution will be modest, but the value is informational: it would confirm that the commercial stack — billing integration, coverage handoffs, regulatory clearances — actually works end-to-end with a real carrier. That de-risks every larger partner deal that follows.
+
+**Intrinsic value:** up / small (<5%) via risk — The direct revenue from a US Mobile launch is immaterial at current scale — ASTS's TTM revenue is ~$115M with essentially no service revenue yet. The value is in risk reduction: a successful Q4 launch modestly compresses the probability-weighted discount applied to the broader commercial rollout scenario. Intrinsic value moves up slightly through a lower risk premium, not through a growth assumption change.
+**New risks:**
+- If US Mobile's Q4 launch slips or launches with poor user experience, it could become a negative proof point that amplifies skepticism about larger partner deployments.
+- US Mobile is a small MVNO; over-reliance on small partners to validate commercial viability may give false confidence before the harder work of onboarding Tier-1 carriers.
+
+**Committee memo:** US Mobile's Q4 launch target is a constructive data point but should be treated as a near-term execution test rather than a financial event. ASTS trades at ~196x trailing sales with essentially zero service revenue, so the market is pricing an enormous future network — one that has never been demonstrated at commercial scale with a live carrier. US Mobile's announcement narrows one uncertainty: whether a partner will actually flip the switch in the near term. It does not address the larger questions of coverage quality, churn, pricing power, or whether Tier-1 operators will follow. My recommendation is to hold current conviction without adding. The thesis remains highly speculative and the thesis strength score of 42 reflects the pre-revenue reality: we are still in the phase of proving commercial viability, not harvesting it. The assumption changes I would need to see to move materially higher are: (1) actual Q4 launch confirmed by ASTS management, (2) early subscriber or usage data from the US Mobile deployment, and (3) any Tier-1 partner providing revenue guidance or expanding their commercial agreements. What would prove this judgment wrong: if US Mobile launches on time with strong early reviews and ASTS subsequently announces accelerated rollout agreements with larger carriers — that sequence would justify revisiting growth assumptions and could move intrinsic value estimates meaningfully upward.
+
+**Plain English:** A smaller U.S. cell carrier called US Mobile has said it wants to launch satellite phone coverage using AST SpaceMobile's network in the fourth quarter of this year. US Mobile isn't a giant carrier, so this won't generate meaningful revenue on its own. What matters is whether they actually turn the service on — because that would prove that AST's technology can be wired into a real carrier's billing and operations systems and delivered to real customers. Think of it as a dress rehearsal before the big show. If it works, it makes the case for larger partners (like AT&T or Verizon) a lot more believable. If it slips again, that's a yellow flag worth taking seriously.
+
+---
 ## 2026-08-28 — BlueBird deployment + NZ gateway are real milestones, but burn rate dwarfs revenue at 196x P/S
 **Thesis impact: STRENGTHENS** · Thesis strength: 42/100 · Conviction: 17.0/100 · **ALERTED**
 
