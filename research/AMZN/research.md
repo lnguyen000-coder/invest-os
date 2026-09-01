@@ -1,6 +1,28 @@
 # Amazon Com Inc. (AMZN) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-09-01 — FTC sues Amazon over ad practices; high-margin ad segment faces headline risk but thesis intact
+**Thesis impact: WEAKENS** · Thesis strength: 78/100 · Conviction: 71.0/100 · **ALERTED**
+
+**What changed:** The FTC has filed a lawsuit against Amazon targeting its advertising practices. The specific allegations are not fully detailed in the provided material, but the suit directly concerns the advertising business. Amazon's stock extended losses on the news, declining approximately 1.9% from the prior close.
+
+**Why it matters:** Advertising is one of Amazon's highest-margin revenue streams and a key driver of the thesis — it monetizes the company's unique high-intent shopping data in a way competitors cannot easily replicate. A regulatory action that forces changes to ad targeting, data usage, auction mechanics, or placement practices could structurally reduce either the growth rate or the margin profile of this segment. However, the severity depends entirely on the specific remedy sought and the likelihood of success, neither of which is determinable from current information.
+
+**Intrinsic value:** down / small (<5%) via risk — The advertising segment contributes disproportionately to Amazon's margin expansion story. Elevating regulatory risk on this segment raises the discount rate applied to those future cash flows. Without knowing the specific remedy sought, a small downward adjustment to intrinsic value is appropriate to reflect increased uncertainty, not an assumption of adverse outcome.
+**New risks:**
+- FTC lawsuit may seek to restrict Amazon's use of first-party retail data for ad targeting, which is the core competitive advantage of the advertising segment.
+- Regulatory precedent from this case could invite additional state or international regulatory scrutiny of Amazon's advertising practices.
+- Legal costs and management distraction, while manageable for a company of Amazon's scale, add friction.
+**⚠ Kill criteria at risk:**
+- Advertising growth weakens structurally — not triggered yet, but this lawsuit is the most direct plausible mechanism by which it could be triggered; requires active monitoring.
+
+**Valuation:** fair value $0 / **$31** / $103
+
+**Committee memo:** The FTC has initiated litigation against Amazon's advertising practices, elevating regulatory risk on a segment that is central to the margin expansion thesis. Advertising is not just a revenue line — it is the business that monetizes Amazon's unique closed-loop data asset, and its high-margin profile is a key reason the overall operating margin story improves as this segment grows. The lawsuit as reported does not specify the precise remedy sought, which is the most important unknown: a disclosure or transparency requirement is manageable; a forced structural separation of retail data from ad targeting would be materially more damaging. At present, I would hold conviction and not reduce the position, but I would immediately prioritize understanding the specific allegations in the FTC complaint. The intrinsic value impact is modest and risk-driven rather than cash-flow-driven at this stage. What would prove this judgment wrong: if the complaint reveals the FTC is targeting the fundamental closed-loop data architecture of Amazon's ad business — rather than surface-level disclosure practices — the downside to advertising growth and margins could be large enough to require a formal assumption revision. I would also be more concerned if other jurisdictions (EU, state AGs) pile on quickly, suggesting coordinated pressure rather than an isolated US action. Hold, investigate the complaint specifics, and revisit within 30 days with fuller legal context.
+
+**Plain English:** The US government's consumer protection regulator has sued Amazon over how it runs its advertising business. Amazon sells ads to brands that want to reach shoppers on its platform, and this is one of its most profitable businesses because Amazon knows exactly what people are shopping for. The lawsuit could, if successful, force Amazon to change how it targets or prices those ads, which would hurt profit margins. Right now, though, nothing has actually changed — lawsuits like this take years to resolve and often settle. The core business is fine, but this is a real risk that didn't formally exist before, and it targets one of the most important profit engines in the investment case.
+
+---
 ## 2026-08-28 — AWS expands chip deal, reducing NVIDIA dependency — thesis-positive but details needed
 **Thesis impact: STRENGTHENS** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
 

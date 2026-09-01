@@ -1,6 +1,25 @@
 # NVIDIA Corporation (NVDA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-09-01 — NVDA-MediaTek partnership is ecosystem expansion, not a thesis mover — details needed
+**Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
+
+**What changed:** NVIDIA has announced what is described as its largest foreign investment, a partnership with MediaTek. The specific terms, financial commitments, and strategic scope of the deal have not been disclosed in the provided material. The partnership appears to involve chip design collaboration and potentially signals NVIDIA deepening its presence in Asian semiconductor supply chains and end markets.
+
+**Why it matters:** NVIDIA's moat rests on a tightly integrated hardware-software-networking platform anchored by CUDA. A MediaTek partnership could extend that platform into edge devices, automotive, and IoT markets where MediaTek has strong OEM relationships — broadening the addressable ecosystem. Conversely, if this involves co-designing chips that sit outside NVIDIA's core GPU stack, it could dilute focus or introduce execution risk. The strategic direction matters more than the investment dollar amount.
+
+**Intrinsic value:** none / none via none — No financial terms are disclosed. Until we understand whether this partnership generates incremental revenue, expands the CUDA ecosystem into new device categories, or affects capital allocation, there is no defensible basis to adjust intrinsic value estimates.
+**New risks:**
+- Co-design partnerships with external chip companies introduce IP governance complexity and potential for roadmap misalignment if strategic priorities diverge.
+- A large foreign investment concentrated in Asia increases geopolitical exposure at a time when US-China technology tensions and export control regimes are active risks.
+
+**Valuation:** fair value $31 / **$53** / $116
+
+**Committee memo:** The MediaTek partnership headline is notable for its framing — 'largest foreign investment' — but is analytically incomplete. NVIDIA's core thesis rests on CUDA-driven switching costs, data center dominance, and exceptional free cash flow conversion ($96.7B in FCF over the last reported annual period). None of those drivers are touched by this announcement in a measurable way. MediaTek's strategic value to NVIDIA is real: MediaTek ships silicon into automotive (through relationships with major OEMs), smart home, and mobile categories where NVIDIA inference capability has commercial upside. If this partnership embeds NVIDIA's compute and software stack into MediaTek-designed SoCs, it would organically expand the CUDA developer footprint — which is the highest-quality form of moat extension. The geopolitical flag deserves monitoring: a large Asia-anchored investment comes at a moment of heightened US export control sensitivity, and any product produced from this partnership involving advanced AI capability could face regulatory scrutiny. My recommendation is to hold conviction unchanged, file this as a strategic watch item, and seek the actual partnership terms before drawing any valuation conclusions. This judgment would be proved wrong if the deal turns out to involve revenue-sharing on high-volume inference silicon at scale, in which case it would warrant a modest upward revision to long-term growth assumptions.
+
+**Plain English:** NVIDIA has made what's being called its biggest investment outside the US, partnering with MediaTek — a major chip company that makes processors for smartphones, cars, and smart devices. The deal could help NVIDIA get its AI software and computing capabilities into many more types of products through MediaTek's huge network of customers. However, we don't yet know what's actually in the agreement: how much money, what products, or when revenue might show up. For now, this looks like a strategic signal consistent with NVIDIA's push to be everywhere AI runs — from giant data centers down to the device in your car or home — but it doesn't change the investment math until we see real details.
+
+---
 ## 2026-08-24 — NVDA pays $6B to license Poolside AI model — CUDA moat unchanged, but watch software strategy
 **Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 75.0/100 · **ALERTED**
 

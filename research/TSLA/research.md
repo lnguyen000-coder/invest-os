@@ -1,6 +1,24 @@
 # Tesla Inc. (TSLA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-09-01 — Tesla lobbying EU with FSD safety data; regulatory pathway clarifying but approval not yet granted
+**Thesis impact: NEUTRAL** · Thesis strength: 52/100 · Conviction: 26.1/100 · **ALERTED**
+
+**What changed:** Tesla has published supervised self-driving safety statistics to European regulators ahead of a pending EU vote that could govern the legality of hands-on autonomous driving features in the region. The company is proactively engaging the regulatory process rather than waiting passively. No approval has been announced; this is pre-vote lobbying, not a regulatory win.
+
+**Why it matters:** EU regulatory approval is a necessary — not sufficient — condition for FSD monetization in Europe, which represents a meaningful addressable market. The thesis explicitly calls out 'FSD regulatory progress' as a key value driver and 'autonomous driving regulatory barriers' as a known risk. A favorable EU framework would expand the geography over which Tesla can charge for FSD subscriptions and accumulate incremental training data, both of which compound over time. The proactive data release also signals Tesla believes its supervised driving safety record is competitively defensible, which is relevant to the moat assessment around data advantage.
+
+**Intrinsic value:** none / none via none — No regulatory decision has been made. Lobbying activity and safety data disclosures are standard pre-vote procedure and do not themselves change the probability-weighted value of the EU FSD opportunity enough to move a needle on a business trading at 125x EV/EBITDA with the FSD option value already embedded in market expectations.
+**New risks:**
+- If the EU vote produces a restrictive framework for supervised autonomous driving, it could delay FSD monetization in Europe indefinitely and set a precedent that influences other jurisdictions.
+
+**Valuation:** fair value $15 / **$16** / $16
+
+**Committee memo:** Tesla's EU regulatory engagement is a routine process milestone, not a value-creating event. The company is presenting supervised FSD safety data ahead of a European legislative vote — this is what responsible regulatory affairs teams do, and it tells us nothing about the vote's outcome or timeline. The thesis requires autonomous driving to make 'measurable commercial progress,' and a favorable EU ruling would qualify; today's news does not. What deserves more of the committee's attention is the valuation disconnect: the stock trades at 336x trailing earnings and 125x EV/EBITDA against a business generating only $4.8B in TTM free cash flow on $103B in revenue — an FCF yield under 0.35% on market cap. ROIC at 8.1% is below most reasonable estimates of Tesla's cost of capital, meaning the current business is not yet earning its keep; the entire investment case rests on future businesses. That is not disqualifying for a long-term holder, but it means the margin for error on execution — FSD, energy scaling, Robotaxi — is essentially zero. Hold current position; do not add until either (a) valuation compresses to a level that prices in more realistic autonomous driving timelines, or (b) a concrete EU approval materializes alongside evidence that FSD attach rates are rising. This thesis would be proven wrong if EU regulators impose restrictions that mirror the restrictive approach taken historically in Germany, if FSD global paid subscriber numbers stagnate through 2025, or if energy storage margins fail to expand as deployments scale.
+
+**Plain English:** Tesla is trying to convince European regulators to allow its supervised self-driving feature by sharing data on how safely it has performed. No decision has been made yet — this is the lobbying phase, not a win. For long-term investors, European regulatory approval would open up another market for Tesla to charge monthly fees for its driving software, which is a high-profit-margin business. But since nothing has been approved, nothing about the investment case has changed today. The bigger context is that the stock is priced at an extreme premium — over 330 times last year's earnings — which means a lot of the autonomous driving future is already baked into the price, and the company's core auto margins remain depressed compared to a few years ago.
+
+---
 ## 2026-08-27 — Robotaxi expansion + Semi event signal commercial momentum, but valuation gap remains enormous
 **Thesis impact: STRENGTHENS** · Thesis strength: 38/100 · Conviction: 12.1/100 · **ALERTED**
 
