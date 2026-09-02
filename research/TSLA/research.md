@@ -1,6 +1,33 @@
 # Tesla Inc. (TSLA) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-09-02 — Cybercab launch and FSD fatality scrutiny arrive simultaneously — thesis at an inflection
+**Thesis impact: WEAKENS** · Thesis strength: 52/100 · Conviction: 26.1/100 · **ALERTED**
+
+**What changed:** Tesla is holding its Cybercab product launch event this week, a milestone tied directly to autonomous driving commercialization. Simultaneously, a fatal crash in Illinois involving FSD has triggered fresh NHTSA-level regulatory scrutiny. On the macro side, the Trump administration declared a bulk power 'emergency,' a policy move that analysts expect to benefit grid-scale energy storage operators including Tesla.
+
+**Why it matters:** Autonomous driving commercialization is the single largest option value embedded in Tesla's current ~$1.4T market cap. The Cybercab launch is the moment the market gets to test whether Tesla can translate its FSD development into a revenue-generating robotaxi product. The fatal crash creates a regulatory overhang that could delay deployment timelines, raise compliance costs, or damage public trust — all of which compress the value of the autonomous optionality. The energy storage tailwind is real but secondary; it supports a business line that is growing but not yet large enough to move the intrinsic value needle materially on its own.
+
+**Intrinsic value:** down / small (<5%) via risk — The fatality-driven regulatory scrutiny raises the risk premium on the autonomous driving option — the highest-value component of the bull case. However, because the Cybercab launch is still proceeding and the energy tailwind partially offsets, the net intrinsic value impact is a modest risk-rate increase rather than a structural growth write-down. The market's ~$1.4T cap already prices in substantial FSD success, so any delay multiplies quickly into dollar terms even at small probability shifts.
+**Moat:** narrowed — Tesla's data advantage and FSD software moat — the two most defensible autonomous driving assets — are under regulatory pressure following the Illinois fatality. If NHTSA imposes operational restrictions on FSD deployments, Tesla's ability to collect incremental real-world training data slows, which is exactly the feedback loop that makes the data moat self-reinforcing. A slower data collection rate benefits competitors who are closing the gap. This is a narrow, not catastrophic, moat impact — but directionally negative.
+**New risks:**
+- NHTSA investigation stemming from the Illinois FSD fatality could impose deployment restrictions, software rollback requirements, or extend commercialization timelines by 12–24 months.
+- Public trust in FSD erodes ahead of the Cybercab launch, reducing consumer willingness to pay for autonomy features and pressuring FSD attach rates.
+- Cybercab launch details disappoint on commercialization timeline specifics, converting an anticipated catalyst into a 'sell the news' event.
+- Regulatory framework for robotaxi deployment in key states remains undefined, creating a gap between product availability and legal permissibility.
+**⚠ Kill criteria at risk:**
+- Autonomous driving repeatedly misses meaningful milestones — the FSD fatality and associated regulatory scrutiny represent a new obstacle to the commercialization timeline; not yet triggered but now on watch.
+- Management execution deteriorates across multiple business lines — requires monitoring post-Cybercab event details before assessing.
+**Proposed valuation assumption changes (edit assumptions.yaml to accept):**
+- `discount_rate`: 0.1 → 0.105 — FSD regulatory risk has increased the uncertainty of the autonomous driving timeline, warranting a modest risk premium increase on the overall business given how much terminal value depends on that optionality.
+
+**Valuation:** fair value $15 / **$16** / $16
+
+**Committee memo:** The coincidence of the Cybercab launch and an FSD fatality investigation is not noise — it is a signal that the path to autonomous commercialization is becoming more complicated at exactly the moment Tesla needs a clean runway. Our thesis assigns significant option value to FSD and robotaxi becoming real revenue contributors; that option is worth less today than it was a week ago, not because the technology failed, but because the regulatory and reputational environment just got harder to navigate. The energy storage tailwind from the bulk power emergency declaration is a genuine positive for the energy segment, but it is not large enough to compensate for autonomous driving timeline risk given the current valuation of ~330x trailing earnings and ~128x EV/EBITDA. We do not have the Cybercab launch details yet, which means the most important data point — what timeline and economics Tesla is actually committing to — is still unknown. I would hold current position size and not add into this event; adding ahead of a binary catalyst at this valuation is speculation, not investing. What would prove this judgment wrong: Cybercab launches with concrete revenue timelines (e.g., commercial operations in specific markets by a defined date), NHTSA closes its review without imposing operational restrictions, and FSD attach rates accelerate in the next earnings print. Conversely, this judgment is confirmed if the NHTSA investigation drags into 2026, the Cybercab timeline is vague, and automotive margins remain compressed — at that point we are paying an AI company multiple for a business delivering automotive company returns, which is not a position we can defend.
+
+**Plain English:** Tesla is launching its Cybercab robotaxi product this week — a big moment for the company's vision of making money from self-driving cars. At the same time, a driver was killed in Illinois while using Tesla's Full Self-Driving software, and regulators are now taking a closer look at whether FSD is safe enough to expand. These two things happening together is an awkward combination: Tesla is trying to show the world it's ready for autonomous vehicles while simultaneously defending itself against safety questions. There's also a piece of good news: a Trump administration energy policy move is likely to help Tesla sell more of its grid-scale batteries. Overall, this week feels like a test of whether Tesla's autonomous driving story is still on track — the answer won't be clear until we see the actual details of the Cybercab launch and how the regulatory process around the fatality unfolds.
+
+---
 ## 2026-09-01 — Tesla lobbying EU with FSD safety data; regulatory pathway clarifying but approval not yet granted
 **Thesis impact: NEUTRAL** · Thesis strength: 52/100 · Conviction: 26.1/100 · **ALERTED**
 

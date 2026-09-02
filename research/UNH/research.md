@@ -1,6 +1,25 @@
 # Unitedhealth Group Inc. (UNH) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-09-02 — UNH pledges to remove prior-auth on 30% of services — modest positive, but valuation gap remains the dominant issue
+**Thesis impact: NEUTRAL** · Thesis strength: 52/100 · Conviction: 28.9/100 · **ALERTED**
+
+**What changed:** UnitedHealth announced it is targeting the removal of prior-authorization requirements for approximately 30% of services. The stock rallied on the news. No financial guidance was revised, and no timeline or specific service categories were detailed in the available material.
+
+**Why it matters:** Prior-authorization is a flashpoint for regulatory scrutiny, provider friction, and member dissatisfaction — all of which carry political and litigation risk that is explicitly listed in the thesis as a known risk. Reducing prior-auth on a meaningful share of services could lower administrative costs, improve provider relationships (a switching-cost reinforcer for Optum's care delivery network), and reduce regulatory/reputational overhang. However, the offsetting risk is real: prior-auth exists partly to manage utilization, and removing it could allow medical costs to rise if not replaced by alternative care management tools.
+
+**Intrinsic value:** none / none via none — Intrinsic value is unchanged until there is evidence that removing prior-auth either (a) sustainably reduces administrative costs enough to expand margins or (b) does not cause MCR deterioration. The announcement alone provides neither. We would need 2-3 quarters of MCR data post-implementation before adjusting any model assumptions.
+**New risks:**
+- Removing prior-authorization for 30% of services without demonstrated alternative utilization controls could accelerate medical cost trends and push MCR above pricing, directly triggering a kill criterion.
+- If the policy change is driven primarily by regulatory/political pressure rather than genuine care-management confidence, it may signal that future concessions on cost controls are possible.
+
+**Valuation:** fair value $134 / **$208** / $243 · implied growth at price: 3.4%
+
+**Committee memo:** UnitedHealth's commitment to remove prior-authorization on 30% of services is philosophically aligned with the integrated-care thesis — Optum's whole premise is that clinical intelligence, not administrative friction, is the right way to manage medical costs. If the company can execute this with its data and care management infrastructure absorbing the utilization-control function, it reduces regulatory and reputational tail risk while potentially strengthening provider and member relationships that underpin switching costs. However, we are at the intention stage, not the execution stage, and the financial impact — positive or negative — will only be visible in MCR trends over the next 2-4 quarters. The announcement does not change intrinsic value today. The more pressing issue for the committee is valuation: at $400, UNH trades at nearly 2x our base-case fair value of $207 and above even our optimistic $242 scenario. The trailing gross margin compression from ~25% to ~18.5% over four years, combined with ROIC of only 10.9%, suggests the business is under real cost pressure that the market may be discounting too lightly on a forward-PE basis. Our posture remains hold existing position at conviction but not a candidate for incremental capital at current prices. What would prove this judgment wrong: MCR stabilizes or improves materially in Q3/Q4 2025 following prior-auth changes AND Optum operating income growth re-accelerates, which together would justify revisiting the growth assumptions in the DCF and potentially closing the gap between market price and fair value.
+
+**Plain English:** UnitedHealth said it plans to stop requiring pre-approval for about 30% of medical services — a move that reduces administrative friction for patients and doctors, which is generally good for its reputation and reduces the political heat it has been under. The stock went up on the news. The idea fits with UnitedHealth's broader strategy of using its data and care management capabilities (through Optum) to manage costs smartly rather than through bureaucratic gatekeeping. The risk is that removing these approvals could allow more medical spending to flow through, raising costs faster than premiums can absorb — that's the key number to watch in future quarterly results. More importantly, even with this positive news, the stock at $400 is significantly above what our financial models say the business is worth ($207-$242 in the base and high cases), so excitement about an operational announcement doesn't resolve the valuation problem.
+
+---
 ## 2026-08-24 — IRS scrutiny adds a tail risk but no structural thesis change without details
 **Thesis impact: NEUTRAL** · Thesis strength: 72/100 · Conviction: 48.9/100 · **ALERTED**
 
