@@ -1,6 +1,25 @@
 # Meta Platforms Inc. (META) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-09-03 — Teen-safety lawsuit risk recedes for Meta; structural liability risk remains but appears manageable
+**Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 87.0/100 · **ALERTED**
+
+**What changed:** A landmark teen-safety lawsuit appears to have shifted its worst legal exposure toward Snap rather than Meta. Meta has not been exonerated — the litigation ecosystem around teen safety on social platforms is ongoing — but the immediate headline risk from this specific case appears to be diminishing for Meta relative to peers. No settlement amount, injunction, or consent decree has been reported for Meta.
+
+**Why it matters:** Teen-safety litigation is a listed kill criterion risk: regulatory changes that materially impair Meta's ability to monetize its platforms. The concern is two-fold — direct financial liability (fines, settlements) and indirect damage (advertiser trust erosion, mandatory product changes that reduce engagement or data collection). If Meta escapes the worst of this particular suit, it reduces near-term financial liability and signals that Meta's platform safety investments may be viewed more favorably by courts relative to peers. However, the broader regulatory trend toward youth online safety is not resolved by one case.
+
+**Intrinsic value:** up / none via risk — A small tail risk has been marginally reduced, which in theory compresses the discount rate slightly, but the magnitude is far too small to quantify or act on. The base case was never pricing in a catastrophic judgment against Meta from this suit.
+**New risks:**
+- The favorable outcome relative to Snap in this case may invite copycat plaintiffs or plaintiff attorneys to reprice their strategy and focus more attention on Meta in future litigation rounds.
+- State-level teen-safety legislation (age verification mandates, data restrictions for minors) remains an active and separate regulatory risk vector not addressed by this lawsuit's outcome.
+
+**Valuation:** fair value $289 / **$487** / $948 · implied growth at price: 22.2%
+
+**Committee memo:** The headline sounds significant but the investment read is mundane: a known tail risk has been modestly trimmed. Meta's thesis rests on billions of daily users, AI-driven advertising superiority, and compounding free cash flow — none of which are affected by the outcome of this specific lawsuit. The current price implies a 22.2% long-run growth rate, which is demanding; what matters to whether that growth materializes is advertiser ROI, engagement trends, and WhatsApp/AI monetization — not this litigation. I would hold conviction unchanged. The risk worth monitoring is not this case but the legislative track: if a federal or state law mandates age verification in a way that creates meaningful friction for teen/young-adult onboarding or forces data restrictions that impair targeting on Meta's platforms, that would be a thesis-relevant event. This is not that. What would prove this judgment wrong: a subsequent ruling, consent decree, or legislative action directly tied to this litigation's precedent that forces Meta to alter its core ad-targeting infrastructure for younger users — that would require reassessment. Absent that, this is noise.
+
+**Plain English:** There was a major lawsuit about teen safety on social media platforms, and it looks like Snap is bearing the brunt of it rather than Meta. This is mildly good news for Meta — it means Meta is less likely to face a huge fine or be forced to change how its products work as a result of this specific case. But this doesn't mean Meta is off the hook on teen safety broadly; regulators and lawmakers are still very active in this space. For a long-term investor, this removes a small worry but doesn't change the fundamental story about how Meta makes money or how durable that business is. No action needed.
+
+---
 ## 2026-09-02 — Unverified $18B settlement claim — material if real, but context and sourcing matter enormously
 **Thesis impact: NEUTRAL** · Thesis strength: 78/100 · Conviction: 83.0/100 · **ALERTED**
 

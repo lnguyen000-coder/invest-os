@@ -1,6 +1,26 @@
 # Microsoft Corporation (MSFT) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-09-03 — MSFT restructures into 2 segments ('Agents & Infra' + 'Devices & Consumer') starting FY27
+**Thesis impact: NEUTRAL** · Thesis strength: 78/100 · Conviction: 71.0/100 · **ALERTED**
+
+**What changed:** Microsoft filed an 8-K on September 2, 2026 disclosing a change in reportable segments effective FY2027. The company will collapse its existing three-segment structure into two new segments: 'Agents and Infra' and 'Devices and Consumer.' Historical financials will be restated on the new basis. The exhibit (99.1) containing the detailed presentation was furnished but its full content is not available here.
+
+**Why it matters:** Segment reporting changes matter because they alter how investors track the key thesis drivers — specifically Azure growth, Microsoft 365 commercial performance, and Copilot monetization. The new 'Agents and Infra' label strongly implies Microsoft is reorganizing internally around agentic AI workloads and cloud infrastructure as a unified business, which is directionally consistent with the thesis that AI monetization runs through existing distribution. However, a consolidation of segments can also reduce transparency: if Azure-specific revenue growth metrics are buried inside a broader segment, verifying thesis driver #1 (Azure growth) and #6 (FCF growth) becomes harder. Without the full Exhibit 99.1, we cannot assess whether key disaggregated metrics will still be disclosed.
+
+**Intrinsic value:** none / none via none — Segment reclassification is a reporting change, not an operating or cash flow change. Intrinsic value is unaffected unless the new structure reveals previously obscured losses or triggers a strategy shift with capital allocation consequences — neither of which is evidenced here.
+**New risks:**
+- Reduced metric granularity: if Azure revenue growth is no longer separately reported, the primary empirical check on thesis driver #1 is weakened, making it harder to detect early share-loss signals.
+- Segment consolidation may obscure deterioration in the Devices/consumer businesses (Surface, Xbox, consumer Office) by blending them with higher-quality enterprise and cloud revenues.
+- Until Exhibit 99.1 is fully reviewed, there is uncertainty about which investor metrics will be retained, discontinued, or newly introduced in FY27.
+
+**Valuation:** fair value $64 / **$102** / $192 · implied growth at price: 30.1%
+
+**Committee memo:** Microsoft's 8-K discloses a segment restructuring effective FY2027, collapsing the current three-segment framework into 'Agents and Infra' and 'Devices and Consumer.' This is a reporting change, not an operational one, and does not alter intrinsic value. The new segment names are strategically coherent — they reflect the internal bet management is making that agentic AI workloads and cloud infrastructure are the growth core, which is exactly the thesis premise. The primary concern is observability: Azure revenue growth is thesis driver #1, and if it disappears into a blended 'Agents and Infra' number, we lose our cleanest signal for detecting cloud share loss early. I recommend reviewing Exhibit 99.1 in full immediately to determine which metrics are retained at the disaggregated level. If Azure growth, Microsoft 365 commercial seats, and Copilot attach rates are preserved as disclosed metrics, this is a pure non-event. If they are consolidated away, I would lower the management transparency score and increase the monitoring intensity on alternative data sources (e.g., channel checks, partner disclosures, third-party cloud spend trackers). No assumption changes are warranted at this stage. Hold conviction — the business quality and moat are completely unaffected — but flag this for follow-up on exhibit content before the first FY27 earnings call.
+
+**Plain English:** Microsoft announced it is reorganizing how it groups and reports its businesses, moving from three divisions to two starting next year: one focused on AI agents and cloud infrastructure, and one covering devices and consumer products. This is an internal accounting and reporting change — it does not affect how many customers Microsoft has, how much they pay, or how profitable the business is. The main practical concern is whether investors will still be able to see Azure's revenue growth clearly as a separate number, since that's the single most important data point for tracking whether the investment thesis is working. The name 'Agents and Infra' signals that Microsoft sees AI and cloud as its core future, which fits the investment story well. We need to read the full presentation document that came with this filing to know if the reporting stays transparent enough.
+
+---
 ## 2026-08-31 — Okta gaining AI security momentum — credible but not yet thesis-altering competitive signal
 **Thesis impact: NEUTRAL** · Thesis strength: 88/100 · Conviction: 81.0/100 · **ALERTED**
 
