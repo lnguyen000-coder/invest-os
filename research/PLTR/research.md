@@ -1,6 +1,26 @@
 # Palantir Tech Inc. (PLTR) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-09-04 — PwC AI deal expansion validates AIP's commercial embedding, but stock trades at ~8x fair-value base case
+**Thesis impact: STRENGTHENS** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
+
+**What changed:** Palantir announced an expanded partnership with PwC focused on AI deployment, which was cited as a catalyst for the stock's best single-day gain in a month. The deal builds on an existing relationship, suggesting PwC is deepening its use of Palantir's AIP platform rather than initiating a new trial. Michael Burry's bearish positioning was noted in the same news cycle but represents a sentiment/positioning data point, not a fundamental change.
+
+**Why it matters:** The thesis rests on AIP becoming deeply embedded in enterprise operations — the PwC expansion is exactly the kind of evidence that matters: an existing partner choosing to go further rather than exit. PwC also functions as a distribution channel, meaning the deal could accelerate commercial customer acquisition beyond the direct relationship. However, this is one partnership and does not move the needle on the quantitative drivers — revenue run-rate, customer count, or FCF — in a measurable way from the outside.
+
+**Intrinsic value:** up / none via growth — The PwC expansion is directionally consistent with the thesis but discloses no contract value, customer-count impact, or revenue timing. Without those numbers, revising a DCF assumption would be speculation. The event reinforces the qualitative confidence in AIP adoption but does not change the quantitative inputs.
+**Moat:** widened — A consulting partner of PwC's scale choosing to deepen rather than exit its Palantir relationship is evidence that switching costs and workflow integration are working as theorized. PwC's role as a system integrator means Palantir's platform is being co-sold into PwC client engagements, which reinforces the distribution moat and creates additional downstream switching costs for end clients.
+**New risks:**
+- If the PwC relationship represents a significant portion of commercial growth, it introduces indirect customer concentration risk — a deterioration in the PwC partnership or PwC's own AI strategy could disproportionately affect Palantir's commercial pipeline.
+- Market participants may over-index on partnership announcements as a valuation catalyst, pushing the stock further above intrinsic value and increasing the risk of a painful re-rating even if business fundamentals remain strong.
+
+**Valuation:** fair value $8 / **$21** / $26
+
+**Committee memo:** The PwC expansion is a genuine, if modest, positive for the Palantir thesis. It demonstrates that the AIP platform generates enough operational value that a major global consulting firm — one with the resources to build its own AI tooling or select any competitor — is choosing to go deeper. That is the behavioral proof of switching costs working. However, the committee must hold two truths simultaneously: the business thesis is incrementally strengthened, and the stock remains dramatically expensive by any conventional valuation framework. Our base-case fair value sits around $20/share against a current price of $177 — an approximately 8x premium to intrinsic value on the base case. At that gap, even a meaningful acceleration in the thesis would struggle to close the distance. The appropriate posture is to hold existing conviction if already invested — because the kill criteria have not been triggered and the moat signals are positive — but not to add at current prices. What would prove this judgment wrong: if Palantir announces a wave of large-contract commercial wins in the next two quarters that structurally reset the revenue base upward, or if the PwC deal's scope is disclosed and proves to be transformative in dollar terms, a revision to growth assumptions and intrinsic value would be warranted. Absent that, this event is a qualitative checkmark, not a buy signal.
+
+**Plain English:** Palantir's consulting partner PwC decided to use Palantir's AI software more broadly, which is a good sign — it means PwC finds the product valuable enough to deepen its commitment rather than walk away. This is exactly the kind of customer behavior the investment thesis is built on: once Palantir gets embedded in how an organization operates, it becomes hard to remove and tends to expand. The problem is that the stock already trades at roughly 8 to 10 times what a reasonable long-term valuation model would suggest it's worth. So the business story is playing out as hoped, but the price already reflects years of perfect execution — meaning even good news doesn't necessarily make it a great investment at today's price. The Burry short-sell bet is a sentiment item, not a fundamental verdict.
+
+---
 ## 2026-09-03 — Q1 beat + PwC alliance expansion strengthen AIP commercial flywheel; valuation remains extreme
 **Thesis impact: STRENGTHENS** · Thesis strength: 62/100 · Conviction: 55.0/100 · **ALERTED**
 

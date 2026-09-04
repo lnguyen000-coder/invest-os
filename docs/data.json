@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03 15:17 UTC",
+ "generated": "2026-09-04 15:11 UTC",
  "rows": [
   {
    "symbol": "DECK",
@@ -47,13 +47,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 83.785,
+   "price": 85.0,
    "fair_low": 85.08203074644862,
    "fair_base": 213.9454386141005,
    "fair_high": 249.0914479502334,
-   "upside_pct": 155.3505264833807,
+   "upside_pct": 151.70051601658884,
    "last_impact": "neutral",
    "last_memo": "Deckers quietly renewed its backup line of credit \u2014 think of it as renewing a home equity line you almost never actually use. The credit limit went up to $500 million, the expiration was pushed out five years to 2031, and the bank fees got a little cheaper. For a company that alr",
    "risks": [
@@ -71,7 +72,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3016.2599999999998,
+   "position_value": 3060.0,
    "thesis_needed": false
   },
   {
@@ -120,13 +121,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 3093.13,
+   "price": 3009.12,
    "fair_low": 442.31560393113216,
    "fair_base": 4823.430825909175,
    "fair_high": 7420.604723281721,
-   "upside_pct": 55.94012621225668,
+   "upside_pct": 60.29373457719118,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -145,8 +147,8 @@
   {
    "symbol": "META",
    "name": "Meta Platforms Inc.",
-   "conviction": 87.0,
-   "thesis_strength": 82,
+   "conviction": 79.0,
+   "thesis_strength": 74,
    "conviction_history": [
     43.0,
     55.0,
@@ -188,15 +190,16 @@
     79.0,
     87.0,
     83.0,
-    87.0
+    87.0,
+    79.0
    ],
-   "price": 614.575,
+   "price": 611.57,
    "fair_low": 289.16284470284506,
    "fair_base": 487.3995682928012,
    "fair_high": 947.5440523750636,
-   "upside_pct": -20.693232186014544,
+   "upside_pct": -20.303551794103512,
    "last_impact": "neutral",
-   "last_memo": "There was a major lawsuit about teen safety on social media platforms, and it looks like Snap is bearing the brunt of it rather than Meta. This is mildly good news for Meta \u2014 it means Meta is less likely to face a huge fine or be forced to change how its products work as a result",
+   "last_memo": "Meta announced a new AI model focused on coding, which briefly pushed the stock up. This fits the pattern of Meta regularly releasing open-source AI tools to stay competitive and attract developers. However, a coding model is not the same as improvements to Meta's ad targeting or",
    "risks": [
     "The favorable outcome relative to Snap in this case may invite copycat plaintiffs or plaintiff attorneys to reprice their strategy and focus more attention on Meta in future litigation rounds.",
     "State-level teen-safety legislation (age verification mandates, data restrictions for minors) remains an active and separate regulatory risk vector not addressed by this lawsuit's outcome.",
@@ -212,7 +215,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9833.2,
+   "position_value": 9785.12,
    "thesis_needed": false
   },
   {
@@ -261,20 +264,21 @@
     67.0,
     65.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 341.42,
+   "price": 337.64,
    "fair_low": 98.1810001979202,
    "fair_base": 182.2386496011964,
    "fair_high": 390.11857819186713,
-   "upside_pct": -46.62332329646874,
-   "last_impact": "strengthens",
-   "last_memo": "The US government tried to force Google to sell off the advertising technology business that connects advertisers with websites across the internet \u2014 a business that sits at the heart of how Google makes money beyond search. A court said no. This is genuinely good news for Alphab",
+   "upside_pct": -46.02575239865051,
+   "last_impact": "neutral",
+   "last_memo": "Google's CEO told employees that Waymo\u2014its self-driving car division\u2014might start contributing real money to Alphabet's finances as early as 2027. This is encouraging but vague: no dollar figures were given, and Waymo has been burning cash for years with commercialization always f",
    "risks": [
+    "Pichai's 2027 framing could raise employee and investor expectations for Waymo that the business fails to meet, creating a credibility headwind if the timeline slips.",
     "Remaining regulatory proceedings (notably the Search distribution antitrust case) continue and could still produce meaningful remedies, including restrictions on default search agreements with Apple and Android OEMs \u2014 this risk is unresolved and arguably more structurally significant than the ad tech case.",
     "A future administration or appeal could revisit ad tech remedies; legal victories are durable but not always permanent in antitrust proceedings.",
-    "OpenAI's ad business, if growing 10x in six months, may be building a competing intent-based ad auction that directly competes for search advertising budgets, not just user attention.",
-    "Talent attrition to AI competitors could slow Alphabet's AI product iteration speed at the precise moment competitive clock speed is accelerating."
+    "OpenAI's ad business, if growing 10x in six months, may be building a competing intent-based ad auction that directly competes for search advertising budgets, not just user attention."
    ],
    "catalysts": [
     {
@@ -285,7 +289,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3755.6200000000003,
+   "position_value": 3714.04,
    "thesis_needed": false
   },
   {
@@ -334,13 +338,14 @@
     75.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 226.98,
+   "price": 232.42,
    "fair_low": 31.378973864381212,
    "fair_base": 52.83721737354176,
    "fair_high": 115.88718246335996,
-   "upside_pct": -76.72164183031907,
+   "upside_pct": -77.26649282611575,
    "last_impact": "neutral",
    "last_memo": "NVIDIA has made what's being called its biggest investment outside the US, partnering with MediaTek \u2014 a major chip company that makes processors for smartphones, cars, and smart devices. The deal could help NVIDIA get its AI software and computing capabilities into many more type",
    "risks": [
@@ -409,13 +414,14 @@
     81.0,
     81.0,
     81.0,
+    71.0,
     71.0
    ],
-   "price": 511.4,
+   "price": 500.895,
    "fair_low": 63.537745917072016,
    "fair_base": 102.28449397541269,
    "fair_high": 191.70294335510366,
-   "upside_pct": -79.99912124063108,
+   "upside_pct": -79.57965362492884,
    "last_impact": "neutral",
    "last_memo": "Microsoft announced it is reorganizing how it groups and reports its businesses, moving from three divisions to two starting next year: one focused on AI agents and cloud infrastructure, and one covering devices and consumer products. This is an internal accounting and reporting ",
    "risks": [
@@ -482,13 +488,14 @@
     75.0,
     71.0,
     71.0,
+    71.0,
     71.0
    ],
-   "price": 257.885,
+   "price": 255.55,
    "fair_low": 0.3897164164121739,
    "fair_base": 31.068186238720195,
    "fair_high": 102.7302688951925,
-   "upside_pct": -87.95269742764404,
+   "upside_pct": -87.8426193548346,
    "last_impact": "weakens",
    "last_memo": "The US government's consumer protection regulator has sued Amazon over how it runs its advertising business. Amazon sells ads to brands that want to reach shoppers on its platform, and this is one of its most profitable businesses because Amazon knows exactly what people are shop",
    "risks": [
@@ -506,7 +513,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3868.2749999999996,
+   "position_value": 3833.25,
    "thesis_needed": false
   },
   {
@@ -555,13 +562,14 @@
     67.0,
     67.0,
     67.0,
+    67.0,
     67.0
    ],
-   "price": 198.32,
-   "fair_low": 11.13896935825137,
-   "fair_base": 13.515800132767517,
-   "fair_high": 19.09373040899594,
-   "upside_pct": -93.18485269626487,
+   "price": 205.39,
+   "fair_low": 11.038403998229002,
+   "fair_base": 13.39377615885872,
+   "fair_high": 18.92134750614431,
+   "upside_pct": -93.4788567316526,
    "last_impact": "strengthens",
    "last_memo": "Shopify just reported that its business-to-business sales volume \u2014 think brands selling wholesale to retailers or managing corporate buyer accounts \u2014 grew 76% in the most recent quarter. This matters because B2B commerce is stickier than regular consumer sales: once a business bu",
    "risks": [
@@ -579,7 +587,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 7932.799999999999,
+   "position_value": 8215.599999999999,
    "thesis_needed": false
   },
   {
@@ -628,13 +636,14 @@
     66.0,
     66.0,
     66.0,
+    66.0,
     66.0
    ],
-   "price": 234.6675,
+   "price": 233.94,
    "fair_low": 75.00733660346769,
    "fair_base": 288.55960253064944,
    "fair_high": 396.3485189888189,
-   "upside_pct": 22.965303048206277,
+   "upside_pct": 23.347697072176388,
    "last_impact": "neutral",
    "last_memo": "IBM announced a new mainframe computer built on cutting-edge 2nm chip technology. This is genuinely impressive engineering, but it mostly helps IBM keep the customers it already has \u2014 companies that run their most critical operations on IBM mainframes are not going to switch anyw",
    "risks": [
@@ -701,13 +710,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 150.77,
+   "price": 150.8,
    "fair_low": 136.75084586911478,
    "fair_base": 244.06212335589788,
    "fair_high": 291.7030003299072,
-   "upside_pct": 61.87711305690647,
+   "upside_pct": 61.844909387200175,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -720,7 +730,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 2261.55,
+   "position_value": 2262.0,
    "thesis_needed": true
   },
   {
@@ -769,13 +779,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 281.44,
+   "price": 284.02,
    "fair_low": 152.6314725975932,
    "fair_base": 441.1748921460508,
    "fair_high": 557.4933961752869,
-   "upside_pct": 56.756286294077185,
+   "upside_pct": 55.332332985723134,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -788,7 +799,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9850.4,
+   "position_value": 9940.699999999999,
    "thesis_needed": true
   },
   {
@@ -837,13 +848,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 82.3951,
+   "price": 79.7578,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 54.01526732466162,
+   "upside_pct": 59.107991353099344,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -905,13 +917,14 @@
     55.0,
     63.0,
     55.0,
+    63.0,
     63.0
    ],
-   "price": 75.66,
+   "price": 75.3201,
    "fair_low": 20.129884707677242,
    "fair_base": 90.94081916022745,
    "fair_high": 120.94351547047137,
-   "upside_pct": 20.196694634189072,
+   "upside_pct": 20.73911102113175,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -973,20 +986,21 @@
     55.0,
     55.0,
     65.0,
+    55.0,
     55.0
    ],
-   "price": 182.26,
+   "price": 176.93,
    "fair_low": 8.040497535225128,
    "fair_base": 20.582035439741578,
    "fair_high": 25.664567046148527,
-   "upside_pct": -88.70732171637134,
+   "upside_pct": -88.3671308202444,
    "last_impact": "strengthens",
-   "last_memo": "Palantir had a strong session with its stock jumping about 7.6%, driven by two strategic announcements. First, Palantir expanded its partnership with PwC, one of the world's largest consulting firms, to help sell and deploy Palantir's AI software inside large companies \u2014 think of",
+   "last_memo": "Palantir's consulting partner PwC decided to use Palantir's AI software more broadly, which is a good sign \u2014 it means PwC finds the product valuable enough to deepen its commitment rather than walk away. This is exactly the kind of customer behavior the investment thesis is built",
    "risks": [
+    "If the PwC relationship represents a significant portion of commercial growth, it introduces indirect customer concentration risk \u2014 a deterioration in the PwC partnership or PwC's own AI strategy could disproportionately affect Palantir's commercial pipeline.",
+    "Market participants may over-index on partnership announcements as a valuation catalyst, pushing the stock further above intrinsic value and increasing the risk of a painful re-rating even if business fundamentals remain strong.",
     "PwC-originated enterprise deals may carry lower integration depth and weaker expansion economics than direct-sold customers, which would dilute average contract quality over time.",
-    "The Ukraine/defense positioning exposes Palantir to geopolitical headline risk \u2014 if the conflict resolves or US policy shifts, associated contract pipeline could shrink rapidly.",
-    "A large channel partner like PwC gaining negotiating leverage over Palantir's distribution could compress deal economics or create dependency on a single partner for commercial growth.",
-    "Zaffino departing AIG creates a short window of headline association risk if AIG's performance deteriorates post-departure, though this is unlikely to affect Palantir's fundamentals."
+    "The Ukraine/defense positioning exposes Palantir to geopolitical headline risk \u2014 if the conflict resolves or US policy shifts, associated contract pipeline could shrink rapidly."
    ],
    "catalysts": [
     {
@@ -997,7 +1011,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 27339.0,
+   "position_value": 26539.5,
    "thesis_needed": false
   },
   {
@@ -1046,13 +1060,14 @@
     55.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 81.98,
+   "price": 82.43,
    "fair_low": 46.45671896898705,
    "fair_base": 68.5439290486749,
    "fair_high": 85.74192116037001,
-   "upside_pct": -16.38944980644682,
+   "upside_pct": -16.84589463948212,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1065,7 +1080,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8198.0,
+   "position_value": 8243.0,
    "thesis_needed": true
   },
   {
@@ -1114,30 +1129,23 @@
     55.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 118.41,
+   "price": 98.72,
    "fair_low": 181.7552989686212,
    "fair_base": 441.9443908898986,
    "fair_high": 531.8082318999798,
-   "upside_pct": 273.2323206569535,
+   "upside_pct": 347.67462610403015,
    "last_impact": "weakens",
-   "last_memo": "Lululemon is showing weakness in its two most important growth areas at the same time: its home US market and China, which was supposed to be its big international opportunity. An analyst at UBS is warning that the company may soon officially lower its profit expectations for the",
+   "last_memo": "Lululemon just reported a quarter where sales in North America \u2014 its biggest and most profitable region \u2014 actually shrank compared to a year ago, while costs kept rising. That's a bad combination: you're making less money on the top line while spending more to run the business. T",
    "risks": [
-    "Simultaneous US and China softness raises the risk that the growth deceleration is brand-structural, not macro-cyclical, making recovery timing unpredictable.",
-    "A formal guidance cut could trigger institutional selling given the stock's prior premium growth multiple, potentially creating a self-reinforcing de-rating.",
-    "If management responds to weak US comps with increased promotions, it risks permanently repricing consumer expectations for the brand \u2014 the most damaging long-term outcome for a premium positioning thesis.",
-    "China softness may reflect local competitive dynamics (domestic athletic brands like Anta and Li-Ning gaining share) that are harder to reverse than macro slowdowns."
+    "Americas top-line contraction in absolute dollars (not just deceleration) for the first time in recent history, raising the question of whether the US market is saturating or the brand is ceding share to Alo Yoga, Vuori, and others.",
+    "Stock-based compensation nearly tripled in H1 YoY ($50M vs $21M), a meaningful real cash cost that reduces economic earnings and warrants explanation \u2014 could signal retention pressures or restructured comp plans under new/interim leadership.",
+    "Executive leadership transition risk: CFO Meghan Frank is now serving as 'Interim Co-CEO,' implying the CEO role is in flux, which introduces strategic uncertainty during an operational inflection point.",
+    "Gross margin compression coinciding with revenue decline suggests the brand may be discounting to support volume, which would be a direct threat to the full-price sell-through thesis."
    ],
-   "catalysts": [
-    {
-     "id": 26,
-     "symbol": "LULU",
-     "date": "2026-09-03",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
+   "catalysts": [],
    "position_value": 0,
    "thesis_needed": false
   },
@@ -1187,9 +1195,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 29.645,
+   "price": 29.75,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1198,7 +1207,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 1156.155,
+   "position_value": 1160.25,
    "thesis_needed": true
   },
   {
@@ -1249,13 +1258,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 926.2,
+   "price": 916.525,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -31.459559803222792,
+   "upside_pct": -30.736034794189948,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1317,13 +1327,14 @@
     40.8,
     40.8,
     40.8,
+    40.8,
     40.8
    ],
-   "price": 138.92,
+   "price": 139.78,
    "fair_low": 16.960440723154207,
    "fair_base": 50.62500615912173,
    "fair_high": 61.67457025081336,
-   "upside_pct": -63.558158537919866,
+   "upside_pct": -63.78236789303067,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1385,9 +1396,10 @@
     40.0,
     40.0,
     40.0,
+    40.0,
     40.0
    ],
-   "price": 148.755,
+   "price": 149.02,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1453,13 +1465,14 @@
     48.9,
     48.9,
     28.9,
+    34.9,
     34.9
    ],
-   "price": 403.55,
+   "price": 397.21,
    "fair_low": 134.1071696713082,
    "fair_base": 207.6979230216282,
    "fair_high": 242.57120186391649,
-   "upside_pct": -48.53229512535542,
+   "upside_pct": -47.71080208916487,
    "last_impact": "weakens",
    "last_memo": "UnitedHealth is scrapping about a third of the pre-approval checks it requires before paying for medical procedures. These pre-approvals are how the company controls which treatments it pays for \u2014 removing them means more medical bills get paid without review, which likely means ",
    "risks": [
@@ -1477,7 +1490,81 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6900.705000000001,
+   "position_value": 6792.291,
+   "thesis_needed": false
+  },
+  {
+   "symbol": "TSLA",
+   "name": "Tesla Inc.",
+   "conviction": 32.1,
+   "thesis_strength": 58,
+   "conviction_history": [
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    24.3,
+    16.3,
+    16.3,
+    6.3,
+    16.3,
+    13.3,
+    13.3,
+    12.1,
+    12.1,
+    12.1,
+    16.1,
+    16.1,
+    16.1,
+    16.1,
+    26.1,
+    16.1,
+    16.1,
+    12.1,
+    26.1,
+    26.1,
+    26.1,
+    26.1,
+    22.1,
+    26.1,
+    26.1,
+    12.1,
+    26.1,
+    16.1,
+    16.1,
+    16.1,
+    12.1,
+    12.1,
+    12.1,
+    26.1,
+    26.1,
+    16.1,
+    32.1
+   ],
+   "price": 353.82,
+   "fair_low": 15.452268642505791,
+   "fair_base": 16.08681782130258,
+   "fair_high": 16.415240390523092,
+   "upside_pct": -95.45338934449647,
+   "last_impact": "neutral",
+   "last_memo": "Tesla just started giving actual public rides in its Cybercab \u2014 a car with no steering wheel \u2014 which is genuinely significant because the entire long-term investment case assumes Tesla eventually runs a profitable robotaxi network. That's the first concrete proof it can work in t",
+   "risks": [
+    "Federal regulators (likely NHTSA) have opened a formal investigation into the Cybercab's steer-free design, which could result in operational restrictions, mandatory recalls, or redesign requirements that materially delay the robotaxi commercial timeline.",
+    "If Tesla is perceived as launching safety-critical vehicles without adequate pre-regulatory coordination, it may face a more adversarial federal oversight posture that slows future autonomous vehicle approvals across its product lineup.",
+    "If the Austin Cybercab event fails to demonstrate a credible near-term deployment path, market disappointment could accelerate a re-rating of autonomous driving option value downward.",
+    "Waymo's continued operational expansion \u2014 adding cities, rides, and potentially OEM partnerships \u2014 risks establishing a network-effect moat in urban robotaxi before Tesla is commercially deployed, reducing Tesla's ability to catch up."
+   ],
+   "catalysts": [
+    {
+     "id": 34,
+     "symbol": "TSLA",
+     "date": "2026-10-21",
+     "label": "Earnings report",
+     "source": "yfinance"
+    }
+   ],
+   "position_value": 0,
    "thesis_needed": false
   },
   {
@@ -1528,13 +1615,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 330.25,
+   "price": 318.668,
    "fair_low": 71.92111971979769,
    "fair_base": 72.43517666278456,
    "fair_high": 73.59059333079705,
-   "upside_pct": -78.06656270619695,
+   "upside_pct": -77.26939113347291,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1596,13 +1684,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 38.205,
+   "price": 38.145,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -36.61516994554861,
+   "upside_pct": -36.515469072478304,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1671,9 +1760,10 @@
     24.2,
     24.2,
     24.2,
+    24.2,
     24.2
    ],
-   "price": 39.43,
+   "price": 39.31,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1739,9 +1829,10 @@
     20.3,
     20.3,
     20.3,
+    20.3,
     20.3
    ],
-   "price": 16.875,
+   "price": 16.555,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1760,79 +1851,6 @@
    ],
    "position_value": 0,
    "thesis_needed": true
-  },
-  {
-   "symbol": "TSLA",
-   "name": "Tesla Inc.",
-   "conviction": 16.1,
-   "thesis_strength": 42,
-   "conviction_history": [
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    24.3,
-    16.3,
-    16.3,
-    6.3,
-    16.3,
-    13.3,
-    13.3,
-    12.1,
-    12.1,
-    12.1,
-    16.1,
-    16.1,
-    16.1,
-    16.1,
-    26.1,
-    16.1,
-    16.1,
-    12.1,
-    26.1,
-    26.1,
-    26.1,
-    26.1,
-    22.1,
-    26.1,
-    26.1,
-    12.1,
-    26.1,
-    16.1,
-    16.1,
-    16.1,
-    12.1,
-    12.1,
-    12.1,
-    26.1,
-    26.1,
-    16.1
-   ],
-   "price": 379.63,
-   "fair_low": 15.452268642505791,
-   "fair_base": 16.08681782130258,
-   "fair_high": 16.415240390523092,
-   "upside_pct": -95.76250090316819,
-   "last_impact": "neutral",
-   "last_memo": "Tesla is hosting a big public event to show off its Cybercab robotaxi, which got investors excited and pushed the stock up over 6% in a day. But no actual new facts have come out yet \u2014 it's a reveal event, not a product launch with regulatory sign-off or paying customers. Meanwhi",
-   "risks": [
-    "If the Austin Cybercab event fails to demonstrate a credible near-term deployment path, market disappointment could accelerate a re-rating of autonomous driving option value downward.",
-    "Waymo's continued operational expansion \u2014 adding cities, rides, and potentially OEM partnerships \u2014 risks establishing a network-effect moat in urban robotaxi before Tesla is commercially deployed, reducing Tesla's ability to catch up.",
-    "NHTSA investigation stemming from the Illinois FSD fatality could impose deployment restrictions, software rollback requirements, or extend commercialization timelines by 12\u201324 months.",
-    "Public trust in FSD erodes ahead of the Cybercab launch, reducing consumer willingness to pay for autonomy features and pressuring FSD attach rates."
-   ],
-   "catalysts": [
-    {
-     "id": 34,
-     "symbol": "TSLA",
-     "date": "2026-10-21",
-     "label": "Earnings report",
-     "source": "yfinance"
-    }
-   ],
-   "position_value": 0,
-   "thesis_needed": false
   },
   {
    "symbol": "ASTS",
@@ -1880,9 +1898,10 @@
     17.0,
     17.0,
     17.0,
+    13.0,
     13.0
    ],
-   "price": 62.03,
+   "price": 62.18,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1953,9 +1972,10 @@
     11.4,
     11.4,
     11.4,
+    11.4,
     11.4
    ],
-   "price": 35.71,
+   "price": 35.51,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -2021,9 +2041,10 @@
     10.3,
     10.3,
     10.2,
+    10.2,
     10.2
    ],
-   "price": 41.135,
+   "price": 43.14,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -2071,6 +2092,7 @@
     5.0,
     5.0,
     5.0,
+    9.6,
     9.6,
     9.6,
     9.6,
@@ -2157,6 +2179,7 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
    "price": 5.105,
@@ -2181,6 +2204,41 @@
   }
  ],
  "history": [
+  {
+   "date": "2026-09-04",
+   "symbol": "GOOGL",
+   "impact": "neutral",
+   "headline": "Pichai flags Waymo financial materiality by 2027\u2014optionality signal, not thesis-mover yet",
+   "strength": 82
+  },
+  {
+   "date": "2026-09-04",
+   "symbol": "PLTR",
+   "impact": "strengthens",
+   "headline": "PwC AI deal expansion validates AIP's commercial embedding, but stock trades at ~8x fair-value base case",
+   "strength": 62
+  },
+  {
+   "date": "2026-09-04",
+   "symbol": "META",
+   "impact": "neutral",
+   "headline": "Meta releases AI coding model; directionally positive but immaterial to near-term intrinsic value",
+   "strength": 74
+  },
+  {
+   "date": "2026-09-04",
+   "symbol": "TSLA",
+   "impact": "neutral",
+   "headline": "Cybercab goes public but triggers federal probe \u2014 milestone and risk arrive simultaneously",
+   "strength": 58
+  },
+  {
+   "date": "2026-09-04",
+   "symbol": "LULU",
+   "impact": "weakens",
+   "headline": "LULU Q2 FY2026: Americas revenue declines ~8% YoY; China grows but stock -19%",
+   "strength": 42
+  },
   {
    "date": "2026-09-03",
    "symbol": "MSFT",
@@ -2575,13 +2633,6 @@
   },
   {
    "date": "2026-08-20",
-   "symbol": "META",
-   "impact": "neutral",
-   "headline": "Q1 FCF plunge is a capex timing story, not a cash generation collapse \u2014 watch full-year trajectory",
-   "strength": 78
-  },
-  {
-   "date": "2026-08-20",
    "symbol": "AMZN",
    "impact": "neutral",
    "headline": "Anthropic stake potentially worth $400B+ \u2014 optionality is real but unverifiable; no thesis change yet",
@@ -2677,13 +2728,6 @@
    "impact": "weakens",
    "headline": "IBM issues C$2.75B in Canadian-dollar debt; adds leverage to already-elevated 3.47x net debt/EBITDA",
    "strength": 68
-  },
-  {
-   "date": "2026-08-17",
-   "symbol": "TSLA",
-   "impact": "weakens",
-   "headline": "Waymo scaling robotaxi fleet; critiques of Tesla FSD strategy mount \u2014 thesis pressure, not rupture",
-   "strength": 48
   },
   {
    "date": "2026-08-17",
@@ -2827,13 +2871,6 @@
   },
   {
    "date": "2026-08-05",
-   "symbol": "PLTR",
-   "impact": "neutral",
-   "headline": "PLTR surges 29.5% in a single session; business unchanged, valuation now extreme",
-   "strength": 52
-  },
-  {
-   "date": "2026-08-05",
    "symbol": "AMZN",
    "impact": "strengthens",
    "headline": "AWS capacity spoken for through 2028 \u2014 AI demand backlog materially de-risks the core earnings driver",
@@ -2866,20 +2903,6 @@
    "impact": "neutral",
    "headline": "YouTube wrongful death lawsuit is a real but bounded risk; no thesis-level change warranted",
    "strength": 82
-  },
-  {
-   "date": "2026-07-31",
-   "symbol": "UNH",
-   "impact": "weakens",
-   "headline": "Medicare drug subsidy elimination threatens Optum pharmacy margins; thesis under incremental pressure",
-   "strength": 58
-  },
-  {
-   "date": "2026-07-31",
-   "symbol": "DECK",
-   "impact": "neutral",
-   "headline": "DECK Q1 FY27: Revenue +5.7% YoY, margins squeezed by SG&A; buybacks accelerating sharply",
-   "strength": 72
   }
  ]
 }

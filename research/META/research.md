@@ -1,6 +1,22 @@
 # Meta Platforms Inc. (META) — Living Research Document
 _Maintained automatically. Newest entries first. Your thesis lives in thesis.md._
 
+## 2026-09-04 — Meta releases AI coding model; directionally positive but immaterial to near-term intrinsic value
+**Thesis impact: NEUTRAL** · Thesis strength: 74/100 · Conviction: 79.0/100 · **ALERTED**
+
+**What changed:** Meta announced a new AI coding model, which caused a brief stock price reaction. The model appears to be an extension of Meta's open-source AI strategy. No financial details, adoption metrics, or monetization pathway were disclosed in the available content.
+
+**Why it matters:** The thesis explicitly identifies AI capabilities as a moat source — not through standalone AI products, but through improvements to ad targeting, content ranking, and creator tools. A coding model is adjacent to that core. It signals continued R&D velocity and keeps Meta competitive in the broader AI ecosystem, which matters for talent retention and developer platform strategy. However, a coding model does not directly improve ad impressions, pricing, or DAP in any near-term or easily quantifiable way.
+
+**Intrinsic value:** none / none via none — No financial metrics, revenue contribution, or cost structure change was disclosed. The model's existence is consistent with the existing thesis assumption that Meta continues to invest in and release AI capabilities. No assumption revision is warranted.
+
+**Valuation:** fair value $289 / **$487** / $948 · implied growth at price: 22.2%
+
+**Committee memo:** Meta released an AI coding model, which generated a modest stock price pop and press coverage framing it as a competitive AI milestone. In isolation, this is consistent with the thesis — Meta has committed to open-source AI leadership as a strategy to build ecosystem loyalty, attract engineering talent, and potentially extend its platform into developer tooling. However, the thesis is underwritten by advertising revenue growth, margin expansion, and free cash flow compounding, none of which are touched by this announcement. The gap between the current stock price ($611) and our base fair value ($487) already implies the market is pricing in meaningful AI optionality. An incremental coding model does not move that needle. Confidence in the thesis is unchanged. I would hold conviction at current levels, continue monitoring for any signs this model integrates into monetizable business tools or advertising infrastructure, and resist the temptation to read a product announcement as fundamental progress. What would prove this judgment wrong: if the coding model demonstrates rapid enterprise or developer adoption that feeds back into Meta's business messaging or API ecosystem with disclosed revenue contribution within 12 months.
+
+**Plain English:** Meta announced a new AI model focused on coding, which briefly pushed the stock up. This fits the pattern of Meta regularly releasing open-source AI tools to stay competitive and attract developers. However, a coding model is not the same as improvements to Meta's ad targeting or its ability to charge more per ad — which is what actually drives the company's earnings. There's nothing here that changes how much money Meta will likely make over the next five years. It's a positive signal about R&D activity, but it's not a reason to change any valuation assumptions. The stock's reaction looks more like sentiment than substance.
+
+---
 ## 2026-09-03 — Teen-safety lawsuit risk recedes for Meta; structural liability risk remains but appears manageable
 **Thesis impact: NEUTRAL** · Thesis strength: 82/100 · Conviction: 87.0/100 · **ALERTED**
 
