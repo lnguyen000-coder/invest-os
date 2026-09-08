@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07 16:40 UTC",
+ "generated": "2026-09-08 15:19 UTC",
  "rows": [
   {
    "symbol": "DECK",
@@ -49,13 +49,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 85.81,
+   "price": 83.675,
    "fair_low": 85.08203074644862,
    "fair_base": 213.9454386141005,
    "fair_high": 249.0914479502334,
-   "upside_pct": 149.32459924729113,
+   "upside_pct": 155.68621286417746,
    "last_impact": "neutral",
    "last_memo": "Deckers quietly renewed its backup line of credit \u2014 think of it as renewing a home equity line you almost never actually use. The credit limit went up to $500 million, the expiration was pushed out five years to 2031, and the bank fees got a little cheaper. For a company that alr",
    "risks": [
@@ -73,7 +74,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3089.16,
+   "position_value": 3012.2999999999997,
    "thesis_needed": false
   },
   {
@@ -124,13 +125,14 @@
     95.0,
     95.0,
     95.0,
+    95.0,
     95.0
    ],
-   "price": 3023.96,
+   "price": 2905.65,
    "fair_low": 442.31560393113216,
    "fair_base": 4823.430825909175,
    "fair_high": 7420.604723281721,
-   "upside_pct": 59.50709751151386,
+   "upside_pct": 66.0017836253222,
    "last_impact": "neutral",
    "last_memo": "Constellation's stock jumped about 6.5% today with no apparent reason \u2014 no earnings, no acquisition news, no management update. For a company like this, where what matters is whether management keeps buying good software businesses at attractive prices and compounding free cash f",
    "risks": [],
@@ -194,13 +196,14 @@
     83.0,
     87.0,
     79.0,
+    79.0,
     79.0
    ],
-   "price": 616.77,
+   "price": 616.68,
    "fair_low": 289.16284470284506,
    "fair_base": 487.3995682928012,
    "fair_high": 947.5440523750636,
-   "upside_pct": -20.97547411631545,
+   "upside_pct": -20.963941056495884,
    "last_impact": "neutral",
    "last_memo": "Meta announced a new AI model focused on coding, which briefly pushed the stock up. This fits the pattern of Meta regularly releasing open-source AI tools to stay competitive and attract developers. However, a coding model is not the same as improvements to Meta's ad targeting or",
    "risks": [
@@ -218,7 +221,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9868.32,
+   "position_value": 9866.88,
    "thesis_needed": false
   },
   {
@@ -269,13 +272,14 @@
     75.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 338.46,
+   "price": 338.0,
    "fair_low": 98.1810001979202,
    "fair_base": 182.2386496011964,
    "fair_high": 390.11857819186713,
-   "upside_pct": -46.15651787472777,
+   "upside_pct": -46.083239762959636,
    "last_impact": "neutral",
    "last_memo": "Google's CEO told employees that Waymo\u2014its self-driving car division\u2014might start contributing real money to Alphabet's finances as early as 2027. This is encouraging but vague: no dollar figures were given, and Waymo has been burning cash for years with commercialization always f",
    "risks": [
@@ -293,7 +297,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3723.06,
+   "position_value": 3718.0,
    "thesis_needed": false
   },
   {
@@ -344,13 +348,14 @@
     75.0,
     75.0,
     75.0,
+    75.0,
     75.0
    ],
-   "price": 230.36,
+   "price": 227.3074,
    "fair_low": 31.378973864381212,
    "fair_base": 52.83721737354176,
    "fair_high": 115.88718246335996,
-   "upside_pct": -77.06319787569814,
+   "upside_pct": -76.7551705868169,
    "last_impact": "neutral",
    "last_memo": "NVIDIA has made what's being called its biggest investment outside the US, partnering with MediaTek \u2014 a major chip company that makes processors for smartphones, cars, and smart devices. The deal could help NVIDIA get its AI software and computing capabilities into many more type",
    "risks": [
@@ -421,13 +426,14 @@
     81.0,
     71.0,
     71.0,
+    71.0,
     71.0
    ],
-   "price": 499.7,
+   "price": 493.67,
    "fair_low": 63.537745917072016,
    "fair_base": 102.28449397541269,
    "fair_high": 191.70294335510366,
-   "upside_pct": -79.5308196967355,
+   "upside_pct": -79.28079608333245,
    "last_impact": "neutral",
    "last_memo": "Microsoft announced it is reorganizing how it groups and reports its businesses, moving from three divisions to two starting next year: one focused on AI agents and cloud infrastructure, and one covering devices and consumer products. This is an internal accounting and reporting ",
    "risks": [
@@ -496,13 +502,14 @@
     71.0,
     71.0,
     71.0,
+    71.0,
     71.0
    ],
-   "price": 258.51,
+   "price": 256.9,
    "fair_low": 0.3897164164121739,
    "fair_base": 31.068186238720195,
    "fair_high": 102.7302688951925,
-   "upside_pct": -87.98182420845609,
+   "upside_pct": -87.90650594055268,
    "last_impact": "weakens",
    "last_memo": "The US government's consumer protection regulator has sued Amazon over how it runs its advertising business. Amazon sells ads to brands that want to reach shoppers on its platform, and this is one of its most profitable businesses because Amazon knows exactly what people are shop",
    "risks": [
@@ -520,7 +527,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 3877.6499999999996,
+   "position_value": 3853.4999999999995,
    "thesis_needed": false
   },
   {
@@ -571,13 +578,14 @@
     67.0,
     67.0,
     67.0,
+    67.0,
     67.0
    ],
-   "price": 200.76,
+   "price": 185.28,
    "fair_low": 11.13896935825137,
    "fair_base": 13.515800132767517,
    "fair_high": 19.09373040899594,
-   "upside_pct": -93.26768273920726,
+   "upside_pct": -92.70520286443895,
    "last_impact": "strengthens",
    "last_memo": "Shopify just reported that its business-to-business sales volume \u2014 think brands selling wholesale to retailers or managing corporate buyer accounts \u2014 grew 76% in the most recent quarter. This matters because B2B commerce is stickier than regular consumer sales: once a business bu",
    "risks": [
@@ -595,7 +603,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8030.4,
+   "position_value": 7411.2,
    "thesis_needed": false
   },
   {
@@ -646,13 +654,14 @@
     66.0,
     66.0,
     66.0,
+    66.0,
     66.0
    ],
-   "price": 234.89,
+   "price": 232.765,
    "fair_low": 75.00733660346769,
    "fair_base": 288.55960253064944,
    "fair_high": 396.3485189888189,
-   "upside_pct": 22.84882393062688,
+   "upside_pct": 23.970357455222846,
    "last_impact": "neutral",
    "last_memo": "IBM announced a new mainframe computer built on cutting-edge 2nm chip technology. This is genuinely impressive engineering, but it mostly helps IBM keep the customers it already has \u2014 companies that run their most critical operations on IBM mainframes are not going to switch anyw",
    "risks": [
@@ -721,13 +730,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 152.67,
+   "price": 152.065,
    "fair_low": 136.75084586911478,
    "fair_base": 244.06212335589788,
    "fair_high": 291.7030003299072,
-   "upside_pct": 59.862529217199125,
+   "upside_pct": 60.498552169071054,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -740,7 +750,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 2290.0499999999997,
+   "position_value": 2280.975,
    "thesis_needed": true
   },
   {
@@ -791,13 +801,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 283.22,
+   "price": 283.47,
    "fair_low": 152.6314725975932,
    "fair_base": 441.1748921460508,
    "fair_high": 557.4933961752869,
-   "upside_pct": 55.77109390087238,
+   "upside_pct": 55.633715083095495,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -810,7 +821,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 9912.7,
+   "position_value": 9921.45,
    "thesis_needed": true
   },
   {
@@ -861,13 +872,14 @@
     63.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 78.25,
+   "price": 76.585,
    "fair_low": 19.91502912019202,
    "fair_base": 126.90103352742227,
    "fair_high": 180.82315427116296,
-   "upside_pct": 62.17384476347894,
+   "upside_pct": 65.69959329819453,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -931,13 +943,14 @@
     55.0,
     63.0,
     63.0,
+    63.0,
     63.0
    ],
-   "price": 75.76,
+   "price": 73.693,
    "fair_low": 20.129884707677242,
    "fair_base": 90.94081916022745,
    "fair_high": 120.94351547047137,
-   "upside_pct": 20.038040074217854,
+   "upside_pct": 23.404962696901265,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1001,13 +1014,14 @@
     65.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 174.33,
+   "price": 171.94,
    "fair_low": 8.040497535225128,
    "fair_base": 20.582035439741578,
    "fair_high": 25.664567046148527,
-   "upside_pct": -88.19363538132188,
+   "upside_pct": -88.02952457849157,
    "last_impact": "strengthens",
    "last_memo": "Palantir's consulting partner PwC decided to use Palantir's AI software more broadly, which is a good sign \u2014 it means PwC finds the product valuable enough to deepen its commitment rather than walk away. This is exactly the kind of customer behavior the investment thesis is built",
    "risks": [
@@ -1025,7 +1039,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 26149.500000000004,
+   "position_value": 25791.0,
    "thesis_needed": false
   },
   {
@@ -1076,13 +1090,14 @@
     55.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 82.0,
+   "price": 80.39,
    "fair_low": 46.45671896898705,
    "fair_base": 68.5439290486749,
    "fair_high": 85.74192116037001,
-   "upside_pct": -16.409842623567194,
+   "upside_pct": -14.735751898650463,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1095,7 +1110,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 8200.0,
+   "position_value": 8039.0,
    "thesis_needed": true
   },
   {
@@ -1146,13 +1161,14 @@
     55.0,
     55.0,
     55.0,
+    55.0,
     55.0
    ],
-   "price": 100.61,
+   "price": 100.81,
    "fair_low": 185.4182086417423,
    "fair_base": 452.61479614715864,
    "fair_high": 544.8988787761406,
-   "upside_pct": 349.87058557515024,
+   "upside_pct": 348.9780737497854,
    "last_impact": "weakens",
    "last_memo": "Lululemon just reported a quarter where sales in North America \u2014 its biggest and most profitable region \u2014 actually shrank compared to a year ago, while costs kept rising. That's a bad combination: you're making less money on the top line while spending more to run the business. T",
    "risks": [
@@ -1213,9 +1229,10 @@
     50.0,
     50.0,
     50.0,
+    50.0,
     50.0
    ],
-   "price": 29.78,
+   "price": 30.0,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1224,7 +1241,7 @@
    "last_memo": "",
    "risks": [],
    "catalysts": [],
-   "position_value": 1161.42,
+   "position_value": 1170.0,
    "thesis_needed": true
   },
   {
@@ -1277,13 +1294,14 @@
     43.0,
     43.0,
     43.0,
+    43.0,
     43.0
    ],
-   "price": 915.74,
+   "price": 908.7,
    "fair_low": 230.35662431756668,
    "fair_base": 634.8215571025505,
    "fair_high": 762.8201296865655,
-   "upside_pct": -30.67665963018428,
+   "upside_pct": -30.139588741878455,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1347,13 +1365,14 @@
     40.8,
     40.8,
     40.8,
+    40.8,
     40.8
    ],
-   "price": 139.44,
+   "price": 142.5,
    "fair_low": 16.960440723154207,
    "fair_base": 50.62500615912173,
    "fair_high": 61.67457025081336,
-   "upside_pct": -63.69405754509343,
+   "upside_pct": -64.47367988833564,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1417,9 +1436,10 @@
     40.0,
     40.0,
     40.0,
+    40.0,
     40.0
    ],
-   "price": 147.95,
+   "price": 149.58,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1487,13 +1507,14 @@
     28.9,
     34.9,
     34.9,
+    34.9,
     34.9
    ],
-   "price": 397.14,
+   "price": 394.66,
    "fair_low": 134.1071696713082,
    "fair_base": 207.6979230216282,
    "fair_high": 242.57120186391649,
-   "upside_pct": -47.70158558150067,
+   "upside_pct": -47.372948101751334,
    "last_impact": "weakens",
    "last_memo": "UnitedHealth is scrapping about a third of the pre-approval checks it requires before paying for medical procedures. These pre-approvals are how the company controls which treatments it pays for \u2014 removing them means more medical bills get paid without review, which likely means ",
    "risks": [
@@ -1511,7 +1532,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 6791.094,
+   "position_value": 6748.686000000001,
    "thesis_needed": false
   },
   {
@@ -1562,13 +1583,14 @@
     26.1,
     16.1,
     32.1,
+    32.1,
     32.1
    ],
-   "price": 354.08,
+   "price": 365.41,
    "fair_low": 15.452268642505791,
    "fair_base": 16.08681782130258,
    "fair_high": 16.415240390523092,
-   "upside_pct": -95.45672790857925,
+   "upside_pct": -95.59759781579524,
    "last_impact": "neutral",
    "last_memo": "Tesla just started giving actual public rides in its Cybercab \u2014 a car with no steering wheel \u2014 which is genuinely significant because the entire long-term investment case assumes Tesla eventually runs a profitable robotaxi network. That's the first concrete proof it can work in t",
    "risks": [
@@ -1639,13 +1661,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 319.97,
+   "price": 316.04,
    "fair_low": 71.92111971979769,
    "fair_base": 72.43517666278456,
    "fair_high": 73.59059333079705,
-   "upside_pct": -77.36188496959574,
+   "upside_pct": -77.08037695773176,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1709,13 +1732,14 @@
     28.0,
     28.0,
     28.0,
+    28.0,
     28.0
    ],
-   "price": 38.4,
+   "price": 38.155,
    "fair_low": 22.1695930751286,
    "fair_base": 24.216174322303154,
    "fair_high": 25.288012327182614,
-   "upside_pct": -36.937046035668864,
+   "upside_pct": -36.53210766006249,
    "last_impact": "neutral",
    "last_memo": "",
    "risks": [],
@@ -1786,9 +1810,10 @@
     24.2,
     24.2,
     24.2,
+    24.2,
     24.2
    ],
-   "price": 39.52,
+   "price": 43.0499,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1856,9 +1881,10 @@
     20.3,
     20.3,
     20.3,
+    20.3,
     20.3
    ],
-   "price": 16.58,
+   "price": 18.165,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -1926,9 +1952,10 @@
     17.0,
     13.0,
     13.0,
+    13.0,
     13.0
    ],
-   "price": 62.31,
+   "price": 66.75,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -2001,9 +2028,10 @@
     11.4,
     11.4,
     11.4,
+    11.4,
     11.4
    ],
-   "price": 36.43,
+   "price": 37.9,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -2071,9 +2099,10 @@
     9.6,
     9.6,
     9.6,
+    9.6,
     9.6
    ],
-   "price": 15.2,
+   "price": 16.295,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -2141,9 +2170,10 @@
     5.0,
     5.0,
     5.0,
+    5.0,
     5.0
    ],
-   "price": 5.15,
+   "price": 5.645,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
@@ -2160,7 +2190,7 @@
      "source": "yfinance"
     }
    ],
-   "position_value": 515.0,
+   "position_value": 564.5,
    "thesis_needed": true
   },
   {
@@ -2211,9 +2241,10 @@
     10.2,
     10.2,
     10.2,
+    5.0,
     5.0
    ],
-   "price": 44.68,
+   "price": 48.4,
    "fair_low": null,
    "fair_base": null,
    "fair_high": null,
