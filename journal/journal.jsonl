@@ -374,3 +374,4 @@
 {"ts": "2026-09-08T15:19:01+00:00", "kind": "alert", "symbol": "IREN", "summary": "Price moved +8.3% without an identified material driver", "price": 48.4}
 {"ts": "2026-09-08T15:19:03+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved +7.1% without an identified material driver", "price": 66.75}
 {"ts": "2026-09-09T15:17:08+00:00", "kind": "alert", "symbol": "META", "summary": "Price moved +6.8% without an identified material driver", "price": 655.315}
+{"ts": "2026-09-11T15:12:11+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved -7.1% without an identified material driver", "price": 4.885}
