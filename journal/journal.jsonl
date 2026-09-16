@@ -378,3 +378,5 @@
 {"ts": "2026-09-14T17:03:31+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved -6.8% without an identified material driver", "price": 4.42}
 {"ts": "2026-09-14T17:04:04+00:00", "kind": "alert", "symbol": "CSU.TO", "summary": "Price moved +6.0% without an identified material driver", "price": 2997.745}
 {"ts": "2026-09-15T15:41:30+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved -5.4% without an identified material driver", "price": 4.235}
+{"ts": "2026-09-16T15:32:50+00:00", "kind": "alert", "symbol": "ATD.TO", "summary": "Fair value moved down 11%", "price": 79.58}
+{"ts": "2026-09-16T15:32:57+00:00", "kind": "alert", "symbol": "SPCX", "summary": "Price moved +5.6% without an identified material driver", "price": 151.5401}
