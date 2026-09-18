@@ -385,3 +385,7 @@
 {"ts": "2026-09-17T15:39:47+00:00", "kind": "alert", "symbol": "IONQ", "summary": "Price moved +8.9% without an identified material driver", "price": 40.115}
 {"ts": "2026-09-17T15:39:50+00:00", "kind": "alert", "symbol": "RGTI", "summary": "Price moved +8.2% without an identified material driver", "price": 16.0101}
 {"ts": "2026-09-17T15:39:54+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved +5.3% without an identified material driver", "price": 62.44}
+{"ts": "2026-09-18T15:09:09+00:00", "kind": "alert", "symbol": "QBTS", "summary": "Price moved -6.2% without an identified material driver", "price": 16.59}
+{"ts": "2026-09-18T15:09:13+00:00", "kind": "alert", "symbol": "IONQ", "summary": "Price moved -5.6% without an identified material driver", "price": 38.095}
+{"ts": "2026-09-18T15:09:16+00:00", "kind": "alert", "symbol": "RGTI", "summary": "Price moved -5.1% without an identified material driver", "price": 15.175}
+{"ts": "2026-09-18T15:09:22+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved -6.4% without an identified material driver", "price": 58.68}
