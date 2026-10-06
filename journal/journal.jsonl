@@ -399,3 +399,6 @@
 {"ts": "2026-10-02T16:49:49+00:00", "kind": "alert", "symbol": "SPCX", "summary": "Price moved +6.2% without an identified material driver", "price": 157.28}
 {"ts": "2026-10-05T19:44:57+00:00", "kind": "alert", "symbol": "SHOP.TO", "summary": "Price moved +5.8% without an identified material driver", "price": 228.33}
 {"ts": "2026-10-05T19:45:01+00:00", "kind": "alert", "symbol": "SPCX", "summary": "Price moved +6.8% without an identified material driver", "price": 169.7}
+{"ts": "2026-10-06T17:25:06+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved +7.3% without an identified material driver", "price": 4.025}
+{"ts": "2026-10-06T17:25:33+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved +6.4% without an identified material driver", "price": 62.1788}
+{"ts": "2026-10-06T17:25:34+00:00", "kind": "alert", "symbol": "CCO.TO", "summary": "Price moved +7.3% without an identified material driver", "price": 133.89}
