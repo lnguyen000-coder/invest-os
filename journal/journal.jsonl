@@ -402,3 +402,8 @@
 {"ts": "2026-10-06T17:25:06+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved +7.3% without an identified material driver", "price": 4.025}
 {"ts": "2026-10-06T17:25:33+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved +6.4% without an identified material driver", "price": 62.1788}
 {"ts": "2026-10-06T17:25:34+00:00", "kind": "alert", "symbol": "CCO.TO", "summary": "Price moved +7.3% without an identified material driver", "price": 133.89}
+{"ts": "2026-10-07T17:58:08+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved -7.6% without an identified material driver", "price": 3.6299}
+{"ts": "2026-10-07T17:58:13+00:00", "kind": "alert", "symbol": "OUST", "summary": "Price moved -7.8% without an identified material driver", "price": 41.41}
+{"ts": "2026-10-07T17:58:18+00:00", "kind": "alert", "symbol": "IONQ", "summary": "Price moved -5.4% without an identified material driver", "price": 40.945}
+{"ts": "2026-10-07T17:58:29+00:00", "kind": "alert", "symbol": "IREN", "summary": "Price moved -6.5% without an identified material driver", "price": 38.5798}
+{"ts": "2026-10-07T17:58:31+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved -6.6% without an identified material driver", "price": 58.97}
