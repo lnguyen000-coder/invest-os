@@ -422,3 +422,11 @@
 {"ts": "2026-10-12T20:26:03+00:00", "kind": "alert", "symbol": "RGTI", "summary": "Price moved -5.6% without an identified material driver", "price": 13.25}
 {"ts": "2026-10-13T18:31:00+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved +5.6% without an identified material driver", "price": 3.125}
 {"ts": "2026-10-13T18:31:38+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved -7.8% without an identified material driver", "price": 47.47}
+{"ts": "2026-10-14T15:58:05+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved -5.3% without an identified material driver", "price": 2.945}
+{"ts": "2026-10-14T15:58:08+00:00", "kind": "alert", "symbol": "AEM.TO", "summary": "Price moved -5.1% without an identified material driver", "price": 250.63}
+{"ts": "2026-10-14T15:58:11+00:00", "kind": "alert", "symbol": "OUST", "summary": "Price moved -6.4% without an identified material driver", "price": 33.06}
+{"ts": "2026-10-14T15:58:13+00:00", "kind": "alert", "symbol": "QBTS", "summary": "Price moved -7.0% without an identified material driver", "price": 12.44}
+{"ts": "2026-10-14T15:58:16+00:00", "kind": "alert", "symbol": "IONQ", "summary": "Price moved -8.8% without an identified material driver", "price": 31.665}
+{"ts": "2026-10-14T15:58:23+00:00", "kind": "alert", "symbol": "RGTI", "summary": "Price moved -7.0% without an identified material driver", "price": 11.89}
+{"ts": "2026-10-14T15:58:29+00:00", "kind": "alert", "symbol": "IREN", "summary": "Price moved -9.9% without an identified material driver", "price": 31.355}
+{"ts": "2026-10-14T15:58:31+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved -8.4% without an identified material driver", "price": 43.09}
