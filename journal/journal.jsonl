@@ -430,3 +430,6 @@
 {"ts": "2026-10-14T15:58:23+00:00", "kind": "alert", "symbol": "RGTI", "summary": "Price moved -7.0% without an identified material driver", "price": 11.89}
 {"ts": "2026-10-14T15:58:29+00:00", "kind": "alert", "symbol": "IREN", "summary": "Price moved -9.9% without an identified material driver", "price": 31.355}
 {"ts": "2026-10-14T15:58:31+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved -8.4% without an identified material driver", "price": 43.09}
+{"ts": "2026-10-15T15:44:22+00:00", "kind": "alert", "symbol": "IREN", "summary": "Price moved -8.9% without an identified material driver", "price": 27.855}
+{"ts": "2026-10-15T15:44:30+00:00", "kind": "alert", "symbol": "LULU", "summary": "Price moved +5.3% without an identified material driver", "price": 99.035}
+{"ts": "2026-10-15T15:44:33+00:00", "kind": "alert", "symbol": "NKE", "summary": "Price moved +5.6% without an identified material driver", "price": 37.2601}
