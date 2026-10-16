@@ -433,3 +433,8 @@
 {"ts": "2026-10-15T15:44:22+00:00", "kind": "alert", "symbol": "IREN", "summary": "Price moved -8.9% without an identified material driver", "price": 27.855}
 {"ts": "2026-10-15T15:44:30+00:00", "kind": "alert", "symbol": "LULU", "summary": "Price moved +5.3% without an identified material driver", "price": 99.035}
 {"ts": "2026-10-15T15:44:33+00:00", "kind": "alert", "symbol": "NKE", "summary": "Price moved +5.6% without an identified material driver", "price": 37.2601}
+{"ts": "2026-10-16T15:32:51+00:00", "kind": "alert", "symbol": "PLTR", "summary": "Price moved -6.2% without an identified material driver", "price": 188.12}
+{"ts": "2026-10-16T15:33:06+00:00", "kind": "alert", "symbol": "OUST", "summary": "Price moved -5.7% without an identified material driver", "price": 29.535}
+{"ts": "2026-10-16T15:33:08+00:00", "kind": "alert", "symbol": "QBTS", "summary": "Price moved -5.5% without an identified material driver", "price": 12.105}
+{"ts": "2026-10-16T15:33:10+00:00", "kind": "alert", "symbol": "IONQ", "summary": "Price moved -6.2% without an identified material driver", "price": 32.21}
+{"ts": "2026-10-16T15:33:19+00:00", "kind": "alert", "symbol": "IREN", "summary": "Price moved -7.8% without an identified material driver", "price": 28.0313}
