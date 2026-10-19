@@ -438,3 +438,6 @@
 {"ts": "2026-10-16T15:33:08+00:00", "kind": "alert", "symbol": "QBTS", "summary": "Price moved -5.5% without an identified material driver", "price": 12.105}
 {"ts": "2026-10-16T15:33:10+00:00", "kind": "alert", "symbol": "IONQ", "summary": "Price moved -6.2% without an identified material driver", "price": 32.21}
 {"ts": "2026-10-16T15:33:19+00:00", "kind": "alert", "symbol": "IREN", "summary": "Price moved -7.8% without an identified material driver", "price": 28.0313}
+{"ts": "2026-10-19T17:46:23+00:00", "kind": "alert", "symbol": "PLTR", "summary": "Price moved +5.3% without an identified material driver", "price": 195.96}
+{"ts": "2026-10-19T17:46:35+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved -5.4% without an identified material driver", "price": 2.885}
+{"ts": "2026-10-19T17:46:54+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved +5.3% without an identified material driver", "price": 42.825}
