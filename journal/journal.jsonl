@@ -441,3 +441,5 @@
 {"ts": "2026-10-19T17:46:23+00:00", "kind": "alert", "symbol": "PLTR", "summary": "Price moved +5.3% without an identified material driver", "price": 195.96}
 {"ts": "2026-10-19T17:46:35+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved -5.4% without an identified material driver", "price": 2.885}
 {"ts": "2026-10-19T17:46:54+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved +5.3% without an identified material driver", "price": 42.825}
+{"ts": "2026-10-21T16:06:31+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved +6.9% without an identified material driver", "price": 2.9939}
+{"ts": "2026-10-21T16:06:40+00:00", "kind": "alert", "symbol": "SPCX", "summary": "Price moved +10.4% without an identified material driver", "price": 163.21}
