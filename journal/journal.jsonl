@@ -508,3 +508,10 @@
 {"ts": "2026-11-05T18:58:39+00:00", "kind": "alert", "symbol": "CCO.TO", "summary": "Price moved -5.3% without an identified material driver", "price": 94.795}
 {"ts": "2026-11-05T18:58:41+00:00", "kind": "alert", "symbol": "TSLA", "summary": "Price moved -11.4% without an identified material driver", "price": 341.11}
 {"ts": "2026-11-05T18:58:46+00:00", "kind": "alert", "symbol": "NVDA", "summary": "Price moved -8.5% without an identified material driver", "price": 183.14}
+{"ts": "2026-11-06T18:27:20+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved +6.6% without an identified material driver", "price": 2.735}
+{"ts": "2026-11-06T18:27:26+00:00", "kind": "alert", "symbol": "OUST", "summary": "Price moved +7.2% without an identified material driver", "price": 32.705}
+{"ts": "2026-11-06T18:27:28+00:00", "kind": "alert", "symbol": "QBTS", "summary": "Price moved +15.5% without an identified material driver", "price": 10.455}
+{"ts": "2026-11-06T18:27:29+00:00", "kind": "alert", "symbol": "SPCX", "summary": "Price moved +6.7% without an identified material driver", "price": 131.925}
+{"ts": "2026-11-06T18:27:31+00:00", "kind": "alert", "symbol": "IONQ", "summary": "Price moved +16.7% without an identified material driver", "price": 30.85}
+{"ts": "2026-11-06T18:27:39+00:00", "kind": "alert", "symbol": "RGTI", "summary": "Price moved +16.0% without an identified material driver", "price": 11.4217}
+{"ts": "2026-11-06T18:27:42+00:00", "kind": "alert", "symbol": "IREN", "summary": "Price moved +15.6% without an identified material driver", "price": 20.84}
