@@ -515,3 +515,14 @@
 {"ts": "2026-11-06T18:27:31+00:00", "kind": "alert", "symbol": "IONQ", "summary": "Price moved +16.7% without an identified material driver", "price": 30.85}
 {"ts": "2026-11-06T18:27:39+00:00", "kind": "alert", "symbol": "RGTI", "summary": "Price moved +16.0% without an identified material driver", "price": 11.4217}
 {"ts": "2026-11-06T18:27:42+00:00", "kind": "alert", "symbol": "IREN", "summary": "Price moved +15.6% without an identified material driver", "price": 20.84}
+{"ts": "2026-11-09T21:38:09+00:00", "kind": "alert", "symbol": "PLTR", "summary": "Price moved +5.5% without an identified material driver", "price": 169.2}
+{"ts": "2026-11-09T21:38:12+00:00", "kind": "alert", "symbol": "META", "summary": "Price moved +5.1% without an identified material driver", "price": 641.37}
+{"ts": "2026-11-09T21:38:17+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved +5.6% without an identified material driver", "price": 3.0}
+{"ts": "2026-11-09T21:38:21+00:00", "kind": "alert", "symbol": "OUST", "summary": "Price moved +10.8% without an identified material driver", "price": 38.57}
+{"ts": "2026-11-09T21:38:23+00:00", "kind": "alert", "symbol": "QBTS", "summary": "Price moved +7.4% without an identified material driver", "price": 11.47}
+{"ts": "2026-11-09T21:38:24+00:00", "kind": "alert", "symbol": "SPCX", "summary": "Price moved +5.8% without an identified material driver", "price": 142.07}
+{"ts": "2026-11-09T21:38:25+00:00", "kind": "alert", "symbol": "IONQ", "summary": "Price moved +8.3% without an identified material driver", "price": 35.34}
+{"ts": "2026-11-09T21:38:31+00:00", "kind": "alert", "symbol": "RGTI", "summary": "Price moved +10.5% without an identified material driver", "price": 12.98}
+{"ts": "2026-11-09T21:38:34+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved +14.1% without an identified material driver", "price": 36.89}
+{"ts": "2026-11-09T21:38:35+00:00", "kind": "alert", "symbol": "CCO.TO", "summary": "Price moved +5.6% without an identified material driver", "price": 106.33}
+{"ts": "2026-11-09T21:38:37+00:00", "kind": "alert", "symbol": "TSLA", "summary": "Price moved +5.5% without an identified material driver", "price": 378.05}
