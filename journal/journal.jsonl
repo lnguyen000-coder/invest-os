@@ -562,3 +562,5 @@
 {"ts": "2026-11-18T19:35:37+00:00", "kind": "alert", "symbol": "IONQ", "summary": "Price moved -5.2% without an identified material driver", "price": 23.555}
 {"ts": "2026-11-18T19:35:45+00:00", "kind": "alert", "symbol": "ASTS", "summary": "Price moved -6.2% without an identified material driver", "price": 25.89}
 {"ts": "2026-11-18T19:35:50+00:00", "kind": "alert", "symbol": "LULU", "summary": "Price moved +6.0% without an identified material driver", "price": 110.39}
+{"ts": "2026-11-19T19:37:46+00:00", "kind": "alert", "symbol": "IMSR", "summary": "Price moved -5.6% without an identified material driver", "price": 2.255}
+{"ts": "2026-11-19T19:38:14+00:00", "kind": "alert", "symbol": "NKE", "summary": "Price moved -5.3% without an identified material driver", "price": 34.39}
